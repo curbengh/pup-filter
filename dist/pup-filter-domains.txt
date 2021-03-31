@@ -1,5 +1,5 @@
 # Title: PUP Domains Blocklist
-# Updated: Wed, 31 Mar 2021 10:44:46 +0000
+# Updated: Wed, 31 Mar 2021 11:06:18 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -119,8 +119,8 @@ gladvideo.surf
 gladvideo.website
 globalvideo.fun
 globalvideo.store
-govpshosting.com
 go-x34n7wbcoes-ok.live
+govpshosting.com
 graburprize.net
 grandcasinoprize.info
 greatplaceofstubs.work
@@ -154,8 +154,8 @@ healthupper.club
 healthvenue.club
 healthvibe.live
 healthwella.club
-healthyideal.club
 healthy-lifestyle.club
+healthyideal.club
 healthyparker.info
 healthysure.info
 idtheft-alert.xyz
@@ -182,8 +182,8 @@ legendarysiteupgrading.work
 legendaryvideoupgrade.info
 legendaryvideoupgrades.info
 legendaryvideoupgrading.info
-lifecaregoal.info
 life-esteem.info
+lifecaregoal.info
 lightstop.xyz
 livehealthcare.today
 livelyyroad.xyz
@@ -214,8 +214,8 @@ mindmatch.ai
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
-newsitedowloads.site
 news-new19.net
+newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
 nutrinamic.info
@@ -291,8 +291,8 @@ primecare.today
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
-readyhealthgo.today
 readyhealth.info
+readyhealthgo.today
 recontent.casa
 recontent.cyou
 recontent.fun
@@ -334,16 +334,16 @@ safest4placeupdate.info
 safest4placeupdates.info
 scheduleagreement.xyz
 score-monitoring.xyz
-searchfeed.co
 search-tool.net
 search-trends.co
-sec-alerts.xyz
+searchfeed.co
 sec-alert.xyz
+sec-alerts.xyz
 sec-monitoring.xyz
 second-handjam.xyz
 security-made-easy.xyz
-security-protection.xyz
 security-pro.xyz
+security-protection.xyz
 seemlast.monster
 selfradiance.info
 shkshk.site
@@ -435,12 +435,12 @@ updaterecent-thegreatlyfile.best
 upmakesite.xyz
 upplayglobal.xyz
 vexearth.xyz
-viralarticles.net
 viral-surveys.win
+viralarticles.net
 vital-health.club
 vitalrole.info
-vpnadefenceplus.com
 vpn-pro.info
+vpnadefenceplus.com
 vpntool.me
 website4all.info
 websiteforall.work

@@ -1,5 +1,5 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
-! Updated: Wed, 31 Mar 2021 10:44:46 +0000
+! Updated: Wed, 31 Mar 2021 11:06:18 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -119,8 +119,8 @@
 ||gladvideo.website$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
-||govpshosting.com$document
 ||go-x34n7wbcoes-ok.live$document
+||govpshosting.com$document
 ||graburprize.net$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
@@ -154,8 +154,8 @@
 ||healthvenue.club$document
 ||healthvibe.live$document
 ||healthwella.club$document
-||healthyideal.club$document
 ||healthy-lifestyle.club$document
+||healthyideal.club$document
 ||healthyparker.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
@@ -182,8 +182,8 @@
 ||legendaryvideoupgrade.info$document
 ||legendaryvideoupgrades.info$document
 ||legendaryvideoupgrading.info$document
-||lifecaregoal.info$document
 ||life-esteem.info$document
+||lifecaregoal.info$document
 ||lightstop.xyz$document
 ||livehealthcare.today$document
 ||livelyyroad.xyz$document
@@ -214,8 +214,8 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
-||newsitedowloads.site$document
 ||news-new19.net$document
+||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
 ||nutrinamic.info$document
@@ -291,8 +291,8 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
-||readyhealthgo.today$document
 ||readyhealth.info$document
+||readyhealthgo.today$document
 ||recontent.casa$document
 ||recontent.cyou$document
 ||recontent.fun$document
@@ -334,16 +334,16 @@
 ||safest4placeupdates.info$document
 ||scheduleagreement.xyz$document
 ||score-monitoring.xyz$document
-||searchfeed.co$document
 ||search-tool.net$document
 ||search-trends.co$document
-||sec-alerts.xyz$document
+||searchfeed.co$document
 ||sec-alert.xyz$document
+||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
 ||security-made-easy.xyz$document
-||security-protection.xyz$document
 ||security-pro.xyz$document
+||security-protection.xyz$document
 ||seemlast.monster$document
 ||selfradiance.info$document
 ||shkshk.site$document
@@ -435,12 +435,12 @@
 ||upmakesite.xyz$document
 ||upplayglobal.xyz$document
 ||vexearth.xyz$document
-||viralarticles.net$document
 ||viral-surveys.win$document
+||viralarticles.net$document
 ||vital-health.club$document
 ||vitalrole.info$document
-||vpnadefenceplus.com$document
 ||vpn-pro.info$document
+||vpnadefenceplus.com$document
 ||vpntool.me$document
 ||website4all.info$document
 ||websiteforall.work$document

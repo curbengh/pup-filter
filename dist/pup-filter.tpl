@@ -1,6 +1,6 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
-# Updated: Wed, 31 Mar 2021 10:44:46 +0000
+# Updated: Wed, 31 Mar 2021 11:06:18 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license

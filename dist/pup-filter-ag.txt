@@ -1,5 +1,5 @@
 ! Title: PUP Domains Blocklist (AdGuard)
-! Updated: Wed, 31 Mar 2021 10:44:46 +0000
+! Updated: Wed, 31 Mar 2021 11:06:18 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -119,8 +119,8 @@
 ||gladvideo.website$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
-||govpshosting.com$all
 ||go-x34n7wbcoes-ok.live$all
+||govpshosting.com$all
 ||graburprize.net$all
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
@@ -154,8 +154,8 @@
 ||healthvenue.club$all
 ||healthvibe.live$all
 ||healthwella.club$all
-||healthyideal.club$all
 ||healthy-lifestyle.club$all
+||healthyideal.club$all
 ||healthyparker.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
@@ -182,8 +182,8 @@
 ||legendaryvideoupgrade.info$all
 ||legendaryvideoupgrades.info$all
 ||legendaryvideoupgrading.info$all
-||lifecaregoal.info$all
 ||life-esteem.info$all
+||lifecaregoal.info$all
 ||lightstop.xyz$all
 ||livehealthcare.today$all
 ||livelyyroad.xyz$all
@@ -214,8 +214,8 @@
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||multitax.xyz$all
-||newsitedowloads.site$all
 ||news-new19.net$all
+||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nosyknot.xyz$all
 ||nutrinamic.info$all
@@ -291,8 +291,8 @@
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
-||readyhealthgo.today$all
 ||readyhealth.info$all
+||readyhealthgo.today$all
 ||recontent.casa$all
 ||recontent.cyou$all
 ||recontent.fun$all
@@ -334,16 +334,16 @@
 ||safest4placeupdates.info$all
 ||scheduleagreement.xyz$all
 ||score-monitoring.xyz$all
-||searchfeed.co$all
 ||search-tool.net$all
 ||search-trends.co$all
-||sec-alerts.xyz$all
+||searchfeed.co$all
 ||sec-alert.xyz$all
+||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
 ||second-handjam.xyz$all
 ||security-made-easy.xyz$all
-||security-protection.xyz$all
 ||security-pro.xyz$all
+||security-protection.xyz$all
 ||seemlast.monster$all
 ||selfradiance.info$all
 ||shkshk.site$all
@@ -435,12 +435,12 @@
 ||upmakesite.xyz$all
 ||upplayglobal.xyz$all
 ||vexearth.xyz$all
-||viralarticles.net$all
 ||viral-surveys.win$all
+||viralarticles.net$all
 ||vital-health.club$all
 ||vitalrole.info$all
-||vpnadefenceplus.com$all
 ||vpn-pro.info$all
+||vpnadefenceplus.com$all
 ||vpntool.me$all
 ||website4all.info$all
 ||websiteforall.work$all
