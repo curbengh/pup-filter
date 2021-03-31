@@ -8,9 +8,9 @@ mkdir -p "tmp/"
 cd "tmp/"
 
 ## Prepare datasets
-# curl -L "https://zhouhanc.github.io/malware-discoverer/blocklist.csv.zip" -o "source.zip"
-# curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
-# curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+curl -L "https://zhouhanc.github.io/malware-discoverer/blocklist.csv.zip" -o "source.zip"
+curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
+curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 
 ## Parse URLs
@@ -183,7 +183,7 @@ sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../dist/pup-filter.tpl"
 
 
 ## Clean up artifacts
-# rm "source.zip" "source-domains.txt" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
+rm "source.zip" "source-domains.txt" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
 
 
 cd ../
