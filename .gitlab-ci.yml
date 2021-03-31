@@ -35,7 +35,7 @@ build_job:
 
     - ssh -T git@gitlab.com
     - git remote set-url origin git@gitlab.com:curben/pup-filter.git
-    # - git push origin main
+    - git push origin main
 
   rules:
     # Only trigger through schedule job and "Run pipeline" in main branch
