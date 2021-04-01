@@ -20,7 +20,7 @@ There are multiple formats available, refer to the appropriate section according
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page.
 
-Use [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter) to block malware websites; [phishing-filter](https://gitlab.com/curben/urlhaus-filter) to block phishing websites.
+Use [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter) to block malware websites; [phishing-filter](https://gitlab.com/curben/phishing-filter) to block phishing websites.
 
 ## URL-based
 
