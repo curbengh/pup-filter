@@ -138,6 +138,15 @@ sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../dist/pup-filter-unbound.conf"
 
 
+## IE blocklist
+COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
+
+cat "pup-notop-domains.txt" | \
+sed "s/^/-d /g" | \
+sed '1 i\'"$COMMENT_IE"'' | \
+sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../dist/pup-filter.tpl"
+
+
 set +x
 
 ## Snort & Suricata rulesets
@@ -171,15 +180,6 @@ sed -i "1s/Blocklist/Snort3 Ruleset/" "../dist/pup-filter-snort3.rules"
 
 sed -i '1 i\'"$COMMENT"'' "../dist/pup-filter-suricata.rules"
 sed -i "1s/Blocklist/Suricata Ruleset/" "../dist/pup-filter-suricata.rules"
-
-
-## IE blocklist
-COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
-
-cat "pup-notop-domains.txt" | \
-sed "s/^/-d /g" | \
-sed '1 i\'"$COMMENT_IE"'' | \
-sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../dist/pup-filter.tpl"
 
 
 ## Clean up artifacts
