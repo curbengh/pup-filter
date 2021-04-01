@@ -1,5 +1,5 @@
 ! Title: PUP Domains Blocklist (AdGuard)
-! Updated: Wed, 31 Mar 2021 11:06:18 UTC
+! Updated: Thu, 01 Apr 2021 12:07:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
+||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
@@ -20,7 +21,6 @@
 ||asufij.xyz$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
-||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
@@ -36,6 +36,7 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||browsercheck.site$all
+||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
 ||carebility.info$all
@@ -47,6 +48,7 @@
 ||collectrewards.net$all
 ||comphp.xyz$all
 ||conceivecolor.xyz$all
+||conflaqpzc.info$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
@@ -54,6 +56,7 @@
 ||cryptotradingcourses.net$all
 ||cryptounlimited.info$all
 ||cs-alerts.xyz$all
+||cselfconnect.com$all
 ||curesector.today$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
@@ -119,9 +122,9 @@
 ||gladvideo.website$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
-||go-x34n7wbcoes-ok.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
+||gramp.xyz$all
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
 ||greatsearch.xyz$all
@@ -164,7 +167,6 @@
 ||instablog.club$all
 ||insuredhealth.info$all
 ||iosrecommendedvpn.com$all
-||iosvpnsecure.com$all
 ||izipik.com$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
@@ -188,7 +190,6 @@
 ||livehealthcare.today$all
 ||livelyyroad.xyz$all
 ||livingmighty.club$all
-||loadfree-bestheavilyfile.best$all
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadheavily-bestfreefile.best$all
@@ -211,6 +212,7 @@
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
 ||mindmatch.ai$all
+||mistraffic.me$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||multitax.xyz$all
@@ -296,6 +298,7 @@
 ||recontent.casa$all
 ||recontent.cyou$all
 ||recontent.fun$all
+||recontent.site$all
 ||recontent.space$all
 ||recontent.surf$all
 ||recontent.website$all
@@ -307,6 +310,7 @@
 ||renewvideo.site$all
 ||renewvideo.website$all
 ||resignation.top$all
+||rewards4claim.net$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
 ||rootessential.info$all
@@ -376,6 +380,7 @@
 ||sugar-legal-about13.fun$all
 ||superiorcare.info$all
 ||survey-club.club$all
+||survey-review.club$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all
 ||syncgreatly-bestrenewedfile.best$all
@@ -394,6 +399,7 @@
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
+||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
@@ -418,6 +424,7 @@
 ||toovolution.club$all
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
+||trafficgate.cc$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||uclaimrewards.net$all

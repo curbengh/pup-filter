@@ -1,6 +1,6 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
-# Updated: Wed, 31 Mar 2021 11:06:18 UTC
+# Updated: Thu, 01 Apr 2021 12:07:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
@@ -23,7 +24,6 @@ msFilterList
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
--d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
@@ -39,6 +39,7 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d browsercheck.site
+-d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
 -d carebility.info
@@ -50,6 +51,7 @@ msFilterList
 -d collectrewards.net
 -d comphp.xyz
 -d conceivecolor.xyz
+-d conflaqpzc.info
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -57,6 +59,7 @@ msFilterList
 -d cryptotradingcourses.net
 -d cryptounlimited.info
 -d cs-alerts.xyz
+-d cselfconnect.com
 -d curesector.today
 -d degreenm.top
 -d delightcmain.xyz
@@ -122,9 +125,9 @@ msFilterList
 -d gladvideo.website
 -d globalvideo.fun
 -d globalvideo.store
--d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
+-d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d greatsearch.xyz
@@ -167,7 +170,6 @@ msFilterList
 -d instablog.club
 -d insuredhealth.info
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d izipik.com
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
@@ -191,7 +193,6 @@ msFilterList
 -d livehealthcare.today
 -d livelyyroad.xyz
 -d livingmighty.club
--d loadfree-bestheavilyfile.best
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadheavily-bestfreefile.best
@@ -214,6 +215,7 @@ msFilterList
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
 -d mindmatch.ai
+-d mistraffic.me
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d multitax.xyz
@@ -299,6 +301,7 @@ msFilterList
 -d recontent.casa
 -d recontent.cyou
 -d recontent.fun
+-d recontent.site
 -d recontent.space
 -d recontent.surf
 -d recontent.website
@@ -310,6 +313,7 @@ msFilterList
 -d renewvideo.site
 -d renewvideo.website
 -d resignation.top
+-d rewards4claim.net
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -379,6 +383,7 @@ msFilterList
 -d sugar-legal-about13.fun
 -d superiorcare.info
 -d survey-club.club
+-d survey-review.club
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
 -d syncgreatly-bestrenewedfile.best
@@ -397,6 +402,7 @@ msFilterList
 -d syncrenewed-bestcompletelyfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -421,6 +427,7 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
+-d trafficgate.cc
 -d trktraf.club
 -d trkvpn.xyz
 -d uclaimrewards.net

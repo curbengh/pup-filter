@@ -1,5 +1,5 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
-! Updated: Wed, 31 Mar 2021 11:06:18 UTC
+! Updated: Thu, 01 Apr 2021 12:07:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
@@ -20,7 +21,6 @@
 ||asufij.xyz$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
-||bestappland.me$document
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
@@ -36,6 +36,7 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||browsercheck.site$document
+||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
 ||carebility.info$document
@@ -47,6 +48,7 @@
 ||collectrewards.net$document
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
+||conflaqpzc.info$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
@@ -54,6 +56,7 @@
 ||cryptotradingcourses.net$document
 ||cryptounlimited.info$document
 ||cs-alerts.xyz$document
+||cselfconnect.com$document
 ||curesector.today$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
@@ -119,9 +122,9 @@
 ||gladvideo.website$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
-||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
+||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
 ||greatsearch.xyz$document
@@ -164,7 +167,6 @@
 ||instablog.club$document
 ||insuredhealth.info$document
 ||iosrecommendedvpn.com$document
-||iosvpnsecure.com$document
 ||izipik.com$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
@@ -188,7 +190,6 @@
 ||livehealthcare.today$document
 ||livelyyroad.xyz$document
 ||livingmighty.club$document
-||loadfree-bestheavilyfile.best$document
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
 ||loadheavily-bestfreefile.best$document
@@ -211,6 +212,7 @@
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
 ||mindmatch.ai$document
+||mistraffic.me$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
@@ -296,6 +298,7 @@
 ||recontent.casa$document
 ||recontent.cyou$document
 ||recontent.fun$document
+||recontent.site$document
 ||recontent.space$document
 ||recontent.surf$document
 ||recontent.website$document
@@ -307,6 +310,7 @@
 ||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
+||rewards4claim.net$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
@@ -376,6 +380,7 @@
 ||sugar-legal-about13.fun$document
 ||superiorcare.info$document
 ||survey-club.club$document
+||survey-review.club$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
 ||syncgreatly-bestrenewedfile.best$document
@@ -394,6 +399,7 @@
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
+||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
@@ -418,6 +424,7 @@
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
+||trafficgate.cc$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||uclaimrewards.net$document
