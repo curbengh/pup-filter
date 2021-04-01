@@ -11,7 +11,7 @@ There are multiple formats available, refer to the appropriate section according
 - Vivaldi -> [URL-based (Vivaldi)](#url-based-vivaldi)
 - [Hosts](#hosts-based)
 - [Dnsmasq](#dnsmasq)
-- [BIND](#bind)
+- BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
 - [Unbound](#unbound)
 - Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
 - [Snort2](#snort2)
@@ -215,6 +215,24 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 - https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-bind.conf
 - https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-bind.conf
 - https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-bind.conf
+
+</details>
+
+## Response Policy Zone
+
+This blocklist includes domains only.
+
+- https://curben.gitlab.io/malware-filter/pup-filter-rpz.conf
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-rpz.conf
+- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-rpz.conf
+- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
+- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
+- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
+- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-rpz.conf
 
 </details>
 
