@@ -107,8 +107,6 @@ sed '1 i\'"$COMMENT"'' > "../dist/pup-filter-domains.txt"
 
 ## Hosts file blocklist
 cat "pup-notop-domains.txt" | \
-# Remove IPv4 address
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
 sed "s/^/0.0.0.0 /g" | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Domains/Hosts/" > "../dist/pup-filter-hosts.txt"
