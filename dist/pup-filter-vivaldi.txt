@@ -1,9 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
-! Updated: Fri, 02 Apr 2021 00:07:31 UTC
+! Description: Block domains that host potentially unwanted programs (PUP)
+! Updated: Fri, 02 Apr 2021 12:08:00 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||20patogh.com$document
 ||321movies.xyz$document
 ||4uabs.club$document
@@ -15,7 +17,6 @@
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -40,6 +41,7 @@
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
+||care-connection.info$document
 ||carebility.info$document
 ||carevision.info$document
 ||celebseven.com$document
@@ -49,7 +51,6 @@
 ||collectrewards.net$document
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
-||conflaqpzc.info$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
@@ -68,6 +69,7 @@
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
+||erotica.live$document
 ||excitingthing.xyz$document
 ||facebook-sex.com$document
 ||fastmapf.xyz$document
@@ -123,18 +125,18 @@
 ||gladvideo.website$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
+||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
-||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
+||happymakesite.xyz$document
 ||happymakeworld.xyz$document
-||healandgrow.club$document
 ||healthdefine.info$document
 ||healthdome.info$document
 ||healtheezy.info$document
@@ -163,6 +165,7 @@
 ||healthyparker.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -175,6 +178,7 @@
 ||jsrenthouse.com$document
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
+||keepithealthy.info$document
 ||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
@@ -191,6 +195,7 @@
 ||livehealthcare.today$document
 ||livelyyroad.xyz$document
 ||livingmighty.club$document
+||loadfree-bestheavilyfile.best$document
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
 ||loadheavily-bestfreefile.best$document
@@ -205,9 +210,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
-||mathison.io$document
 ||max-care.info$document
-||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||meeryslotspin.xyz$document
 ||merryplayglobal.xyz$document
@@ -291,6 +294,7 @@
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -402,7 +406,6 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
-||tdstraffic.xyz$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -415,6 +418,7 @@
 ||thehealthpedia.info$document
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
+||thehotshot.info$document
 ||thelastpicture.show$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -424,7 +428,6 @@
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
-||trafficgate.cc$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||uclaimrewards.net$document

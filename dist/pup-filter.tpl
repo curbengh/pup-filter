@@ -1,12 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
-# Updated: Fri, 02 Apr 2021 00:07:31 UTC
+# Description: Block domains that host potentially unwanted programs (PUP)
+# Updated: Fri, 02 Apr 2021 12:08:00 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 20patogh.com
 -d 321movies.xyz
 -d 4uabs.club
@@ -18,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d amateurxporn.com
 -d animenation.org
--d anismunre.info
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -43,6 +44,7 @@ msFilterList
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
+-d care-connection.info
 -d carebility.info
 -d carevision.info
 -d celebseven.com
@@ -52,7 +54,6 @@ msFilterList
 -d collectrewards.net
 -d comphp.xyz
 -d conceivecolor.xyz
--d conflaqpzc.info
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -71,6 +72,7 @@ msFilterList
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
+-d erotica.live
 -d excitingthing.xyz
 -d facebook-sex.com
 -d fastmapf.xyz
@@ -126,18 +128,18 @@ msFilterList
 -d gladvideo.website
 -d globalvideo.fun
 -d globalvideo.store
+-d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
--d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
+-d happymakesite.xyz
 -d happymakeworld.xyz
--d healandgrow.club
 -d healthdefine.info
 -d healthdome.info
 -d healtheezy.info
@@ -166,6 +168,7 @@ msFilterList
 -d healthyparker.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -178,6 +181,7 @@ msFilterList
 -d jsrenthouse.com
 -d jubilantdstreet.xyz
 -d kad3md.cn
+-d keepithealthy.info
 -d ketodietrecipes.org
 -d leeching.net
 -d legendaryplaceupgrade.info
@@ -194,6 +198,7 @@ msFilterList
 -d livehealthcare.today
 -d livelyyroad.xyz
 -d livingmighty.club
+-d loadfree-bestheavilyfile.best
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadheavily-bestfreefile.best
@@ -208,9 +213,7 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mathison.io
 -d max-care.info
--d mediaplayer24.ml
 -d medicomatic.info
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
@@ -294,6 +297,7 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -405,7 +409,6 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
--d tdstraffic.xyz
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -418,6 +421,7 @@ msFilterList
 -d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
+-d thehotshot.info
 -d thelastpicture.show
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -427,7 +431,6 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
--d trafficgate.cc
 -d trktraf.club
 -d trkvpn.xyz
 -d uclaimrewards.net
