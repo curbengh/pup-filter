@@ -1,6 +1,6 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
-# Updated: Thu, 01 Apr 2021 12:07:29 UTC
+# Updated: Fri, 02 Apr 2021 00:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ msFilterList
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d animenation.org
 -d anismunre.info
 -d apptool.me
 -d ashtdi.cn
@@ -313,7 +314,6 @@ msFilterList
 -d renewvideo.site
 -d renewvideo.website
 -d resignation.top
--d rewards4claim.net
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info

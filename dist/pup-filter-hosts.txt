@@ -1,5 +1,5 @@
 # Title: PUP Hosts Blocklist
-# Updated: Thu, 01 Apr 2021 12:07:29 UTC
+# Updated: Fri, 02 Apr 2021 00:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
+0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -310,7 +311,6 @@
 0.0.0.0 renewvideo.site
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
-0.0.0.0 rewards4claim.net
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info

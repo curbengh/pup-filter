@@ -1,5 +1,5 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
-! Updated: Thu, 01 Apr 2021 12:07:29 UTC
+! Updated: Fri, 02 Apr 2021 00:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
+||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -310,7 +311,6 @@
 ||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
-||rewards4claim.net$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
