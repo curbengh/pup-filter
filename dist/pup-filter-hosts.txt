@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 03 Apr 2021 00:24:45 UTC
+# Updated: Sat, 03 Apr 2021 12:06:44 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
-0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -52,6 +51,7 @@
 0.0.0.0 collectrewards.net
 0.0.0.0 comphp.xyz
 0.0.0.0 conceivecolor.xyz
+0.0.0.0 conflaqpzc.info
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
@@ -70,12 +70,13 @@
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
-0.0.0.0 erotica.live
 0.0.0.0 excitingthing.xyz
+0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspotb.xyz
+0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
@@ -96,6 +97,7 @@
 0.0.0.0 fitlifevalue.info
 0.0.0.0 fitnessdial.club
 0.0.0.0 fitsure.info
+0.0.0.0 flatbellylife.info
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 freeperfectupgrade.work
@@ -126,7 +128,6 @@
 0.0.0.0 gladvideo.website
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
-0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -138,6 +139,7 @@
 0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
 0.0.0.0 happymakeworld.xyz
+0.0.0.0 healandgrow.club
 0.0.0.0 healthdefine.info
 0.0.0.0 healthdome.info
 0.0.0.0 healtheezy.info
@@ -155,7 +157,6 @@
 0.0.0.0 healthroll.info
 0.0.0.0 healthschedule.club
 0.0.0.0 healthspark.today
-0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
 0.0.0.0 healthvenue.club
@@ -166,7 +167,6 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -179,7 +179,6 @@
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
-0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
@@ -212,6 +211,7 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 max-care.info
+0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 merryplayglobal.xyz
@@ -221,7 +221,6 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
-0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
@@ -295,7 +294,6 @@
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -419,7 +417,6 @@
 0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
-0.0.0.0 thehotshot.info
 0.0.0.0 thelastpicture.show
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -430,7 +427,6 @@
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
-0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
@@ -480,4 +476,5 @@
 0.0.0.0 yoursafeststablelinks.info
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourultimateperfectupgrades.work
+0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk

@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 03 Apr 2021 00:24:45 UTC
+# Updated: Sat, 03 Apr 2021 12:06:44 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ adrondespi.top
 advancecare.info
 akb48wrapup.com
 amateurxporn.com
-animenation.org
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -52,6 +51,7 @@ coachbelief.xyz
 collectrewards.net
 comphp.xyz
 conceivecolor.xyz
+conflaqpzc.info
 cooing.top
 credit-alerts.xyz
 credit-monitor.xyz
@@ -70,12 +70,13 @@ dragonballclub.com
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
-erotica.live
 excitingthing.xyz
+extrasafe.xyz
 facebook-sex.com
 fastmapf.xyz
 fastplanetf.xyz
 fastspotb.xyz
+fastwebe.xyz
 filmesonlineturbo.net
 filmrod.xyz
 films-down.com
@@ -96,6 +97,7 @@ fithealthsure.info
 fitlifevalue.info
 fitnessdial.club
 fitsure.info
+flatbellylife.info
 foregoingpump.xyz
 forsalecheap.net
 freeperfectupgrade.work
@@ -126,7 +128,6 @@ gladvideo.surf
 gladvideo.website
 globalvideo.fun
 globalvideo.store
-go-x34n7wbcoes-ok.live
 govpshosting.com
 graburprize.net
 gramp.xyz
@@ -138,6 +139,7 @@ haircarepro.info
 happyactive.today
 happymakesite.xyz
 happymakeworld.xyz
+healandgrow.club
 healthdefine.info
 healthdome.info
 healtheezy.info
@@ -155,7 +157,6 @@ healthreward.info
 healthroll.info
 healthschedule.club
 healthspark.today
-healthsupreme.club
 healthtag.club
 healthupper.club
 healthvenue.club
@@ -166,7 +167,6 @@ healthyideal.club
 healthyparker.info
 healthysure.info
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -179,7 +179,6 @@ joyspotspin.xyz
 jsrenthouse.com
 jubilantdstreet.xyz
 kad3md.cn
-keepithealthy.info
 ketodietrecipes.org
 leeching.net
 legendaryplaceupgrade.info
@@ -212,6 +211,7 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 max-care.info
+mediaplayer24.ml
 medicomatic.info
 meeryslotspin.xyz
 merryplayglobal.xyz
@@ -221,7 +221,6 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
-news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -295,7 +294,6 @@ premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
-productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -419,7 +417,6 @@ thehealthgo.info
 thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
-thehotshot.info
 thelastpicture.show
 thepackage.club
 thesafestplayerlinks.work
@@ -430,7 +427,6 @@ thrillqueen.xyz
 toovolution.club
 topnotchsports.tips
 trafficbounce.net
-trktraf.club
 trkvpn.xyz
 uclaimrewards.net
 unequalfaucet.xyz
@@ -480,4 +476,5 @@ yoursafeststablelink.info
 yoursafeststablelinks.info
 yoursafesystemsupdating.work
 yourultimateperfectupgrades.work
+youthewinner.net
 ysfetinora.tk
