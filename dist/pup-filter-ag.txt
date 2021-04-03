@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 02 Apr 2021 12:08:00 UTC
+! Updated: Sat, 03 Apr 2021 00:24:45 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -33,6 +33,7 @@
 ||betterfreedownloadplayers.info$all
 ||bigcbd.info$all
 ||bigdaycasino.info$all
+||bitcoin-trader.me$all
 ||bittrend.com$all
 ||biztherapy.info$all
 ||bodyamaze.club$all
@@ -423,6 +424,7 @@
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
 ||thestablealwayssafeupdates.work$all
+||thestablegreatupdates.work$all
 ||thestablegreatupgrades.best$all
 ||thrillqueen.xyz$all
 ||toovolution.club$all

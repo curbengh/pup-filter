@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 02 Apr 2021 12:08:00 UTC
+# Updated: Sat, 03 Apr 2021 00:24:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,6 +33,7 @@
 0.0.0.0 betterfreedownloadplayers.info
 0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
+0.0.0.0 bitcoin-trader.me
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
 0.0.0.0 bodyamaze.club
@@ -423,6 +424,7 @@
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
 0.0.0.0 thestablealwayssafeupdates.work
+0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 thrillqueen.xyz
 0.0.0.0 toovolution.club
