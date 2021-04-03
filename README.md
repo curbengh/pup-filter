@@ -426,9 +426,9 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 [src/](src/): [CC0](LICENSE.md)
 
-[dist/](dist/): Derivations of [malware-discoverer](https://github.com/zhouhanc/malware-discoverer) with [Zhouhan Chen](https://github.com/zhouhanc)'s permission.
+[dist/](dist/): Derived from [malware-discoverer](https://github.com/zhouhanc/malware-discoverer) with [Zhouhan Chen](https://zhouhanc.com/)'s permission
 
-[malware-discoverer](https://github.com/zhouhanc/malware-discoverer): All rights reserved by [Zhouhan Chen](https://github.com/zhouhanc)
+[malware-discoverer](https://github.com/zhouhanc/malware-discoverer): All rights reserved by [Zhouhan Chen](https://zhouhanc.com/)
 
 [badge.sh](src/badge.sh) & [.gitlab/](.gitlab/) contain badges that are licensed by [Shields.io](https://shields.io) under [CC0 1.0](LICENSE.md)
 
