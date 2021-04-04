@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 04 Apr 2021 00:07:40 UTC
+# Updated: Sun, 04 Apr 2021 12:07:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -70,6 +70,7 @@
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
+0.0.0.0 erotica.live
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
@@ -81,7 +82,6 @@
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
-0.0.0.0 findforus.net
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
@@ -137,9 +137,7 @@
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
-0.0.0.0 happymakesite.xyz
 0.0.0.0 happymakeworld.xyz
-0.0.0.0 healandgrow.club
 0.0.0.0 healthdefine.info
 0.0.0.0 healthdome.info
 0.0.0.0 healtheezy.info
@@ -151,10 +149,12 @@
 0.0.0.0 healthmanic.info
 0.0.0.0 healthmarlin.club
 0.0.0.0 healthneo.club
+0.0.0.0 healthomega.club
 0.0.0.0 healthready.info
 0.0.0.0 healthreportsweb.info
 0.0.0.0 healthreward.info
 0.0.0.0 healthroll.info
+0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
 0.0.0.0 healthspark.today
 0.0.0.0 healthtag.club
@@ -167,6 +167,7 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -179,6 +180,7 @@
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
+0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
@@ -210,9 +212,12 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
+0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
+0.0.0.0 medjournalketo.info
+0.0.0.0 medsjournal.info
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 merryplayglobal.xyz
 0.0.0.0 merryplayworld.xyz
@@ -226,7 +231,6 @@
 0.0.0.0 nosyknot.xyz
 0.0.0.0 nutrinamic.info
 0.0.0.0 onegowc.pw
-0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -417,7 +421,9 @@
 0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
+0.0.0.0 thehotshot.info
 0.0.0.0 thelastpicture.show
+0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
 0.0.0.0 thestablealwayssafeupdates.work

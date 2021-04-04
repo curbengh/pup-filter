@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 04 Apr 2021 00:07:40 UTC
+# Updated: Sun, 04 Apr 2021 12:07:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -73,6 +73,7 @@ msFilterList
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
+-d erotica.live
 -d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
@@ -84,7 +85,6 @@ msFilterList
 -d filmrod.xyz
 -d films-down.com
 -d financial-deals.xyz
--d findforus.net
 -d findoffers.co
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
@@ -140,9 +140,7 @@ msFilterList
 -d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
--d happymakesite.xyz
 -d happymakeworld.xyz
--d healandgrow.club
 -d healthdefine.info
 -d healthdome.info
 -d healtheezy.info
@@ -154,10 +152,12 @@ msFilterList
 -d healthmanic.info
 -d healthmarlin.club
 -d healthneo.club
+-d healthomega.club
 -d healthready.info
 -d healthreportsweb.info
 -d healthreward.info
 -d healthroll.info
+-d healthscale.club
 -d healthschedule.club
 -d healthspark.today
 -d healthtag.club
@@ -170,6 +170,7 @@ msFilterList
 -d healthyparker.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -182,6 +183,7 @@ msFilterList
 -d jsrenthouse.com
 -d jubilantdstreet.xyz
 -d kad3md.cn
+-d keepithealthy.info
 -d ketodietrecipes.org
 -d leeching.net
 -d legendaryplaceupgrade.info
@@ -213,9 +215,12 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
+-d mathison.io
 -d max-care.info
 -d mediaplayer24.ml
 -d medicomatic.info
+-d medjournalketo.info
+-d medsjournal.info
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
@@ -229,7 +234,6 @@ msFilterList
 -d nosyknot.xyz
 -d nutrinamic.info
 -d onegowc.pw
--d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -420,7 +424,9 @@ msFilterList
 -d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
+-d thehotshot.info
 -d thelastpicture.show
+-d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
 -d thestablealwayssafeupdates.work

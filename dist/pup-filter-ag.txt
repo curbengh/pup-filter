@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 04 Apr 2021 00:07:40 UTC
+! Updated: Sun, 04 Apr 2021 12:07:01 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -70,6 +70,7 @@
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
+||erotica.live$all
 ||excitingthing.xyz$all
 ||extrasafe.xyz$all
 ||facebook-sex.com$all
@@ -81,7 +82,6 @@
 ||filmrod.xyz$all
 ||films-down.com$all
 ||financial-deals.xyz$all
-||findforus.net$all
 ||findoffers.co$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
@@ -137,9 +137,7 @@
 ||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
-||happymakesite.xyz$all
 ||happymakeworld.xyz$all
-||healandgrow.club$all
 ||healthdefine.info$all
 ||healthdome.info$all
 ||healtheezy.info$all
@@ -151,10 +149,12 @@
 ||healthmanic.info$all
 ||healthmarlin.club$all
 ||healthneo.club$all
+||healthomega.club$all
 ||healthready.info$all
 ||healthreportsweb.info$all
 ||healthreward.info$all
 ||healthroll.info$all
+||healthscale.club$all
 ||healthschedule.club$all
 ||healthspark.today$all
 ||healthtag.club$all
@@ -167,6 +167,7 @@
 ||healthyparker.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -179,6 +180,7 @@
 ||jsrenthouse.com$all
 ||jubilantdstreet.xyz$all
 ||kad3md.cn$all
+||keepithealthy.info$all
 ||ketodietrecipes.org$all
 ||leeching.net$all
 ||legendaryplaceupgrade.info$all
@@ -210,9 +212,12 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
+||mathison.io$all
 ||max-care.info$all
 ||mediaplayer24.ml$all
 ||medicomatic.info$all
+||medjournalketo.info$all
+||medsjournal.info$all
 ||meeryslotspin.xyz$all
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
@@ -226,7 +231,6 @@
 ||nosyknot.xyz$all
 ||nutrinamic.info$all
 ||onegowc.pw$all
-||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -417,7 +421,9 @@
 ||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
+||thehotshot.info$all
 ||thelastpicture.show$all
+||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
 ||thestablealwayssafeupdates.work$all

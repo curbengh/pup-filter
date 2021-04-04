@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 04 Apr 2021 00:07:40 UTC
+! Updated: Sun, 04 Apr 2021 12:07:01 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -70,6 +70,7 @@
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
+||erotica.live$document
 ||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
@@ -81,7 +82,6 @@
 ||filmrod.xyz$document
 ||films-down.com$document
 ||financial-deals.xyz$document
-||findforus.net$document
 ||findoffers.co$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
@@ -137,9 +137,7 @@
 ||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
-||happymakesite.xyz$document
 ||happymakeworld.xyz$document
-||healandgrow.club$document
 ||healthdefine.info$document
 ||healthdome.info$document
 ||healtheezy.info$document
@@ -151,10 +149,12 @@
 ||healthmanic.info$document
 ||healthmarlin.club$document
 ||healthneo.club$document
+||healthomega.club$document
 ||healthready.info$document
 ||healthreportsweb.info$document
 ||healthreward.info$document
 ||healthroll.info$document
+||healthscale.club$document
 ||healthschedule.club$document
 ||healthspark.today$document
 ||healthtag.club$document
@@ -167,6 +167,7 @@
 ||healthyparker.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -179,6 +180,7 @@
 ||jsrenthouse.com$document
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
+||keepithealthy.info$document
 ||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
@@ -210,9 +212,12 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mathison.io$document
 ||max-care.info$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
+||medjournalketo.info$document
+||medsjournal.info$document
 ||meeryslotspin.xyz$document
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
@@ -226,7 +231,6 @@
 ||nosyknot.xyz$document
 ||nutrinamic.info$document
 ||onegowc.pw$document
-||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -417,7 +421,9 @@
 ||thehealthpedia.info$document
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
+||thehotshot.info$document
 ||thelastpicture.show$document
+||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
 ||thestablealwayssafeupdates.work$document
