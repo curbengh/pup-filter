@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 05 Apr 2021 00:06:47 UTC
+# Updated: Mon, 05 Apr 2021 12:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
--d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
@@ -160,6 +159,7 @@ msFilterList
 -d healthscale.club
 -d healthschedule.club
 -d healthspark.today
+-d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
 -d healthvenue.club
@@ -291,7 +291,6 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d piorkeepi.top
--d placesiteb.xyz
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
@@ -365,7 +364,6 @@ msFilterList
 -d shopnsave.world
 -d shoppingexp.xyz
 -d smartys.link
--d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
 -d spotspotf.xyz
@@ -410,7 +408,6 @@ msFilterList
 -d syncrenewed-bestcompletelyfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me
@@ -437,6 +434,7 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
+-d trafficgate.cc
 -d trkvpn.xyz
 -d uclaimrewards.net
 -d unequalfaucet.xyz
@@ -486,5 +484,4 @@ msFilterList
 -d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work
 -d yourultimateperfectupgrades.work
--d youthewinner.net
 -d ysfetinora.tk

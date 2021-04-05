@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 05 Apr 2021 00:06:47 UTC
+# Updated: Mon, 05 Apr 2021 12:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 321movies.xyz
 4uabs.club
 7awwa2.xyz
-abcscience.xyz
 abeah-security.xyz
 adrondespi.top
 advancecare.info
@@ -157,6 +156,7 @@ healthroll.info
 healthscale.club
 healthschedule.club
 healthspark.today
+healthsupreme.club
 healthtag.club
 healthupper.club
 healthvenue.club
@@ -288,7 +288,6 @@ performspeedy-thegreatlyfile.best
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
@@ -362,7 +361,6 @@ shkshk.site
 shopnsave.world
 shoppingexp.xyz
 smartys.link
-spotplanetc.xyz
 spotplanetd.xyz
 spotspinb.xyz
 spotspotf.xyz
@@ -407,7 +405,6 @@ syncprogressive-besthighlyfile.best
 syncrenewed-bestcompletelyfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
-tackis.xyz
 talskingest.top
 tastefulwood.xyz
 theable.me
@@ -434,6 +431,7 @@ thrillqueen.xyz
 toovolution.club
 topnotchsports.tips
 trafficbounce.net
+trafficgate.cc
 trkvpn.xyz
 uclaimrewards.net
 unequalfaucet.xyz
@@ -483,5 +481,4 @@ yoursafeststablelink.info
 yoursafeststablelinks.info
 yoursafesystemsupdating.work
 yourultimateperfectupgrades.work
-youthewinner.net
 ysfetinora.tk

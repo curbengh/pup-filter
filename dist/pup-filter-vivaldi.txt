@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 05 Apr 2021 00:06:47 UTC
+! Updated: Mon, 05 Apr 2021 12:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
@@ -157,6 +156,7 @@
 ||healthscale.club$document
 ||healthschedule.club$document
 ||healthspark.today$document
+||healthsupreme.club$document
 ||healthtag.club$document
 ||healthupper.club$document
 ||healthvenue.club$document
@@ -288,7 +288,6 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||piorkeepi.top$document
-||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -362,7 +361,6 @@
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||smartys.link$document
-||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
 ||spotspotf.xyz$document
@@ -407,7 +405,6 @@
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
@@ -434,6 +431,7 @@
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
+||trafficgate.cc$document
 ||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
@@ -483,5 +481,4 @@
 ||yoursafeststablelinks.info$document
 ||yoursafesystemsupdating.work$document
 ||yourultimateperfectupgrades.work$document
-||youthewinner.net$document
 ||ysfetinora.tk$document
