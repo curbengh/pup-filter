@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 06 Apr 2021 00:07:15 UTC
+# Updated: Tue, 06 Apr 2021 12:08:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,13 +11,14 @@ msFilterList
 -d 123news.website
 -d 20patogh.com
 -d 321movies.xyz
--d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -40,10 +41,10 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d browsercheck.site
+-d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
--d care-connection.info
 -d carebility.info
 -d carevision.info
 -d celebseven.com
@@ -84,6 +85,7 @@ msFilterList
 -d filmrod.xyz
 -d films-down.com
 -d financial-deals.xyz
+-d findforus.net
 -d findoffers.co
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
@@ -135,11 +137,13 @@ msFilterList
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
+-d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
 -d happymakeworld.xyz
+-d healandgrow.club
 -d healthdefine.info
 -d healthdome.info
 -d healtheezy.info
@@ -226,6 +230,7 @@ msFilterList
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
+-d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
@@ -236,6 +241,7 @@ msFilterList
 -d nosyknot.xyz
 -d nutrinamic.info
 -d onegowc.pw
+-d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -292,6 +298,7 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d piorkeepi.top
+-d placesiteb.xyz
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
@@ -302,6 +309,7 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -409,6 +417,7 @@ msFilterList
 -d syncrenewed-bestcompletelyfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me
@@ -425,10 +434,10 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
+-d theslotomania.info
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
@@ -463,6 +472,7 @@ msFilterList
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
+-d webtip.co
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 06 Apr 2021 00:07:15 UTC
+! Updated: Tue, 06 Apr 2021 12:08:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,13 +8,14 @@
 ||123news.website$document
 ||20patogh.com$document
 ||321movies.xyz$document
-||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
+||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -37,10 +38,10 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||browsercheck.site$document
+||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
-||care-connection.info$document
 ||carebility.info$document
 ||carevision.info$document
 ||celebseven.com$document
@@ -81,6 +82,7 @@
 ||filmrod.xyz$document
 ||films-down.com$document
 ||financial-deals.xyz$document
+||findforus.net$document
 ||findoffers.co$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
@@ -132,11 +134,13 @@
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
+||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
 ||happymakeworld.xyz$document
+||healandgrow.club$document
 ||healthdefine.info$document
 ||healthdome.info$document
 ||healtheezy.info$document
@@ -223,6 +227,7 @@
 ||meeryslotspin.xyz$document
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
+||mindbank.ai$document
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||modern-security.xyz$document
@@ -233,6 +238,7 @@
 ||nosyknot.xyz$document
 ||nutrinamic.info$document
 ||onegowc.pw$document
+||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -289,6 +295,7 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||piorkeepi.top$document
+||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -299,6 +306,7 @@
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -406,6 +414,7 @@
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
+||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
@@ -422,10 +431,10 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
+||theslotomania.info$document
 ||thestablealwayssafeupdates.work$document
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
@@ -460,6 +469,7 @@
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document
+||webtip.co$document
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
