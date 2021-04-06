@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 05 Apr 2021 12:07:31 UTC
+# Updated: Tue, 06 Apr 2021 00:07:15 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -205,6 +205,7 @@
 0.0.0.0 loveorfun.cc
 0.0.0.0 luckjackcasino.info
 0.0.0.0 luckymedia.fun
+0.0.0.0 luckymedia.space
 0.0.0.0 madpandatv.net
 0.0.0.0 majorhealthpro.info
 0.0.0.0 makemesafeios.com
@@ -411,6 +412,7 @@
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
 0.0.0.0 theconnectvpn.com
+0.0.0.0 thecryptomoney.info
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcurve.info

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 05 Apr 2021 12:07:31 UTC
+! Updated: Tue, 06 Apr 2021 00:07:15 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -205,6 +205,7 @@
 ||loveorfun.cc$all
 ||luckjackcasino.info$all
 ||luckymedia.fun$all
+||luckymedia.space$all
 ||madpandatv.net$all
 ||majorhealthpro.info$all
 ||makemesafeios.com$all
@@ -411,6 +412,7 @@
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
 ||theconnectvpn.com$all
+||thecryptomoney.info$all
 ||thefatburner.info$all
 ||thefitproject.club$all
 ||thehealthcurve.info$all
