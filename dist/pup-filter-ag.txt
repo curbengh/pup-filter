@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 07 Apr 2021 00:07:30 UTC
+! Updated: Wed, 07 Apr 2021 12:35:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -371,6 +372,7 @@
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
 ||smartys.link$all
+||spotplanetc.xyz$all
 ||spotplanetd.xyz$all
 ||spotspinb.xyz$all
 ||spotspotf.xyz$all
@@ -494,4 +496,5 @@
 ||yoursafeststablelinks.info$all
 ||yoursafesystemsupdating.work$all
 ||yourultimateperfectupgrades.work$all
+||youthewinner.net$all
 ||ysfetinora.tk$all

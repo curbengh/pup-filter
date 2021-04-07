@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 07 Apr 2021 00:07:30 UTC
+# Updated: Wed, 07 Apr 2021 12:35:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -371,6 +372,7 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
 0.0.0.0 smartys.link
+0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
 0.0.0.0 spotspinb.xyz
 0.0.0.0 spotspotf.xyz
@@ -494,4 +496,5 @@
 0.0.0.0 yoursafeststablelinks.info
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourultimateperfectupgrades.work
+0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk
