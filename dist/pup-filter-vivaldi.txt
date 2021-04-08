@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 07 Apr 2021 12:35:55 UTC
+! Updated: Thu, 08 Apr 2021 00:07:53 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -85,6 +85,7 @@
 ||financial-deals.xyz$document
 ||findforus.net$document
 ||findoffers.co$document
+||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
 ||firststableplayer.work$document
@@ -210,6 +211,7 @@
 ||loosefit.info$document
 ||loveorfun.cc$document
 ||luckjackcasino.info$document
+||luckymedia.casa$document
 ||luckymedia.fun$document
 ||luckymedia.space$document
 ||madpandatv.net$document
