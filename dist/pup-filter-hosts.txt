@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 08 Apr 2021 00:07:53 UTC
+# Updated: Thu, 08 Apr 2021 12:08:48 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 321movies.xyz
+0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
 0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
@@ -43,6 +44,7 @@
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
 0.0.0.0 calculateprint.xyz
+0.0.0.0 care-connection.info
 0.0.0.0 carebility.info
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
@@ -142,6 +144,7 @@
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
+0.0.0.0 happymakesite.xyz
 0.0.0.0 happymakeworld.xyz
 0.0.0.0 healandgrow.club
 0.0.0.0 healthdefine.info
@@ -237,6 +240,7 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
+0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
