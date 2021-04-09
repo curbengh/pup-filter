@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 08 Apr 2021 12:08:48 UTC
+! Updated: Fri, 09 Apr 2021 00:07:36 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||20patogh.com$document
 ||321movies.xyz$document
 ||4uabs.club$document
@@ -46,6 +45,7 @@
 ||calculateprint.xyz$document
 ||care-connection.info$document
 ||carebility.info$document
+||careerconnecthub.com$document
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
@@ -134,6 +134,7 @@
 ||gladvideo.website$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
+||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -163,7 +164,6 @@
 ||healthreportsweb.info$document
 ||healthreward.info$document
 ||healthroll.info$document
-||healthscale.club$document
 ||healthschedule.club$document
 ||healthspark.today$document
 ||healthsupreme.club$document
@@ -227,7 +227,6 @@
 ||manageuber-theswiftfile.best$document
 ||mathison.io$document
 ||max-care.info$document
-||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medjournalketo.info$document
 ||medsjournal.info$document
@@ -244,8 +243,10 @@
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
+||nutrahealth.info$document
 ||nutrinamic.info$document
 ||onegowc.pw$document
+||online-survey.org$document
 ||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
@@ -314,7 +315,6 @@
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
-||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -403,6 +403,7 @@
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
 ||superiorcare.info$document
+||superplaceforupgrade.info$document
 ||survey-club.club$document
 ||survey-review.club$document
 ||synccompletely-bestoriginalfile.best$document
@@ -440,10 +441,10 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
-||theslotomania.info$document
 ||thestablealwayssafeupdates.work$document
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
@@ -475,10 +476,10 @@
 ||vpn-pro.info$document
 ||vpnadefenceplus.com$document
 ||vpntool.me$document
+||vpnupdatesnow.com$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document
-||webtip.co$document
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||wherentlybrane.site$document

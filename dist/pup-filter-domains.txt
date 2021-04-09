@@ -1,11 +1,10 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 08 Apr 2021 12:08:48 UTC
+# Updated: Fri, 09 Apr 2021 00:07:36 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 20patogh.com
 321movies.xyz
 4uabs.club
@@ -46,6 +45,7 @@ cabins-r-us.com
 calculateprint.xyz
 care-connection.info
 carebility.info
+careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
@@ -134,6 +134,7 @@ gladvideo.surf
 gladvideo.website
 globalvideo.fun
 globalvideo.store
+go-x34n7wbcoes-ok.live
 govpshosting.com
 graburprize.net
 gramp.xyz
@@ -163,7 +164,6 @@ healthready.info
 healthreportsweb.info
 healthreward.info
 healthroll.info
-healthscale.club
 healthschedule.club
 healthspark.today
 healthsupreme.club
@@ -227,7 +227,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mathison.io
 max-care.info
-mediaplayer24.ml
 medicomatic.info
 medjournalketo.info
 medsjournal.info
@@ -244,8 +243,10 @@ news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
+nutrahealth.info
 nutrinamic.info
 onegowc.pw
+online-survey.org
 onlinecinema.eu
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
@@ -314,7 +315,6 @@ premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
-productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -403,6 +403,7 @@ styleandhealth.info
 subeamy.pw
 sugar-legal-about13.fun
 superiorcare.info
+superplaceforupgrade.info
 survey-club.club
 survey-review.club
 synccompletely-bestoriginalfile.best
@@ -440,10 +441,10 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
-theslotomania.info
 thestablealwayssafeupdates.work
 thestablegreatupdates.work
 thestablegreatupgrades.best
@@ -475,10 +476,10 @@ vitalrole.info
 vpn-pro.info
 vpnadefenceplus.com
 vpntool.me
+vpnupdatesnow.com
 website4all.info
 websiteforall.work
 websitetoget.work
-webtip.co
 wellnessgram.info
 wellnessplum.info
 wherentlybrane.site

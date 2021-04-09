@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 08 Apr 2021 12:08:48 UTC
+# Updated: Fri, 09 Apr 2021 00:07:36 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 321movies.xyz
 -d 4uabs.club
@@ -49,6 +48,7 @@ msFilterList
 -d calculateprint.xyz
 -d care-connection.info
 -d carebility.info
+-d careerconnecthub.com
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
@@ -137,6 +137,7 @@ msFilterList
 -d gladvideo.website
 -d globalvideo.fun
 -d globalvideo.store
+-d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -166,7 +167,6 @@ msFilterList
 -d healthreportsweb.info
 -d healthreward.info
 -d healthroll.info
--d healthscale.club
 -d healthschedule.club
 -d healthspark.today
 -d healthsupreme.club
@@ -230,7 +230,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mathison.io
 -d max-care.info
--d mediaplayer24.ml
 -d medicomatic.info
 -d medjournalketo.info
 -d medsjournal.info
@@ -247,8 +246,10 @@ msFilterList
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
+-d nutrahealth.info
 -d nutrinamic.info
 -d onegowc.pw
+-d online-survey.org
 -d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
@@ -317,7 +318,6 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -406,6 +406,7 @@ msFilterList
 -d subeamy.pw
 -d sugar-legal-about13.fun
 -d superiorcare.info
+-d superplaceforupgrade.info
 -d survey-club.club
 -d survey-review.club
 -d synccompletely-bestoriginalfile.best
@@ -443,10 +444,10 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
--d theslotomania.info
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
@@ -478,10 +479,10 @@ msFilterList
 -d vpn-pro.info
 -d vpnadefenceplus.com
 -d vpntool.me
+-d vpnupdatesnow.com
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
--d webtip.co
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site
