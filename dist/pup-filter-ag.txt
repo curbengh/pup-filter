@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 09 Apr 2021 00:07:36 UTC
+! Updated: Fri, 09 Apr 2021 12:08:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
 ||animenation.org$all
-||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -182,7 +181,9 @@
 ||information.casa$all
 ||instablog.club$all
 ||insuredhealth.info$all
+||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
+||iosvpnsecure.com$all
 ||izipik.com$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
@@ -211,6 +212,7 @@
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadheavily-bestfreefile.best$all
+||locationtracker.services$all
 ||loosefit.info$all
 ||loveorfun.cc$all
 ||luckjackcasino.info$all
@@ -424,7 +426,6 @@
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
-||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||theable.me$all
