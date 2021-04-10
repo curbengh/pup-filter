@@ -1,14 +1,16 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 09 Apr 2021 12:08:11 UTC
+# Updated: Sat, 10 Apr 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 20patogh.com
+-d 2kddbl.club
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
@@ -18,7 +20,6 @@ msFilterList
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
--d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -38,6 +39,7 @@ msFilterList
 -d bitcoin-trader.me
 -d bittrend.com
 -d biztherapy.info
+-d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d browsercheck.site
@@ -105,9 +107,11 @@ msFilterList
 -d fitnessdial.club
 -d fitsure.info
 -d flatbellylife.info
+-d flexroll.online
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d freeperfectupgrade.work
+-d freeperfectupgrading.work
 -d freshclover.info
 -d fuck-me-hard.club
 -d funmapc.xyz
@@ -124,6 +128,7 @@ msFilterList
 -d getstablesystemupgrades.work
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
+-d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -134,6 +139,7 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
+-d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -166,6 +172,7 @@ msFilterList
 -d healthreportsweb.info
 -d healthreward.info
 -d healthroll.info
+-d healthscale.club
 -d healthschedule.club
 -d healthspark.today
 -d healthsupreme.club
@@ -179,7 +186,6 @@ msFilterList
 -d healthyparker.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -218,10 +224,12 @@ msFilterList
 -d locationtracker.services
 -d loosefit.info
 -d loveorfun.cc
+-d lubbockeda.org
 -d luckjackcasino.info
 -d luckymedia.casa
 -d luckymedia.fun
 -d luckymedia.space
+-d luckymedia.website
 -d madpandatv.net
 -d majorhealthpro.info
 -d makemesafeios.com
@@ -232,6 +240,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mathison.io
 -d max-care.info
+-d mediaplayer24.ml
 -d medicomatic.info
 -d medjournalketo.info
 -d medsjournal.info
@@ -320,6 +329,7 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -379,6 +389,7 @@ msFilterList
 -d security-protection.xyz
 -d seemlast.monster
 -d selfradiance.info
+-d service-care.space
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
@@ -408,7 +419,6 @@ msFilterList
 -d subeamy.pw
 -d sugar-legal-about13.fun
 -d superiorcare.info
--d superplaceforupgrade.info
 -d survey-club.club
 -d survey-review.club
 -d synccompletely-bestoriginalfile.best
@@ -449,6 +459,7 @@ msFilterList
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
+-d theslotomania.info
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
@@ -484,6 +495,7 @@ msFilterList
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
+-d webtip.co
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site

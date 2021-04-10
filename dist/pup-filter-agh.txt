@@ -1,11 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 09 Apr 2021 12:08:11 UTC
+! Updated: Sat, 10 Apr 2021 00:07:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website^
 ||20patogh.com^
+||2kddbl.club^
 ||321movies.xyz^
 ||4uabs.club^
 ||7awwa2.xyz^
@@ -15,7 +17,6 @@
 ||advancecare.info^
 ||akb48wrapup.com^
 ||amateurxporn.com^
-||animenation.org^
 ||apptool.me^
 ||ashtdi.cn^
 ||assuredhealth.info^
@@ -35,6 +36,7 @@
 ||bitcoin-trader.me^
 ||bittrend.com^
 ||biztherapy.info^
+||blockchain-com.email^
 ||bodyamaze.club^
 ||bodyselfcare.info^
 ||browsercheck.site^
@@ -102,9 +104,11 @@
 ||fitnessdial.club^
 ||fitsure.info^
 ||flatbellylife.info^
+||flexroll.online^
 ||foregoingpump.xyz^
 ||forsalecheap.net^
 ||freeperfectupgrade.work^
+||freeperfectupgrading.work^
 ||freshclover.info^
 ||fuck-me-hard.club^
 ||funmapc.xyz^
@@ -121,6 +125,7 @@
 ||getstablesystemupgrades.work^
 ||gladcboulevard.xyz^
 ||gladdboulevard.xyz^
+||gladplacespin.xyz^
 ||gladplaceweb.xyz^
 ||gladslotweb.xyz^
 ||gladspaceplane.xyz^
@@ -131,6 +136,7 @@
 ||gladvideo.site^
 ||gladvideo.surf^
 ||gladvideo.website^
+||global-info.space^
 ||globalvideo.fun^
 ||globalvideo.store^
 ||go-x34n7wbcoes-ok.live^
@@ -163,6 +169,7 @@
 ||healthreportsweb.info^
 ||healthreward.info^
 ||healthroll.info^
+||healthscale.club^
 ||healthschedule.club^
 ||healthspark.today^
 ||healthsupreme.club^
@@ -176,7 +183,6 @@
 ||healthyparker.info^
 ||healthysure.info^
 ||idtheft-alert.xyz^
-||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -215,10 +221,12 @@
 ||locationtracker.services^
 ||loosefit.info^
 ||loveorfun.cc^
+||lubbockeda.org^
 ||luckjackcasino.info^
 ||luckymedia.casa^
 ||luckymedia.fun^
 ||luckymedia.space^
+||luckymedia.website^
 ||madpandatv.net^
 ||majorhealthpro.info^
 ||makemesafeios.com^
@@ -229,6 +237,7 @@
 ||manageuber-theswiftfile.best^
 ||mathison.io^
 ||max-care.info^
+||mediaplayer24.ml^
 ||medicomatic.info^
 ||medjournalketo.info^
 ||medsjournal.info^
@@ -317,6 +326,7 @@
 ||preparedforsafeupgrading.work^
 ||primawise.info^
 ||primecare.today^
+||productiq.net^
 ||prohealthroutine.info^
 ||protect-connection.com^
 ||protectyourvpn.com^
@@ -376,6 +386,7 @@
 ||security-protection.xyz^
 ||seemlast.monster^
 ||selfradiance.info^
+||service-care.space^
 ||shkshk.site^
 ||shopnsave.world^
 ||shoppingexp.xyz^
@@ -405,7 +416,6 @@
 ||subeamy.pw^
 ||sugar-legal-about13.fun^
 ||superiorcare.info^
-||superplaceforupgrade.info^
 ||survey-club.club^
 ||survey-review.club^
 ||synccompletely-bestoriginalfile.best^
@@ -446,6 +456,7 @@
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
+||theslotomania.info^
 ||thestablealwayssafeupdates.work^
 ||thestablegreatupdates.work^
 ||thestablegreatupgrades.best^
@@ -481,6 +492,7 @@
 ||website4all.info^
 ||websiteforall.work^
 ||websitetoget.work^
+||webtip.co^
 ||wellnessgram.info^
 ||wellnessplum.info^
 ||wherentlybrane.site^

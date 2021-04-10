@@ -1,11 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 09 Apr 2021 12:08:11 UTC
+# Updated: Sat, 10 Apr 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 20patogh.com
+0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
@@ -15,7 +17,6 @@
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
-0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -35,6 +36,7 @@
 0.0.0.0 bitcoin-trader.me
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
+0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 browsercheck.site
@@ -102,9 +104,11 @@
 0.0.0.0 fitnessdial.club
 0.0.0.0 fitsure.info
 0.0.0.0 flatbellylife.info
+0.0.0.0 flexroll.online
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 freeperfectupgrade.work
+0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapc.xyz
@@ -121,6 +125,7 @@
 0.0.0.0 getstablesystemupgrades.work
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
+0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -131,6 +136,7 @@
 0.0.0.0 gladvideo.site
 0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
+0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
@@ -163,6 +169,7 @@
 0.0.0.0 healthreportsweb.info
 0.0.0.0 healthreward.info
 0.0.0.0 healthroll.info
+0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
 0.0.0.0 healthspark.today
 0.0.0.0 healthsupreme.club
@@ -176,7 +183,6 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -215,10 +221,12 @@
 0.0.0.0 locationtracker.services
 0.0.0.0 loosefit.info
 0.0.0.0 loveorfun.cc
+0.0.0.0 lubbockeda.org
 0.0.0.0 luckjackcasino.info
 0.0.0.0 luckymedia.casa
 0.0.0.0 luckymedia.fun
 0.0.0.0 luckymedia.space
+0.0.0.0 luckymedia.website
 0.0.0.0 madpandatv.net
 0.0.0.0 majorhealthpro.info
 0.0.0.0 makemesafeios.com
@@ -229,6 +237,7 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
+0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medjournalketo.info
 0.0.0.0 medsjournal.info
@@ -317,6 +326,7 @@
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -376,6 +386,7 @@
 0.0.0.0 security-protection.xyz
 0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
+0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
@@ -405,7 +416,6 @@
 0.0.0.0 subeamy.pw
 0.0.0.0 sugar-legal-about13.fun
 0.0.0.0 superiorcare.info
-0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
 0.0.0.0 survey-review.club
 0.0.0.0 synccompletely-bestoriginalfile.best
@@ -446,6 +456,7 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
+0.0.0.0 theslotomania.info
 0.0.0.0 thestablealwayssafeupdates.work
 0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
@@ -481,6 +492,7 @@
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work
+0.0.0.0 webtip.co
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
