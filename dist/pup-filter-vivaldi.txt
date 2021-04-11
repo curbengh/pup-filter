@@ -1,22 +1,22 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Apr 2021 12:07:52 UTC
+! Updated: Sun, 11 Apr 2021 00:07:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
+||amobil.online$document
+||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -56,6 +56,7 @@
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
 ||conflaqpzc.info$document
+||contentgate.uno$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
@@ -181,8 +182,10 @@
 ||healthy-lifestyle.club$document
 ||healthyideal.club$document
 ||healthyparker.info$document
+||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -326,10 +329,11 @@
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
-||productiq.net$document
+||privacykeeper.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
+||rainlonginsect23.life$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
@@ -416,6 +420,7 @@
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
 ||superiorcare.info$document
+||superplaceforupgrade.info$document
 ||survey-club.club$document
 ||survey-review.club$document
 ||synccompletely-bestoriginalfile.best$document
@@ -461,6 +466,7 @@
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
 ||thrillqueen.xyz$document
+||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
@@ -515,6 +521,7 @@
 ||yoursafeststablelink.info$document
 ||yoursafeststablelinks.info$document
 ||yoursafesystemsupdating.work$document
+||yourstablegreatupdates.work$document
 ||yourultimateperfectupgrades.work$document
 ||youthewinner.net$document
 ||ysfetinora.tk$document

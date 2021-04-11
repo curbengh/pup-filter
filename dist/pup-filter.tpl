@@ -1,25 +1,25 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 10 Apr 2021 12:07:52 UTC
+# Updated: Sun, 11 Apr 2021 00:07:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
--d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d amobil.online
+-d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -59,6 +59,7 @@ msFilterList
 -d comphp.xyz
 -d conceivecolor.xyz
 -d conflaqpzc.info
+-d contentgate.uno
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -184,8 +185,10 @@ msFilterList
 -d healthy-lifestyle.club
 -d healthyideal.club
 -d healthyparker.info
+-d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -329,10 +332,11 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
--d productiq.net
+-d privacykeeper.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d rainlonginsect23.life
 -d readyhealth.info
 -d readyhealthgo.today
 -d recontent.casa
@@ -419,6 +423,7 @@ msFilterList
 -d subeamy.pw
 -d sugar-legal-about13.fun
 -d superiorcare.info
+-d superplaceforupgrade.info
 -d survey-club.club
 -d survey-review.club
 -d synccompletely-bestoriginalfile.best
@@ -464,6 +469,7 @@ msFilterList
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
 -d thrillqueen.xyz
+-d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
@@ -518,6 +524,7 @@ msFilterList
 -d yoursafeststablelink.info
 -d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work
+-d yourstablegreatupdates.work
 -d yourultimateperfectupgrades.work
 -d youthewinner.net
 -d ysfetinora.tk

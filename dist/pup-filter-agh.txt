@@ -1,22 +1,22 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Apr 2021 12:07:52 UTC
+! Updated: Sun, 11 Apr 2021 00:07:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website^
 ||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
 ||4uabs.club^
 ||7awwa2.xyz^
-||abcscience.xyz^
 ||abeah-security.xyz^
 ||adrondespi.top^
 ||advancecare.info^
 ||akb48wrapup.com^
 ||amateurxporn.com^
+||amobil.online^
+||animenation.org^
 ||apptool.me^
 ||ashtdi.cn^
 ||assuredhealth.info^
@@ -56,6 +56,7 @@
 ||comphp.xyz^
 ||conceivecolor.xyz^
 ||conflaqpzc.info^
+||contentgate.uno^
 ||cooing.top^
 ||credit-alerts.xyz^
 ||credit-monitor.xyz^
@@ -181,8 +182,10 @@
 ||healthy-lifestyle.club^
 ||healthyideal.club^
 ||healthyparker.info^
+||healthyspirit.info^
 ||healthysure.info^
 ||idtheft-alert.xyz^
+||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -326,10 +329,11 @@
 ||preparedforsafeupgrading.work^
 ||primawise.info^
 ||primecare.today^
-||productiq.net^
+||privacykeeper.net^
 ||prohealthroutine.info^
 ||protect-connection.com^
 ||protectyourvpn.com^
+||rainlonginsect23.life^
 ||readyhealth.info^
 ||readyhealthgo.today^
 ||recontent.casa^
@@ -416,6 +420,7 @@
 ||subeamy.pw^
 ||sugar-legal-about13.fun^
 ||superiorcare.info^
+||superplaceforupgrade.info^
 ||survey-club.club^
 ||survey-review.club^
 ||synccompletely-bestoriginalfile.best^
@@ -461,6 +466,7 @@
 ||thestablegreatupdates.work^
 ||thestablegreatupgrades.best^
 ||thrillqueen.xyz^
+||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
 ||trafficbounce.net^
@@ -515,6 +521,7 @@
 ||yoursafeststablelink.info^
 ||yoursafeststablelinks.info^
 ||yoursafesystemsupdating.work^
+||yourstablegreatupdates.work^
 ||yourultimateperfectupgrades.work^
 ||youthewinner.net^
 ||ysfetinora.tk^

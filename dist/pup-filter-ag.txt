@@ -1,22 +1,22 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Apr 2021 12:07:52 UTC
+! Updated: Sun, 11 Apr 2021 00:07:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
-||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
+||amobil.online$all
+||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -56,6 +56,7 @@
 ||comphp.xyz$all
 ||conceivecolor.xyz$all
 ||conflaqpzc.info$all
+||contentgate.uno$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
@@ -181,8 +182,10 @@
 ||healthy-lifestyle.club$all
 ||healthyideal.club$all
 ||healthyparker.info$all
+||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -326,10 +329,11 @@
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
-||productiq.net$all
+||privacykeeper.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
+||rainlonginsect23.life$all
 ||readyhealth.info$all
 ||readyhealthgo.today$all
 ||recontent.casa$all
@@ -416,6 +420,7 @@
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
 ||superiorcare.info$all
+||superplaceforupgrade.info$all
 ||survey-club.club$all
 ||survey-review.club$all
 ||synccompletely-bestoriginalfile.best$all
@@ -461,6 +466,7 @@
 ||thestablegreatupdates.work$all
 ||thestablegreatupgrades.best$all
 ||thrillqueen.xyz$all
+||toolvpn.me$all
 ||toovolution.club$all
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
@@ -515,6 +521,7 @@
 ||yoursafeststablelink.info$all
 ||yoursafeststablelinks.info$all
 ||yoursafesystemsupdating.work$all
+||yourstablegreatupdates.work$all
 ||yourultimateperfectupgrades.work$all
 ||youthewinner.net$all
 ||ysfetinora.tk$all
