@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 11 Apr 2021 00:07:51 UTC
+! Updated: Sun, 11 Apr 2021 12:06:54 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -56,7 +56,6 @@
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
 ||conflaqpzc.info$document
-||contentgate.uno$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
@@ -126,7 +125,6 @@
 ||getstablesystemupgrades.work$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
-||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -137,7 +135,6 @@
 ||gladvideo.site$document
 ||gladvideo.surf$document
 ||gladvideo.website$document
-||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
@@ -221,7 +218,6 @@
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
 ||loadheavily-bestfreefile.best$document
-||locationtracker.services$document
 ||loosefit.info$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
@@ -395,7 +391,6 @@
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||smartys.link$document
-||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
 ||spotspotf.xyz$document
@@ -469,6 +464,7 @@
 ||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
+||track4ast.icu$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trkvpn.xyz$document

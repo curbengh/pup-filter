@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Apr 2021 00:07:51 UTC
+# Updated: Sun, 11 Apr 2021 12:06:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@ msFilterList
 -d comphp.xyz
 -d conceivecolor.xyz
 -d conflaqpzc.info
--d contentgate.uno
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -129,7 +128,6 @@ msFilterList
 -d getstablesystemupgrades.work
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
--d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -140,7 +138,6 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
--d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -224,7 +221,6 @@ msFilterList
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadheavily-bestfreefile.best
--d locationtracker.services
 -d loosefit.info
 -d loveorfun.cc
 -d lubbockeda.org
@@ -398,7 +394,6 @@ msFilterList
 -d shopnsave.world
 -d shoppingexp.xyz
 -d smartys.link
--d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
 -d spotspotf.xyz
@@ -472,6 +467,7 @@ msFilterList
 -d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
+-d track4ast.icu
 -d trafficbounce.net
 -d trafficgate.cc
 -d trkvpn.xyz

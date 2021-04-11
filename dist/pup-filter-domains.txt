@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Apr 2021 00:07:51 UTC
+# Updated: Sun, 11 Apr 2021 12:06:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -56,7 +56,6 @@ collectrewards.net
 comphp.xyz
 conceivecolor.xyz
 conflaqpzc.info
-contentgate.uno
 cooing.top
 credit-alerts.xyz
 credit-monitor.xyz
@@ -126,7 +125,6 @@ generouscare.info
 getstablesystemupgrades.work
 gladcboulevard.xyz
 gladdboulevard.xyz
-gladplacespin.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
 gladspaceplane.xyz
@@ -137,7 +135,6 @@ gladvideo.online
 gladvideo.site
 gladvideo.surf
 gladvideo.website
-global-info.space
 globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
@@ -221,7 +218,6 @@ loadfree-bestheavilyfile.best
 loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadheavily-bestfreefile.best
-locationtracker.services
 loosefit.info
 loveorfun.cc
 lubbockeda.org
@@ -395,7 +391,6 @@ shkshk.site
 shopnsave.world
 shoppingexp.xyz
 smartys.link
-spotplanetc.xyz
 spotplanetd.xyz
 spotspinb.xyz
 spotspotf.xyz
@@ -469,6 +464,7 @@ thrillqueen.xyz
 toolvpn.me
 toovolution.club
 topnotchsports.tips
+track4ast.icu
 trafficbounce.net
 trafficgate.cc
 trkvpn.xyz
