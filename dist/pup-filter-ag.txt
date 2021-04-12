@@ -1,22 +1,22 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 11 Apr 2021 12:06:54 UTC
+! Updated: Mon, 12 Apr 2021 00:07:02 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
+||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
-||amobil.online$all
-||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -78,6 +78,7 @@
 ||excitingthing.xyz$all
 ||extrasafe.xyz$all
 ||facebook-sex.com$all
+||fastmapc.xyz$all
 ||fastmapf.xyz$all
 ||fastplanetf.xyz$all
 ||fastspotb.xyz$all
@@ -329,7 +330,6 @@
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
-||rainlonginsect23.life$all
 ||readyhealth.info$all
 ||readyhealthgo.today$all
 ||recontent.casa$all

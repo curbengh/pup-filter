@@ -1,22 +1,22 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Apr 2021 12:06:54 UTC
+# Updated: Mon, 12 Apr 2021 00:07:02 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
+0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
-0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -78,6 +78,7 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
+0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspotb.xyz
@@ -329,7 +330,6 @@
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
-0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
 0.0.0.0 readyhealthgo.today
 0.0.0.0 recontent.casa

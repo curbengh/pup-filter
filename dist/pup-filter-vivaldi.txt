@@ -1,22 +1,22 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 11 Apr 2021 12:06:54 UTC
+! Updated: Mon, 12 Apr 2021 00:07:02 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
-||amobil.online$document
-||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -78,6 +78,7 @@
 ||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
+||fastmapc.xyz$document
 ||fastmapf.xyz$document
 ||fastplanetf.xyz$document
 ||fastspotb.xyz$document
@@ -329,7 +330,6 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
-||rainlonginsect23.life$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
