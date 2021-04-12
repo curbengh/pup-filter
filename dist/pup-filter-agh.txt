@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Apr 2021 00:07:02 UTC
+! Updated: Mon, 12 Apr 2021 12:09:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||advancecare.info^
 ||akb48wrapup.com^
 ||amateurxporn.com^
+||anismunre.info^
 ||apptool.me^
 ||ashtdi.cn^
 ||assuredhealth.info^
@@ -78,7 +79,6 @@
 ||excitingthing.xyz^
 ||extrasafe.xyz^
 ||facebook-sex.com^
-||fastmapc.xyz^
 ||fastmapf.xyz^
 ||fastplanetf.xyz^
 ||fastspotb.xyz^
@@ -144,7 +144,6 @@
 ||gramp.xyz^
 ||grandcasinoprize.info^
 ||greatplaceofstubs.work^
-||greatsearch.xyz^
 ||growthnetic.club^
 ||hailso.xyz^
 ||haircarepro.info^
@@ -190,7 +189,6 @@
 ||insuredhealth.info^
 ||iosdfnc.com^
 ||iosrecommendedvpn.com^
-||iosvpnsecure.com^
 ||izipik.com^
 ||joyplaceplay.xyz^
 ||joyspotmap.xyz^
@@ -250,7 +248,6 @@
 ||modern-security.xyz^
 ||monitoring-credit.xyz^
 ||multitax.xyz^
-||news-new19.net^
 ||newsitedowloads.site^
 ||nogfw.pro^
 ||nosyknot.xyz^
@@ -436,6 +433,7 @@
 ||syncrenewed-bestcompletelyfile.best^
 ||syncuber-bestoriginalfile.best^
 ||syncuber-bestprecisefile.best^
+||tackis.xyz^
 ||talskingest.top^
 ||tastefulwood.xyz^
 ||theable.me^
@@ -519,5 +517,4 @@
 ||yoursafesystemsupdating.work^
 ||yourstablegreatupdates.work^
 ||yourultimateperfectupgrades.work^
-||youthewinner.net^
 ||ysfetinora.tk^

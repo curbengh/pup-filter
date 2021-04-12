@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 12 Apr 2021 00:07:02 UTC
+# Updated: Mon, 12 Apr 2021 12:09:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ msFilterList
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d anismunre.info
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -81,7 +82,6 @@ msFilterList
 -d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
--d fastmapc.xyz
 -d fastmapf.xyz
 -d fastplanetf.xyz
 -d fastspotb.xyz
@@ -147,7 +147,6 @@ msFilterList
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
--d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -193,7 +192,6 @@ msFilterList
 -d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d izipik.com
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
@@ -253,7 +251,6 @@ msFilterList
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d multitax.xyz
--d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
@@ -439,6 +436,7 @@ msFilterList
 -d syncrenewed-bestcompletelyfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me
@@ -522,5 +520,4 @@ msFilterList
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdates.work
 -d yourultimateperfectupgrades.work
--d youthewinner.net
 -d ysfetinora.tk
