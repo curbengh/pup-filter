@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 12 Apr 2021 12:09:59 UTC
+# Updated: Tue, 13 Apr 2021 00:08:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
@@ -17,6 +16,7 @@
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
+0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -108,6 +108,7 @@
 0.0.0.0 flexroll.online
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
+0.0.0.0 free-gifts.net
 0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freshclover.info
@@ -138,7 +139,6 @@
 0.0.0.0 gladvideo.website
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
-0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -222,6 +222,7 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 luckjackcasino.info
 0.0.0.0 luckymedia.casa
+0.0.0.0 luckymedia.cyou
 0.0.0.0 luckymedia.fun
 0.0.0.0 luckymedia.space
 0.0.0.0 luckymedia.website
@@ -319,14 +320,15 @@
 0.0.0.0 playspina.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
+0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
 0.0.0.0 readyhealthgo.today
 0.0.0.0 recontent.casa

@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Apr 2021 12:09:59 UTC
+! Updated: Tue, 13 Apr 2021 00:08:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -17,6 +16,7 @@ adrondespi.top
 advancecare.info
 akb48wrapup.com
 amateurxporn.com
+animenation.org
 anismunre.info
 apptool.me
 ashtdi.cn
@@ -108,6 +108,7 @@ flatbellylife.info
 flexroll.online
 foregoingpump.xyz
 forsalecheap.net
+free-gifts.net
 freeperfectupgrade.work
 freeperfectupgrading.work
 freshclover.info
@@ -138,7 +139,6 @@ gladvideo.surf
 gladvideo.website
 globalvideo.fun
 globalvideo.store
-go-x34n7wbcoes-ok.live
 govpshosting.com
 graburprize.net
 gramp.xyz
@@ -222,6 +222,7 @@ loveorfun.cc
 lubbockeda.org
 luckjackcasino.info
 luckymedia.casa
+luckymedia.cyou
 luckymedia.fun
 luckymedia.space
 luckymedia.website
@@ -319,14 +320,15 @@ plampo.xyz
 playspina.xyz
 playspind.xyz
 playspote.xyz
-premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
+rainlonginsect23.life
 readyhealth.info
 readyhealthgo.today
 recontent.casa

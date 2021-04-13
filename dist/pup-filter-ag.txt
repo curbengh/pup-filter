@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Apr 2021 12:09:59 UTC
+! Updated: Tue, 13 Apr 2021 00:08:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -17,6 +16,7 @@
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
+||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -108,6 +108,7 @@
 ||flexroll.online$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
+||free-gifts.net$all
 ||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
 ||freshclover.info$all
@@ -138,7 +139,6 @@
 ||gladvideo.website$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
-||go-x34n7wbcoes-ok.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -222,6 +222,7 @@
 ||lubbockeda.org$all
 ||luckjackcasino.info$all
 ||luckymedia.casa$all
+||luckymedia.cyou$all
 ||luckymedia.fun$all
 ||luckymedia.space$all
 ||luckymedia.website$all
@@ -319,14 +320,15 @@
 ||playspina.xyz$all
 ||playspind.xyz$all
 ||playspote.xyz$all
-||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
+||rainlonginsect23.life$all
 ||readyhealth.info$all
 ||readyhealthgo.today$all
 ||recontent.casa$all

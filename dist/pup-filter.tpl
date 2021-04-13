@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 12 Apr 2021 12:09:59 UTC
+# Updated: Tue, 13 Apr 2021 00:08:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -20,6 +19,7 @@ msFilterList
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d animenation.org
 -d anismunre.info
 -d apptool.me
 -d ashtdi.cn
@@ -111,6 +111,7 @@ msFilterList
 -d flexroll.online
 -d foregoingpump.xyz
 -d forsalecheap.net
+-d free-gifts.net
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
 -d freshclover.info
@@ -141,7 +142,6 @@ msFilterList
 -d gladvideo.website
 -d globalvideo.fun
 -d globalvideo.store
--d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -225,6 +225,7 @@ msFilterList
 -d lubbockeda.org
 -d luckjackcasino.info
 -d luckymedia.casa
+-d luckymedia.cyou
 -d luckymedia.fun
 -d luckymedia.space
 -d luckymedia.website
@@ -322,14 +323,15 @@ msFilterList
 -d playspina.xyz
 -d playspind.xyz
 -d playspote.xyz
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d rainlonginsect23.life
 -d readyhealth.info
 -d readyhealthgo.today
 -d recontent.casa
