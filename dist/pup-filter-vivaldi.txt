@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 13 Apr 2021 00:08:24 UTC
+! Updated: Tue, 13 Apr 2021 12:08:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -79,6 +79,7 @@
 ||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
+||fastmapc.xyz$document
 ||fastmapf.xyz$document
 ||fastplanetf.xyz$document
 ||fastspotb.xyz$document
@@ -127,6 +128,7 @@
 ||getstablesystemupgrades.work$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
+||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -137,6 +139,7 @@
 ||gladvideo.site$document
 ||gladvideo.surf$document
 ||gladvideo.website$document
+||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||govpshosting.com$document
@@ -189,6 +192,7 @@
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
+||iosvpnsecure.com$document
 ||izipik.com$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
@@ -390,6 +394,7 @@
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||smartys.link$document
+||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
 ||spotspotf.xyz$document
@@ -435,7 +440,6 @@
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
@@ -464,9 +468,9 @@
 ||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
-||track4ast.icu$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
+||trktraf.club$document
 ||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
@@ -519,4 +523,5 @@
 ||yoursafesystemsupdating.work$document
 ||yourstablegreatupdates.work$document
 ||yourultimateperfectupgrades.work$document
+||youthewinner.net$document
 ||ysfetinora.tk$document

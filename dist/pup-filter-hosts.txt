@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Apr 2021 00:08:24 UTC
+# Updated: Tue, 13 Apr 2021 12:08:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -79,6 +79,7 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
+0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspotb.xyz
@@ -127,6 +128,7 @@
 0.0.0.0 getstablesystemupgrades.work
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
+0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -137,6 +139,7 @@
 0.0.0.0 gladvideo.site
 0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
+0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 govpshosting.com
@@ -189,6 +192,7 @@
 0.0.0.0 insuredhealth.info
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
+0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotmap.xyz
@@ -390,6 +394,7 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
 0.0.0.0 smartys.link
+0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
 0.0.0.0 spotspinb.xyz
 0.0.0.0 spotspotf.xyz
@@ -435,7 +440,6 @@
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
-0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 theable.me
@@ -464,9 +468,9 @@
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
-0.0.0.0 track4ast.icu
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
+0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
@@ -519,4 +523,5 @@
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdates.work
 0.0.0.0 yourultimateperfectupgrades.work
+0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk
