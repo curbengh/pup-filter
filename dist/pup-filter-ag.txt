@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 14 Apr 2021 00:13:13 UTC
+! Updated: Wed, 14 Apr 2021 12:08:38 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,14 +10,12 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
-||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
 ||animenation.org$all
-||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -57,7 +55,6 @@
 ||comphp.xyz$all
 ||conceivecolor.xyz$all
 ||conflaqpzc.info$all
-||contentgate.fun$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
@@ -255,6 +252,7 @@
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||multitax.xyz$all
+||news-new19.net$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nosyknot.xyz$all
@@ -446,6 +444,7 @@
 ||syncuber-bestprecisefile.best$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
+||tdstraffic.xyz$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
