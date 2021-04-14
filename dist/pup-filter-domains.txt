@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Apr 2021 12:08:11 UTC
+# Updated: Wed, 14 Apr 2021 00:13:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,6 +57,7 @@ collectrewards.net
 comphp.xyz
 conceivecolor.xyz
 conflaqpzc.info
+contentgate.fun
 cooing.top
 credit-alerts.xyz
 credit-monitor.xyz
@@ -66,6 +67,7 @@ cryptounlimited.info
 cs-alerts.xyz
 cselfconnect.com
 curesector.today
+dailymedia.casa
 degreenm.top
 delightcmain.xyz
 digitalinvest.news
@@ -350,6 +352,7 @@ renewvideo.online
 renewvideo.site
 renewvideo.website
 resignation.top
+ritaus.org
 roadtoyourhealth.info
 robogarden.io
 rootessential.info
@@ -438,6 +441,7 @@ syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
 syncrenewed-bestcompletelyfile.best
+syncuber-bestlatestfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 talskingest.top
@@ -522,6 +526,7 @@ yoursafeststablelink.info
 yoursafeststablelinks.info
 yoursafesystemsupdating.work
 yourstablegreatupdates.work
+yourtechplaceforupgrades.info
 yourultimateperfectupgrades.work
 youthewinner.net
 ysfetinora.tk

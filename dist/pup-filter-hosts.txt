@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Apr 2021 12:08:11 UTC
+# Updated: Wed, 14 Apr 2021 00:13:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,6 +57,7 @@
 0.0.0.0 comphp.xyz
 0.0.0.0 conceivecolor.xyz
 0.0.0.0 conflaqpzc.info
+0.0.0.0 contentgate.fun
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
@@ -66,6 +67,7 @@
 0.0.0.0 cs-alerts.xyz
 0.0.0.0 cselfconnect.com
 0.0.0.0 curesector.today
+0.0.0.0 dailymedia.casa
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
@@ -350,6 +352,7 @@
 0.0.0.0 renewvideo.site
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
+0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
@@ -438,6 +441,7 @@
 0.0.0.0 syncprogressive-bestcompletelyfile.best
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
+0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 talskingest.top
@@ -522,6 +526,7 @@
 0.0.0.0 yoursafeststablelinks.info
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdates.work
+0.0.0.0 yourtechplaceforupgrades.info
 0.0.0.0 yourultimateperfectupgrades.work
 0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk

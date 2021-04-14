@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Apr 2021 12:08:11 UTC
+# Updated: Wed, 14 Apr 2021 00:13:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,6 +60,7 @@ msFilterList
 -d comphp.xyz
 -d conceivecolor.xyz
 -d conflaqpzc.info
+-d contentgate.fun
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -69,6 +70,7 @@ msFilterList
 -d cs-alerts.xyz
 -d cselfconnect.com
 -d curesector.today
+-d dailymedia.casa
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
@@ -353,6 +355,7 @@ msFilterList
 -d renewvideo.site
 -d renewvideo.website
 -d resignation.top
+-d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -441,6 +444,7 @@ msFilterList
 -d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
+-d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d talskingest.top
@@ -525,6 +529,7 @@ msFilterList
 -d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdates.work
+-d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
 -d youthewinner.net
 -d ysfetinora.tk
