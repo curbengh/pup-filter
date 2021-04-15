@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 15 Apr 2021 00:07:23 UTC
+# Updated: Thu, 15 Apr 2021 12:09:00 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -217,7 +217,6 @@
 0.0.0.0 livehealthcare.today
 0.0.0.0 livelyyroad.xyz
 0.0.0.0 livingmighty.club
-0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadgreatly-bestadvancedfile.best
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadheavily-bestfreefile.best
@@ -445,9 +444,9 @@
 0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
+0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
-0.0.0.0 tdstraffic.xyz
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -530,5 +529,4 @@
 0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work
 0.0.0.0 yourultimateperfectupgrades.work
-0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk

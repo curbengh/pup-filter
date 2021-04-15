@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Apr 2021 00:07:23 UTC
+! Updated: Thu, 15 Apr 2021 12:09:00 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -217,7 +217,6 @@
 ||livehealthcare.today^
 ||livelyyroad.xyz^
 ||livingmighty.club^
-||loadfree-bestheavilyfile.best^
 ||loadgreatly-bestadvancedfile.best^
 ||loadgreatly-bestquickfile.best^
 ||loadheavily-bestfreefile.best^
@@ -445,9 +444,9 @@
 ||syncuber-bestlatestfile.best^
 ||syncuber-bestoriginalfile.best^
 ||syncuber-bestprecisefile.best^
+||tackis.xyz^
 ||talskingest.top^
 ||tastefulwood.xyz^
-||tdstraffic.xyz^
 ||theable.me^
 ||thebettercleanplayer.info^
 ||thebettercleanplayers.info^
@@ -530,5 +529,4 @@
 ||yourstablegreatupdate.work^
 ||yourstablegreatupdates.work^
 ||yourultimateperfectupgrades.work^
-||youthewinner.net^
 ||ysfetinora.tk^
