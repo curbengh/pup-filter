@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Apr 2021 12:08:38 UTC
+# Updated: Thu, 15 Apr 2021 00:07:23 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -108,7 +109,6 @@
 0.0.0.0 flexroll.online
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
-0.0.0.0 free-gifts.net
 0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freshclover.info
@@ -141,6 +141,7 @@
 0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
+0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -324,14 +325,15 @@
 0.0.0.0 playspina.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
+0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
+0.0.0.0 qh97dkzy20.top
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
 0.0.0.0 readyhealthgo.today
@@ -388,7 +390,6 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
-0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -420,6 +421,8 @@
 0.0.0.0 subeamy.pw
 0.0.0.0 sugar-legal-about13.fun
 0.0.0.0 superiorcare.info
+0.0.0.0 superplace4upgrade.work
+0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
 0.0.0.0 survey-review.club
@@ -524,8 +527,8 @@
 0.0.0.0 yoursafeststablelink.info
 0.0.0.0 yoursafeststablelinks.info
 0.0.0.0 yoursafesystemsupdating.work
+0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work
-0.0.0.0 yourtechplaceforupgrades.info
 0.0.0.0 yourultimateperfectupgrades.work
 0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk

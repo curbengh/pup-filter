@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 14 Apr 2021 12:08:38 UTC
+! Updated: Thu, 15 Apr 2021 00:07:23 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -108,7 +109,6 @@
 ||flexroll.online$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
-||free-gifts.net$all
 ||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
 ||freshclover.info$all
@@ -141,6 +141,7 @@
 ||global-info.space$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
+||go-x34n7wbcoes-ok.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -324,14 +325,15 @@
 ||playspina.xyz$all
 ||playspind.xyz$all
 ||playspote.xyz$all
+||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
+||qh97dkzy20.top$all
 ||rainlonginsect23.life$all
 ||readyhealth.info$all
 ||readyhealthgo.today$all
@@ -388,7 +390,6 @@
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
-||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
 ||shkshk.site$all
@@ -420,6 +421,8 @@
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
 ||superiorcare.info$all
+||superplace4upgrade.work$all
+||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||survey-club.club$all
 ||survey-review.club$all
@@ -524,8 +527,8 @@
 ||yoursafeststablelink.info$all
 ||yoursafeststablelinks.info$all
 ||yoursafesystemsupdating.work$all
+||yourstablegreatupdate.work$all
 ||yourstablegreatupdates.work$all
-||yourtechplaceforupgrades.info$all
 ||yourultimateperfectupgrades.work$all
 ||youthewinner.net$all
 ||ysfetinora.tk$all

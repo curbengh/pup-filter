@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Apr 2021 12:08:38 UTC
+# Updated: Thu, 15 Apr 2021 00:07:23 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ msFilterList
 -d advancecare.info
 -d akb48wrapup.com
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -111,7 +112,6 @@ msFilterList
 -d flexroll.online
 -d foregoingpump.xyz
 -d forsalecheap.net
--d free-gifts.net
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
 -d freshclover.info
@@ -144,6 +144,7 @@ msFilterList
 -d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
+-d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -327,14 +328,15 @@ msFilterList
 -d playspina.xyz
 -d playspind.xyz
 -d playspote.xyz
+-d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d qh97dkzy20.top
 -d rainlonginsect23.life
 -d readyhealth.info
 -d readyhealthgo.today
@@ -391,7 +393,6 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
--d seemlast.monster
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
@@ -423,6 +424,8 @@ msFilterList
 -d subeamy.pw
 -d sugar-legal-about13.fun
 -d superiorcare.info
+-d superplace4upgrade.work
+-d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d survey-club.club
 -d survey-review.club
@@ -527,8 +530,8 @@ msFilterList
 -d yoursafeststablelink.info
 -d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work
+-d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
--d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
 -d youthewinner.net
 -d ysfetinora.tk

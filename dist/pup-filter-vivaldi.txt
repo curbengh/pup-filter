@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 14 Apr 2021 12:08:38 UTC
+! Updated: Thu, 15 Apr 2021 00:07:23 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -108,7 +109,6 @@
 ||flexroll.online$document
 ||foregoingpump.xyz$document
 ||forsalecheap.net$document
-||free-gifts.net$document
 ||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
 ||freshclover.info$document
@@ -141,6 +141,7 @@
 ||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
+||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -324,14 +325,15 @@
 ||playspina.xyz$document
 ||playspind.xyz$document
 ||playspote.xyz$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
-||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
+||qh97dkzy20.top$document
 ||rainlonginsect23.life$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
@@ -388,7 +390,6 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
-||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
@@ -420,6 +421,8 @@
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
 ||superiorcare.info$document
+||superplace4upgrade.work$document
+||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
 ||survey-review.club$document
@@ -524,8 +527,8 @@
 ||yoursafeststablelink.info$document
 ||yoursafeststablelinks.info$document
 ||yoursafesystemsupdating.work$document
+||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document
-||yourtechplaceforupgrades.info$document
 ||yourultimateperfectupgrades.work$document
 ||youthewinner.net$document
 ||ysfetinora.tk$document

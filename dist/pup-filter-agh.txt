@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 14 Apr 2021 12:08:38 UTC
+! Updated: Thu, 15 Apr 2021 00:07:23 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 ||advancecare.info^
 ||akb48wrapup.com^
 ||amateurxporn.com^
+||amobil.online^
 ||animenation.org^
 ||apptool.me^
 ||ashtdi.cn^
@@ -108,7 +109,6 @@
 ||flexroll.online^
 ||foregoingpump.xyz^
 ||forsalecheap.net^
-||free-gifts.net^
 ||freeperfectupgrade.work^
 ||freeperfectupgrading.work^
 ||freshclover.info^
@@ -141,6 +141,7 @@
 ||global-info.space^
 ||globalvideo.fun^
 ||globalvideo.store^
+||go-x34n7wbcoes-ok.live^
 ||govpshosting.com^
 ||graburprize.net^
 ||gramp.xyz^
@@ -324,14 +325,15 @@
 ||playspina.xyz^
 ||playspind.xyz^
 ||playspote.xyz^
+||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
 ||primawise.info^
 ||primecare.today^
 ||privacykeeper.net^
-||productiq.net^
 ||prohealthroutine.info^
 ||protect-connection.com^
 ||protectyourvpn.com^
+||qh97dkzy20.top^
 ||rainlonginsect23.life^
 ||readyhealth.info^
 ||readyhealthgo.today^
@@ -388,7 +390,6 @@
 ||security-made-easy.xyz^
 ||security-pro.xyz^
 ||security-protection.xyz^
-||seemlast.monster^
 ||selfradiance.info^
 ||service-care.space^
 ||shkshk.site^
@@ -420,6 +421,8 @@
 ||subeamy.pw^
 ||sugar-legal-about13.fun^
 ||superiorcare.info^
+||superplace4upgrade.work^
+||superplace4upgrading.work^
 ||superplaceforupgrade.info^
 ||survey-club.club^
 ||survey-review.club^
@@ -524,8 +527,8 @@
 ||yoursafeststablelink.info^
 ||yoursafeststablelinks.info^
 ||yoursafesystemsupdating.work^
+||yourstablegreatupdate.work^
 ||yourstablegreatupdates.work^
-||yourtechplaceforupgrades.info^
 ||yourultimateperfectupgrades.work^
 ||youthewinner.net^
 ||ysfetinora.tk^
