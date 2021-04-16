@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 16 Apr 2021 00:06:56 UTC
+# Updated: Fri, 16 Apr 2021 12:07:23 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -129,7 +129,6 @@
 0.0.0.0 getstablesystemupgrades.work
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -149,6 +148,7 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
+0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -476,7 +476,6 @@
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
-0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
