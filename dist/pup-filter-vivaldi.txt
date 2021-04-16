@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Apr 2021 12:09:00 UTC
+! Updated: Fri, 16 Apr 2021 00:06:56 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
@@ -40,7 +41,6 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||browsercheck.site$document
-||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
@@ -66,6 +66,7 @@
 ||cselfconnect.com$document
 ||curesector.today$document
 ||dailymedia.casa$document
+||dailymedia.monster$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
 ||digitalinvest.news$document
@@ -109,6 +110,7 @@
 ||flexroll.online$document
 ||foregoingpump.xyz$document
 ||forsalecheap.net$document
+||free-gifts.net$document
 ||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
 ||freshclover.info$document
@@ -317,7 +319,6 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||piorkeepi.top$document
-||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document

@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 15 Apr 2021 12:09:00 UTC
+# Updated: Fri, 16 Apr 2021 00:06:56 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+123news.website
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -40,7 +41,6 @@ blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 browsercheck.site
-btcinvesting.info
 bulley.shop
 cabins-r-us.com
 calculateprint.xyz
@@ -66,6 +66,7 @@ cs-alerts.xyz
 cselfconnect.com
 curesector.today
 dailymedia.casa
+dailymedia.monster
 degreenm.top
 delightcmain.xyz
 digitalinvest.news
@@ -109,6 +110,7 @@ flatbellylife.info
 flexroll.online
 foregoingpump.xyz
 forsalecheap.net
+free-gifts.net
 freeperfectupgrade.work
 freeperfectupgrading.work
 freshclover.info
@@ -317,7 +319,6 @@ performspeedy-thegreatlyfile.best
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz

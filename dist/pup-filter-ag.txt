@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Apr 2021 12:09:00 UTC
+! Updated: Fri, 16 Apr 2021 00:06:56 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -40,7 +41,6 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||browsercheck.site$all
-||btcinvesting.info$all
 ||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
@@ -66,6 +66,7 @@
 ||cselfconnect.com$all
 ||curesector.today$all
 ||dailymedia.casa$all
+||dailymedia.monster$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
@@ -109,6 +110,7 @@
 ||flexroll.online$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
+||free-gifts.net$all
 ||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
 ||freshclover.info$all
@@ -317,7 +319,6 @@
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||piorkeepi.top$all
-||placesiteb.xyz$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
 ||plampo.xyz$all
