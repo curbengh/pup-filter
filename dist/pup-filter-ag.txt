@@ -1,16 +1,16 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Apr 2021 12:07:23 UTC
+! Updated: Sat, 17 Apr 2021 00:07:33 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
+||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
@@ -41,6 +41,7 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||browsercheck.site$all
+||btcinvesting.info$all
 ||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
@@ -108,6 +109,7 @@
 ||fitsure.info$all
 ||flatbellylife.info$all
 ||flexroll.online$all
+||flyfreecostas.live$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
 ||free-gifts.net$all
@@ -142,7 +144,6 @@
 ||global-info.space$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
-||go-x34n7wbcoes-ok.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -187,14 +188,12 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
 ||insuredhealth.info$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
-||iosvpnsecure.com$all
 ||izipik.com$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
@@ -239,7 +238,6 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
-||mathison.io$all
 ||max-care.info$all
 ||mediaplayer24.ml$all
 ||medicomatic.info$all
@@ -319,6 +317,7 @@
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||piorkeepi.top$all
+||placesiteb.xyz$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
 ||plampo.xyz$all
@@ -442,9 +441,9 @@
 ||syncprogressive-bestcompletelyfile.best$all
 ||syncprogressive-besthighlyfile.best$all
 ||syncrenewed-bestcompletelyfile.best$all
-||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
+||syncuber-bestprogressivefile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all

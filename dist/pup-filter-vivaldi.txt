@@ -1,16 +1,16 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Apr 2021 12:07:23 UTC
+! Updated: Sat, 17 Apr 2021 00:07:33 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
@@ -41,6 +41,7 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||browsercheck.site$document
+||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
@@ -108,6 +109,7 @@
 ||fitsure.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
+||flyfreecostas.live$document
 ||foregoingpump.xyz$document
 ||forsalecheap.net$document
 ||free-gifts.net$document
@@ -142,7 +144,6 @@
 ||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
-||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -187,14 +188,12 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
-||iosvpnsecure.com$document
 ||izipik.com$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
@@ -239,7 +238,6 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
-||mathison.io$document
 ||max-care.info$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
@@ -319,6 +317,7 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||piorkeepi.top$document
+||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -442,9 +441,9 @@
 ||syncprogressive-bestcompletelyfile.best$document
 ||syncprogressive-besthighlyfile.best$document
 ||syncrenewed-bestcompletelyfile.best$document
-||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
+||syncuber-bestprogressivefile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document

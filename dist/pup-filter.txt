@@ -1,16 +1,16 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Apr 2021 12:07:23 UTC
+! Updated: Sat, 17 Apr 2021 00:07:33 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 20patogh.com
 2kddbl.club
 321movies.xyz
 4uabs.club
 7awwa2.xyz
+abcscience.xyz
 abeah-security.xyz
 adrondespi.top
 advancecare.info
@@ -41,6 +41,7 @@ blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 browsercheck.site
+btcinvesting.info
 bulley.shop
 cabins-r-us.com
 calculateprint.xyz
@@ -108,6 +109,7 @@ fitnessdial.club
 fitsure.info
 flatbellylife.info
 flexroll.online
+flyfreecostas.live
 foregoingpump.xyz
 forsalecheap.net
 free-gifts.net
@@ -142,7 +144,6 @@ gladvideo.website
 global-info.space
 globalvideo.fun
 globalvideo.store
-go-x34n7wbcoes-ok.live
 govpshosting.com
 graburprize.net
 gramp.xyz
@@ -187,14 +188,12 @@ healthyparker.info
 healthyspirit.info
 healthysure.info
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 information.casa
 instablog.club
 insuredhealth.info
 iosdfnc.com
 iosrecommendedvpn.com
-iosvpnsecure.com
 izipik.com
 joyplaceplay.xyz
 joyspotmap.xyz
@@ -239,7 +238,6 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
-mathison.io
 max-care.info
 mediaplayer24.ml
 medicomatic.info
@@ -319,6 +317,7 @@ performspeedy-thegreatlyfile.best
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 piorkeepi.top
+placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
@@ -442,9 +441,9 @@ syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
 syncrenewed-bestcompletelyfile.best
-syncuber-bestlatestfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
+syncuber-bestprogressivefile.best
 tackis.xyz
 talskingest.top
 tastefulwood.xyz

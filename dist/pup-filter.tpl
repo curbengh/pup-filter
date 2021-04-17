@@ -1,19 +1,19 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 16 Apr 2021 12:07:23 UTC
+# Updated: Sat, 17 Apr 2021 00:07:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
@@ -44,6 +44,7 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d browsercheck.site
+-d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
@@ -111,6 +112,7 @@ msFilterList
 -d fitsure.info
 -d flatbellylife.info
 -d flexroll.online
+-d flyfreecostas.live
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
@@ -145,7 +147,6 @@ msFilterList
 -d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
--d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -190,14 +191,12 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
 -d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d izipik.com
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
@@ -242,7 +241,6 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mathison.io
 -d max-care.info
 -d mediaplayer24.ml
 -d medicomatic.info
@@ -322,6 +320,7 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d piorkeepi.top
+-d placesiteb.xyz
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
@@ -445,9 +444,9 @@ msFilterList
 -d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
--d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
+-d syncuber-bestprogressivefile.best
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz

@@ -1,16 +1,16 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 16 Apr 2021 12:07:23 UTC
+# Updated: Sat, 17 Apr 2021 00:07:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
+0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
@@ -41,6 +41,7 @@
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 browsercheck.site
+0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
 0.0.0.0 calculateprint.xyz
@@ -108,6 +109,7 @@
 0.0.0.0 fitsure.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
+0.0.0.0 flyfreecostas.live
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 free-gifts.net
@@ -142,7 +144,6 @@
 0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
-0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -187,14 +188,12 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
 0.0.0.0 insuredhealth.info
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
-0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotmap.xyz
@@ -239,7 +238,6 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
@@ -319,6 +317,7 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 piorkeepi.top
+0.0.0.0 placesiteb.xyz
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
@@ -442,9 +441,9 @@
 0.0.0.0 syncprogressive-bestcompletelyfile.best
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
-0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
+0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
