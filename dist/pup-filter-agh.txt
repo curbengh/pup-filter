@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 17 Apr 2021 00:07:33 UTC
+! Updated: Sat, 17 Apr 2021 12:06:50 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -149,7 +149,6 @@
 ||gramp.xyz^
 ||grandcasinoprize.info^
 ||greatplaceofstubs.work^
-||greatsearch.xyz^
 ||growthnetic.club^
 ||hailso.xyz^
 ||haircarepro.info^
@@ -475,6 +474,7 @@
 ||topnotchsports.tips^
 ||trafficbounce.net^
 ||trafficgate.cc^
+||trktraf.club^
 ||trkvpn.xyz^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^
