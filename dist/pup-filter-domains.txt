@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 17 Apr 2021 12:06:50 UTC
+# Updated: Sun, 18 Apr 2021 00:07:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+123news.website
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -68,6 +69,7 @@ cselfconnect.com
 curesector.today
 dailymedia.casa
 dailymedia.monster
+dailymedia.space
 degreenm.top
 delightcmain.xyz
 digitalinvest.news
@@ -109,7 +111,6 @@ fitnessdial.club
 fitsure.info
 flatbellylife.info
 flexroll.online
-flyfreecostas.live
 foregoingpump.xyz
 forsalecheap.net
 free-gifts.net
@@ -193,6 +194,7 @@ instablog.club
 insuredhealth.info
 iosdfnc.com
 iosrecommendedvpn.com
+iosvpnsecure.com
 izipik.com
 joyplaceplay.xyz
 joyspotmap.xyz
@@ -200,7 +202,6 @@ joyspotspin.xyz
 jsrenthouse.com
 jubilantdstreet.xyz
 kad3md.cn
-keepithealthy.info
 ketodietrecipes.org
 leeching.net
 legendaryplaceupgrade.info
@@ -219,6 +220,7 @@ livelyyroad.xyz
 livingmighty.club
 loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
+loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
 loosefit.info
 loveorfun.cc
@@ -237,6 +239,7 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
+mathison.io
 max-care.info
 mediaplayer24.ml
 medicomatic.info
@@ -328,6 +331,7 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -385,6 +389,7 @@ sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
 second-handjam.xyz
+securesite.xyz
 security-made-easy.xyz
 security-pro.xyz
 security-protection.xyz
@@ -440,10 +445,10 @@ syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
 syncrenewed-bestcompletelyfile.best
+syncuber-bestlatestfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
-tackis.xyz
 talskingest.top
 tastefulwood.xyz
 theable.me
@@ -496,6 +501,7 @@ viralarticles.net
 vital-health.club
 vitalrole.info
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpntool.me
 vpnupdatesnow.com
@@ -516,6 +522,7 @@ yourbettercleanplayer.info
 yourbettercleanplayers.info
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info
+yourlegendaryplaceupgrading.work
 yourlegendaryplayerupdate.work
 yourlegendaryplayerupdating.work
 yourlegendaryvideoupgrades.info
@@ -527,5 +534,6 @@ yoursafeststablelinks.info
 yoursafesystemsupdating.work
 yourstablegreatupdate.work
 yourstablegreatupdates.work
+yourtechplaceforupgrades.info
 yourultimateperfectupgrades.work
 ysfetinora.tk

@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 17 Apr 2021 12:06:50 UTC
+# Updated: Sun, 18 Apr 2021 00:07:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -71,6 +72,7 @@ msFilterList
 -d curesector.today
 -d dailymedia.casa
 -d dailymedia.monster
+-d dailymedia.space
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
@@ -112,7 +114,6 @@ msFilterList
 -d fitsure.info
 -d flatbellylife.info
 -d flexroll.online
--d flyfreecostas.live
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
@@ -196,6 +197,7 @@ msFilterList
 -d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
+-d iosvpnsecure.com
 -d izipik.com
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
@@ -203,7 +205,6 @@ msFilterList
 -d jsrenthouse.com
 -d jubilantdstreet.xyz
 -d kad3md.cn
--d keepithealthy.info
 -d ketodietrecipes.org
 -d leeching.net
 -d legendaryplaceupgrade.info
@@ -222,6 +223,7 @@ msFilterList
 -d livingmighty.club
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
+-d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
 -d loosefit.info
 -d loveorfun.cc
@@ -240,6 +242,7 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
+-d mathison.io
 -d max-care.info
 -d mediaplayer24.ml
 -d medicomatic.info
@@ -331,6 +334,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -388,6 +392,7 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
+-d securesite.xyz
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -443,10 +448,10 @@ msFilterList
 -d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
+-d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me
@@ -499,6 +504,7 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpntool.me
 -d vpnupdatesnow.com
@@ -519,6 +525,7 @@ msFilterList
 -d yourbettercleanplayers.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info
+-d yourlegendaryplaceupgrading.work
 -d yourlegendaryplayerupdate.work
 -d yourlegendaryplayerupdating.work
 -d yourlegendaryvideoupgrades.info
@@ -530,5 +537,6 @@ msFilterList
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
+-d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
 -d ysfetinora.tk

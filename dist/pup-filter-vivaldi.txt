@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 17 Apr 2021 12:06:50 UTC
+! Updated: Sun, 18 Apr 2021 00:07:35 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
@@ -68,6 +69,7 @@
 ||curesector.today$document
 ||dailymedia.casa$document
 ||dailymedia.monster$document
+||dailymedia.space$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
 ||digitalinvest.news$document
@@ -109,7 +111,6 @@
 ||fitsure.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
-||flyfreecostas.live$document
 ||foregoingpump.xyz$document
 ||forsalecheap.net$document
 ||free-gifts.net$document
@@ -193,6 +194,7 @@
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
+||iosvpnsecure.com$document
 ||izipik.com$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
@@ -200,7 +202,6 @@
 ||jsrenthouse.com$document
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
-||keepithealthy.info$document
 ||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
@@ -219,6 +220,7 @@
 ||livingmighty.club$document
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
+||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
 ||loosefit.info$document
 ||loveorfun.cc$document
@@ -237,6 +239,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mathison.io$document
 ||max-care.info$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
@@ -328,6 +331,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -385,6 +389,7 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
+||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -440,10 +445,10 @@
 ||syncprogressive-bestcompletelyfile.best$document
 ||syncprogressive-besthighlyfile.best$document
 ||syncrenewed-bestcompletelyfile.best$document
+||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
@@ -496,6 +501,7 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
+||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
@@ -516,6 +522,7 @@
 ||yourbettercleanplayers.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document
+||yourlegendaryplaceupgrading.work$document
 ||yourlegendaryplayerupdate.work$document
 ||yourlegendaryplayerupdating.work$document
 ||yourlegendaryvideoupgrades.info$document
@@ -527,5 +534,6 @@
 ||yoursafesystemsupdating.work$document
 ||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document
+||yourtechplaceforupgrades.info$document
 ||yourultimateperfectupgrades.work$document
 ||ysfetinora.tk$document
