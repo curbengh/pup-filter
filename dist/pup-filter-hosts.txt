@@ -1,17 +1,15 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 18 Apr 2021 12:06:58 UTC
+# Updated: Mon, 19 Apr 2021 00:08:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
-0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
@@ -70,6 +68,7 @@
 0.0.0.0 dailymedia.casa
 0.0.0.0 dailymedia.monster
 0.0.0.0 dailymedia.space
+0.0.0.0 dailymedia.surf
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
@@ -111,6 +110,7 @@
 0.0.0.0 fitsure.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
+0.0.0.0 flyfreecostas.live
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 free-gifts.net
@@ -145,6 +145,7 @@
 0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
+0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -188,6 +189,7 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -202,6 +204,7 @@
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
+0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
@@ -392,6 +395,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
+0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -448,6 +452,7 @@
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
+0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 theable.me

@@ -1,20 +1,18 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 18 Apr 2021 12:06:58 UTC
+# Updated: Mon, 19 Apr 2021 00:08:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
--d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
@@ -73,6 +71,7 @@ msFilterList
 -d dailymedia.casa
 -d dailymedia.monster
 -d dailymedia.space
+-d dailymedia.surf
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
@@ -114,6 +113,7 @@ msFilterList
 -d fitsure.info
 -d flatbellylife.info
 -d flexroll.online
+-d flyfreecostas.live
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
@@ -148,6 +148,7 @@ msFilterList
 -d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
+-d go-x34n7wbcoes-ok.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -191,6 +192,7 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -205,6 +207,7 @@ msFilterList
 -d jsrenthouse.com
 -d jubilantdstreet.xyz
 -d kad3md.cn
+-d keepithealthy.info
 -d ketodietrecipes.org
 -d leeching.net
 -d legendaryplaceupgrade.info
@@ -395,6 +398,7 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
+-d seemlast.monster
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
@@ -451,6 +455,7 @@ msFilterList
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me

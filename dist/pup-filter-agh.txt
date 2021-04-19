@@ -1,17 +1,15 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Apr 2021 12:06:58 UTC
+! Updated: Mon, 19 Apr 2021 00:08:01 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website^
 ||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
 ||4uabs.club^
 ||7awwa2.xyz^
-||abcscience.xyz^
 ||abeah-security.xyz^
 ||adrondespi.top^
 ||advancecare.info^
@@ -70,6 +68,7 @@
 ||dailymedia.casa^
 ||dailymedia.monster^
 ||dailymedia.space^
+||dailymedia.surf^
 ||degreenm.top^
 ||delightcmain.xyz^
 ||digitalinvest.news^
@@ -111,6 +110,7 @@
 ||fitsure.info^
 ||flatbellylife.info^
 ||flexroll.online^
+||flyfreecostas.live^
 ||foregoingpump.xyz^
 ||forsalecheap.net^
 ||free-gifts.net^
@@ -145,6 +145,7 @@
 ||global-info.space^
 ||globalvideo.fun^
 ||globalvideo.store^
+||go-x34n7wbcoes-ok.live^
 ||govpshosting.com^
 ||graburprize.net^
 ||gramp.xyz^
@@ -188,6 +189,7 @@
 ||healthyspirit.info^
 ||healthysure.info^
 ||idtheft-alert.xyz^
+||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -202,6 +204,7 @@
 ||jsrenthouse.com^
 ||jubilantdstreet.xyz^
 ||kad3md.cn^
+||keepithealthy.info^
 ||ketodietrecipes.org^
 ||leeching.net^
 ||legendaryplaceupgrade.info^
@@ -392,6 +395,7 @@
 ||security-made-easy.xyz^
 ||security-pro.xyz^
 ||security-protection.xyz^
+||seemlast.monster^
 ||selfradiance.info^
 ||service-care.space^
 ||shkshk.site^
@@ -448,6 +452,7 @@
 ||syncuber-bestoriginalfile.best^
 ||syncuber-bestprecisefile.best^
 ||syncuber-bestprogressivefile.best^
+||tackis.xyz^
 ||talskingest.top^
 ||tastefulwood.xyz^
 ||theable.me^

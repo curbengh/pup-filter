@@ -1,17 +1,15 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Apr 2021 12:06:58 UTC
+! Updated: Mon, 19 Apr 2021 00:08:01 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
@@ -70,6 +68,7 @@
 ||dailymedia.casa$document
 ||dailymedia.monster$document
 ||dailymedia.space$document
+||dailymedia.surf$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
 ||digitalinvest.news$document
@@ -111,6 +110,7 @@
 ||fitsure.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
+||flyfreecostas.live$document
 ||foregoingpump.xyz$document
 ||forsalecheap.net$document
 ||free-gifts.net$document
@@ -145,6 +145,7 @@
 ||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
+||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -188,6 +189,7 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -202,6 +204,7 @@
 ||jsrenthouse.com$document
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
+||keepithealthy.info$document
 ||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
@@ -392,6 +395,7 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
+||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
@@ -448,6 +452,7 @@
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
+||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
