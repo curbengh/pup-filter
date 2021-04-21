@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 20 Apr 2021 12:07:39 UTC
+! Updated: Wed, 21 Apr 2021 00:07:48 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -338,7 +338,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -453,6 +452,7 @@
 ||syncprogressive-bestcompletelyfile.best$all
 ||syncprogressive-besthighlyfile.best$all
 ||syncrenewed-bestcompletelyfile.best$all
+||syncstrong-bestextremelyfile.best$all
 ||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
@@ -478,6 +478,7 @@
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
+||thesafestreliablelink.work$all
 ||theslotomania.info$all
 ||thestablealwayssafeupdates.work$all
 ||thestablegreatupdates.work$all

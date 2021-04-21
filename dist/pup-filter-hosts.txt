@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Apr 2021 12:07:39 UTC
+# Updated: Wed, 21 Apr 2021 00:07:48 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -338,7 +338,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -453,6 +452,7 @@
 0.0.0.0 syncprogressive-bestcompletelyfile.best
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
+0.0.0.0 syncstrong-bestextremelyfile.best
 0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
@@ -478,6 +478,7 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
+0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
 0.0.0.0 thestablealwayssafeupdates.work
 0.0.0.0 thestablegreatupdates.work
