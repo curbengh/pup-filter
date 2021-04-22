@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 21 Apr 2021 12:10:38 UTC
+# Updated: Thu, 22 Apr 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -73,6 +73,7 @@ msFilterList
 -d dailymedia.monster
 -d dailymedia.space
 -d dailymedia.surf
+-d dailymedia.work
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
@@ -341,6 +342,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com

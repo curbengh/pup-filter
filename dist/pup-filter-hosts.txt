@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 21 Apr 2021 12:10:38 UTC
+# Updated: Thu, 22 Apr 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -70,6 +70,7 @@
 0.0.0.0 dailymedia.monster
 0.0.0.0 dailymedia.space
 0.0.0.0 dailymedia.surf
+0.0.0.0 dailymedia.work
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
@@ -338,6 +339,7 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
