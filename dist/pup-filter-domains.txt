@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 22 Apr 2021 00:07:03 UTC
+# Updated: Thu, 22 Apr 2021 12:09:15 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -327,7 +327,6 @@ performspeedy-thegreatlyfile.best
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
