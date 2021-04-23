@@ -1,10 +1,11 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 22 Apr 2021 12:09:15 UTC
+# Updated: Fri, 23 Apr 2021 00:07:12 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
@@ -14,9 +15,9 @@
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
+0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
-0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -40,6 +41,7 @@
 0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
+0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 browsercheck.site
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
@@ -57,6 +59,8 @@
 0.0.0.0 comphp.xyz
 0.0.0.0 conceivecolor.xyz
 0.0.0.0 conflaqpzc.info
+0.0.0.0 congrats-lucky-giveaway-smart.cyou
+0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
@@ -68,9 +72,11 @@
 0.0.0.0 curesector.today
 0.0.0.0 dailymedia.casa
 0.0.0.0 dailymedia.monster
+0.0.0.0 dailymedia.site
 0.0.0.0 dailymedia.space
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
+0.0.0.0 dailyrep.net
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
@@ -134,6 +140,7 @@
 0.0.0.0 getstablesystemupgrades.work
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
+0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
@@ -251,6 +258,7 @@
 0.0.0.0 max-care.info
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
+0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
 0.0.0.0 medsjournal.info
 0.0.0.0 meeryslotspin.xyz
@@ -270,7 +278,6 @@
 0.0.0.0 nutrinamic.info
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -338,7 +345,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -392,6 +398,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -400,7 +407,6 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
-0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -479,7 +485,6 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
-0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
 0.0.0.0 thestablealwayssafeupdates.work
 0.0.0.0 thestablegreatupdates.work
@@ -495,6 +500,7 @@
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
+0.0.0.0 unitehealth.club
 0.0.0.0 upbeatcboulevard.xyz
 0.0.0.0 upbeatmstreet.xyz
 0.0.0.0 upbeatmway.xyz

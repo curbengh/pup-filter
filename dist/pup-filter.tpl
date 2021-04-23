@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 22 Apr 2021 12:09:15 UTC
+# Updated: Fri, 23 Apr 2021 00:07:12 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -17,9 +18,9 @@ msFilterList
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
+-d altcasino.info
 -d amateurxporn.com
 -d amobil.online
--d animenation.org
 -d anismunre.info
 -d apptool.me
 -d ashtdi.cn
@@ -43,6 +44,7 @@ msFilterList
 -d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
+-d boot-upuber-bestfreefile.best
 -d browsercheck.site
 -d btcinvesting.info
 -d bulley.shop
@@ -60,6 +62,8 @@ msFilterList
 -d comphp.xyz
 -d conceivecolor.xyz
 -d conflaqpzc.info
+-d congrats-lucky-giveaway-smart.cyou
+-d congratsluckygiveawaysmart.cyou
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -71,9 +75,11 @@ msFilterList
 -d curesector.today
 -d dailymedia.casa
 -d dailymedia.monster
+-d dailymedia.site
 -d dailymedia.space
 -d dailymedia.surf
 -d dailymedia.work
+-d dailyrep.net
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
@@ -137,6 +143,7 @@ msFilterList
 -d getstablesystemupgrades.work
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
+-d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
@@ -254,6 +261,7 @@ msFilterList
 -d max-care.info
 -d mediaplayer24.ml
 -d medicomatic.info
+-d medicreed.club
 -d medjournalketo.info
 -d medsjournal.info
 -d meeryslotspin.xyz
@@ -273,7 +281,6 @@ msFilterList
 -d nutrinamic.info
 -d onegowc.pw
 -d online-survey.org
--d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -341,7 +348,6 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -395,6 +401,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -403,7 +410,6 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
--d seemlast.monster
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
@@ -482,7 +488,6 @@ msFilterList
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
--d thesafestreliablelink.work
 -d theslotomania.info
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
@@ -498,6 +503,7 @@ msFilterList
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
+-d unitehealth.club
 -d upbeatcboulevard.xyz
 -d upbeatmstreet.xyz
 -d upbeatmway.xyz

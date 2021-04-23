@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 22 Apr 2021 12:09:15 UTC
+! Updated: Fri, 23 Apr 2021 00:07:12 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -14,9 +15,9 @@
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
+||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
-||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -40,6 +41,7 @@
 ||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
+||boot-upuber-bestfreefile.best$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
 ||bulley.shop$all
@@ -57,6 +59,8 @@
 ||comphp.xyz$all
 ||conceivecolor.xyz$all
 ||conflaqpzc.info$all
+||congrats-lucky-giveaway-smart.cyou$all
+||congratsluckygiveawaysmart.cyou$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
@@ -68,9 +72,11 @@
 ||curesector.today$all
 ||dailymedia.casa$all
 ||dailymedia.monster$all
+||dailymedia.site$all
 ||dailymedia.space$all
 ||dailymedia.surf$all
 ||dailymedia.work$all
+||dailyrep.net$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
@@ -134,6 +140,7 @@
 ||getstablesystemupgrades.work$all
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
+||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
@@ -251,6 +258,7 @@
 ||max-care.info$all
 ||mediaplayer24.ml$all
 ||medicomatic.info$all
+||medicreed.club$all
 ||medjournalketo.info$all
 ||medsjournal.info$all
 ||meeryslotspin.xyz$all
@@ -270,7 +278,6 @@
 ||nutrinamic.info$all
 ||onegowc.pw$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -338,7 +345,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -392,6 +398,7 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -400,7 +407,6 @@
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
-||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
 ||shkshk.site$all
@@ -479,7 +485,6 @@
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
-||thesafestreliablelink.work$all
 ||theslotomania.info$all
 ||thestablealwayssafeupdates.work$all
 ||thestablegreatupdates.work$all
@@ -495,6 +500,7 @@
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
+||unitehealth.club$all
 ||upbeatcboulevard.xyz$all
 ||upbeatmstreet.xyz$all
 ||upbeatmway.xyz$all
