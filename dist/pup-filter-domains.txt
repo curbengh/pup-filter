@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Apr 2021 00:07:52 UTC
+# Updated: Sat, 24 Apr 2021 12:07:06 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -237,7 +237,6 @@ loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
-locationtracker.services
 loosefit.info
 loveorfun.cc
 lubbockeda.org
@@ -532,6 +531,7 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info
