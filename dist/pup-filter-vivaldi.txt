@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 25 Apr 2021 00:07:39 UTC
+! Updated: Sun, 25 Apr 2021 12:07:05 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -272,7 +271,6 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
-||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -353,7 +351,6 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
-||qh97dkzy20.top$document
 ||rainlonginsect23.life$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
@@ -501,7 +498,6 @@
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
-||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 25 Apr 2021 00:07:39 UTC
+! Updated: Sun, 25 Apr 2021 12:07:05 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 animenation.org
-anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -272,7 +271,6 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
-news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -353,7 +351,6 @@ privacykeeper.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
-qh97dkzy20.top
 rainlonginsect23.life
 readyhealth.info
 readyhealthgo.today
@@ -501,7 +498,6 @@ toovolution.club
 topnotchsports.tips
 trafficbounce.net
 trafficgate.cc
-trkvpn.xyz
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
