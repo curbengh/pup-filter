@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Apr 2021 12:07:06 UTC
+# Updated: Sun, 25 Apr 2021 00:07:39 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,13 +14,14 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
+-d animenation.org
 -d anismunre.info
 -d apptool.me
 -d ashtdi.cn
@@ -74,6 +75,7 @@ msFilterList
 -d cselfconnect.com
 -d curesector.today
 -d dailymedia.casa
+-d dailymedia.cyou
 -d dailymedia.monster
 -d dailymedia.site
 -d dailymedia.space
@@ -281,6 +283,7 @@ msFilterList
 -d nutrinamic.info
 -d onegowc.pw
 -d online-survey.org
+-d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -331,6 +334,7 @@ msFilterList
 -d performquick-thecompletelyfile.best
 -d performrecent-themostfile.best
 -d performrefined-theextremelyfile.best
+-d performrefineduberapplication.icu
 -d performrenewed-theoverlyfile.best
 -d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
@@ -392,6 +396,7 @@ msFilterList
 -d runoverly-bestdevelopedfile.best
 -d runoverly-bestquickfile.best
 -d runoverly-bestsophisticatedfile.best
+-d runprogressive-bestmostfile.best
 -d runrecent-bestextremelyfile.best
 -d runrecent-besthighlyfile.best
 -d safelyonline.tech
@@ -407,7 +412,6 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
--d securesite.xyz
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -447,6 +451,7 @@ msFilterList
 -d superplaceforupgrade.info
 -d survey-club.club
 -d survey-review.club
+-d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
 -d syncgreatly-bestrenewedfile.best
@@ -464,7 +469,6 @@ msFilterList
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
--d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
@@ -489,6 +493,7 @@ msFilterList
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
+-d thesafestreliablelink.work
 -d theslotomania.info
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
@@ -499,7 +504,6 @@ msFilterList
 -d topnotchsports.tips
 -d trafficbounce.net
 -d trafficgate.cc
--d trktraf.club
 -d trkvpn.xyz
 -d uclaimrewards.net
 -d unequalfaucet.xyz

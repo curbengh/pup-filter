@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 24 Apr 2021 12:07:06 UTC
+! Updated: Sun, 25 Apr 2021 00:07:39 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,13 +11,14 @@
 ||321movies.xyz^
 ||4uabs.club^
 ||7awwa2.xyz^
+||abcscience.xyz^
 ||abeah-security.xyz^
 ||adrondespi.top^
 ||advancecare.info^
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
-||amobil.online^
+||animenation.org^
 ||anismunre.info^
 ||apptool.me^
 ||ashtdi.cn^
@@ -71,6 +72,7 @@
 ||cselfconnect.com^
 ||curesector.today^
 ||dailymedia.casa^
+||dailymedia.cyou^
 ||dailymedia.monster^
 ||dailymedia.site^
 ||dailymedia.space^
@@ -278,6 +280,7 @@
 ||nutrinamic.info^
 ||onegowc.pw^
 ||online-survey.org^
+||onlinecinema.eu^
 ||operatecompletely-theprecisefile.best^
 ||operatecompletely-thespeedyfile.best^
 ||operateextremely-theprogressivefile.best^
@@ -328,6 +331,7 @@
 ||performquick-thecompletelyfile.best^
 ||performrecent-themostfile.best^
 ||performrefined-theextremelyfile.best^
+||performrefineduberapplication.icu^
 ||performrenewed-theoverlyfile.best^
 ||performsophisticated-thehighlyfile.best^
 ||performspeedy-thegreatlyfile.best^
@@ -389,6 +393,7 @@
 ||runoverly-bestdevelopedfile.best^
 ||runoverly-bestquickfile.best^
 ||runoverly-bestsophisticatedfile.best^
+||runprogressive-bestmostfile.best^
 ||runrecent-bestextremelyfile.best^
 ||runrecent-besthighlyfile.best^
 ||safelyonline.tech^
@@ -404,7 +409,6 @@
 ||sec-alerts.xyz^
 ||sec-monitoring.xyz^
 ||second-handjam.xyz^
-||securesite.xyz^
 ||security-made-easy.xyz^
 ||security-pro.xyz^
 ||security-protection.xyz^
@@ -444,6 +448,7 @@
 ||superplaceforupgrade.info^
 ||survey-club.club^
 ||survey-review.club^
+||syncadvanced-bestuberfile.best^
 ||synccompletely-bestoriginalfile.best^
 ||synccompletely-bestprogressivefile.best^
 ||syncgreatly-bestrenewedfile.best^
@@ -461,7 +466,6 @@
 ||syncprogressive-besthighlyfile.best^
 ||syncrenewed-bestcompletelyfile.best^
 ||syncstrong-bestextremelyfile.best^
-||syncuber-bestlatestfile.best^
 ||syncuber-bestoriginalfile.best^
 ||syncuber-bestprecisefile.best^
 ||syncuber-bestprogressivefile.best^
@@ -486,6 +490,7 @@
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
+||thesafestreliablelink.work^
 ||theslotomania.info^
 ||thestablealwayssafeupdates.work^
 ||thestablegreatupdates.work^
@@ -496,7 +501,6 @@
 ||topnotchsports.tips^
 ||trafficbounce.net^
 ||trafficgate.cc^
-||trktraf.club^
 ||trkvpn.xyz^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^

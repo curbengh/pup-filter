@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 24 Apr 2021 12:07:06 UTC
+! Updated: Sun, 25 Apr 2021 00:07:39 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,13 +11,14 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
+||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -71,6 +72,7 @@
 ||cselfconnect.com$document
 ||curesector.today$document
 ||dailymedia.casa$document
+||dailymedia.cyou$document
 ||dailymedia.monster$document
 ||dailymedia.site$document
 ||dailymedia.space$document
@@ -278,6 +280,7 @@
 ||nutrinamic.info$document
 ||onegowc.pw$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -328,6 +331,7 @@
 ||performquick-thecompletelyfile.best$document
 ||performrecent-themostfile.best$document
 ||performrefined-theextremelyfile.best$document
+||performrefineduberapplication.icu$document
 ||performrenewed-theoverlyfile.best$document
 ||performsophisticated-thehighlyfile.best$document
 ||performspeedy-thegreatlyfile.best$document
@@ -389,6 +393,7 @@
 ||runoverly-bestdevelopedfile.best$document
 ||runoverly-bestquickfile.best$document
 ||runoverly-bestsophisticatedfile.best$document
+||runprogressive-bestmostfile.best$document
 ||runrecent-bestextremelyfile.best$document
 ||runrecent-besthighlyfile.best$document
 ||safelyonline.tech$document
@@ -404,7 +409,6 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
-||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -444,6 +448,7 @@
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
 ||survey-review.club$document
+||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
 ||syncgreatly-bestrenewedfile.best$document
@@ -461,7 +466,6 @@
 ||syncprogressive-besthighlyfile.best$document
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncstrong-bestextremelyfile.best$document
-||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
@@ -486,6 +490,7 @@
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
+||thesafestreliablelink.work$document
 ||theslotomania.info$document
 ||thestablealwayssafeupdates.work$document
 ||thestablegreatupdates.work$document
@@ -496,7 +501,6 @@
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
-||trktraf.club$document
 ||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document

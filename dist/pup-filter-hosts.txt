@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Apr 2021 12:07:06 UTC
+# Updated: Sun, 25 Apr 2021 00:07:39 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,13 +11,14 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
+0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
+0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -71,6 +72,7 @@
 0.0.0.0 cselfconnect.com
 0.0.0.0 curesector.today
 0.0.0.0 dailymedia.casa
+0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.monster
 0.0.0.0 dailymedia.site
 0.0.0.0 dailymedia.space
@@ -278,6 +280,7 @@
 0.0.0.0 nutrinamic.info
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
+0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -328,6 +331,7 @@
 0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrecent-themostfile.best
 0.0.0.0 performrefined-theextremelyfile.best
+0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performrenewed-theoverlyfile.best
 0.0.0.0 performsophisticated-thehighlyfile.best
 0.0.0.0 performspeedy-thegreatlyfile.best
@@ -389,6 +393,7 @@
 0.0.0.0 runoverly-bestdevelopedfile.best
 0.0.0.0 runoverly-bestquickfile.best
 0.0.0.0 runoverly-bestsophisticatedfile.best
+0.0.0.0 runprogressive-bestmostfile.best
 0.0.0.0 runrecent-bestextremelyfile.best
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safelyonline.tech
@@ -404,7 +409,6 @@
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
 0.0.0.0 second-handjam.xyz
-0.0.0.0 securesite.xyz
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
@@ -444,6 +448,7 @@
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
 0.0.0.0 survey-review.club
+0.0.0.0 syncadvanced-bestuberfile.best
 0.0.0.0 synccompletely-bestoriginalfile.best
 0.0.0.0 synccompletely-bestprogressivefile.best
 0.0.0.0 syncgreatly-bestrenewedfile.best
@@ -461,7 +466,6 @@
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
-0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
@@ -486,6 +490,7 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
+0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
 0.0.0.0 thestablealwayssafeupdates.work
 0.0.0.0 thestablegreatupdates.work
@@ -496,7 +501,6 @@
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
-0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
