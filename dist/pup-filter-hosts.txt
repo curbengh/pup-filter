@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 25 Apr 2021 12:07:05 UTC
+# Updated: Mon, 26 Apr 2021 00:09:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -83,7 +83,9 @@
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
+0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
