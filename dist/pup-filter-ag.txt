@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Apr 2021 00:09:03 UTC
+! Updated: Mon, 26 Apr 2021 12:11:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -144,7 +145,6 @@
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
-||gladplacespin.xyz$all
 ||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
 ||gladspaceplane.xyz$all
@@ -160,7 +160,6 @@
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
 ||govpshosting.com$all
-||graburprize.net$all
 ||gramp.xyz$all
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
@@ -219,7 +218,6 @@
 ||jubilantdstreet.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
-||ketodietrecipes.org$all
 ||leeching.net$all
 ||legendaryplaceupgrade.info$all
 ||legendaryplaceupgrades.info$all
@@ -338,7 +336,6 @@
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||piorkeepi.top$all
-||placesiteb.xyz$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
 ||plampo.xyz$all
@@ -408,6 +405,7 @@
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
 ||second-handjam.xyz$all
+||securesite.xyz$all
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
@@ -465,6 +463,7 @@
 ||syncprogressive-besthighlyfile.best$all
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncstrong-bestextremelyfile.best$all
+||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
@@ -500,6 +499,8 @@
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
+||trktraf.club$all
+||trkvpn.xyz$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all

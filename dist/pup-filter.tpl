@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Apr 2021 00:09:03 UTC
+# Updated: Mon, 26 Apr 2021 12:11:26 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -147,7 +148,6 @@ msFilterList
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
--d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -163,7 +163,6 @@ msFilterList
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
 -d govpshosting.com
--d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
@@ -222,7 +221,6 @@ msFilterList
 -d jubilantdstreet.xyz
 -d kad3md.cn
 -d keepithealthy.info
--d ketodietrecipes.org
 -d leeching.net
 -d legendaryplaceupgrade.info
 -d legendaryplaceupgrades.info
@@ -341,7 +339,6 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d piorkeepi.top
--d placesiteb.xyz
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
@@ -411,6 +408,7 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
+-d securesite.xyz
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -468,6 +466,7 @@ msFilterList
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
+-d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
@@ -503,6 +502,8 @@ msFilterList
 -d topnotchsports.tips
 -d trafficbounce.net
 -d trafficgate.cc
+-d trktraf.club
+-d trkvpn.xyz
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info

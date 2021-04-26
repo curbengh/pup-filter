@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Apr 2021 00:09:03 UTC
+# Updated: Mon, 26 Apr 2021 12:11:26 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -144,7 +145,6 @@
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -160,7 +160,6 @@
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 govpshosting.com
-0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
@@ -219,7 +218,6 @@
 0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
-0.0.0.0 ketodietrecipes.org
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
@@ -338,7 +336,6 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 piorkeepi.top
-0.0.0.0 placesiteb.xyz
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
@@ -408,6 +405,7 @@
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
 0.0.0.0 second-handjam.xyz
+0.0.0.0 securesite.xyz
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
@@ -465,6 +463,7 @@
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
+0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
@@ -500,6 +499,8 @@
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
+0.0.0.0 trktraf.club
+0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Apr 2021 00:09:03 UTC
+! Updated: Mon, 26 Apr 2021 12:11:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -144,7 +145,6 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
-||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -160,7 +160,6 @@
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
-||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
@@ -219,7 +218,6 @@
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
-||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
@@ -338,7 +336,6 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||piorkeepi.top$document
-||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -408,6 +405,7 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
+||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -465,6 +463,7 @@
 ||syncprogressive-besthighlyfile.best$document
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncstrong-bestextremelyfile.best$document
+||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
@@ -500,6 +499,8 @@
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
+||trktraf.club$document
+||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document
