@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 27 Apr 2021 00:07:11 UTC
+! Updated: Tue, 27 Apr 2021 12:07:45 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ altcasino.info
 amateurxporn.com
 amobil.online
 animenation.org
+anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -239,6 +240,7 @@ loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
+locationtracker.services
 loosefit.info
 loveorfun.cc
 lubbockeda.org
@@ -272,6 +274,7 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
+news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -473,7 +476,6 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
-tackis.xyz
 talskingest.top
 tastefulwood.xyz
 theable.me
@@ -528,7 +530,6 @@ viralarticles.net
 vital-health.club
 vitalrole.info
 vpn-pro.info
-vpn1aprotectplus.com
 vpnadefenceplus.com
 vpntool.me
 vpnupdatesnow.com
@@ -540,7 +541,6 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 wowlifestyle.info
-youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

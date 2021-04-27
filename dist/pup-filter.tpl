@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Apr 2021 00:07:11 UTC
+# Updated: Tue, 27 Apr 2021 12:07:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -242,6 +243,7 @@ msFilterList
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
+-d locationtracker.services
 -d loosefit.info
 -d loveorfun.cc
 -d lubbockeda.org
@@ -275,6 +277,7 @@ msFilterList
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d multitax.xyz
+-d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
@@ -476,7 +479,6 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d theable.me
@@ -531,7 +533,6 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpntool.me
 -d vpnupdatesnow.com
@@ -543,7 +544,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

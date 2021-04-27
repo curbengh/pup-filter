@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 27 Apr 2021 00:07:11 UTC
+! Updated: Tue, 27 Apr 2021 12:07:45 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -239,6 +240,7 @@
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
+||locationtracker.services$document
 ||loosefit.info$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
@@ -272,6 +274,7 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
+||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -473,7 +476,6 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||theable.me$document
@@ -528,7 +530,6 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
@@ -540,7 +541,6 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

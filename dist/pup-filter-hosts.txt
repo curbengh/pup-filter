@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Apr 2021 00:07:11 UTC
+# Updated: Tue, 27 Apr 2021 12:07:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -239,6 +240,7 @@
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadheavily-bestfreefile.best
+0.0.0.0 locationtracker.services
 0.0.0.0 loosefit.info
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
@@ -272,6 +274,7 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
+0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
@@ -473,7 +476,6 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
-0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 theable.me
@@ -528,7 +530,6 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
@@ -540,7 +541,6 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 wowlifestyle.info
-0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info
