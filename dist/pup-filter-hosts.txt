@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Apr 2021 12:11:26 UTC
+# Updated: Tue, 27 Apr 2021 00:07:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -55,6 +55,7 @@
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
 0.0.0.0 cheerplaceweb.xyz
+0.0.0.0 cloudmedia.cyou
 0.0.0.0 coachbelief.xyz
 0.0.0.0 collectrewards.net
 0.0.0.0 comphp.xyz
@@ -317,6 +318,7 @@
 0.0.0.0 performhighly-therecentfile.best
 0.0.0.0 performintensely-thedevelopedfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
+0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
@@ -324,6 +326,7 @@
 0.0.0.0 performoverly-theprogressivefile.best
 0.0.0.0 performprecise-theextremelyfile.best
 0.0.0.0 performprecise-thehighlyfile.best
+0.0.0.0 performprecise-theuberfile.best
 0.0.0.0 performprogressive-theintenselyfile.best
 0.0.0.0 performprogressive-theoverlyfile.best
 0.0.0.0 performquick-thecompletelyfile.best
@@ -335,6 +338,7 @@
 0.0.0.0 performspeedy-thegreatlyfile.best
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
+0.0.0.0 performuberquickapplication.icu
 0.0.0.0 piorkeepi.top
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
@@ -448,6 +452,7 @@
 0.0.0.0 syncadvanced-bestuberfile.best
 0.0.0.0 synccompletely-bestoriginalfile.best
 0.0.0.0 synccompletely-bestprogressivefile.best
+0.0.0.0 synccompletely-bestrecentfile.best
 0.0.0.0 syncgreatly-bestrenewedfile.best
 0.0.0.0 syncheavily-bestlatestfile.best
 0.0.0.0 synchighly-bestfreefile.best
@@ -467,6 +472,7 @@
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
+0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz

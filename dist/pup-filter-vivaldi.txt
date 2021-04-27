@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Apr 2021 12:11:26 UTC
+! Updated: Tue, 27 Apr 2021 00:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -55,6 +55,7 @@
 ||celebseven.com$document
 ||centrodeartigos.com$document
 ||cheerplaceweb.xyz$document
+||cloudmedia.cyou$document
 ||coachbelief.xyz$document
 ||collectrewards.net$document
 ||comphp.xyz$document
@@ -317,6 +318,7 @@
 ||performhighly-therecentfile.best$document
 ||performintensely-thedevelopedfile.best$document
 ||performlatest-thecompletelyfile.best$document
+||performlatestoverlyapplication.icu$document
 ||performmost-thenewestfile.best$document
 ||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
@@ -324,6 +326,7 @@
 ||performoverly-theprogressivefile.best$document
 ||performprecise-theextremelyfile.best$document
 ||performprecise-thehighlyfile.best$document
+||performprecise-theuberfile.best$document
 ||performprogressive-theintenselyfile.best$document
 ||performprogressive-theoverlyfile.best$document
 ||performquick-thecompletelyfile.best$document
@@ -335,6 +338,7 @@
 ||performspeedy-thegreatlyfile.best$document
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
+||performuberquickapplication.icu$document
 ||piorkeepi.top$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
@@ -448,6 +452,7 @@
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
+||synccompletely-bestrecentfile.best$document
 ||syncgreatly-bestrenewedfile.best$document
 ||syncheavily-bestlatestfile.best$document
 ||synchighly-bestfreefile.best$document
@@ -467,6 +472,7 @@
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
+||syncuber-bestrefinedfile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document

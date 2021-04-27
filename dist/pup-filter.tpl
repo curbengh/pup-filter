@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Apr 2021 12:11:26 UTC
+# Updated: Tue, 27 Apr 2021 00:07:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@ msFilterList
 -d celebseven.com
 -d centrodeartigos.com
 -d cheerplaceweb.xyz
+-d cloudmedia.cyou
 -d coachbelief.xyz
 -d collectrewards.net
 -d comphp.xyz
@@ -320,6 +321,7 @@ msFilterList
 -d performhighly-therecentfile.best
 -d performintensely-thedevelopedfile.best
 -d performlatest-thecompletelyfile.best
+-d performlatestoverlyapplication.icu
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
@@ -327,6 +329,7 @@ msFilterList
 -d performoverly-theprogressivefile.best
 -d performprecise-theextremelyfile.best
 -d performprecise-thehighlyfile.best
+-d performprecise-theuberfile.best
 -d performprogressive-theintenselyfile.best
 -d performprogressive-theoverlyfile.best
 -d performquick-thecompletelyfile.best
@@ -338,6 +341,7 @@ msFilterList
 -d performspeedy-thegreatlyfile.best
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
+-d performuberquickapplication.icu
 -d piorkeepi.top
 -d placesitee.xyz
 -d placewebe.xyz
@@ -451,6 +455,7 @@ msFilterList
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
+-d synccompletely-bestrecentfile.best
 -d syncgreatly-bestrenewedfile.best
 -d syncheavily-bestlatestfile.best
 -d synchighly-bestfreefile.best
@@ -470,6 +475,7 @@ msFilterList
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
+-d syncuber-bestrefinedfile.best
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz

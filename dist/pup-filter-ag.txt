@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Apr 2021 12:11:26 UTC
+! Updated: Tue, 27 Apr 2021 00:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -55,6 +55,7 @@
 ||celebseven.com$all
 ||centrodeartigos.com$all
 ||cheerplaceweb.xyz$all
+||cloudmedia.cyou$all
 ||coachbelief.xyz$all
 ||collectrewards.net$all
 ||comphp.xyz$all
@@ -317,6 +318,7 @@
 ||performhighly-therecentfile.best$all
 ||performintensely-thedevelopedfile.best$all
 ||performlatest-thecompletelyfile.best$all
+||performlatestoverlyapplication.icu$all
 ||performmost-thenewestfile.best$all
 ||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
@@ -324,6 +326,7 @@
 ||performoverly-theprogressivefile.best$all
 ||performprecise-theextremelyfile.best$all
 ||performprecise-thehighlyfile.best$all
+||performprecise-theuberfile.best$all
 ||performprogressive-theintenselyfile.best$all
 ||performprogressive-theoverlyfile.best$all
 ||performquick-thecompletelyfile.best$all
@@ -335,6 +338,7 @@
 ||performspeedy-thegreatlyfile.best$all
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
+||performuberquickapplication.icu$all
 ||piorkeepi.top$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
@@ -448,6 +452,7 @@
 ||syncadvanced-bestuberfile.best$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all
+||synccompletely-bestrecentfile.best$all
 ||syncgreatly-bestrenewedfile.best$all
 ||syncheavily-bestlatestfile.best$all
 ||synchighly-bestfreefile.best$all
@@ -467,6 +472,7 @@
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
+||syncuber-bestrefinedfile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
