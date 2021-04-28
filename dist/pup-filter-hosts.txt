@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Apr 2021 12:07:45 UTC
+# Updated: Wed, 28 Apr 2021 00:08:38 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
-0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
@@ -88,7 +87,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -208,6 +206,7 @@
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
+0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 insuredhealth.info
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
@@ -220,6 +219,7 @@
 0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
+0.0.0.0 ketodietrecipes.org
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
@@ -258,7 +258,6 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
@@ -407,12 +406,10 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
 0.0.0.0 second-handjam.xyz
-0.0.0.0 securesite.xyz
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz

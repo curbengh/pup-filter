@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 27 Apr 2021 12:07:45 UTC
+! Updated: Wed, 28 Apr 2021 00:08:38 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
@@ -88,7 +87,6 @@
 ||ditvl.com$document
 ||dollarsurvey365.org$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -208,6 +206,7 @@
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
+||installcompletely-theoriginalfile.best$document
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
@@ -220,6 +219,7 @@
 ||jubilantdstreet.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
+||ketodietrecipes.org$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
@@ -258,7 +258,6 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
-||mathison.io$document
 ||max-care.info$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
@@ -407,12 +406,10 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
-||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
-||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
