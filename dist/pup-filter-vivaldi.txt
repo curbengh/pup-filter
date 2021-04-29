@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 28 Apr 2021 12:09:33 UTC
+! Updated: Thu, 29 Apr 2021 00:09:04 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,14 +11,13 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
-||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -39,7 +38,6 @@
 ||bitcoin-trader.me$document
 ||bittrend.com$document
 ||biztherapy.info$document
-||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upuber-bestfreefile.best$document
@@ -56,6 +54,7 @@
 ||centrodeartigos.com$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.cyou$document
+||cloudmedia.surf$document
 ||coachbelief.xyz$document
 ||collectrewards.net$document
 ||comphp.xyz$document
@@ -87,6 +86,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.org$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -407,6 +407,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -441,6 +442,7 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamlatest-bestoverlyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document

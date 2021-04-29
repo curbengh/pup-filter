@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 28 Apr 2021 12:09:33 UTC
+# Updated: Thu, 29 Apr 2021 00:09:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,14 +14,13 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
--d animenation.org
 -d anismunre.info
 -d apptool.me
 -d ashtdi.cn
@@ -42,7 +41,6 @@ msFilterList
 -d bitcoin-trader.me
 -d bittrend.com
 -d biztherapy.info
--d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upuber-bestfreefile.best
@@ -59,6 +57,7 @@ msFilterList
 -d centrodeartigos.com
 -d cheerplaceweb.xyz
 -d cloudmedia.cyou
+-d cloudmedia.surf
 -d coachbelief.xyz
 -d collectrewards.net
 -d comphp.xyz
@@ -90,6 +89,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.org
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -410,6 +410,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -444,6 +445,7 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
+-d streamlatest-bestoverlyfile.best
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
