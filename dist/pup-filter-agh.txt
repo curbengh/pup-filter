@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 30 Apr 2021 00:09:41 UTC
+! Updated: Fri, 30 Apr 2021 12:08:23 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -358,6 +358,7 @@
 ||prohealthroutine.info^
 ||protect-connection.com^
 ||protectyourvpn.com^
+||qh97dkzy20.top^
 ||quantum.work^
 ||rainlonginsect23.life^
 ||readyhealth.info^
@@ -423,7 +424,6 @@
 ||shkshk.site^
 ||shopnsave.world^
 ||shoppingexp.xyz^
-||smartys.link^
 ||spotplanetc.xyz^
 ||spotplanetd.xyz^
 ||spotspinb.xyz^
@@ -536,6 +536,7 @@
 ||vital-health.club^
 ||vitalrole.info^
 ||vpn-pro.info^
+||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
 ||vpntool.me^
 ||vpnupdatesnow.com^

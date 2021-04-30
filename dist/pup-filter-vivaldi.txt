@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 30 Apr 2021 00:09:41 UTC
+! Updated: Fri, 30 Apr 2021 12:08:23 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -358,6 +358,7 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
+||qh97dkzy20.top$document
 ||quantum.work$document
 ||rainlonginsect23.life$document
 ||readyhealth.info$document
@@ -423,7 +424,6 @@
 ||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
-||smartys.link$document
 ||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
@@ -536,6 +536,7 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
+||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document

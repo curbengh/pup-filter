@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 30 Apr 2021 00:09:41 UTC
+# Updated: Fri, 30 Apr 2021 12:08:23 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -358,6 +358,7 @@
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
+0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
@@ -423,7 +424,6 @@
 0.0.0.0 shkshk.site
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
-0.0.0.0 smartys.link
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
 0.0.0.0 spotspinb.xyz
@@ -536,6 +536,7 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
