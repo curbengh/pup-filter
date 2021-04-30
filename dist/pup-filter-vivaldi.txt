@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 29 Apr 2021 12:12:07 UTC
+! Updated: Fri, 30 Apr 2021 00:09:41 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,8 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
+||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -37,6 +39,7 @@
 ||bitcoin-trader.me$document
 ||bittrend.com$document
 ||biztherapy.info$document
+||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upuber-bestfreefile.best$document
@@ -85,7 +88,6 @@
 ||ditvl.com$document
 ||dollarsurvey365.org$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -257,6 +259,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mathison.io$document
 ||max-care.info$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
@@ -355,6 +358,7 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
+||quantum.work$document
 ||rainlonginsect23.life$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
@@ -413,6 +417,7 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
+||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
@@ -426,6 +431,7 @@
 ||springplanetb.xyz$document
 ||springsitea.xyz$document
 ||springsitef.xyz$document
+||stay-notified.cc$document
 ||stingyscent.xyz$document
 ||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
@@ -440,6 +446,7 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamextremely-bestlatestfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document

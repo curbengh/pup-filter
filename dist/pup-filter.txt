@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 29 Apr 2021 12:12:07 UTC
+! Updated: Fri, 30 Apr 2021 00:09:41 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,8 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
+animenation.org
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -37,6 +39,7 @@ bigdaycasino.info
 bitcoin-trader.me
 bittrend.com
 biztherapy.info
+blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 boot-upuber-bestfreefile.best
@@ -85,7 +88,6 @@ displayfriend.xyz
 ditvl.com
 dollarsurvey365.org
 dragonballclub.com
-eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -257,6 +259,7 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
+mathison.io
 max-care.info
 mediaplayer24.ml
 medicomatic.info
@@ -355,6 +358,7 @@ privacykeeper.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
+quantum.work
 rainlonginsect23.life
 readyhealth.info
 readyhealthgo.today
@@ -413,6 +417,7 @@ second-handjam.xyz
 security-made-easy.xyz
 security-pro.xyz
 security-protection.xyz
+seemlast.monster
 selfradiance.info
 service-care.space
 shkshk.site
@@ -426,6 +431,7 @@ spotspotf.xyz
 springplanetb.xyz
 springsitea.xyz
 springsitef.xyz
+stay-notified.cc
 stingyscent.xyz
 storeheavily-thefreefile.best
 storeheavily-thequickfile.best
@@ -440,6 +446,7 @@ storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
+streamextremely-bestlatestfile.best
 streamlatest-bestoverlyfile.best
 styleandhealth.info
 subeamy.pw

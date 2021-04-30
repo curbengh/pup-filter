@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 29 Apr 2021 12:12:07 UTC
+# Updated: Fri, 30 Apr 2021 00:09:41 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,8 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
+-d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -40,6 +42,7 @@ msFilterList
 -d bitcoin-trader.me
 -d bittrend.com
 -d biztherapy.info
+-d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upuber-bestfreefile.best
@@ -88,7 +91,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.org
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -260,6 +262,7 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
+-d mathison.io
 -d max-care.info
 -d mediaplayer24.ml
 -d medicomatic.info
@@ -358,6 +361,7 @@ msFilterList
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d quantum.work
 -d rainlonginsect23.life
 -d readyhealth.info
 -d readyhealthgo.today
@@ -416,6 +420,7 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
+-d seemlast.monster
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
@@ -429,6 +434,7 @@ msFilterList
 -d springplanetb.xyz
 -d springsitea.xyz
 -d springsitef.xyz
+-d stay-notified.cc
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
@@ -443,6 +449,7 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
+-d streamextremely-bestlatestfile.best
 -d streamlatest-bestoverlyfile.best
 -d styleandhealth.info
 -d subeamy.pw

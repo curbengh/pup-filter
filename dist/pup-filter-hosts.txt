@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 29 Apr 2021 12:12:07 UTC
+# Updated: Fri, 30 Apr 2021 00:09:41 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,8 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
+0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -37,6 +39,7 @@
 0.0.0.0 bitcoin-trader.me
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
+0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upuber-bestfreefile.best
@@ -85,7 +88,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -257,6 +259,7 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
+0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
@@ -355,6 +358,7 @@
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
+0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
 0.0.0.0 readyhealthgo.today
@@ -413,6 +417,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
+0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -426,6 +431,7 @@
 0.0.0.0 springplanetb.xyz
 0.0.0.0 springsitea.xyz
 0.0.0.0 springsitef.xyz
+0.0.0.0 stay-notified.cc
 0.0.0.0 stingyscent.xyz
 0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
@@ -440,6 +446,7 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
+0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
