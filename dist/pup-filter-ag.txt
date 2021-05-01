@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 01 May 2021 00:10:15 UTC
+! Updated: Sat, 01 May 2021 12:08:30 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -144,7 +144,6 @@
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
-||gladplacespin.xyz$all
 ||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
 ||gladspaceplane.xyz$all
@@ -356,7 +355,6 @@
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
-||qh97dkzy20.top$all
 ||quantum.work$all
 ||rainlonginsect23.life$all
 ||readyhealth.info$all
@@ -445,6 +443,7 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
+||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all

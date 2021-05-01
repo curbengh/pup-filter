@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 01 May 2021 00:10:15 UTC
+! Updated: Sat, 01 May 2021 12:08:30 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -144,7 +144,6 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
-||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -356,7 +355,6 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
-||qh97dkzy20.top$document
 ||quantum.work$document
 ||rainlonginsect23.life$document
 ||readyhealth.info$document
@@ -445,6 +443,7 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document

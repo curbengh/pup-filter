@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 01 May 2021 00:10:15 UTC
+# Updated: Sat, 01 May 2021 12:08:30 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -144,7 +144,6 @@
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -356,7 +355,6 @@
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
-0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 readyhealth.info
@@ -445,6 +443,7 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
+0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
