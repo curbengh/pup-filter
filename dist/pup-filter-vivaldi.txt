@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 30 Apr 2021 12:08:23 UTC
+! Updated: Sat, 01 May 2021 00:10:15 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,14 +11,12 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -39,7 +37,6 @@
 ||bitcoin-trader.me$document
 ||bittrend.com$document
 ||biztherapy.info$document
-||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upuber-bestfreefile.best$document
@@ -56,6 +53,7 @@
 ||centrodeartigos.com$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.cyou$document
+||cloudmedia.fun$document
 ||cloudmedia.surf$document
 ||coachbelief.xyz$document
 ||collectrewards.net$document
@@ -146,6 +144,7 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
+||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -203,7 +202,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -415,6 +413,7 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
+||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -446,7 +445,6 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
-||streamextremely-bestlatestfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document

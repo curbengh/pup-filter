@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 30 Apr 2021 12:08:23 UTC
+# Updated: Sat, 01 May 2021 00:10:15 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,14 +14,12 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
--d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -42,7 +40,6 @@ msFilterList
 -d bitcoin-trader.me
 -d bittrend.com
 -d biztherapy.info
--d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upuber-bestfreefile.best
@@ -59,6 +56,7 @@ msFilterList
 -d centrodeartigos.com
 -d cheerplaceweb.xyz
 -d cloudmedia.cyou
+-d cloudmedia.fun
 -d cloudmedia.surf
 -d coachbelief.xyz
 -d collectrewards.net
@@ -149,6 +147,7 @@ msFilterList
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
+-d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -206,7 +205,6 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -418,6 +416,7 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
+-d securesite.xyz
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -449,7 +448,6 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
--d streamextremely-bestlatestfile.best
 -d streamlatest-bestoverlyfile.best
 -d styleandhealth.info
 -d subeamy.pw
