@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 01 May 2021 12:08:30 UTC
+# Updated: Sun, 02 May 2021 00:07:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
+0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
@@ -37,6 +38,7 @@
 0.0.0.0 bitcoin-trader.me
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
+0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upuber-bestfreefile.best
@@ -52,6 +54,7 @@
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
 0.0.0.0 cheerplaceweb.xyz
+0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
 0.0.0.0 cloudmedia.fun
 0.0.0.0 cloudmedia.surf
@@ -84,8 +87,8 @@
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
-0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -201,6 +204,7 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -443,7 +447,9 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
-0.0.0.0 streamlatest-bestextremelyfile.best
+0.0.0.0 streamadvanced-bestextremelyfile.best
+0.0.0.0 streamextremely-bestlatestfile.best
+0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
@@ -473,7 +479,6 @@
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
-0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best

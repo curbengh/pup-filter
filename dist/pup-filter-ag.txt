@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 01 May 2021 12:08:30 UTC
+! Updated: Sun, 02 May 2021 00:07:43 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
+||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
@@ -37,6 +38,7 @@
 ||bitcoin-trader.me$all
 ||bittrend.com$all
 ||biztherapy.info$all
+||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upuber-bestfreefile.best$all
@@ -52,6 +54,7 @@
 ||celebseven.com$all
 ||centrodeartigos.com$all
 ||cheerplaceweb.xyz$all
+||cloudmedia.casa$all
 ||cloudmedia.cyou$all
 ||cloudmedia.fun$all
 ||cloudmedia.surf$all
@@ -84,8 +87,8 @@
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
-||dollarsurvey365.org$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -201,6 +204,7 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -443,7 +447,9 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
-||streamlatest-bestextremelyfile.best$all
+||streamadvanced-bestextremelyfile.best$all
+||streamextremely-bestlatestfile.best$all
+||streamextremely-bestnewestfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
@@ -473,7 +479,6 @@
 ||syncprogressive-besthighlyfile.best$all
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncstrong-bestextremelyfile.best$all
-||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all

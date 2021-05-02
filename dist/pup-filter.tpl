@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 01 May 2021 12:08:30 UTC
+# Updated: Sun, 02 May 2021 00:07:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
@@ -40,6 +41,7 @@ msFilterList
 -d bitcoin-trader.me
 -d bittrend.com
 -d biztherapy.info
+-d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upuber-bestfreefile.best
@@ -55,6 +57,7 @@ msFilterList
 -d celebseven.com
 -d centrodeartigos.com
 -d cheerplaceweb.xyz
+-d cloudmedia.casa
 -d cloudmedia.cyou
 -d cloudmedia.fun
 -d cloudmedia.surf
@@ -87,8 +90,8 @@ msFilterList
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
--d dollarsurvey365.org
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -204,6 +207,7 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -446,7 +450,9 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
--d streamlatest-bestextremelyfile.best
+-d streamadvanced-bestextremelyfile.best
+-d streamextremely-bestlatestfile.best
+-d streamextremely-bestnewestfile.best
 -d streamlatest-bestoverlyfile.best
 -d styleandhealth.info
 -d subeamy.pw
@@ -476,7 +482,6 @@ msFilterList
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
--d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
