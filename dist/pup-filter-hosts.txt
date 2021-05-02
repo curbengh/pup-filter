@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 02 May 2021 00:07:43 UTC
+# Updated: Sun, 02 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,6 @@
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
-0.0.0.0 bestresults.xyz
 0.0.0.0 bettercleanplayer.info
 0.0.0.0 bettercleanplayers.info
 0.0.0.0 betterfreedownloadplayer.info
@@ -82,13 +81,11 @@
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
-0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -276,7 +273,6 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
-0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz

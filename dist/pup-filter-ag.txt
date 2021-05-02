@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 02 May 2021 00:07:43 UTC
+! Updated: Sun, 02 May 2021 12:07:13 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,6 @@
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
-||bestresults.xyz$all
 ||bettercleanplayer.info$all
 ||bettercleanplayers.info$all
 ||betterfreedownloadplayer.info$all
@@ -82,13 +81,11 @@
 ||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
-||degreenm.top$all
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -276,7 +273,6 @@
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||multitax.xyz$all
-||news-new19.net$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nosyknot.xyz$all
