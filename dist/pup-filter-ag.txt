@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 02 May 2021 12:07:13 UTC
+! Updated: Mon, 03 May 2021 00:08:18 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
-||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
@@ -200,6 +199,7 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||horny-honey.online$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -443,9 +443,8 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
-||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
-||streamextremely-bestnewestfile.best$all
+||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
