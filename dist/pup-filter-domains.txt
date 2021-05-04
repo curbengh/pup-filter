@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 May 2021 00:08:18 UTC
+# Updated: Tue, 04 May 2021 12:12:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,14 @@
 321movies.xyz
 4uabs.club
 7awwa2.xyz
+abcscience.xyz
 abeah-security.xyz
 adrondespi.top
 advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
 animenation.org
 apptool.me
 ashtdi.cn
@@ -27,6 +29,7 @@ baseofmp3.com
 bestlinkupgrade.info
 bestlinkupgrades.info
 bestlinkupgrading.info
+bestresults.xyz
 bettercleanplayer.info
 bettercleanplayers.info
 betterfreedownloadplayer.info
@@ -34,6 +37,7 @@ betterfreedownloadplayers.info
 bigcbd.info
 bigdaycasino.info
 bitcoin-trader.me
+bitcoinjunction.club
 bittrend.com
 biztherapy.info
 blockchain-com.email
@@ -80,11 +84,13 @@ dailymedia.space
 dailymedia.surf
 dailymedia.work
 dailyrep.net
+degreenm.top
 delightcmain.xyz
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
 dragonballclub.com
+eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -95,6 +101,7 @@ facebook-sex.com
 fastmapc.xyz
 fastmapf.xyz
 fastplanetf.xyz
+fastspota.xyz
 fastspotb.xyz
 fastwebe.xyz
 filmesonlineturbo.net
@@ -199,7 +206,6 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
-horny-honey.online
 idtheft-alert.xyz
 iketo.diet
 inappropriate.top
@@ -259,6 +265,7 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mathison.io
 max-care.info
+mediagate.fun
 mediaplayer24.ml
 medicomatic.info
 medicreed.club
@@ -352,6 +359,7 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -411,7 +419,6 @@ sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
 second-handjam.xyz
-securesite.xyz
 security-made-easy.xyz
 security-pro.xyz
 security-protection.xyz
@@ -426,6 +433,7 @@ spotplanetd.xyz
 spotspinb.xyz
 spotspotf.xyz
 springplanetb.xyz
+springplanetf.xyz
 springsitea.xyz
 springsitef.xyz
 stay-notified.cc
@@ -443,7 +451,9 @@ storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
+streamadvanced-bestextremelyfile.best
 streamextremely-bestlatestfile.best
+streamextremely-bestnewestfile.best
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 styleandhealth.info
@@ -474,6 +484,7 @@ syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
 syncrenewed-bestcompletelyfile.best
 syncstrong-bestextremelyfile.best
+syncuber-bestlatestfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
@@ -481,6 +492,7 @@ syncuber-bestrefinedfile.best
 tackis.xyz
 talskingest.top
 tastefulwood.xyz
+tdstraffic.xyz
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -495,7 +507,6 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work

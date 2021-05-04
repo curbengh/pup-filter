@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 May 2021 00:08:18 UTC
+# Updated: Tue, 04 May 2021 12:12:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,12 +14,14 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
+-d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -30,6 +32,7 @@ msFilterList
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
+-d bestresults.xyz
 -d bettercleanplayer.info
 -d bettercleanplayers.info
 -d betterfreedownloadplayer.info
@@ -37,6 +40,7 @@ msFilterList
 -d bigcbd.info
 -d bigdaycasino.info
 -d bitcoin-trader.me
+-d bitcoinjunction.club
 -d bittrend.com
 -d biztherapy.info
 -d blockchain-com.email
@@ -83,11 +87,13 @@ msFilterList
 -d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
+-d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -98,6 +104,7 @@ msFilterList
 -d fastmapc.xyz
 -d fastmapf.xyz
 -d fastplanetf.xyz
+-d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebe.xyz
 -d filmesonlineturbo.net
@@ -202,7 +209,6 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
--d horny-honey.online
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
@@ -262,6 +268,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mathison.io
 -d max-care.info
+-d mediagate.fun
 -d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
@@ -355,6 +362,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -414,7 +422,6 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
--d securesite.xyz
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -429,6 +436,7 @@ msFilterList
 -d spotspinb.xyz
 -d spotspotf.xyz
 -d springplanetb.xyz
+-d springplanetf.xyz
 -d springsitea.xyz
 -d springsitef.xyz
 -d stay-notified.cc
@@ -446,7 +454,9 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
+-d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
+-d streamextremely-bestnewestfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
 -d styleandhealth.info
@@ -477,6 +487,7 @@ msFilterList
 -d syncprogressive-besthighlyfile.best
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
+-d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
@@ -484,6 +495,7 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
+-d tdstraffic.xyz
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -498,7 +510,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work

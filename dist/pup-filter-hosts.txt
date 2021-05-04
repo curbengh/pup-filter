@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 May 2021 00:08:18 UTC
+# Updated: Tue, 04 May 2021 12:12:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,14 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
+0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -27,6 +29,7 @@
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
+0.0.0.0 bestresults.xyz
 0.0.0.0 bettercleanplayer.info
 0.0.0.0 bettercleanplayers.info
 0.0.0.0 betterfreedownloadplayer.info
@@ -34,6 +37,7 @@
 0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
 0.0.0.0 bitcoin-trader.me
+0.0.0.0 bitcoinjunction.club
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
 0.0.0.0 blockchain-com.email
@@ -80,11 +84,13 @@
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
+0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -95,6 +101,7 @@
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
+0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
@@ -199,7 +206,6 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
-0.0.0.0 horny-honey.online
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
@@ -259,6 +265,7 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
+0.0.0.0 mediagate.fun
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
@@ -352,6 +359,7 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -411,7 +419,6 @@
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
 0.0.0.0 second-handjam.xyz
-0.0.0.0 securesite.xyz
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
@@ -426,6 +433,7 @@
 0.0.0.0 spotspinb.xyz
 0.0.0.0 spotspotf.xyz
 0.0.0.0 springplanetb.xyz
+0.0.0.0 springplanetf.xyz
 0.0.0.0 springsitea.xyz
 0.0.0.0 springsitef.xyz
 0.0.0.0 stay-notified.cc
@@ -443,7 +451,9 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
+0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
+0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 styleandhealth.info
@@ -474,6 +484,7 @@
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
+0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
@@ -481,6 +492,7 @@
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
+0.0.0.0 tdstraffic.xyz
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -495,7 +507,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work

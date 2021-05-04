@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 03 May 2021 00:08:18 UTC
+! Updated: Tue, 04 May 2021 12:12:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,14 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
+||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -27,6 +29,7 @@
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
+||bestresults.xyz$all
 ||bettercleanplayer.info$all
 ||bettercleanplayers.info$all
 ||betterfreedownloadplayer.info$all
@@ -34,6 +37,7 @@
 ||bigcbd.info$all
 ||bigdaycasino.info$all
 ||bitcoin-trader.me$all
+||bitcoinjunction.club$all
 ||bittrend.com$all
 ||biztherapy.info$all
 ||blockchain-com.email$all
@@ -80,11 +84,13 @@
 ||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
+||degreenm.top$all
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -95,6 +101,7 @@
 ||fastmapc.xyz$all
 ||fastmapf.xyz$all
 ||fastplanetf.xyz$all
+||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebe.xyz$all
 ||filmesonlineturbo.net$all
@@ -199,7 +206,6 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
-||horny-honey.online$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -259,6 +265,7 @@
 ||manageuber-theswiftfile.best$all
 ||mathison.io$all
 ||max-care.info$all
+||mediagate.fun$all
 ||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
@@ -352,6 +359,7 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -411,7 +419,6 @@
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
 ||second-handjam.xyz$all
-||securesite.xyz$all
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
@@ -426,6 +433,7 @@
 ||spotspinb.xyz$all
 ||spotspotf.xyz$all
 ||springplanetb.xyz$all
+||springplanetf.xyz$all
 ||springsitea.xyz$all
 ||springsitef.xyz$all
 ||stay-notified.cc$all
@@ -443,7 +451,9 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
+||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
+||streamextremely-bestnewestfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||styleandhealth.info$all
@@ -474,6 +484,7 @@
 ||syncprogressive-besthighlyfile.best$all
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncstrong-bestextremelyfile.best$all
+||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
@@ -481,6 +492,7 @@
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
+||tdstraffic.xyz$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -495,7 +507,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all

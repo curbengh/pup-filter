@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 03 May 2021 00:08:18 UTC
+! Updated: Tue, 04 May 2021 12:12:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,14 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
+||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -27,6 +29,7 @@
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
+||bestresults.xyz$document
 ||bettercleanplayer.info$document
 ||bettercleanplayers.info$document
 ||betterfreedownloadplayer.info$document
@@ -34,6 +37,7 @@
 ||bigcbd.info$document
 ||bigdaycasino.info$document
 ||bitcoin-trader.me$document
+||bitcoinjunction.club$document
 ||bittrend.com$document
 ||biztherapy.info$document
 ||blockchain-com.email$document
@@ -80,11 +84,13 @@
 ||dailymedia.surf$document
 ||dailymedia.work$document
 ||dailyrep.net$document
+||degreenm.top$document
 ||delightcmain.xyz$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -95,6 +101,7 @@
 ||fastmapc.xyz$document
 ||fastmapf.xyz$document
 ||fastplanetf.xyz$document
+||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebe.xyz$document
 ||filmesonlineturbo.net$document
@@ -199,7 +206,6 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
-||horny-honey.online$document
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
 ||inappropriate.top$document
@@ -259,6 +265,7 @@
 ||manageuber-theswiftfile.best$document
 ||mathison.io$document
 ||max-care.info$document
+||mediagate.fun$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
@@ -352,6 +359,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -411,7 +419,6 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
-||securesite.xyz$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -426,6 +433,7 @@
 ||spotspinb.xyz$document
 ||spotspotf.xyz$document
 ||springplanetb.xyz$document
+||springplanetf.xyz$document
 ||springsitea.xyz$document
 ||springsitef.xyz$document
 ||stay-notified.cc$document
@@ -443,7 +451,9 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamadvanced-bestextremelyfile.best$document
 ||streamextremely-bestlatestfile.best$document
+||streamextremely-bestnewestfile.best$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||styleandhealth.info$document
@@ -474,6 +484,7 @@
 ||syncprogressive-besthighlyfile.best$document
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncstrong-bestextremelyfile.best$document
+||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
@@ -481,6 +492,7 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
+||tdstraffic.xyz$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -495,7 +507,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
