@@ -51,7 +51,7 @@ cat "oisd-exclude.html" | \
 xmlstarlet format --recover --html 2>/dev/null | \
 xmlstarlet select --html --template --value-of '//a' | \
 ## Append new line https://unix.stackexchange.com/a/31955
-sed -e '$a\' > "oisd-exclude.txt"
+sed '$a\' > "oisd-exclude.txt"
 
 # Merge Umbrella, Traco and self-maintained top domains
 cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" "oisd-exclude.txt" | \
