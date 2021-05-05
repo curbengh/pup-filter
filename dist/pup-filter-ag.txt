@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 04 May 2021 12:12:31 UTC
+! Updated: Wed, 05 May 2021 00:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,14 +11,12 @@
 ||321movies.xyz$all
 ||4uabs.club$all
 ||7awwa2.xyz$all
-||abcscience.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||advancecare.info$all
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -90,7 +88,6 @@
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -207,7 +204,6 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -359,7 +355,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -464,7 +459,6 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||survey-club.club$all
-||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all

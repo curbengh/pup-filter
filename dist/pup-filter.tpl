@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 04 May 2021 12:12:31 UTC
+# Updated: Wed, 05 May 2021 00:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,14 +14,12 @@ msFilterList
 -d 321movies.xyz
 -d 4uabs.club
 -d 7awwa2.xyz
--d abcscience.xyz
 -d abeah-security.xyz
 -d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -93,7 +91,6 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -210,7 +207,6 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -362,7 +358,6 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -467,7 +462,6 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d survey-club.club
--d survey-review.club
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best

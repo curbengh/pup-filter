@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 04 May 2021 12:12:31 UTC
+# Updated: Wed, 05 May 2021 00:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,14 +11,12 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
-0.0.0.0 abcscience.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -90,7 +88,6 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -207,7 +204,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -359,7 +355,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
@@ -464,7 +459,6 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
-0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
 0.0.0.0 synccompletely-bestoriginalfile.best
 0.0.0.0 synccompletely-bestprogressivefile.best

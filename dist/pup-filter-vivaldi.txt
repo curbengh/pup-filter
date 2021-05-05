@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 04 May 2021 12:12:31 UTC
+! Updated: Wed, 05 May 2021 00:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,14 +11,12 @@
 ||321movies.xyz$document
 ||4uabs.club$document
 ||7awwa2.xyz$document
-||abcscience.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -90,7 +88,6 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -207,7 +204,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -359,7 +355,6 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
-||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -464,7 +459,6 @@
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
-||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
