@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 05 May 2021 00:07:31 UTC
+! Updated: Wed, 05 May 2021 12:14:42 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -276,6 +276,7 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
+||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -360,6 +361,8 @@
 ||protectyourvpn.com$document
 ||quantum.work$document
 ||rainlonginsect23.life$document
+||random-prize-bigwin-official.cyou$document
+||randomprizebigwinofficial.cyou$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
@@ -483,7 +486,6 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document

@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 05 May 2021 00:07:31 UTC
+# Updated: Wed, 05 May 2021 12:14:42 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -276,6 +276,7 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
+news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -360,6 +361,8 @@ protect-connection.com
 protectyourvpn.com
 quantum.work
 rainlonginsect23.life
+random-prize-bigwin-official.cyou
+randomprizebigwinofficial.cyou
 readyhealth.info
 readyhealthgo.today
 recontent.casa
@@ -483,7 +486,6 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
-tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
