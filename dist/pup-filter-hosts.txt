@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 05 May 2021 12:14:42 UTC
+# Updated: Thu, 06 May 2021 00:07:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -38,7 +39,6 @@
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 bittrend.com
 0.0.0.0 biztherapy.info
-0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upuber-bestfreefile.best
@@ -88,6 +88,7 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -122,6 +123,7 @@
 0.0.0.0 fitlifevalue.info
 0.0.0.0 fitnessdial.club
 0.0.0.0 fitsure.info
+0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
@@ -161,6 +163,7 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
+0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -203,7 +206,9 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
+0.0.0.0 horny-honey.online
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -259,9 +264,9 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediagate.fun
+0.0.0.0 mediagate.surf
 0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
@@ -462,6 +467,7 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
+0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
 0.0.0.0 synccompletely-bestoriginalfile.best
 0.0.0.0 synccompletely-bestprogressivefile.best
@@ -503,6 +509,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work

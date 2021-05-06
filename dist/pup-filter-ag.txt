@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 05 May 2021 12:14:42 UTC
+! Updated: Thu, 06 May 2021 00:07:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -38,7 +39,6 @@
 ||bitcoinjunction.club$all
 ||bittrend.com$all
 ||biztherapy.info$all
-||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upuber-bestfreefile.best$all
@@ -88,6 +88,7 @@
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -122,6 +123,7 @@
 ||fitlifevalue.info$all
 ||fitnessdial.club$all
 ||fitsure.info$all
+||flash-rewards.info$all
 ||flatbellylife.info$all
 ||flexroll.online$all
 ||flyfreecostas.live$all
@@ -161,6 +163,7 @@
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
+||googsistem.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -203,7 +206,9 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||horny-honey.online$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -259,9 +264,9 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
-||mathison.io$all
 ||max-care.info$all
 ||mediagate.fun$all
+||mediagate.surf$all
 ||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
@@ -462,6 +467,7 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||survey-club.club$all
+||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all
@@ -503,6 +509,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 05 May 2021 12:14:42 UTC
+! Updated: Thu, 06 May 2021 00:07:24 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -38,7 +39,6 @@
 ||bitcoinjunction.club$document
 ||bittrend.com$document
 ||biztherapy.info$document
-||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upuber-bestfreefile.best$document
@@ -88,6 +88,7 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -122,6 +123,7 @@
 ||fitlifevalue.info$document
 ||fitnessdial.club$document
 ||fitsure.info$document
+||flash-rewards.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
 ||flyfreecostas.live$document
@@ -161,6 +163,7 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
+||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -203,7 +206,9 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
+||horny-honey.online$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -259,9 +264,9 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
-||mathison.io$document
 ||max-care.info$document
 ||mediagate.fun$document
+||mediagate.surf$document
 ||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
@@ -462,6 +467,7 @@
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
+||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
@@ -503,6 +509,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 05 May 2021 12:14:42 UTC
+# Updated: Thu, 06 May 2021 00:07:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -41,7 +42,6 @@ msFilterList
 -d bitcoinjunction.club
 -d bittrend.com
 -d biztherapy.info
--d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upuber-bestfreefile.best
@@ -91,6 +91,7 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -125,6 +126,7 @@ msFilterList
 -d fitlifevalue.info
 -d fitnessdial.club
 -d fitsure.info
+-d flash-rewards.info
 -d flatbellylife.info
 -d flexroll.online
 -d flyfreecostas.live
@@ -164,6 +166,7 @@ msFilterList
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
+-d googsistem.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
@@ -206,7 +209,9 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d horny-honey.online
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -262,9 +267,9 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mathison.io
 -d max-care.info
 -d mediagate.fun
+-d mediagate.surf
 -d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
@@ -465,6 +470,7 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d survey-club.club
+-d survey-review.club
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
@@ -506,6 +512,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
