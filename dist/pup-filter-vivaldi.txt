@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 06 May 2021 00:07:24 UTC
+! Updated: Thu, 06 May 2021 12:07:54 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,6 +25,7 @@
 ||asufij.xyz$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
+||bestappland.me$document
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
@@ -163,7 +164,6 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
-||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -264,6 +264,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mapopts.top$document
 ||max-care.info$document
 ||mediagate.fun$document
 ||mediagate.surf$document
@@ -350,6 +351,7 @@
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
 ||piorkeepi.top$document
+||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -425,7 +427,6 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
-||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
@@ -509,7 +510,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -525,7 +525,6 @@
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document

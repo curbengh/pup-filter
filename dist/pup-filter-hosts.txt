@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 06 May 2021 00:07:24 UTC
+# Updated: Thu, 06 May 2021 12:07:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,6 +25,7 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
+0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
@@ -163,7 +164,6 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
-0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -264,6 +264,7 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
+0.0.0.0 mapopts.top
 0.0.0.0 max-care.info
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
@@ -350,6 +351,7 @@
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 piorkeepi.top
+0.0.0.0 placesiteb.xyz
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
@@ -425,7 +427,6 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
-0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -509,7 +510,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -525,7 +525,6 @@
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
 0.0.0.0 trktraf.club
-0.0.0.0 trkvpn.xyz
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
