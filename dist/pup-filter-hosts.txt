@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 07 May 2021 00:08:38 UTC
+# Updated: Fri, 07 May 2021 12:13:32 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -165,6 +166,7 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
+0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -226,7 +228,6 @@
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
-0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
 0.0.0.0 legendaryplaceupgrading.info
@@ -559,6 +560,7 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 wowlifestyle.info
+0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info

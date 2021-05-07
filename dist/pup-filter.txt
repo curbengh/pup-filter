@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 May 2021 00:08:38 UTC
+! Updated: Fri, 07 May 2021 12:13:32 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 animenation.org
+anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -165,6 +166,7 @@ global-info.space
 globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
+googsistem.live
 govpshosting.com
 graburprize.net
 gramp.xyz
@@ -226,7 +228,6 @@ jubilantdstreet.xyz
 kad3md.cn
 keepithealthy.info
 ketodietrecipes.org
-leeching.net
 legendaryplaceupgrade.info
 legendaryplaceupgrades.info
 legendaryplaceupgrading.info
@@ -559,6 +560,7 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

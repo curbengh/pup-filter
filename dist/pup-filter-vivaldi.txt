@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 May 2021 00:08:38 UTC
+! Updated: Fri, 07 May 2021 12:13:32 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -165,6 +166,7 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
+||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -226,7 +228,6 @@
 ||kad3md.cn$document
 ||keepithealthy.info$document
 ||ketodietrecipes.org$document
-||leeching.net$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
 ||legendaryplaceupgrading.info$document
@@ -559,6 +560,7 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||wowlifestyle.info$document
+||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document
