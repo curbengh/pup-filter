@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 06 May 2021 12:07:54 UTC
+! Updated: Fri, 07 May 2021 00:08:38 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website^
 ||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
@@ -17,7 +16,6 @@
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
-||amobil.online^
 ||animenation.org^
 ||apptool.me^
 ||ashtdi.cn^
@@ -40,8 +38,11 @@
 ||bitcoinjunction.club^
 ||bittrend.com^
 ||biztherapy.info^
+||blockchain-com.email^
 ||bodyamaze.club^
 ||bodyselfcare.info^
+||boot-upfree-bestuberfile.best^
+||boot-upoverly-bestadvancedfile.best^
 ||boot-upuber-bestfreefile.best^
 ||browsercheck.site^
 ||btcinvesting.info^
@@ -206,7 +207,6 @@
 ||healthyparker.info^
 ||healthyspirit.info^
 ||healthysure.info^
-||horny-honey.online^
 ||idtheft-alert.xyz^
 ||iketo.diet^
 ||inappropriate.top^
@@ -265,6 +265,7 @@
 ||manageuber-thestrongfile.best^
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
+||mathison.io^
 ||max-care.info^
 ||mediagate.fun^
 ||mediagate.surf^
@@ -419,7 +420,6 @@
 ||search-tool.net^
 ||search-trends.co^
 ||searchfeed.co^
-||seasoned.co^
 ||sec-alert.xyz^
 ||sec-alerts.xyz^
 ||sec-monitoring.xyz^
@@ -522,6 +522,7 @@
 ||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
+||track4ast.icu^
 ||trafficbounce.net^
 ||trafficgate.cc^
 ||trktraf.club^

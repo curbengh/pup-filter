@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 06 May 2021 12:07:54 UTC
+# Updated: Fri, 07 May 2021 00:08:38 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -20,7 +19,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -43,8 +41,11 @@ msFilterList
 -d bitcoinjunction.club
 -d bittrend.com
 -d biztherapy.info
+-d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
+-d boot-upfree-bestuberfile.best
+-d boot-upoverly-bestadvancedfile.best
 -d boot-upuber-bestfreefile.best
 -d browsercheck.site
 -d btcinvesting.info
@@ -209,7 +210,6 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
--d horny-honey.online
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
@@ -268,6 +268,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d max-care.info
 -d mediagate.fun
 -d mediagate.surf
@@ -422,7 +423,6 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -525,6 +525,7 @@ msFilterList
 -d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
+-d track4ast.icu
 -d trafficbounce.net
 -d trafficgate.cc
 -d trktraf.club

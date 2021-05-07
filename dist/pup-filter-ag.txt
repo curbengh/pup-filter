@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 06 May 2021 12:07:54 UTC
+! Updated: Fri, 07 May 2021 00:08:38 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -17,7 +16,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -40,8 +38,11 @@
 ||bitcoinjunction.club$all
 ||bittrend.com$all
 ||biztherapy.info$all
+||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
+||boot-upfree-bestuberfile.best$all
+||boot-upoverly-bestadvancedfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
@@ -206,7 +207,6 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
-||horny-honey.online$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -265,6 +265,7 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
+||mathison.io$all
 ||max-care.info$all
 ||mediagate.fun$all
 ||mediagate.surf$all
@@ -419,7 +420,6 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -522,6 +522,7 @@
 ||toolvpn.me$all
 ||toovolution.club$all
 ||topnotchsports.tips$all
+||track4ast.icu$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trktraf.club$all
