@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 May 2021 12:13:32 UTC
+! Updated: Sat, 08 May 2021 00:07:35 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
@@ -16,6 +17,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
@@ -29,12 +31,14 @@
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
 ||bestresults.xyz$document
+||bestvideoplayerupgrades.work$document
 ||bettercleanplayer.info$document
 ||bettercleanplayers.info$document
 ||betterfreedownloadplayer.info$document
 ||betterfreedownloadplayers.info$document
 ||bigcbd.info$document
 ||bigdaycasino.info$document
+||bigwinonlinefreecongrats.cyou$document
 ||bitcoin-trader.me$document
 ||bitcoinjunction.club$document
 ||bittrend.com$document
@@ -210,7 +214,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -268,6 +271,7 @@
 ||mapopts.top$document
 ||mathison.io$document
 ||max-care.info$document
+||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
 ||mediaplayer24.ml$document
@@ -292,7 +296,6 @@
 ||nutrinamic.info$document
 ||onegowc.pw$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -421,6 +424,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -428,6 +432,7 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
+||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
@@ -459,8 +464,10 @@
 ||streamadvanced-bestextremelyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
+||streamintensely-bestcurrentfile.best$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
+||streamrecent-bestintenselyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document

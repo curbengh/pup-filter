@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 May 2021 12:13:32 UTC
+! Updated: Sat, 08 May 2021 00:07:35 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website^
 ||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
@@ -16,6 +17,7 @@
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
+||amobil.online^
 ||animenation.org^
 ||anismunre.info^
 ||apptool.me^
@@ -29,12 +31,14 @@
 ||bestlinkupgrades.info^
 ||bestlinkupgrading.info^
 ||bestresults.xyz^
+||bestvideoplayerupgrades.work^
 ||bettercleanplayer.info^
 ||bettercleanplayers.info^
 ||betterfreedownloadplayer.info^
 ||betterfreedownloadplayers.info^
 ||bigcbd.info^
 ||bigdaycasino.info^
+||bigwinonlinefreecongrats.cyou^
 ||bitcoin-trader.me^
 ||bitcoinjunction.club^
 ||bittrend.com^
@@ -210,7 +214,6 @@
 ||healthyspirit.info^
 ||healthysure.info^
 ||idtheft-alert.xyz^
-||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -268,6 +271,7 @@
 ||mapopts.top^
 ||mathison.io^
 ||max-care.info^
+||mediagate.cyou^
 ||mediagate.fun^
 ||mediagate.surf^
 ||mediaplayer24.ml^
@@ -292,7 +296,6 @@
 ||nutrinamic.info^
 ||onegowc.pw^
 ||online-survey.org^
-||onlinecinema.eu^
 ||operatecompletely-theprecisefile.best^
 ||operatecompletely-thespeedyfile.best^
 ||operateextremely-theprogressivefile.best^
@@ -421,6 +424,7 @@
 ||search-tool.net^
 ||search-trends.co^
 ||searchfeed.co^
+||seasoned.co^
 ||sec-alert.xyz^
 ||sec-alerts.xyz^
 ||sec-monitoring.xyz^
@@ -428,6 +432,7 @@
 ||security-made-easy.xyz^
 ||security-pro.xyz^
 ||security-protection.xyz^
+||seemlast.monster^
 ||selfradiance.info^
 ||service-care.space^
 ||shkshk.site^
@@ -459,8 +464,10 @@
 ||streamadvanced-bestextremelyfile.best^
 ||streamextremely-bestlatestfile.best^
 ||streamextremely-bestnewestfile.best^
+||streamintensely-bestcurrentfile.best^
 ||streamlatest-bestextremelyfile.best^
 ||streamlatest-bestoverlyfile.best^
+||streamrecent-bestintenselyfile.best^
 ||styleandhealth.info^
 ||subeamy.pw^
 ||sugar-legal-about13.fun^

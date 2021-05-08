@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 May 2021 12:13:32 UTC
+! Updated: Sat, 08 May 2021 00:07:35 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -16,6 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -29,12 +31,14 @@
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
 ||bestresults.xyz$all
+||bestvideoplayerupgrades.work$all
 ||bettercleanplayer.info$all
 ||bettercleanplayers.info$all
 ||betterfreedownloadplayer.info$all
 ||betterfreedownloadplayers.info$all
 ||bigcbd.info$all
 ||bigdaycasino.info$all
+||bigwinonlinefreecongrats.cyou$all
 ||bitcoin-trader.me$all
 ||bitcoinjunction.club$all
 ||bittrend.com$all
@@ -210,7 +214,6 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -268,6 +271,7 @@
 ||mapopts.top$all
 ||mathison.io$all
 ||max-care.info$all
+||mediagate.cyou$all
 ||mediagate.fun$all
 ||mediagate.surf$all
 ||mediaplayer24.ml$all
@@ -292,7 +296,6 @@
 ||nutrinamic.info$all
 ||onegowc.pw$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -421,6 +424,7 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -428,6 +432,7 @@
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
+||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
 ||shkshk.site$all
@@ -459,8 +464,10 @@
 ||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
+||streamintensely-bestcurrentfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
+||streamrecent-bestintenselyfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all

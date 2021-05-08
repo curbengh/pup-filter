@@ -1,10 +1,11 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 07 May 2021 12:13:32 UTC
+# Updated: Sat, 08 May 2021 00:07:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
@@ -16,6 +17,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
@@ -29,12 +31,14 @@
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
 0.0.0.0 bestresults.xyz
+0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bettercleanplayer.info
 0.0.0.0 bettercleanplayers.info
 0.0.0.0 betterfreedownloadplayer.info
 0.0.0.0 betterfreedownloadplayers.info
 0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
+0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bitcoin-trader.me
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 bittrend.com
@@ -210,7 +214,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -268,6 +271,7 @@
 0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
+0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
 0.0.0.0 mediaplayer24.ml
@@ -292,7 +296,6 @@
 0.0.0.0 nutrinamic.info
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -421,6 +424,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -428,6 +432,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
+0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
@@ -459,8 +464,10 @@
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
+0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
+0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sugar-legal-about13.fun

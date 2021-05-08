@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 07 May 2021 12:13:32 UTC
+# Updated: Sat, 08 May 2021 00:07:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -19,6 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -32,12 +34,14 @@ msFilterList
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
 -d bestresults.xyz
+-d bestvideoplayerupgrades.work
 -d bettercleanplayer.info
 -d bettercleanplayers.info
 -d betterfreedownloadplayer.info
 -d betterfreedownloadplayers.info
 -d bigcbd.info
 -d bigdaycasino.info
+-d bigwinonlinefreecongrats.cyou
 -d bitcoin-trader.me
 -d bitcoinjunction.club
 -d bittrend.com
@@ -213,7 +217,6 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -271,6 +274,7 @@ msFilterList
 -d mapopts.top
 -d mathison.io
 -d max-care.info
+-d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
 -d mediaplayer24.ml
@@ -295,7 +299,6 @@ msFilterList
 -d nutrinamic.info
 -d onegowc.pw
 -d online-survey.org
--d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -424,6 +427,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -431,6 +435,7 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
+-d seemlast.monster
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
@@ -462,8 +467,10 @@ msFilterList
 -d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
+-d streamintensely-bestcurrentfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
+-d streamrecent-bestintenselyfile.best
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
