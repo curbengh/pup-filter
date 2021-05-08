@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 08 May 2021 00:07:35 UTC
+# Updated: Sat, 08 May 2021 12:06:58 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
--d anismunre.info
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -41,7 +40,6 @@ msFilterList
 -d betterfreedownloadplayers.info
 -d bigcbd.info
 -d bigdaycasino.info
--d bigwinonlinefreecongrats.cyou
 -d bitcoin-trader.me
 -d bitcoinjunction.club
 -d bittrend.com
@@ -159,6 +157,7 @@ msFilterList
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
+-d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -179,6 +178,7 @@ msFilterList
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
+-d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -234,6 +234,7 @@ msFilterList
 -d kad3md.cn
 -d keepithealthy.info
 -d ketodietrecipes.org
+-d leeching.net
 -d legendaryplaceupgrade.info
 -d legendaryplaceupgrades.info
 -d legendaryplaceupgrading.info
@@ -521,6 +522,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -537,6 +539,7 @@ msFilterList
 -d trafficbounce.net
 -d trafficgate.cc
 -d trktraf.club
+-d trkvpn.xyz
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info

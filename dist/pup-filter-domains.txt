@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 08 May 2021 00:07:35 UTC
+# Updated: Sat, 08 May 2021 12:06:58 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ altcasino.info
 amateurxporn.com
 amobil.online
 animenation.org
-anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -38,7 +37,6 @@ betterfreedownloadplayer.info
 betterfreedownloadplayers.info
 bigcbd.info
 bigdaycasino.info
-bigwinonlinefreecongrats.cyou
 bitcoin-trader.me
 bitcoinjunction.club
 bittrend.com
@@ -156,6 +154,7 @@ getstablesystemupgrades.work
 gladcboulevard.xyz
 gladdboulevard.xyz
 gladmstreet.xyz
+gladplacespin.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
 gladspaceplane.xyz
@@ -176,6 +175,7 @@ graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
+greatsearch.xyz
 growthnetic.club
 hailso.xyz
 haircarepro.info
@@ -231,6 +231,7 @@ jubilantdstreet.xyz
 kad3md.cn
 keepithealthy.info
 ketodietrecipes.org
+leeching.net
 legendaryplaceupgrade.info
 legendaryplaceupgrades.info
 legendaryplaceupgrading.info
@@ -518,6 +519,7 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -534,6 +536,7 @@ track4ast.icu
 trafficbounce.net
 trafficgate.cc
 trktraf.club
+trkvpn.xyz
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
