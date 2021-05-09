@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 08 May 2021 12:06:58 UTC
+# Updated: Sun, 09 May 2021 00:07:36 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
+check-your-profitzone.life
 cheerplaceweb.xyz
 cloudmedia.casa
 cloudmedia.cyou
@@ -270,7 +271,6 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
-mathison.io
 max-care.info
 mediagate.cyou
 mediagate.fun
@@ -297,6 +297,7 @@ nutrahealth.info
 nutrinamic.info
 onegowc.pw
 online-survey.org
+onlinecinema.eu
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -465,7 +466,7 @@ storeswift-theheavilyfile.best
 streamadvanced-bestextremelyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
-streamintensely-bestcurrentfile.best
+streamintensely-bestquickfile.best
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamrecent-bestintenselyfile.best

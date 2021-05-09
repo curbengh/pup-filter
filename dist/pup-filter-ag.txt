@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 08 May 2021 12:06:58 UTC
+! Updated: Sun, 09 May 2021 00:07:36 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
+||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -270,7 +271,6 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
-||mathison.io$all
 ||max-care.info$all
 ||mediagate.cyou$all
 ||mediagate.fun$all
@@ -297,6 +297,7 @@
 ||nutrinamic.info$all
 ||onegowc.pw$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -465,7 +466,7 @@
 ||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
-||streamintensely-bestcurrentfile.best$all
+||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||streamrecent-bestintenselyfile.best$all
