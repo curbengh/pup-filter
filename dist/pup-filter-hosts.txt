@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 09 May 2021 00:07:36 UTC
+# Updated: Sun, 09 May 2021 12:06:48 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
-0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
@@ -170,13 +169,11 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
-0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
-0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -295,6 +292,8 @@
 0.0.0.0 nosyknot.xyz
 0.0.0.0 nutrahealth.info
 0.0.0.0 nutrinamic.info
+0.0.0.0 official-prize-national-random.cyou
+0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
 0.0.0.0 onlinecinema.eu
@@ -503,6 +502,7 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
+0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
@@ -533,7 +533,6 @@
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
-0.0.0.0 track4ast.icu
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
 0.0.0.0 trktraf.club
