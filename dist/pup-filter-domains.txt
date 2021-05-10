@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 10 May 2021 00:07:07 UTC
+# Updated: Mon, 10 May 2021 12:07:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -170,7 +170,6 @@ globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
 govpshosting.com
-graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
@@ -359,7 +358,6 @@ performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
@@ -377,7 +375,6 @@ protectyourvpn.com
 quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
-randomprizebigwinofficial.cyou
 readyhealth.info
 readyhealthgo.today
 recontent.casa
@@ -437,7 +434,6 @@ security-pro.xyz
 security-protection.xyz
 seemlast.monster
 selfradiance.info
-service-care.space
 shkshk.site
 shopnsave.world
 shoppingexp.xyz
@@ -540,7 +536,6 @@ topnotchsports.tips
 trafficbounce.net
 trafficgate.cc
 trktraf.club
-trkvpn.xyz
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info

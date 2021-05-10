@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 10 May 2021 00:07:07 UTC
+! Updated: Mon, 10 May 2021 12:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -170,7 +170,6 @@
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
 ||govpshosting.com$document
-||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
@@ -359,7 +358,6 @@
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
 ||piorkeepi.top$document
-||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
@@ -377,7 +375,6 @@
 ||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
-||randomprizebigwinofficial.cyou$document
 ||readyhealth.info$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
@@ -437,7 +434,6 @@
 ||security-protection.xyz$document
 ||seemlast.monster$document
 ||selfradiance.info$document
-||service-care.space$document
 ||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
@@ -540,7 +536,6 @@
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document
