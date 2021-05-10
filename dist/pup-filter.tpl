@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 09 May 2021 12:06:48 UTC
+# Updated: Mon, 10 May 2021 00:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d amobil.online
--d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -60,6 +59,7 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -215,6 +215,7 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -271,7 +272,9 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d max-care.info
+-d mediagate.club
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
@@ -280,7 +283,6 @@ msFilterList
 -d medicreed.club
 -d medjournalketo.info
 -d medsjournal.info
--d meeryslotspin.xyz
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
 -d mindbank.ai
@@ -468,7 +470,9 @@ msFilterList
 -d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
--d streamintensely-bestquickfile.best
+-d streamintensely-bestadvancedfile.best
+-d streamintensely-bestcurrentfile.best
+-d streamintensely-bestlatestfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
 -d streamrecent-bestintenselyfile.best

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 09 May 2021 12:06:48 UTC
+! Updated: Mon, 10 May 2021 00:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||amobil.online$document
-||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -57,6 +56,7 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.casa$document
@@ -212,6 +212,7 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -268,7 +269,9 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||mathison.io$document
 ||max-care.info$document
+||mediagate.club$document
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
@@ -277,7 +280,6 @@
 ||medicreed.club$document
 ||medjournalketo.info$document
 ||medsjournal.info$document
-||meeryslotspin.xyz$document
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
 ||mindbank.ai$document
@@ -465,7 +467,9 @@
 ||streamadvanced-bestextremelyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
-||streamintensely-bestquickfile.best$document
+||streamintensely-bestadvancedfile.best$document
+||streamintensely-bestcurrentfile.best$document
+||streamintensely-bestlatestfile.best$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||streamrecent-bestintenselyfile.best$document
