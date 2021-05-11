@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 10 May 2021 12:07:11 UTC
+! Updated: Tue, 11 May 2021 00:07:10 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
+||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -56,7 +57,6 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
@@ -279,6 +279,7 @@
 ||medicreed.club$all
 ||medjournalketo.info$all
 ||medsjournal.info$all
+||meeryslotspin.xyz$all
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
 ||mindbank.ai$all
@@ -466,6 +467,7 @@
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
+||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||streamrecent-bestintenselyfile.best$all
@@ -536,6 +538,7 @@
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trktraf.club$all
+||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
