@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 11 May 2021 00:07:10 UTC
+! Updated: Tue, 11 May 2021 12:09:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,6 +25,7 @@
 ||asufij.xyz$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
+||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
@@ -373,9 +374,11 @@
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
+||qh97dkzy20.top$all
 ||quantum.work$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
+||randomprizebigwinofficial.cyou$all
 ||readyhealth.info$all
 ||readyhealthgo.today$all
 ||recontent.casa$all
@@ -435,6 +438,7 @@
 ||security-protection.xyz$all
 ||seemlast.monster$all
 ||selfradiance.info$all
+||service-care.space$all
 ||shkshk.site$all
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
@@ -504,7 +508,6 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
-||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
@@ -572,7 +575,6 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||wowlifestyle.info$all
-||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 11 May 2021 00:07:10 UTC
+# Updated: Tue, 11 May 2021 12:09:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@ msFilterList
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
+-d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
@@ -376,9 +377,11 @@ msFilterList
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d qh97dkzy20.top
 -d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
+-d randomprizebigwinofficial.cyou
 -d readyhealth.info
 -d readyhealthgo.today
 -d recontent.casa
@@ -438,6 +441,7 @@ msFilterList
 -d security-protection.xyz
 -d seemlast.monster
 -d selfradiance.info
+-d service-care.space
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
@@ -507,7 +511,6 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -575,7 +578,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
