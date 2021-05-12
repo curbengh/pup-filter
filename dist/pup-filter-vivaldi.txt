@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 11 May 2021 12:09:29 UTC
+! Updated: Wed, 12 May 2021 00:06:46 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.casa$document
@@ -71,6 +72,7 @@
 ||conflaqpzc.info$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
+||connectionapplication.com$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
@@ -94,7 +96,6 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -212,7 +213,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -269,8 +269,8 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
-||mathison.io$document
 ||max-care.info$document
+||mediagate.casa$document
 ||mediagate.club$document
 ||mediagate.cyou$document
 ||mediagate.fun$document
@@ -289,6 +289,7 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
+||my-credit-score.xyz$document
 ||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
@@ -366,7 +367,6 @@
 ||playspina.xyz$document
 ||playspind.xyz$document
 ||playspote.xyz$document
-||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -396,7 +396,6 @@
 ||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
-||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document

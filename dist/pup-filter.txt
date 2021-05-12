@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 11 May 2021 12:09:29 UTC
+! Updated: Wed, 12 May 2021 00:06:46 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
+chatverse.net
 check-your-profitzone.life
 cheerplaceweb.xyz
 cloudmedia.casa
@@ -71,6 +72,7 @@ conceivecolor.xyz
 conflaqpzc.info
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
+connectionapplication.com
 cooing.top
 credit-alerts.xyz
 credit-monitor.xyz
@@ -94,7 +96,6 @@ digitalinvest.news
 displayfriend.xyz
 ditvl.com
 dragonballclub.com
-eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -212,7 +213,6 @@ healthyparker.info
 healthyspirit.info
 healthysure.info
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -269,8 +269,8 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
-mathison.io
 max-care.info
+mediagate.casa
 mediagate.club
 mediagate.cyou
 mediagate.fun
@@ -289,6 +289,7 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 multitax.xyz
+my-credit-score.xyz
 news-new19.net
 newsitedowloads.site
 nogfw.pro
@@ -366,7 +367,6 @@ plampo.xyz
 playspina.xyz
 playspind.xyz
 playspote.xyz
-premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
@@ -396,7 +396,6 @@ renewvideo.online
 renewvideo.site
 renewvideo.website
 resignation.top
-ritaus.org
 roadtoyourhealth.info
 robogarden.io
 rootessential.info

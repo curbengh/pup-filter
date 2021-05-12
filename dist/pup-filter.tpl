@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 11 May 2021 12:09:29 UTC
+# Updated: Wed, 12 May 2021 00:06:46 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -61,6 +61,7 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -74,6 +75,7 @@ msFilterList
 -d conflaqpzc.info
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
+-d connectionapplication.com
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -97,7 +99,6 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -215,7 +216,6 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -272,8 +272,8 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
--d mathison.io
 -d max-care.info
+-d mediagate.casa
 -d mediagate.club
 -d mediagate.cyou
 -d mediagate.fun
@@ -292,6 +292,7 @@ msFilterList
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d multitax.xyz
+-d my-credit-score.xyz
 -d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
@@ -369,7 +370,6 @@ msFilterList
 -d playspina.xyz
 -d playspind.xyz
 -d playspote.xyz
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
@@ -399,7 +399,6 @@ msFilterList
 -d renewvideo.site
 -d renewvideo.website
 -d resignation.top
--d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 11 May 2021 12:09:29 UTC
+# Updated: Wed, 12 May 2021 00:06:46 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -58,6 +58,7 @@
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cheerplaceweb.xyz
 0.0.0.0 cloudmedia.casa
@@ -71,6 +72,7 @@
 0.0.0.0 conflaqpzc.info
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
+0.0.0.0 connectionapplication.com
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
@@ -94,7 +96,6 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -212,7 +213,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -269,8 +269,8 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
-0.0.0.0 mathison.io
 0.0.0.0 max-care.info
+0.0.0.0 mediagate.casa
 0.0.0.0 mediagate.club
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
@@ -289,6 +289,7 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
+0.0.0.0 my-credit-score.xyz
 0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
@@ -366,7 +367,6 @@
 0.0.0.0 playspina.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
@@ -396,7 +396,6 @@
 0.0.0.0 renewvideo.site
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
-0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
