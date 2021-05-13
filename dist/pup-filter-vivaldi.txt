@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 12 May 2021 12:07:01 UTC
+! Updated: Thu, 13 May 2021 00:07:52 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||amobil.online$document
-||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -58,7 +57,6 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.casa$document
@@ -96,6 +94,7 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -177,7 +176,6 @@
 ||greatplaceofstubs.work$document
 ||greatsearch.xyz$document
 ||growthnetic.club$document
-||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
@@ -214,6 +212,7 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -270,13 +269,13 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||mathison.io$document
 ||max-care.info$document
 ||mediagate.casa$document
 ||mediagate.club$document
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
-||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
 ||medjournalketo.info$document
@@ -301,7 +300,6 @@
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -369,6 +367,7 @@
 ||playspina.xyz$document
 ||playspind.xyz$document
 ||playspote.xyz$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -398,6 +397,7 @@
 ||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
+||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
@@ -475,7 +475,6 @@
 ||streamintensely-bestlatestfile.best$document
 ||streamintensely-bestquickfile.best$document
 ||streamlatest-bestextremelyfile.best$document
-||streamlatest-bestoverlyfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
@@ -528,7 +527,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document

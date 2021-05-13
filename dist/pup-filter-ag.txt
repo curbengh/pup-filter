@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 12 May 2021 12:07:01 UTC
+! Updated: Thu, 13 May 2021 00:07:52 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
-||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -58,7 +57,6 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
@@ -96,6 +94,7 @@
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -177,7 +176,6 @@
 ||greatplaceofstubs.work$all
 ||greatsearch.xyz$all
 ||growthnetic.club$all
-||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
 ||happymakesite.xyz$all
@@ -214,6 +212,7 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -270,13 +269,13 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
+||mathison.io$all
 ||max-care.info$all
 ||mediagate.casa$all
 ||mediagate.club$all
 ||mediagate.cyou$all
 ||mediagate.fun$all
 ||mediagate.surf$all
-||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
 ||medjournalketo.info$all
@@ -301,7 +300,6 @@
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -369,6 +367,7 @@
 ||playspina.xyz$all
 ||playspind.xyz$all
 ||playspote.xyz$all
+||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
@@ -398,6 +397,7 @@
 ||renewvideo.site$all
 ||renewvideo.website$all
 ||resignation.top$all
+||ritaus.org$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
 ||rootessential.info$all
@@ -475,7 +475,6 @@
 ||streamintensely-bestlatestfile.best$all
 ||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
-||streamlatest-bestoverlyfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
@@ -528,7 +527,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
