@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 13 May 2021 12:07:03 UTC
+# Updated: Fri, 14 May 2021 00:07:14 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 amobil.online
+animenation.org
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -175,6 +176,7 @@ grandcasinoprize.info
 greatplaceofstubs.work
 greatsearch.xyz
 growthnetic.club
+hailso.xyz
 haircarepro.info
 happyactive.today
 happymakesite.xyz
@@ -299,6 +301,7 @@ official-prize-national-random.cyou
 officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
+onlinecinema.eu
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -466,6 +469,7 @@ storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
+streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
@@ -474,7 +478,9 @@ streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
 streamintensely-bestquickfile.best
 streamlatest-bestextremelyfile.best
+streamlatest-bestoverlyfile.best
 streamrecent-bestintenselyfile.best
+studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sugar-legal-about13.fun
@@ -526,6 +532,7 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work

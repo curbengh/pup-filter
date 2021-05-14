@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 13 May 2021 12:07:03 UTC
+! Updated: Fri, 14 May 2021 00:07:14 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
+||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -175,6 +176,7 @@
 ||greatplaceofstubs.work$all
 ||greatsearch.xyz$all
 ||growthnetic.club$all
+||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
 ||happymakesite.xyz$all
@@ -299,6 +301,7 @@
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -466,6 +469,7 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
+||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
@@ -474,7 +478,9 @@
 ||streamintensely-bestlatestfile.best$all
 ||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
+||streamlatest-bestoverlyfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
@@ -526,6 +532,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all

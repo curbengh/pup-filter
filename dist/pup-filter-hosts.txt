@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 13 May 2021 12:07:03 UTC
+# Updated: Fri, 14 May 2021 00:07:14 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
+0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
@@ -175,6 +176,7 @@
 0.0.0.0 greatplaceofstubs.work
 0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
+0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
@@ -299,6 +301,7 @@
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
+0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -466,6 +469,7 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
+0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
@@ -474,7 +478,9 @@
 0.0.0.0 streamintensely-bestlatestfile.best
 0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamlatest-bestextremelyfile.best
+0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
+0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sugar-legal-about13.fun
@@ -526,6 +532,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work

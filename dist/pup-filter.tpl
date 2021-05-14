@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 13 May 2021 12:07:03 UTC
+# Updated: Fri, 14 May 2021 00:07:14 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d amobil.online
+-d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -178,6 +179,7 @@ msFilterList
 -d greatplaceofstubs.work
 -d greatsearch.xyz
 -d growthnetic.club
+-d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
 -d happymakesite.xyz
@@ -302,6 +304,7 @@ msFilterList
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
 -d online-survey.org
+-d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -469,6 +472,7 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
+-d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
@@ -477,7 +481,9 @@ msFilterList
 -d streamintensely-bestlatestfile.best
 -d streamintensely-bestquickfile.best
 -d streamlatest-bestextremelyfile.best
+-d streamlatest-bestoverlyfile.best
 -d streamrecent-bestintenselyfile.best
+-d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
@@ -529,6 +535,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work

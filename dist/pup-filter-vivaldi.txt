@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 13 May 2021 12:07:03 UTC
+! Updated: Fri, 14 May 2021 00:07:14 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||amobil.online$document
+||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
@@ -175,6 +176,7 @@
 ||greatplaceofstubs.work$document
 ||greatsearch.xyz$document
 ||growthnetic.club$document
+||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
@@ -299,6 +301,7 @@
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -466,6 +469,7 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
@@ -474,7 +478,9 @@
 ||streamintensely-bestlatestfile.best$document
 ||streamintensely-bestquickfile.best$document
 ||streamlatest-bestextremelyfile.best$document
+||streamlatest-bestoverlyfile.best$document
 ||streamrecent-bestintenselyfile.best$document
+||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
@@ -526,6 +532,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
