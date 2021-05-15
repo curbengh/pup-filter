@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 14 May 2021 12:07:02 UTC
+# Updated: Sat, 15 May 2021 00:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -58,6 +57,7 @@
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cheerplaceweb.xyz
 0.0.0.0 cloudmedia.cyou
@@ -71,6 +71,7 @@
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
+0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
@@ -176,7 +177,6 @@
 0.0.0.0 greatplaceofstubs.work
 0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
-0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
@@ -277,6 +277,7 @@
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
+0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
@@ -301,7 +302,6 @@
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -358,6 +358,7 @@
 0.0.0.0 performrenewed-theoverlyfile.best
 0.0.0.0 performsophisticated-thehighlyfile.best
 0.0.0.0 performspeedy-thegreatlyfile.best
+0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
@@ -399,6 +400,7 @@
 0.0.0.0 renewvideo.site
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
+0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
@@ -469,7 +471,6 @@
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
-0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
@@ -479,6 +480,7 @@
 0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
+0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
@@ -528,11 +530,9 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
-0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -582,6 +582,7 @@
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
+0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
 0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info

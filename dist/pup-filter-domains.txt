@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 14 May 2021 12:07:02 UTC
+# Updated: Sat, 15 May 2021 00:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 apptool.me
 ashtdi.cn
@@ -58,6 +57,7 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
+chatverse.net
 check-your-profitzone.life
 cheerplaceweb.xyz
 cloudmedia.cyou
@@ -71,6 +71,7 @@ conflaqpzc.info
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
+contentgate.uno
 cooing.top
 credit-alerts.xyz
 credit-monitor.xyz
@@ -176,7 +177,6 @@ grandcasinoprize.info
 greatplaceofstubs.work
 greatsearch.xyz
 growthnetic.club
-hailso.xyz
 haircarepro.info
 happyactive.today
 happymakesite.xyz
@@ -277,6 +277,7 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
+mediaplayer24.ml
 medicomatic.info
 medicreed.club
 medjournalketo.info
@@ -301,7 +302,6 @@ official-prize-national-random.cyou
 officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
-onlinecinema.eu
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -358,6 +358,7 @@ performrefineduberapplication.icu
 performrenewed-theoverlyfile.best
 performsophisticated-thehighlyfile.best
 performspeedy-thegreatlyfile.best
+performstrong-thegreatlyfile.digital
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
@@ -399,6 +400,7 @@ renewvideo.online
 renewvideo.site
 renewvideo.website
 resignation.top
+rewardsluckygiveawayprize.cyou
 ritaus.org
 roadtoyourhealth.info
 robogarden.io
@@ -469,7 +471,6 @@ storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
-streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
@@ -479,6 +480,7 @@ streamintensely-bestlatestfile.best
 streamintensely-bestquickfile.best
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
+streamoverly-bestdevelopedfile.best
 streamrecent-bestintenselyfile.best
 studentslearnintogether.club
 styleandhealth.info
@@ -528,11 +530,9 @@ thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
-thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -582,6 +582,7 @@ webtip.co
 wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
+worldwideofficialrewardssuper.cyou
 wowlifestyle.info
 youngleaf.biz
 yourbestlinkupgrade.info

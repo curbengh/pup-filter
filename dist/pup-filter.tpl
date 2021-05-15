@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 14 May 2021 12:07:02 UTC
+# Updated: Sat, 15 May 2021 00:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -61,6 +60,7 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.cyou
@@ -74,6 +74,7 @@ msFilterList
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
+-d contentgate.uno
 -d cooing.top
 -d credit-alerts.xyz
 -d credit-monitor.xyz
@@ -179,7 +180,6 @@ msFilterList
 -d greatplaceofstubs.work
 -d greatsearch.xyz
 -d growthnetic.club
--d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
 -d happymakesite.xyz
@@ -280,6 +280,7 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
+-d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
@@ -304,7 +305,6 @@ msFilterList
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
 -d online-survey.org
--d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -361,6 +361,7 @@ msFilterList
 -d performrenewed-theoverlyfile.best
 -d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
+-d performstrong-thegreatlyfile.digital
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
@@ -402,6 +403,7 @@ msFilterList
 -d renewvideo.site
 -d renewvideo.website
 -d resignation.top
+-d rewardsluckygiveawayprize.cyou
 -d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
@@ -472,7 +474,6 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
--d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
@@ -482,6 +483,7 @@ msFilterList
 -d streamintensely-bestquickfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
+-d streamoverly-bestdevelopedfile.best
 -d streamrecent-bestintenselyfile.best
 -d studentslearnintogether.club
 -d styleandhealth.info
@@ -531,11 +533,9 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
--d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -585,6 +585,7 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site
+-d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
 -d youngleaf.biz
 -d yourbestlinkupgrade.info

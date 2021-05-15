@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 14 May 2021 12:07:02 UTC
+! Updated: Sat, 15 May 2021 00:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -58,6 +57,7 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.cyou$all
@@ -71,6 +71,7 @@
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
+||contentgate.uno$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
@@ -176,7 +177,6 @@
 ||greatplaceofstubs.work$all
 ||greatsearch.xyz$all
 ||growthnetic.club$all
-||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
 ||happymakesite.xyz$all
@@ -277,6 +277,7 @@
 ||mediagate.cyou$all
 ||mediagate.fun$all
 ||mediagate.surf$all
+||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
 ||medjournalketo.info$all
@@ -301,7 +302,6 @@
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -358,6 +358,7 @@
 ||performrenewed-theoverlyfile.best$all
 ||performsophisticated-thehighlyfile.best$all
 ||performspeedy-thegreatlyfile.best$all
+||performstrong-thegreatlyfile.digital$all
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
@@ -399,6 +400,7 @@
 ||renewvideo.site$all
 ||renewvideo.website$all
 ||resignation.top$all
+||rewardsluckygiveawayprize.cyou$all
 ||ritaus.org$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
@@ -469,7 +471,6 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
-||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
@@ -479,6 +480,7 @@
 ||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
+||streamoverly-bestdevelopedfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||studentslearnintogether.club$all
 ||styleandhealth.info$all
@@ -528,11 +530,9 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
-||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -582,6 +582,7 @@
 ||wellnessgram.info$all
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
+||worldwideofficialrewardssuper.cyou$all
 ||wowlifestyle.info$all
 ||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
