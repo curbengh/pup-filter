@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 15 May 2021 00:07:34 UTC
+# Updated: Sat, 15 May 2021 12:06:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,13 +18,13 @@
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
-0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
@@ -36,6 +36,8 @@
 0.0.0.0 betterfreedownloadplayers.info
 0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
+0.0.0.0 bigwin-online-free-congrats.cyou
+0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bitcoin-trader.me
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 bittrend.com
@@ -57,9 +59,9 @@
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cheerplaceweb.xyz
+0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
 0.0.0.0 cloudmedia.fun
 0.0.0.0 cloudmedia.surf
@@ -103,7 +105,6 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
-0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
@@ -153,6 +154,7 @@
 0.0.0.0 gapingshame.xyz
 0.0.0.0 generouscare.info
 0.0.0.0 getstablesystemupgrades.work
+0.0.0.0 gitionasan.biz
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
@@ -171,11 +173,12 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
+0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
+0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
-0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
@@ -516,14 +519,12 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
-0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
-0.0.0.0 theconnectvpn.com
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club

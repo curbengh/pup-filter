@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 00:07:34 UTC
+! Updated: Sat, 15 May 2021 12:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,13 +18,13 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
-||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
@@ -36,6 +36,8 @@
 ||betterfreedownloadplayers.info$all
 ||bigcbd.info$all
 ||bigdaycasino.info$all
+||bigwin-online-free-congrats.cyou$all
+||bigwinonlinefreecongrats.cyou$all
 ||bitcoin-trader.me$all
 ||bitcoinjunction.club$all
 ||bittrend.com$all
@@ -57,9 +59,9 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
+||cloudmedia.casa$all
 ||cloudmedia.cyou$all
 ||cloudmedia.fun$all
 ||cloudmedia.surf$all
@@ -103,7 +105,6 @@
 ||excitingthing.xyz$all
 ||extrasafe.xyz$all
 ||facebook-sex.com$all
-||fastmapc.xyz$all
 ||fastmapf.xyz$all
 ||fastplanetf.xyz$all
 ||fastspota.xyz$all
@@ -153,6 +154,7 @@
 ||gapingshame.xyz$all
 ||generouscare.info$all
 ||getstablesystemupgrades.work$all
+||gitionasan.biz$all
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
@@ -171,11 +173,12 @@
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
+||googsistem.live$all
 ||govpshosting.com$all
+||graburprize.net$all
 ||gramp.xyz$all
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
-||greatsearch.xyz$all
 ||growthnetic.club$all
 ||haircarepro.info$all
 ||happyactive.today$all
@@ -516,14 +519,12 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
-||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
-||theconnectvpn.com$all
 ||thecryptomoney.info$all
 ||thefatburner.info$all
 ||thefitproject.club$all

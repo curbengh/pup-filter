@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 00:07:34 UTC
+! Updated: Sat, 15 May 2021 12:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,13 +18,13 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
 ||asufij.xyz$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
-||bestappland.me$document
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
@@ -36,6 +36,8 @@
 ||betterfreedownloadplayers.info$document
 ||bigcbd.info$document
 ||bigdaycasino.info$document
+||bigwin-online-free-congrats.cyou$document
+||bigwinonlinefreecongrats.cyou$document
 ||bitcoin-trader.me$document
 ||bitcoinjunction.club$document
 ||bittrend.com$document
@@ -57,9 +59,9 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
+||cloudmedia.casa$document
 ||cloudmedia.cyou$document
 ||cloudmedia.fun$document
 ||cloudmedia.surf$document
@@ -103,7 +105,6 @@
 ||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
-||fastmapc.xyz$document
 ||fastmapf.xyz$document
 ||fastplanetf.xyz$document
 ||fastspota.xyz$document
@@ -153,6 +154,7 @@
 ||gapingshame.xyz$document
 ||generouscare.info$document
 ||getstablesystemupgrades.work$document
+||gitionasan.biz$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
@@ -171,11 +173,12 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
+||googsistem.live$document
 ||govpshosting.com$document
+||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
-||greatsearch.xyz$document
 ||growthnetic.club$document
 ||haircarepro.info$document
 ||happyactive.today$document
@@ -516,14 +519,12 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
-||theconnectvpn.com$document
 ||thecryptomoney.info$document
 ||thefatburner.info$document
 ||thefitproject.club$document

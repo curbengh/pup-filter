@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 15 May 2021 00:07:34 UTC
+# Updated: Sat, 15 May 2021 12:06:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,13 +21,13 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
--d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
@@ -39,6 +39,8 @@ msFilterList
 -d betterfreedownloadplayers.info
 -d bigcbd.info
 -d bigdaycasino.info
+-d bigwin-online-free-congrats.cyou
+-d bigwinonlinefreecongrats.cyou
 -d bitcoin-trader.me
 -d bitcoinjunction.club
 -d bittrend.com
@@ -60,9 +62,9 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
+-d cloudmedia.casa
 -d cloudmedia.cyou
 -d cloudmedia.fun
 -d cloudmedia.surf
@@ -106,7 +108,6 @@ msFilterList
 -d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
--d fastmapc.xyz
 -d fastmapf.xyz
 -d fastplanetf.xyz
 -d fastspota.xyz
@@ -156,6 +157,7 @@ msFilterList
 -d gapingshame.xyz
 -d generouscare.info
 -d getstablesystemupgrades.work
+-d gitionasan.biz
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
@@ -174,11 +176,12 @@ msFilterList
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
+-d googsistem.live
 -d govpshosting.com
+-d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
--d greatsearch.xyz
 -d growthnetic.club
 -d haircarepro.info
 -d happyactive.today
@@ -519,14 +522,12 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
--d theconnectvpn.com
 -d thecryptomoney.info
 -d thefatburner.info
 -d thefitproject.club

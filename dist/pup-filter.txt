@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 00:07:34 UTC
+! Updated: Sat, 15 May 2021 12:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,13 +18,13 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 animenation.org
+anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
 asufij.xyz
 auto-lawyer.site
 baseofmp3.com
-bestappland.me
 bestlinkupgrade.info
 bestlinkupgrades.info
 bestlinkupgrading.info
@@ -36,6 +36,8 @@ betterfreedownloadplayer.info
 betterfreedownloadplayers.info
 bigcbd.info
 bigdaycasino.info
+bigwin-online-free-congrats.cyou
+bigwinonlinefreecongrats.cyou
 bitcoin-trader.me
 bitcoinjunction.club
 bittrend.com
@@ -57,9 +59,9 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
-chatverse.net
 check-your-profitzone.life
 cheerplaceweb.xyz
+cloudmedia.casa
 cloudmedia.cyou
 cloudmedia.fun
 cloudmedia.surf
@@ -103,7 +105,6 @@ erotica.live
 excitingthing.xyz
 extrasafe.xyz
 facebook-sex.com
-fastmapc.xyz
 fastmapf.xyz
 fastplanetf.xyz
 fastspota.xyz
@@ -153,6 +154,7 @@ gainhealth.info
 gapingshame.xyz
 generouscare.info
 getstablesystemupgrades.work
+gitionasan.biz
 gladcboulevard.xyz
 gladdboulevard.xyz
 gladmstreet.xyz
@@ -171,11 +173,12 @@ global-info.space
 globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
+googsistem.live
 govpshosting.com
+graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
-greatsearch.xyz
 growthnetic.club
 haircarepro.info
 happyactive.today
@@ -516,14 +519,12 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
-tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
-theconnectvpn.com
 thecryptomoney.info
 thefatburner.info
 thefitproject.club
