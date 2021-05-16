@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 12:06:55 UTC
+! Updated: Sun, 16 May 2021 00:07:43 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
@@ -73,6 +74,7 @@
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
+||contentgate.fun$document
 ||contentgate.uno$document
 ||cooing.top$document
 ||credit-alerts.xyz$document
@@ -180,6 +182,7 @@
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
 ||growthnetic.club$document
+||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
@@ -216,7 +219,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -404,7 +406,6 @@
 ||renewvideo.website$document
 ||resignation.top$document
 ||rewardsluckygiveawayprize.cyou$document
-||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
@@ -484,6 +485,7 @@
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||streamoverly-bestdevelopedfile.best$document
+||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||studentslearnintogether.club$document
 ||styleandhealth.info$document
@@ -494,7 +496,6 @@
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
-||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document
@@ -531,9 +532,11 @@
 ||thehealthcurve.info$document
 ||thehealthcycle.club$document
 ||thehealthgo.info$document
+||thehealthpedia.info$document
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document

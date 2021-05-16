@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 15 May 2021 12:06:55 UTC
+# Updated: Sun, 16 May 2021 00:07:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -76,6 +77,7 @@ msFilterList
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
+-d contentgate.fun
 -d contentgate.uno
 -d cooing.top
 -d credit-alerts.xyz
@@ -183,6 +185,7 @@ msFilterList
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d growthnetic.club
+-d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
 -d happymakesite.xyz
@@ -219,7 +222,6 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -407,7 +409,6 @@ msFilterList
 -d renewvideo.website
 -d resignation.top
 -d rewardsluckygiveawayprize.cyou
--d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -487,6 +488,7 @@ msFilterList
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
 -d streamoverly-bestdevelopedfile.best
+-d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d studentslearnintogether.club
 -d styleandhealth.info
@@ -497,7 +499,6 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d survey-club.club
--d survey-review.club
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
@@ -534,9 +535,11 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
+-d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work

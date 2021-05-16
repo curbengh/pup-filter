@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 12:06:55 UTC
+! Updated: Sun, 16 May 2021 00:07:43 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -73,6 +74,7 @@
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
+||contentgate.fun$all
 ||contentgate.uno$all
 ||cooing.top$all
 ||credit-alerts.xyz$all
@@ -180,6 +182,7 @@
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
 ||growthnetic.club$all
+||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
 ||happymakesite.xyz$all
@@ -216,7 +219,6 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -404,7 +406,6 @@
 ||renewvideo.website$all
 ||resignation.top$all
 ||rewardsluckygiveawayprize.cyou$all
-||ritaus.org$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
 ||rootessential.info$all
@@ -484,6 +485,7 @@
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
 ||streamoverly-bestdevelopedfile.best$all
+||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||studentslearnintogether.club$all
 ||styleandhealth.info$all
@@ -494,7 +496,6 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||survey-club.club$all
-||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all
@@ -531,9 +532,11 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
+||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all

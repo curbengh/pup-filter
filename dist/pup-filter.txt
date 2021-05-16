@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 15 May 2021 12:06:55 UTC
+! Updated: Sun, 16 May 2021 00:07:43 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -73,6 +74,7 @@ conflaqpzc.info
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
+contentgate.fun
 contentgate.uno
 cooing.top
 credit-alerts.xyz
@@ -180,6 +182,7 @@ gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
 growthnetic.club
+hailso.xyz
 haircarepro.info
 happyactive.today
 happymakesite.xyz
@@ -216,7 +219,6 @@ healthyparker.info
 healthyspirit.info
 healthysure.info
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -404,7 +406,6 @@ renewvideo.site
 renewvideo.website
 resignation.top
 rewardsluckygiveawayprize.cyou
-ritaus.org
 roadtoyourhealth.info
 robogarden.io
 rootessential.info
@@ -484,6 +485,7 @@ streamintensely-bestquickfile.best
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
+streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
 studentslearnintogether.club
 styleandhealth.info
@@ -494,7 +496,6 @@ superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
 survey-club.club
-survey-review.club
 syncadvanced-bestuberfile.best
 synccompletely-bestoriginalfile.best
 synccompletely-bestprogressivefile.best
@@ -531,9 +532,11 @@ thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
+thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work

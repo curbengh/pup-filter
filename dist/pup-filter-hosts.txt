@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 15 May 2021 12:06:55 UTC
+# Updated: Sun, 16 May 2021 00:07:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
@@ -73,6 +74,7 @@
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
+0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
 0.0.0.0 credit-alerts.xyz
@@ -180,6 +182,7 @@
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
 0.0.0.0 growthnetic.club
+0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
@@ -216,7 +219,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -404,7 +406,6 @@
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
 0.0.0.0 rewardsluckygiveawayprize.cyou
-0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
@@ -484,6 +485,7 @@
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamoverly-bestdevelopedfile.best
+0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
@@ -494,7 +496,6 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 survey-club.club
-0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
 0.0.0.0 synccompletely-bestoriginalfile.best
 0.0.0.0 synccompletely-bestprogressivefile.best
@@ -531,9 +532,11 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
+0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
