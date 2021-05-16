@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 16 May 2021 00:07:43 UTC
+# Updated: Sun, 16 May 2021 12:06:50 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,6 +60,7 @@
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cheerplaceweb.xyz
 0.0.0.0 cloudmedia.casa
@@ -99,7 +100,6 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -156,7 +156,6 @@
 0.0.0.0 gapingshame.xyz
 0.0.0.0 generouscare.info
 0.0.0.0 getstablesystemupgrades.work
-0.0.0.0 gitionasan.biz
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
@@ -297,7 +296,6 @@
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
-0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
@@ -373,7 +371,6 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -451,7 +448,6 @@
 0.0.0.0 shkshk.site
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
-0.0.0.0 smartys.link
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
 0.0.0.0 spotspinb.xyz
@@ -526,6 +522,7 @@
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
+0.0.0.0 theconnectvpn.com
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
@@ -588,7 +585,6 @@
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
-0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info

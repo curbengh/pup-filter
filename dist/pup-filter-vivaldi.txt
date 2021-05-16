@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 16 May 2021 00:07:43 UTC
+! Updated: Sun, 16 May 2021 12:06:50 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,6 +60,7 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.casa$document
@@ -99,7 +100,6 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -156,7 +156,6 @@
 ||gapingshame.xyz$document
 ||generouscare.info$document
 ||getstablesystemupgrades.work$document
-||gitionasan.biz$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
@@ -297,7 +296,6 @@
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
-||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -373,7 +371,6 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
-||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -451,7 +448,6 @@
 ||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
-||smartys.link$document
 ||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
@@ -526,6 +522,7 @@
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
+||theconnectvpn.com$document
 ||thecryptomoney.info$document
 ||thefatburner.info$document
 ||thefitproject.club$document
@@ -588,7 +585,6 @@
 ||wherentlybrane.site$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

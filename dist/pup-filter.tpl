@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 16 May 2021 00:07:43 UTC
+# Updated: Sun, 16 May 2021 12:06:50 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,6 +63,7 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -102,7 +103,6 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -159,7 +159,6 @@ msFilterList
 -d gapingshame.xyz
 -d generouscare.info
 -d getstablesystemupgrades.work
--d gitionasan.biz
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
@@ -300,7 +299,6 @@ msFilterList
 -d monitoring-credit.xyz
 -d multitax.xyz
 -d my-credit-score.xyz
--d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
@@ -376,7 +374,6 @@ msFilterList
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
--d playspind.xyz
 -d playspote.xyz
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -454,7 +451,6 @@ msFilterList
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
--d smartys.link
 -d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
@@ -529,6 +525,7 @@ msFilterList
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
+-d theconnectvpn.com
 -d thecryptomoney.info
 -d thefatburner.info
 -d thefitproject.club
@@ -591,7 +588,6 @@ msFilterList
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 16 May 2021 00:07:43 UTC
+! Updated: Sun, 16 May 2021 12:06:50 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,6 +60,7 @@
 ||carevision.info^
 ||celebseven.com^
 ||centrodeartigos.com^
+||chatverse.net^
 ||check-your-profitzone.life^
 ||cheerplaceweb.xyz^
 ||cloudmedia.casa^
@@ -99,7 +100,6 @@
 ||displayfriend.xyz^
 ||ditvl.com^
 ||dragonballclub.com^
-||eanswers.net^
 ||ehousan.top^
 ||eproute.info^
 ||eroanimeittyokusen.com^
@@ -156,7 +156,6 @@
 ||gapingshame.xyz^
 ||generouscare.info^
 ||getstablesystemupgrades.work^
-||gitionasan.biz^
 ||gladcboulevard.xyz^
 ||gladdboulevard.xyz^
 ||gladmstreet.xyz^
@@ -297,7 +296,6 @@
 ||monitoring-credit.xyz^
 ||multitax.xyz^
 ||my-credit-score.xyz^
-||news-new19.net^
 ||newsitedowloads.site^
 ||nogfw.pro^
 ||nosyknot.xyz^
@@ -373,7 +371,6 @@
 ||placewebe.xyz^
 ||plampo.xyz^
 ||playspina.xyz^
-||playspind.xyz^
 ||playspote.xyz^
 ||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
@@ -451,7 +448,6 @@
 ||shkshk.site^
 ||shopnsave.world^
 ||shoppingexp.xyz^
-||smartys.link^
 ||spotplanetc.xyz^
 ||spotplanetd.xyz^
 ||spotspinb.xyz^
@@ -526,6 +522,7 @@
 ||theable.me^
 ||thebettercleanplayer.info^
 ||thebettercleanplayers.info^
+||theconnectvpn.com^
 ||thecryptomoney.info^
 ||thefatburner.info^
 ||thefitproject.club^
@@ -588,7 +585,6 @@
 ||wherentlybrane.site^
 ||worldwideofficialrewardssuper.cyou^
 ||wowlifestyle.info^
-||youngleaf.biz^
 ||yourbestlinkupgrade.info^
 ||yourbestlinkupgrades.info^
 ||yourbestlinkupgrading.info^
