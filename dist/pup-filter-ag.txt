@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 16 May 2021 12:06:50 UTC
+! Updated: Mon, 17 May 2021 00:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -218,6 +218,7 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -257,6 +258,7 @@
 ||loadheavily-bestfreefile.best$all
 ||locationtracker.services$all
 ||loosefit.info$all
+||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
 ||luckjackcasino.info$all
@@ -305,6 +307,7 @@
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -377,6 +380,7 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -403,6 +407,7 @@
 ||renewvideo.website$all
 ||resignation.top$all
 ||rewardsluckygiveawayprize.cyou$all
+||ritaus.org$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
 ||rootessential.info$all
@@ -471,9 +476,11 @@
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
+||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
+||streamfree-bestmostfile.best$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -483,7 +490,6 @@
 ||streamoverly-bestdevelopedfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
-||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
@@ -492,6 +498,7 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||survey-club.club$all
+||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all

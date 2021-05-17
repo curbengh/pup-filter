@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 16 May 2021 12:06:50 UTC
+# Updated: Mon, 17 May 2021 00:06:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -221,6 +221,7 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -260,6 +261,7 @@ msFilterList
 -d loadheavily-bestfreefile.best
 -d locationtracker.services
 -d loosefit.info
+-d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
 -d luckjackcasino.info
@@ -308,6 +310,7 @@ msFilterList
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
 -d online-survey.org
+-d onlinecinema.eu
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -380,6 +383,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -406,6 +410,7 @@ msFilterList
 -d renewvideo.website
 -d resignation.top
 -d rewardsluckygiveawayprize.cyou
+-d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -474,9 +479,11 @@ msFilterList
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
+-d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
+-d streamfree-bestmostfile.best
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -486,7 +493,6 @@ msFilterList
 -d streamoverly-bestdevelopedfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
--d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
@@ -495,6 +501,7 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d survey-club.club
+-d survey-review.club
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best

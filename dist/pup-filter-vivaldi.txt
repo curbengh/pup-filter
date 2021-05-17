@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 16 May 2021 12:06:50 UTC
+! Updated: Mon, 17 May 2021 00:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -218,6 +218,7 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -257,6 +258,7 @@
 ||loadheavily-bestfreefile.best$document
 ||locationtracker.services$document
 ||loosefit.info$document
+||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
 ||luckjackcasino.info$document
@@ -305,6 +307,7 @@
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -377,6 +380,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -403,6 +407,7 @@
 ||renewvideo.website$document
 ||resignation.top$document
 ||rewardsluckygiveawayprize.cyou$document
+||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
@@ -471,9 +476,11 @@
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
+||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
+||streamfree-bestmostfile.best$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -483,7 +490,6 @@
 ||streamoverly-bestdevelopedfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
-||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
@@ -492,6 +498,7 @@
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||survey-club.club$document
+||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
 ||synccompletely-bestprogressivefile.best$document

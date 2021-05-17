@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 16 May 2021 12:06:50 UTC
+! Updated: Mon, 17 May 2021 00:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -218,6 +218,7 @@ healthyparker.info
 healthyspirit.info
 healthysure.info
 idtheft-alert.xyz
+iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -257,6 +258,7 @@ loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
 locationtracker.services
 loosefit.info
+louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
 luckjackcasino.info
@@ -305,6 +307,7 @@ official-prize-national-random.cyou
 officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
+onlinecinema.eu
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -377,6 +380,7 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -403,6 +407,7 @@ renewvideo.site
 renewvideo.website
 resignation.top
 rewardsluckygiveawayprize.cyou
+ritaus.org
 roadtoyourhealth.info
 robogarden.io
 rootessential.info
@@ -471,9 +476,11 @@ storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
+streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
+streamfree-bestmostfile.best
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -483,7 +490,6 @@ streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
-studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sugar-legal-about13.fun
@@ -492,6 +498,7 @@ superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
 survey-club.club
+survey-review.club
 syncadvanced-bestuberfile.best
 synccompletely-bestoriginalfile.best
 synccompletely-bestprogressivefile.best
