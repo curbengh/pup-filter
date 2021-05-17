@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 17 May 2021 00:06:59 UTC
+# Updated: Mon, 17 May 2021 12:07:25 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
 0.0.0.0 abeah-security.xyz
-0.0.0.0 adrondespi.top
 0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
@@ -107,6 +106,7 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
+0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
@@ -162,7 +162,6 @@
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
-0.0.0.0 gladspaceplane.xyz
 0.0.0.0 gladspotplay.xyz
 0.0.0.0 gladspotwonder.xyz
 0.0.0.0 gladvideo.fun
@@ -229,7 +228,6 @@
 0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
 0.0.0.0 joyplaceplay.xyz
-0.0.0.0 joyspotmap.xyz
 0.0.0.0 joyspotspin.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jubilantdstreet.xyz
