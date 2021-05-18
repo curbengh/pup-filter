@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 18 May 2021 00:07:07 UTC
+! Updated: Tue, 18 May 2021 12:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@
 4uabs.club
 7awwa2.xyz
 abeah-security.xyz
+adrondespi.top
 advancecare.info
 akb48wrapup.com
 altcasino.info
@@ -100,6 +101,7 @@ digitalinvest.news
 displayfriend.xyz
 ditvl.com
 dragonballclub.com
+eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -163,6 +165,7 @@ gladmstreet.xyz
 gladplacespin.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
+gladspaceplane.xyz
 gladspotplay.xyz
 gladspotwonder.xyz
 gladvideo.fun
@@ -293,9 +296,11 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 modern-security.xyz
+monetizer.co
 monitoring-credit.xyz
 multitax.xyz
 my-credit-score.xyz
+news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -306,7 +311,6 @@ officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
 onlinecinema.eu
-onlineprize.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -373,6 +377,7 @@ placesitee.xyz
 placewebe.xyz
 plampo.xyz
 playspina.xyz
+playspind.xyz
 playspote.xyz
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -382,7 +387,6 @@ privacykeeper.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
-qh97dkzy20.top
 quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
@@ -496,7 +500,6 @@ superiorcare.info
 superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
-superpromotion.cyou
 survey-club.club
 survey-review.club
 syncadvanced-bestuberfile.best
@@ -523,6 +526,7 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
+tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
@@ -592,6 +596,7 @@ wellnessplum.info
 wherentlybrane.site
 worldwideofficialrewardssuper.cyou
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

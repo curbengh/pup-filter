@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 18 May 2021 00:07:07 UTC
+# Updated: Tue, 18 May 2021 12:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@ msFilterList
 -d 4uabs.club
 -d 7awwa2.xyz
 -d abeah-security.xyz
+-d adrondespi.top
 -d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
@@ -103,6 +104,7 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -166,6 +168,7 @@ msFilterList
 -d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
+-d gladspaceplane.xyz
 -d gladspotplay.xyz
 -d gladspotwonder.xyz
 -d gladvideo.fun
@@ -296,9 +299,11 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
+-d monetizer.co
 -d monitoring-credit.xyz
 -d multitax.xyz
 -d my-credit-score.xyz
+-d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
@@ -309,7 +314,6 @@ msFilterList
 -d onegowc.pw
 -d online-survey.org
 -d onlinecinema.eu
--d onlineprize.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -376,6 +380,7 @@ msFilterList
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
+-d playspind.xyz
 -d playspote.xyz
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -385,7 +390,6 @@ msFilterList
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
--d qh97dkzy20.top
 -d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
@@ -499,7 +503,6 @@ msFilterList
 -d superplace4upgrade.work
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
--d superpromotion.cyou
 -d survey-club.club
 -d survey-review.club
 -d syncadvanced-bestuberfile.best
@@ -526,6 +529,7 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -595,6 +599,7 @@ msFilterList
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
+-d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
