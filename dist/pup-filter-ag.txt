@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 17 May 2021 12:07:25 UTC
+! Updated: Tue, 18 May 2021 00:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -47,6 +47,7 @@
 ||bodyselfcare.info$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
+||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
@@ -273,7 +274,6 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
-||mapopts.top$all
 ||mathison.io$all
 ||max-care.info$all
 ||mediagate.casa$all
@@ -306,6 +306,7 @@
 ||onegowc.pw$all
 ||online-survey.org$all
 ||onlinecinema.eu$all
+||onlineprize.cyou$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -378,7 +379,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -488,6 +488,7 @@
 ||streamoverly-bestdevelopedfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
@@ -495,6 +496,7 @@
 ||superplace4upgrade.work$all
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
+||superpromotion.cyou$all
 ||survey-club.club$all
 ||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 17 May 2021 12:07:25 UTC
+# Updated: Tue, 18 May 2021 00:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@ msFilterList
 -d bodyselfcare.info
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
+-d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
 -d browsercheck.site
 -d btcinvesting.info
@@ -276,7 +277,6 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mapopts.top
 -d mathison.io
 -d max-care.info
 -d mediagate.casa
@@ -309,6 +309,7 @@ msFilterList
 -d onegowc.pw
 -d online-survey.org
 -d onlinecinema.eu
+-d onlineprize.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -381,7 +382,6 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -491,6 +491,7 @@ msFilterList
 -d streamoverly-bestdevelopedfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
@@ -498,6 +499,7 @@ msFilterList
 -d superplace4upgrade.work
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
+-d superpromotion.cyou
 -d survey-club.club
 -d survey-review.club
 -d syncadvanced-bestuberfile.best

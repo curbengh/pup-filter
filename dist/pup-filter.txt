@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 17 May 2021 12:07:25 UTC
+! Updated: Tue, 18 May 2021 00:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -47,6 +47,7 @@ bodyamaze.club
 bodyselfcare.info
 boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
+boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
 browsercheck.site
 btcinvesting.info
@@ -273,7 +274,6 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
-mapopts.top
 mathison.io
 max-care.info
 mediagate.casa
@@ -306,6 +306,7 @@ officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
 onlinecinema.eu
+onlineprize.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -378,7 +379,6 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
-productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -488,6 +488,7 @@ streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
+studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sugar-legal-about13.fun
@@ -495,6 +496,7 @@ superiorcare.info
 superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
+superpromotion.cyou
 survey-club.club
 survey-review.club
 syncadvanced-bestuberfile.best
