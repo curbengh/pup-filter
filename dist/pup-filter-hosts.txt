@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 18 May 2021 12:07:31 UTC
+# Updated: Wed, 19 May 2021 00:07:09 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
+0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
@@ -76,6 +77,7 @@
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
+0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
@@ -96,7 +98,6 @@
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
 0.0.0.0 degreenm.top
-0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
@@ -544,7 +545,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 18 May 2021 12:07:31 UTC
+! Updated: Wed, 19 May 2021 00:07:09 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 ||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
+||boot-upcompletely-bestprecisefile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
@@ -76,6 +77,7 @@
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
+||contentgate.cam$all
 ||contentgate.fun$all
 ||contentgate.uno$all
 ||cooing.top$all
@@ -96,7 +98,6 @@
 ||dailymedia.work$all
 ||dailyrep.net$all
 ||degreenm.top$all
-||delightcmain.xyz$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
@@ -544,7 +545,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
