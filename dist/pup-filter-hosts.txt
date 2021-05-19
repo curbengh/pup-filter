@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 19 May 2021 00:07:09 UTC
+# Updated: Wed, 19 May 2021 12:07:52 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -233,6 +233,7 @@
 0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
 0.0.0.0 joyplaceplay.xyz
+0.0.0.0 joyspotmap.xyz
 0.0.0.0 joyspotspin.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jubilantdstreet.xyz
@@ -493,7 +494,6 @@
 0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
-0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sugar-legal-about13.fun
@@ -554,7 +554,6 @@
 0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 thrillqueen.xyz
-0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net

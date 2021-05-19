@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 19 May 2021 00:07:09 UTC
+! Updated: Wed, 19 May 2021 12:07:52 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -233,6 +233,7 @@
 ||iosvpnsecure.com$document
 ||izipik.com$document
 ||joyplaceplay.xyz$document
+||joyspotmap.xyz$document
 ||joyspotspin.xyz$document
 ||jsrenthouse.com$document
 ||jubilantdstreet.xyz$document
@@ -493,7 +494,6 @@
 ||streamoverly-bestdevelopedfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
-||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sugar-legal-about13.fun$document
@@ -554,7 +554,6 @@
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
 ||thrillqueen.xyz$document
-||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 19 May 2021 00:07:09 UTC
+! Updated: Wed, 19 May 2021 12:07:52 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -233,6 +233,7 @@
 ||iosvpnsecure.com^
 ||izipik.com^
 ||joyplaceplay.xyz^
+||joyspotmap.xyz^
 ||joyspotspin.xyz^
 ||jsrenthouse.com^
 ||jubilantdstreet.xyz^
@@ -493,7 +494,6 @@
 ||streamoverly-bestdevelopedfile.best^
 ||streamquick-bestmostfile.best^
 ||streamrecent-bestintenselyfile.best^
-||studentslearnintogether.club^
 ||styleandhealth.info^
 ||subeamy.pw^
 ||sugar-legal-about13.fun^
@@ -554,7 +554,6 @@
 ||thestablegreatupdates.work^
 ||thestablegreatupgrades.best^
 ||thrillqueen.xyz^
-||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
 ||trafficbounce.net^
