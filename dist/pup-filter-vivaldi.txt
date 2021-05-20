@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 19 May 2021 12:07:52 UTC
+! Updated: Thu, 20 May 2021 00:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
@@ -98,6 +97,8 @@
 ||dailymedia.work$document
 ||dailyrep.net$document
 ||degreenm.top$document
+||delightcmain.xyz$document
+||desixxx.cloud$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
@@ -159,6 +160,7 @@
 ||gainhealth.info$document
 ||gapingshame.xyz$document
 ||generouscare.info$document
+||getmoregirls.net$document
 ||getstablesystemupgrades.work$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
@@ -255,11 +257,17 @@
 ||livehealthcare.today$document
 ||livelyyroad.xyz$document
 ||livingmighty.club$document
+||loaddevelopeduberfile.digital$document
 ||loadfree-bestheavilyfile.best$document
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
+||loadrecentoverlyfile.digital$document
+||loadrefineduberfile.digital$document
+||loadsophisticateduberfile.digital$document
+||loaduberprecisefile.digital$document
+||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
 ||loosefit.info$document
 ||louisvillegigs.net$document
@@ -279,6 +287,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mapopts.top$document
 ||mathison.io$document
 ||max-care.info$document
 ||mediagate.casa$document
@@ -311,8 +320,9 @@
 ||official-prize-national-random.cyou$document
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
+||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
-||onlinecinema.eu$document
+||onlineprizesuperpromotion.cyou$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -386,6 +396,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
@@ -439,11 +450,11 @@
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
 ||scheduleagreement.xyz$document
+||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
-||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -455,7 +466,6 @@
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
-||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
@@ -491,7 +501,6 @@
 ||streamintensely-bestquickfile.best$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
-||streamoverly-bestdevelopedfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||styleandhealth.info$document
@@ -527,6 +536,7 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
+||syncuber-bestsophisticatedfile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
@@ -558,6 +568,7 @@
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
+||trane.fun$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
@@ -586,6 +597,7 @@
 ||vpnadefenceplus.com$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
+||watchadvanced-bestgreatlyfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document
@@ -610,6 +622,7 @@
 ||yourlegendaryplayerupdating.work$document
 ||yourlegendaryvideoupgrades.info$document
 ||yourlegendaryvideoupgrading.info$document
+||yourlinkplaceupdatingfree.work$document
 ||yoursafestplayerlink.best$document
 ||yoursafestreliablelink.work$document
 ||yoursafeststablelink.info$document

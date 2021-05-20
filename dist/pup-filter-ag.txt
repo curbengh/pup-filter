@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 19 May 2021 12:07:52 UTC
+! Updated: Thu, 20 May 2021 00:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -98,6 +97,8 @@
 ||dailymedia.work$all
 ||dailyrep.net$all
 ||degreenm.top$all
+||delightcmain.xyz$all
+||desixxx.cloud$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
@@ -159,6 +160,7 @@
 ||gainhealth.info$all
 ||gapingshame.xyz$all
 ||generouscare.info$all
+||getmoregirls.net$all
 ||getstablesystemupgrades.work$all
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
@@ -255,11 +257,17 @@
 ||livehealthcare.today$all
 ||livelyyroad.xyz$all
 ||livingmighty.club$all
+||loaddevelopeduberfile.digital$all
 ||loadfree-bestheavilyfile.best$all
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
+||loadrecentoverlyfile.digital$all
+||loadrefineduberfile.digital$all
+||loadsophisticateduberfile.digital$all
+||loaduberprecisefile.digital$all
+||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
 ||loosefit.info$all
 ||louisvillegigs.net$all
@@ -279,6 +287,7 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
+||mapopts.top$all
 ||mathison.io$all
 ||max-care.info$all
 ||mediagate.casa$all
@@ -311,8 +320,9 @@
 ||official-prize-national-random.cyou$all
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
+||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
-||onlinecinema.eu$all
+||onlineprizesuperpromotion.cyou$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
@@ -386,6 +396,7 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
@@ -439,11 +450,11 @@
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
 ||scheduleagreement.xyz$all
+||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -455,7 +466,6 @@
 ||selfradiance.info$all
 ||service-care.space$all
 ||shkshk.site$all
-||shopnsave.world$all
 ||shoppingexp.xyz$all
 ||spotplanetc.xyz$all
 ||spotplanetd.xyz$all
@@ -491,7 +501,6 @@
 ||streamintensely-bestquickfile.best$all
 ||streamlatest-bestextremelyfile.best$all
 ||streamlatest-bestoverlyfile.best$all
-||streamoverly-bestdevelopedfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||styleandhealth.info$all
@@ -527,6 +536,7 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
+||syncuber-bestsophisticatedfile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
@@ -558,6 +568,7 @@
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
+||trane.fun$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
@@ -586,6 +597,7 @@
 ||vpnadefenceplus.com$all
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
+||watchadvanced-bestgreatlyfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all
@@ -610,6 +622,7 @@
 ||yourlegendaryplayerupdating.work$all
 ||yourlegendaryvideoupgrades.info$all
 ||yourlegendaryvideoupgrading.info$all
+||yourlinkplaceupdatingfree.work$all
 ||yoursafestplayerlink.best$all
 ||yoursafestreliablelink.work$all
 ||yoursafeststablelink.info$all

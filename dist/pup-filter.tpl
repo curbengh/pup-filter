@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 19 May 2021 12:07:52 UTC
+# Updated: Thu, 20 May 2021 00:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -101,6 +100,8 @@ msFilterList
 -d dailymedia.work
 -d dailyrep.net
 -d degreenm.top
+-d delightcmain.xyz
+-d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -162,6 +163,7 @@ msFilterList
 -d gainhealth.info
 -d gapingshame.xyz
 -d generouscare.info
+-d getmoregirls.net
 -d getstablesystemupgrades.work
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
@@ -258,11 +260,17 @@ msFilterList
 -d livehealthcare.today
 -d livelyyroad.xyz
 -d livingmighty.club
+-d loaddevelopeduberfile.digital
 -d loadfree-bestheavilyfile.best
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
+-d loadrecentoverlyfile.digital
+-d loadrefineduberfile.digital
+-d loadsophisticateduberfile.digital
+-d loaduberprecisefile.digital
+-d loaduberspeedyfile.digital
 -d locationtracker.services
 -d loosefit.info
 -d louisvillegigs.net
@@ -282,6 +290,7 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
+-d mapopts.top
 -d mathison.io
 -d max-care.info
 -d mediagate.casa
@@ -314,8 +323,9 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
+-d online-prize-super-promotion.cyou
 -d online-survey.org
--d onlinecinema.eu
+-d onlineprizesuperpromotion.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -389,6 +399,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
@@ -442,11 +453,11 @@ msFilterList
 -d safest4placeupdate.info
 -d safest4placeupdates.info
 -d scheduleagreement.xyz
+-d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -458,7 +469,6 @@ msFilterList
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
--d shopnsave.world
 -d shoppingexp.xyz
 -d spotplanetc.xyz
 -d spotplanetd.xyz
@@ -494,7 +504,6 @@ msFilterList
 -d streamintensely-bestquickfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
--d streamoverly-bestdevelopedfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d styleandhealth.info
@@ -530,6 +539,7 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
+-d syncuber-bestsophisticatedfile.best
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
@@ -561,6 +571,7 @@ msFilterList
 -d topnotchsports.tips
 -d trafficbounce.net
 -d trafficgate.cc
+-d trane.fun
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
@@ -589,6 +600,7 @@ msFilterList
 -d vpnadefenceplus.com
 -d vpntool.me
 -d vpnupdatesnow.com
+-d watchadvanced-bestgreatlyfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
@@ -613,6 +625,7 @@ msFilterList
 -d yourlegendaryplayerupdating.work
 -d yourlegendaryvideoupgrades.info
 -d yourlegendaryvideoupgrading.info
+-d yourlinkplaceupdatingfree.work
 -d yoursafestplayerlink.best
 -d yoursafestreliablelink.work
 -d yoursafeststablelink.info

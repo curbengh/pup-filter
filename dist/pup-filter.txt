@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 19 May 2021 12:07:52 UTC
+! Updated: Thu, 20 May 2021 00:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -98,6 +97,8 @@ dailymedia.surf
 dailymedia.work
 dailyrep.net
 degreenm.top
+delightcmain.xyz
+desixxx.cloud
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
@@ -159,6 +160,7 @@ fwsxqc.cn
 gainhealth.info
 gapingshame.xyz
 generouscare.info
+getmoregirls.net
 getstablesystemupgrades.work
 gladcboulevard.xyz
 gladdboulevard.xyz
@@ -255,11 +257,17 @@ lightstop.xyz
 livehealthcare.today
 livelyyroad.xyz
 livingmighty.club
+loaddevelopeduberfile.digital
 loadfree-bestheavilyfile.best
 loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
+loadrecentoverlyfile.digital
+loadrefineduberfile.digital
+loadsophisticateduberfile.digital
+loaduberprecisefile.digital
+loaduberspeedyfile.digital
 locationtracker.services
 loosefit.info
 louisvillegigs.net
@@ -279,6 +287,7 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
+mapopts.top
 mathison.io
 max-care.info
 mediagate.casa
@@ -311,8 +320,9 @@ nutrinamic.info
 official-prize-national-random.cyou
 officialprizenationalrandom.cyou
 onegowc.pw
+online-prize-super-promotion.cyou
 online-survey.org
-onlinecinema.eu
+onlineprizesuperpromotion.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -386,6 +396,7 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
@@ -439,11 +450,11 @@ safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
 scheduleagreement.xyz
+scoopswoop.info
 score-monitoring.xyz
 search-tool.net
 search-trends.co
 searchfeed.co
-seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -455,7 +466,6 @@ seemlast.monster
 selfradiance.info
 service-care.space
 shkshk.site
-shopnsave.world
 shoppingexp.xyz
 spotplanetc.xyz
 spotplanetd.xyz
@@ -491,7 +501,6 @@ streamintensely-bestlatestfile.best
 streamintensely-bestquickfile.best
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
-streamoverly-bestdevelopedfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
 styleandhealth.info
@@ -527,6 +536,7 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
+syncuber-bestsophisticatedfile.best
 tackis.xyz
 talskingest.top
 tastefulwood.xyz
@@ -558,6 +568,7 @@ toovolution.club
 topnotchsports.tips
 trafficbounce.net
 trafficgate.cc
+trane.fun
 trktraf.club
 trkvpn.xyz
 tryoneshot-keto.net
@@ -586,6 +597,7 @@ vpn1aprotectplus.com
 vpnadefenceplus.com
 vpntool.me
 vpnupdatesnow.com
+watchadvanced-bestgreatlyfile.best
 website4all.info
 websiteforall.work
 websitetoget.work
@@ -610,6 +622,7 @@ yourlegendaryplayerupdate.work
 yourlegendaryplayerupdating.work
 yourlegendaryvideoupgrades.info
 yourlegendaryvideoupgrading.info
+yourlinkplaceupdatingfree.work
 yoursafestplayerlink.best
 yoursafestreliablelink.work
 yoursafeststablelink.info
