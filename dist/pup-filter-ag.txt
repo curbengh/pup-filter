@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 20 May 2021 00:07:34 UTC
+! Updated: Thu, 20 May 2021 12:07:10 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -320,7 +320,6 @@
 ||official-prize-national-random.cyou$all
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
-||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
 ||onlineprizesuperpromotion.cyou$all
 ||operatecompletely-theprecisefile.best$all
@@ -537,7 +536,6 @@
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
 ||syncuber-bestsophisticatedfile.best$all
-||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all

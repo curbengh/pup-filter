@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 20 May 2021 00:07:34 UTC
+# Updated: Thu, 20 May 2021 12:07:10 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -320,7 +320,6 @@
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
-0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 operatecompletely-theprecisefile.best
@@ -537,7 +536,6 @@
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
-0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
