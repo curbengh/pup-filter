@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 20 May 2021 12:07:10 UTC
+! Updated: Fri, 21 May 2021 00:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -77,6 +77,7 @@
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
 ||contentgate.cam$document
+||contentgate.club$document
 ||contentgate.fun$document
 ||contentgate.uno$document
 ||cooing.top$document
@@ -98,7 +99,6 @@
 ||dailyrep.net$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
-||desixxx.cloud$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
@@ -263,10 +263,9 @@
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
-||loadrecentoverlyfile.digital$document
+||loadpreciseuberfile.digital$document
 ||loadrefineduberfile.digital$document
 ||loadsophisticateduberfile.digital$document
-||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
 ||loosefit.info$document
@@ -321,6 +320,7 @@
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||onlineprizesuperpromotion.cyou$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
@@ -454,6 +454,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -465,6 +466,7 @@
 ||selfradiance.info$document
 ||service-care.space$document
 ||shkshk.site$document
+||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
@@ -553,6 +555,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -604,7 +607,6 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||worldwideofficialrewardssuper.cyou$document
-||wowlifestyle.info$document
 ||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
@@ -618,6 +620,7 @@
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendaryplayerupdate.work$document
 ||yourlegendaryplayerupdating.work$document
+||yourlegendarysystemsupgrade.work$document
 ||yourlegendaryvideoupgrades.info$document
 ||yourlegendaryvideoupgrading.info$document
 ||yourlinkplaceupdatingfree.work$document

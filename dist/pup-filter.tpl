@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 20 May 2021 12:07:10 UTC
+# Updated: Fri, 21 May 2021 00:06:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -80,6 +80,7 @@ msFilterList
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d contentgate.cam
+-d contentgate.club
 -d contentgate.fun
 -d contentgate.uno
 -d cooing.top
@@ -101,7 +102,6 @@ msFilterList
 -d dailyrep.net
 -d degreenm.top
 -d delightcmain.xyz
--d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -266,10 +266,9 @@ msFilterList
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
--d loadrecentoverlyfile.digital
+-d loadpreciseuberfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
--d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
 -d loosefit.info
@@ -324,6 +323,7 @@ msFilterList
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprizesuperpromotion.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
@@ -457,6 +457,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -468,6 +469,7 @@ msFilterList
 -d selfradiance.info
 -d service-care.space
 -d shkshk.site
+-d shopnsave.world
 -d shoppingexp.xyz
 -d spotplanetc.xyz
 -d spotplanetd.xyz
@@ -556,6 +558,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -607,7 +610,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
--d wowlifestyle.info
 -d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
@@ -621,6 +623,7 @@ msFilterList
 -d yourlegendaryplaceupgrading.work
 -d yourlegendaryplayerupdate.work
 -d yourlegendaryplayerupdating.work
+-d yourlegendarysystemsupgrade.work
 -d yourlegendaryvideoupgrades.info
 -d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work

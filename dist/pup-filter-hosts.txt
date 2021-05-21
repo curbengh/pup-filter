@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 20 May 2021 12:07:10 UTC
+# Updated: Fri, 21 May 2021 00:06:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -77,6 +77,7 @@
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
 0.0.0.0 contentgate.cam
+0.0.0.0 contentgate.club
 0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
@@ -98,7 +99,6 @@
 0.0.0.0 dailyrep.net
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
-0.0.0.0 desixxx.cloud
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
@@ -263,10 +263,9 @@
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadheavily-bestfreefile.best
-0.0.0.0 loadrecentoverlyfile.digital
+0.0.0.0 loadpreciseuberfile.digital
 0.0.0.0 loadrefineduberfile.digital
 0.0.0.0 loadsophisticateduberfile.digital
-0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
 0.0.0.0 loosefit.info
@@ -321,6 +320,7 @@
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
+0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
@@ -454,6 +454,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -465,6 +466,7 @@
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 shkshk.site
+0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
@@ -553,6 +555,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -604,7 +607,6 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwideofficialrewardssuper.cyou
-0.0.0.0 wowlifestyle.info
 0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
@@ -618,6 +620,7 @@
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendaryplayerupdate.work
 0.0.0.0 yourlegendaryplayerupdating.work
+0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlegendaryvideoupgrades.info
 0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work

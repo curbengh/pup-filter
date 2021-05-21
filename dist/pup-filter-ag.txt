@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 20 May 2021 12:07:10 UTC
+! Updated: Fri, 21 May 2021 00:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -77,6 +77,7 @@
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
 ||contentgate.cam$all
+||contentgate.club$all
 ||contentgate.fun$all
 ||contentgate.uno$all
 ||cooing.top$all
@@ -98,7 +99,6 @@
 ||dailyrep.net$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
-||desixxx.cloud$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
@@ -263,10 +263,9 @@
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
-||loadrecentoverlyfile.digital$all
+||loadpreciseuberfile.digital$all
 ||loadrefineduberfile.digital$all
 ||loadsophisticateduberfile.digital$all
-||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
 ||loosefit.info$all
@@ -321,6 +320,7 @@
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||onlineprizesuperpromotion.cyou$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
@@ -454,6 +454,7 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -465,6 +466,7 @@
 ||selfradiance.info$all
 ||service-care.space$all
 ||shkshk.site$all
+||shopnsave.world$all
 ||shoppingexp.xyz$all
 ||spotplanetc.xyz$all
 ||spotplanetd.xyz$all
@@ -553,6 +555,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -604,7 +607,6 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||worldwideofficialrewardssuper.cyou$all
-||wowlifestyle.info$all
 ||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
@@ -618,6 +620,7 @@
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendaryplayerupdate.work$all
 ||yourlegendaryplayerupdating.work$all
+||yourlegendarysystemsupgrade.work$all
 ||yourlegendaryvideoupgrades.info$all
 ||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
