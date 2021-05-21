@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 21 May 2021 00:06:55 UTC
+# Updated: Fri, 21 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -111,7 +111,6 @@ erotica.live
 excitingthing.xyz
 extrasafe.xyz
 facebook-sex.com
-fastmapc.xyz
 fastmapf.xyz
 fastplanetf.xyz
 fastspota.xyz
@@ -165,7 +164,6 @@ getstablesystemupgrades.work
 gladcboulevard.xyz
 gladdboulevard.xyz
 gladmstreet.xyz
-gladplacespin.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
 gladspaceplane.xyz
@@ -306,7 +304,6 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 modern-security.xyz
-monetizer.co
 monitoring-credit.xyz
 multitax.xyz
 my-credit-score.xyz
@@ -321,7 +318,7 @@ officialprizenationalrandom.cyou
 onegowc.pw
 online-survey.org
 onlinecinema.eu
-onlineprizesuperpromotion.cyou
+onlineprize.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -383,12 +380,10 @@ performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
 playspina.xyz
-playspind.xyz
 playspote.xyz
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -454,7 +449,6 @@ score-monitoring.xyz
 search-tool.net
 search-trends.co
 searchfeed.co
-seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -511,6 +505,7 @@ superiorcare.info
 superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
+superpromotion.cyou
 survey-club.club
 survey-review.club
 syncadvanced-bestuberfile.best
@@ -565,6 +560,7 @@ thestablealwayssafeupdates.work
 thestablegreatupdates.work
 thestablegreatupgrades.best
 thrillqueen.xyz
+toolvpn.me
 toovolution.club
 topnotchsports.tips
 trafficbounce.net
@@ -607,7 +603,6 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 worldwideofficialrewardssuper.cyou
-youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

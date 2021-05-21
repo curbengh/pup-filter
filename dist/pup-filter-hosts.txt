@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 21 May 2021 00:06:55 UTC
+# Updated: Fri, 21 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -111,7 +111,6 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
-0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
@@ -165,7 +164,6 @@
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -306,7 +304,6 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 modern-security.xyz
-0.0.0.0 monetizer.co
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
@@ -321,7 +318,7 @@
 0.0.0.0 onegowc.pw
 0.0.0.0 online-survey.org
 0.0.0.0 onlinecinema.eu
-0.0.0.0 onlineprizesuperpromotion.cyou
+0.0.0.0 onlineprize.cyou
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -383,12 +380,10 @@
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 piorkeepi.top
-0.0.0.0 placesiteb.xyz
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -454,7 +449,6 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -511,6 +505,7 @@
 0.0.0.0 superplace4upgrade.work
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
+0.0.0.0 superpromotion.cyou
 0.0.0.0 survey-club.club
 0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
@@ -565,6 +560,7 @@
 0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 thrillqueen.xyz
+0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
@@ -607,7 +603,6 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwideofficialrewardssuper.cyou
-0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info

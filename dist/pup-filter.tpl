@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 21 May 2021 00:06:55 UTC
+# Updated: Fri, 21 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -114,7 +114,6 @@ msFilterList
 -d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
--d fastmapc.xyz
 -d fastmapf.xyz
 -d fastplanetf.xyz
 -d fastspota.xyz
@@ -168,7 +167,6 @@ msFilterList
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
--d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -309,7 +307,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
--d monetizer.co
 -d monitoring-credit.xyz
 -d multitax.xyz
 -d my-credit-score.xyz
@@ -324,7 +321,7 @@ msFilterList
 -d onegowc.pw
 -d online-survey.org
 -d onlinecinema.eu
--d onlineprizesuperpromotion.cyou
+-d onlineprize.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -386,12 +383,10 @@ msFilterList
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
 -d piorkeepi.top
--d placesiteb.xyz
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
--d playspind.xyz
 -d playspote.xyz
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -457,7 +452,6 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -514,6 +508,7 @@ msFilterList
 -d superplace4upgrade.work
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
+-d superpromotion.cyou
 -d survey-club.club
 -d survey-review.club
 -d syncadvanced-bestuberfile.best
@@ -568,6 +563,7 @@ msFilterList
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
 -d thrillqueen.xyz
+-d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
@@ -610,7 +606,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
