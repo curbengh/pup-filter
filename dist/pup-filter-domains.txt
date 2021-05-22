@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 22 May 2021 00:06:59 UTC
+# Updated: Sat, 22 May 2021 12:08:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ altcasino.info
 amateurxporn.com
 amobil.online
 animenation.org
-anismunre.info
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -185,6 +184,7 @@ graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
+greatsearch.xyz
 growthnetic.club
 hailso.xyz
 haircarepro.info
@@ -388,6 +388,7 @@ placesitee.xyz
 placewebe.xyz
 plampo.xyz
 playspina.xyz
+playspind.xyz
 playspote.xyz
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -538,6 +539,7 @@ syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
+tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
