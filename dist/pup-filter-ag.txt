@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 21 May 2021 12:07:13 UTC
+! Updated: Sat, 22 May 2021 00:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -46,6 +47,7 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upcompletely-bestprecisefile.best$all
+||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
@@ -61,7 +63,6 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
@@ -232,6 +233,7 @@
 ||iosrecommendedvpn.com$all
 ||iosvpnsecure.com$all
 ||izipik.com$all
+||java-forum.org$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
 ||joyspotspin.xyz$all
@@ -262,8 +264,10 @@
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
 ||loadpreciseuberfile.digital$all
+||loadrecentoverlyfile.digital$all
 ||loadrefineduberfile.digital$all
 ||loadsophisticateduberfile.digital$all
+||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
 ||loosefit.info$all
@@ -394,7 +398,6 @@
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protectyourvpn.com$all
-||quantum.work$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -498,6 +501,7 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sugar-legal-about13.fun$all
@@ -506,6 +510,7 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||superpromotion.cyou$all
+||support-notify.space$all
 ||survey-club.club$all
 ||survey-review.club$all
 ||syncadvanced-bestuberfile.best$all
@@ -550,7 +555,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -603,6 +607,7 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||worldwideofficialrewardssuper.cyou$all
+||wowlifestyle.info$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all

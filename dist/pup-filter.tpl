@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 21 May 2021 12:07:13 UTC
+# Updated: Sat, 22 May 2021 00:06:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -49,6 +50,7 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upcompletely-bestprecisefile.best
+-d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
@@ -64,7 +66,6 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -235,6 +236,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d iosvpnsecure.com
 -d izipik.com
+-d java-forum.org
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
 -d joyspotspin.xyz
@@ -265,8 +267,10 @@ msFilterList
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
 -d loadpreciseuberfile.digital
+-d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
+-d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
 -d loosefit.info
@@ -397,7 +401,6 @@ msFilterList
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
--d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -501,6 +504,7 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sugar-legal-about13.fun
@@ -509,6 +513,7 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d superpromotion.cyou
+-d support-notify.space
 -d survey-club.club
 -d survey-review.club
 -d syncadvanced-bestuberfile.best
@@ -553,7 +558,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -606,6 +610,7 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
+-d wowlifestyle.info
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

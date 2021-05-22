@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 21 May 2021 12:07:13 UTC
+# Updated: Sat, 22 May 2021 00:06:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -46,6 +47,7 @@ blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 boot-upcompletely-bestprecisefile.best
+boot-upcompletely-bestspeedyfile.best
 boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
 boot-uprefined-bestcompletelyfile.best
@@ -61,7 +63,6 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
-chatverse.net
 check-your-profitzone.life
 cheerplaceweb.xyz
 cloudmedia.casa
@@ -232,6 +233,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 iosvpnsecure.com
 izipik.com
+java-forum.org
 joyplaceplay.xyz
 joyspotmap.xyz
 joyspotspin.xyz
@@ -262,8 +264,10 @@ loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
 loadpreciseuberfile.digital
+loadrecentoverlyfile.digital
 loadrefineduberfile.digital
 loadsophisticateduberfile.digital
+loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
 loosefit.info
@@ -394,7 +398,6 @@ productiq.net
 prohealthroutine.info
 protect-connection.com
 protectyourvpn.com
-quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -498,6 +501,7 @@ streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
+studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sugar-legal-about13.fun
@@ -506,6 +510,7 @@ superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
 superpromotion.cyou
+support-notify.space
 survey-club.club
 survey-review.club
 syncadvanced-bestuberfile.best
@@ -550,7 +555,6 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -603,6 +607,7 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 worldwideofficialrewardssuper.cyou
+wowlifestyle.info
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info
