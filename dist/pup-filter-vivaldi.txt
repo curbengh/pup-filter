@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 22 May 2021 12:08:04 UTC
+! Updated: Sun, 23 May 2021 00:07:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -84,6 +84,7 @@
 ||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
 ||credit-resources.xyz$document
+||cryptotilt.club$document
 ||cryptotradingcourses.net$document
 ||cryptounlimited.info$document
 ||cs-alerts.xyz$document
@@ -222,6 +223,7 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
+||httqzq.vip$document
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
 ||inappropriate.top$document
@@ -233,7 +235,6 @@
 ||iosrecommendedvpn.com$document
 ||iosvpnsecure.com$document
 ||izipik.com$document
-||java-forum.org$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
 ||joyspotspin.xyz$document
@@ -399,6 +400,7 @@
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protectyourvpn.com$document
+||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -453,6 +455,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -505,6 +508,7 @@
 ||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
+||sudoo.net$document
 ||sugar-legal-about13.fun$document
 ||superiorcare.info$document
 ||superplace4upgrade.work$document
@@ -557,6 +561,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -598,6 +603,7 @@
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
+||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchadvanced-bestgreatlyfile.best$document

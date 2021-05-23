@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 22 May 2021 12:08:04 UTC
+# Updated: Sun, 23 May 2021 00:07:26 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -84,6 +84,7 @@
 0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
 0.0.0.0 credit-resources.xyz
+0.0.0.0 cryptotilt.club
 0.0.0.0 cryptotradingcourses.net
 0.0.0.0 cryptounlimited.info
 0.0.0.0 cs-alerts.xyz
@@ -222,6 +223,7 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
+0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
@@ -233,7 +235,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
-0.0.0.0 java-forum.org
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 joyspotspin.xyz
@@ -399,6 +400,7 @@
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
+0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -453,6 +455,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -505,6 +508,7 @@
 0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
+0.0.0.0 sudoo.net
 0.0.0.0 sugar-legal-about13.fun
 0.0.0.0 superiorcare.info
 0.0.0.0 superplace4upgrade.work
@@ -557,6 +561,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -598,6 +603,7 @@
 0.0.0.0 vpn-pro.info
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
+0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchadvanced-bestgreatlyfile.best

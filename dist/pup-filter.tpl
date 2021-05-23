@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 22 May 2021 12:08:04 UTC
+# Updated: Sun, 23 May 2021 00:07:26 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -87,6 +87,7 @@ msFilterList
 -d credit-alerts.xyz
 -d credit-monitor.xyz
 -d credit-resources.xyz
+-d cryptotilt.club
 -d cryptotradingcourses.net
 -d cryptounlimited.info
 -d cs-alerts.xyz
@@ -225,6 +226,7 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d httqzq.vip
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
@@ -236,7 +238,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d iosvpnsecure.com
 -d izipik.com
--d java-forum.org
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
 -d joyspotspin.xyz
@@ -402,6 +403,7 @@ msFilterList
 -d prohealthroutine.info
 -d protect-connection.com
 -d protectyourvpn.com
+-d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -456,6 +458,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -508,6 +511,7 @@ msFilterList
 -d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
+-d sudoo.net
 -d sugar-legal-about13.fun
 -d superiorcare.info
 -d superplace4upgrade.work
@@ -560,6 +564,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -601,6 +606,7 @@ msFilterList
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
+-d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best

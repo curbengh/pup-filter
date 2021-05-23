@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 22 May 2021 12:08:04 UTC
+! Updated: Sun, 23 May 2021 00:07:26 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -84,6 +84,7 @@
 ||credit-alerts.xyz^
 ||credit-monitor.xyz^
 ||credit-resources.xyz^
+||cryptotilt.club^
 ||cryptotradingcourses.net^
 ||cryptounlimited.info^
 ||cs-alerts.xyz^
@@ -222,6 +223,7 @@
 ||healthyparker.info^
 ||healthyspirit.info^
 ||healthysure.info^
+||httqzq.vip^
 ||idtheft-alert.xyz^
 ||iketo.diet^
 ||inappropriate.top^
@@ -233,7 +235,6 @@
 ||iosrecommendedvpn.com^
 ||iosvpnsecure.com^
 ||izipik.com^
-||java-forum.org^
 ||joyplaceplay.xyz^
 ||joyspotmap.xyz^
 ||joyspotspin.xyz^
@@ -399,6 +400,7 @@
 ||prohealthroutine.info^
 ||protect-connection.com^
 ||protectyourvpn.com^
+||quantum.work^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -453,6 +455,7 @@
 ||search-tool.net^
 ||search-trends.co^
 ||searchfeed.co^
+||seasoned.co^
 ||sec-alert.xyz^
 ||sec-alerts.xyz^
 ||sec-monitoring.xyz^
@@ -505,6 +508,7 @@
 ||studentslearnintogether.club^
 ||styleandhealth.info^
 ||subeamy.pw^
+||sudoo.net^
 ||sugar-legal-about13.fun^
 ||superiorcare.info^
 ||superplace4upgrade.work^
@@ -557,6 +561,7 @@
 ||thehealthystyle.info^
 ||thehealthyvibe.info^
 ||thehotshot.info^
+||thelastpicture.show^
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
@@ -598,6 +603,7 @@
 ||vpn-pro.info^
 ||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
+||vpnservice.me^
 ||vpntool.me^
 ||vpnupdatesnow.com^
 ||watchadvanced-bestgreatlyfile.best^
