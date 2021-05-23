@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 23 May 2021 00:07:26 UTC
+! Updated: Sun, 23 May 2021 12:06:45 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -167,7 +167,6 @@
 ||gladmstreet.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
-||gladspaceplane.xyz$document
 ||gladspotplay.xyz$document
 ||gladspotwonder.xyz$document
 ||gladvideo.fun$document
@@ -185,7 +184,6 @@
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
-||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
@@ -309,6 +307,7 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||modern-security.xyz$document
+||monetizer.co$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
@@ -389,7 +388,6 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
-||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -455,7 +453,6 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
-||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -550,7 +547,6 @@
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
-||theconnectvpn.com$document
 ||thecryptomoney.info$document
 ||thefatburner.info$document
 ||thefitproject.club$document
@@ -616,6 +612,7 @@
 ||wherentlybrane.site$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
+||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 23 May 2021 00:07:26 UTC
+# Updated: Sun, 23 May 2021 12:06:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -167,7 +167,6 @@ gladdboulevard.xyz
 gladmstreet.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
-gladspaceplane.xyz
 gladspotplay.xyz
 gladspotwonder.xyz
 gladvideo.fun
@@ -185,7 +184,6 @@ graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
-greatsearch.xyz
 growthnetic.club
 hailso.xyz
 haircarepro.info
@@ -309,6 +307,7 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 modern-security.xyz
+monetizer.co
 monitoring-credit.xyz
 multitax.xyz
 my-credit-score.xyz
@@ -389,7 +388,6 @@ placesitee.xyz
 placewebe.xyz
 plampo.xyz
 playspina.xyz
-playspind.xyz
 playspote.xyz
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -455,7 +453,6 @@ score-monitoring.xyz
 search-tool.net
 search-trends.co
 searchfeed.co
-seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -550,7 +547,6 @@ tdstraffic.xyz
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
-theconnectvpn.com
 thecryptomoney.info
 thefatburner.info
 thefitproject.club
@@ -616,6 +612,7 @@ wellnessplum.info
 wherentlybrane.site
 worldwideofficialrewardssuper.cyou
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

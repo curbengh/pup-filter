@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 23 May 2021 00:07:26 UTC
+# Updated: Sun, 23 May 2021 12:06:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -170,7 +170,6 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
--d gladspaceplane.xyz
 -d gladspotplay.xyz
 -d gladspotwonder.xyz
 -d gladvideo.fun
@@ -188,7 +187,6 @@ msFilterList
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
--d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -312,6 +310,7 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
+-d monetizer.co
 -d monitoring-credit.xyz
 -d multitax.xyz
 -d my-credit-score.xyz
@@ -392,7 +391,6 @@ msFilterList
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
--d playspind.xyz
 -d playspote.xyz
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -458,7 +456,6 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -553,7 +550,6 @@ msFilterList
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
--d theconnectvpn.com
 -d thecryptomoney.info
 -d thefatburner.info
 -d thefitproject.club
@@ -619,6 +615,7 @@ msFilterList
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
+-d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

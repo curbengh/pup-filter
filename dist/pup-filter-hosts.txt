@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 23 May 2021 00:07:26 UTC
+# Updated: Sun, 23 May 2021 12:06:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -167,7 +167,6 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
-0.0.0.0 gladspaceplane.xyz
 0.0.0.0 gladspotplay.xyz
 0.0.0.0 gladspotwonder.xyz
 0.0.0.0 gladvideo.fun
@@ -185,7 +184,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
-0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -309,6 +307,7 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 modern-security.xyz
+0.0.0.0 monetizer.co
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
@@ -389,7 +388,6 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -455,7 +453,6 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -550,7 +547,6 @@
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
-0.0.0.0 theconnectvpn.com
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
@@ -616,6 +612,7 @@
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
+0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info
