@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 24 May 2021 00:07:08 UTC
+! Updated: Mon, 24 May 2021 12:07:12 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -100,6 +100,7 @@
 ||dailyrep.net^
 ||degreenm.top^
 ||delightcmain.xyz^
+||desixxx.cloud^
 ||digitalinvest.news^
 ||displayfriend.xyz^
 ||ditvl.com^
@@ -179,7 +180,6 @@
 ||go-x34n7wbcoes-ok.live^
 ||googsistem.live^
 ||govpshosting.com^
-||graburprize.net^
 ||gramp.xyz^
 ||grandcasinoprize.info^
 ||greatplaceofstubs.work^
@@ -306,7 +306,6 @@
 ||mindmatch.ai^
 ||mistraffic.me^
 ||modern-security.xyz^
-||monetizer.co^
 ||monitoring-credit.xyz^
 ||multitax.xyz^
 ||my-credit-score.xyz^
@@ -539,7 +538,6 @@
 ||syncuber-bestprogressivefile.best^
 ||syncuber-bestrefinedfile.best^
 ||syncuber-bestsophisticatedfile.best^
-||tackis.xyz^
 ||talskingest.top^
 ||tastefulwood.xyz^
 ||tdstraffic.xyz^
@@ -573,7 +571,6 @@
 ||trafficgate.cc^
 ||trane.fun^
 ||trktraf.club^
-||trkvpn.xyz^
 ||tryoneshot-keto.net^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^
@@ -598,7 +595,6 @@
 ||vpn-pro.info^
 ||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
-||vpnservice.me^
 ||vpntool.me^
 ||vpnupdatesnow.com^
 ||watchadvanced-bestgreatlyfile.best^
@@ -611,7 +607,6 @@
 ||wherentlybrane.site^
 ||worldwideofficialrewardssuper.cyou^
 ||wowlifestyle.info^
-||youngleaf.biz^
 ||yourbestlinkupgrade.info^
 ||yourbestlinkupgrades.info^
 ||yourbestlinkupgrading.info^

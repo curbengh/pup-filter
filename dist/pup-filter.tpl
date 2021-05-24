@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 24 May 2021 00:07:08 UTC
+# Updated: Mon, 24 May 2021 12:07:12 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -103,6 +103,7 @@ msFilterList
 -d dailyrep.net
 -d degreenm.top
 -d delightcmain.xyz
+-d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -182,7 +183,6 @@ msFilterList
 -d go-x34n7wbcoes-ok.live
 -d googsistem.live
 -d govpshosting.com
--d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
@@ -309,7 +309,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
--d monetizer.co
 -d monitoring-credit.xyz
 -d multitax.xyz
 -d my-credit-score.xyz
@@ -542,7 +541,6 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -576,7 +574,6 @@ msFilterList
 -d trafficgate.cc
 -d trane.fun
 -d trktraf.club
--d trkvpn.xyz
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d unequalfaucet.xyz
@@ -601,7 +598,6 @@ msFilterList
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
--d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
@@ -614,7 +610,6 @@ msFilterList
 -d wherentlybrane.site
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

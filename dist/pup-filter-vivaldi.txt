@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 24 May 2021 00:07:08 UTC
+! Updated: Mon, 24 May 2021 12:07:12 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -100,6 +100,7 @@
 ||dailyrep.net$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
+||desixxx.cloud$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
@@ -179,7 +180,6 @@
 ||go-x34n7wbcoes-ok.live$document
 ||googsistem.live$document
 ||govpshosting.com$document
-||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
@@ -306,7 +306,6 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||modern-security.xyz$document
-||monetizer.co$document
 ||monitoring-credit.xyz$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
@@ -539,7 +538,6 @@
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
@@ -573,7 +571,6 @@
 ||trafficgate.cc$document
 ||trane.fun$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
@@ -598,7 +595,6 @@
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
-||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchadvanced-bestgreatlyfile.best$document
@@ -611,7 +607,6 @@
 ||wherentlybrane.site$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document
