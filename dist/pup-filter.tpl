@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 23 May 2021 12:06:45 UTC
+# Updated: Mon, 24 May 2021 00:07:08 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d ashtdi.cn
@@ -65,6 +64,7 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -124,7 +124,6 @@ msFilterList
 -d filmrod.xyz
 -d films-down.com
 -d financial-deals.xyz
--d findforus.net
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
@@ -226,7 +225,6 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -236,6 +234,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d iosvpnsecure.com
 -d izipik.com
+-d java-forum.org
 -d joyplaceplay.xyz
 -d joyspotmap.xyz
 -d joyspotspin.xyz

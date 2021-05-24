@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 23 May 2021 12:06:45 UTC
+# Updated: Mon, 24 May 2021 00:07:08 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 ashtdi.cn
@@ -62,6 +61,7 @@
 0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cheerplaceweb.xyz
 0.0.0.0 cloudmedia.casa
@@ -121,7 +121,6 @@
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
-0.0.0.0 findforus.net
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
@@ -223,7 +222,6 @@
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -233,6 +231,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
+0.0.0.0 java-forum.org
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 joyspotspin.xyz

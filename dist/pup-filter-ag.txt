@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 23 May 2021 12:06:45 UTC
+! Updated: Mon, 24 May 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
@@ -62,6 +61,7 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
@@ -121,7 +121,6 @@
 ||filmrod.xyz$all
 ||films-down.com$all
 ||financial-deals.xyz$all
-||findforus.net$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
@@ -223,7 +222,6 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -233,6 +231,7 @@
 ||iosrecommendedvpn.com$all
 ||iosvpnsecure.com$all
 ||izipik.com$all
+||java-forum.org$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
 ||joyspotspin.xyz$all

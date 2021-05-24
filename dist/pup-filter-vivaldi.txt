@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 23 May 2021 12:06:45 UTC
+! Updated: Mon, 24 May 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||ashtdi.cn$document
@@ -62,6 +61,7 @@
 ||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cheerplaceweb.xyz$document
 ||cloudmedia.casa$document
@@ -121,7 +121,6 @@
 ||filmrod.xyz$document
 ||films-down.com$document
 ||financial-deals.xyz$document
-||findforus.net$document
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
@@ -223,7 +222,6 @@
 ||healthysure.info$document
 ||httqzq.vip$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -233,6 +231,7 @@
 ||iosrecommendedvpn.com$document
 ||iosvpnsecure.com$document
 ||izipik.com$document
+||java-forum.org$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
 ||joyspotspin.xyz$document
