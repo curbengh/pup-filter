@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 24 May 2021 12:07:12 UTC
+! Updated: Tue, 25 May 2021 00:06:47 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||animenation.org$all
+||amobil.online$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -61,7 +61,6 @@
 ||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
@@ -100,7 +99,6 @@
 ||dailyrep.net$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
-||desixxx.cloud$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
@@ -122,6 +120,7 @@
 ||filmrod.xyz$all
 ||films-down.com$all
 ||financial-deals.xyz$all
+||findforus.net$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
@@ -222,6 +221,7 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -307,8 +307,10 @@
 ||mistraffic.me$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
+||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
+||mynutriplan.co$all
 ||news-new19.net$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
@@ -500,7 +502,6 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
-||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all

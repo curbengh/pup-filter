@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 24 May 2021 12:07:12 UTC
+! Updated: Tue, 25 May 2021 00:06:47 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,7 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-animenation.org
+amobil.online
 apptool.me
 ashtdi.cn
 assuredhealth.info
@@ -61,7 +61,6 @@ careerconnecthub.com
 carevision.info
 celebseven.com
 centrodeartigos.com
-chatverse.net
 check-your-profitzone.life
 cheerplaceweb.xyz
 cloudmedia.casa
@@ -100,7 +99,6 @@ dailymedia.work
 dailyrep.net
 degreenm.top
 delightcmain.xyz
-desixxx.cloud
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
@@ -122,6 +120,7 @@ filmesonlineturbo.net
 filmrod.xyz
 films-down.com
 financial-deals.xyz
+findforus.net
 findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
@@ -222,6 +221,7 @@ healthyspirit.info
 healthysure.info
 httqzq.vip
 idtheft-alert.xyz
+iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -307,8 +307,10 @@ mindmatch.ai
 mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
+movievod.me
 multitax.xyz
 my-credit-score.xyz
+mynutriplan.co
 news-new19.net
 newsitedowloads.site
 nogfw.pro
@@ -500,7 +502,6 @@ streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
-studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sudoo.net

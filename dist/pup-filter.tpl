@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 24 May 2021 12:07:12 UTC
+# Updated: Tue, 25 May 2021 00:06:47 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d animenation.org
+-d amobil.online
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -64,7 +64,6 @@ msFilterList
 -d carevision.info
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cheerplaceweb.xyz
 -d cloudmedia.casa
@@ -103,7 +102,6 @@ msFilterList
 -d dailyrep.net
 -d degreenm.top
 -d delightcmain.xyz
--d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -125,6 +123,7 @@ msFilterList
 -d filmrod.xyz
 -d films-down.com
 -d financial-deals.xyz
+-d findforus.net
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
@@ -225,6 +224,7 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -310,8 +310,10 @@ msFilterList
 -d mistraffic.me
 -d modern-security.xyz
 -d monitoring-credit.xyz
+-d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
+-d mynutriplan.co
 -d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
@@ -503,7 +505,6 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
--d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
