@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 25 May 2021 00:06:47 UTC
+# Updated: Tue, 25 May 2021 12:06:53 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,6 +24,7 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
+0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
@@ -111,6 +112,7 @@
 0.0.0.0 excitingthing.xyz
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
+0.0.0.0 fastmapc.xyz
 0.0.0.0 fastmapf.xyz
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
@@ -166,6 +168,7 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
+0.0.0.0 gladspaceplane.xyz
 0.0.0.0 gladspotplay.xyz
 0.0.0.0 gladspotwonder.xyz
 0.0.0.0 gladvideo.fun
@@ -179,9 +182,11 @@
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
+0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
+0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -320,9 +325,11 @@
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
+0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
 0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
+0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
 0.0.0.0 operateextremely-theprogressivefile.best
@@ -388,6 +395,7 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
+0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -399,6 +407,7 @@
 0.0.0.0 protect-connection.com
 0.0.0.0 protectyourvpn.com
 0.0.0.0 quantum.work
+0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -545,6 +554,7 @@
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
+0.0.0.0 theconnectvpn.com
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
@@ -565,7 +575,6 @@
 0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 thrillqueen.xyz
-0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
@@ -596,6 +605,7 @@
 0.0.0.0 vpn-pro.info
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
+0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchadvanced-bestgreatlyfile.best

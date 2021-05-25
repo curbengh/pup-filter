@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 25 May 2021 00:06:47 UTC
+! Updated: Tue, 25 May 2021 12:06:53 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -24,6 +24,7 @@
 ||asufij.xyz^
 ||auto-lawyer.site^
 ||baseofmp3.com^
+||bestappland.me^
 ||bestlinkupgrade.info^
 ||bestlinkupgrades.info^
 ||bestlinkupgrading.info^
@@ -111,6 +112,7 @@
 ||excitingthing.xyz^
 ||extrasafe.xyz^
 ||facebook-sex.com^
+||fastmapc.xyz^
 ||fastmapf.xyz^
 ||fastplanetf.xyz^
 ||fastspota.xyz^
@@ -166,6 +168,7 @@
 ||gladmstreet.xyz^
 ||gladplaceweb.xyz^
 ||gladslotweb.xyz^
+||gladspaceplane.xyz^
 ||gladspotplay.xyz^
 ||gladspotwonder.xyz^
 ||gladvideo.fun^
@@ -179,9 +182,11 @@
 ||go-x34n7wbcoes-ok.live^
 ||googsistem.live^
 ||govpshosting.com^
+||graburprize.net^
 ||gramp.xyz^
 ||grandcasinoprize.info^
 ||greatplaceofstubs.work^
+||greatsearch.xyz^
 ||growthnetic.club^
 ||hailso.xyz^
 ||haircarepro.info^
@@ -320,9 +325,11 @@
 ||official-prize-national-random.cyou^
 ||officialprizenationalrandom.cyou^
 ||onegowc.pw^
+||online-prize-super-promotion.cyou^
 ||online-survey.org^
 ||onlinecinema.eu^
 ||onlineprize.cyou^
+||onlineprizesuperpromotion.cyou^
 ||operatecompletely-theprecisefile.best^
 ||operatecompletely-thespeedyfile.best^
 ||operateextremely-theprogressivefile.best^
@@ -388,6 +395,7 @@
 ||placewebe.xyz^
 ||plampo.xyz^
 ||playspina.xyz^
+||playspind.xyz^
 ||playspote.xyz^
 ||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
@@ -399,6 +407,7 @@
 ||protect-connection.com^
 ||protectyourvpn.com^
 ||quantum.work^
+||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -545,6 +554,7 @@
 ||theable.me^
 ||thebettercleanplayer.info^
 ||thebettercleanplayers.info^
+||theconnectvpn.com^
 ||thecryptomoney.info^
 ||thefatburner.info^
 ||thefitproject.club^
@@ -565,7 +575,6 @@
 ||thestablegreatupdates.work^
 ||thestablegreatupgrades.best^
 ||thrillqueen.xyz^
-||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
 ||trafficbounce.net^
@@ -596,6 +605,7 @@
 ||vpn-pro.info^
 ||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
+||vpnservice.me^
 ||vpntool.me^
 ||vpnupdatesnow.com^
 ||watchadvanced-bestgreatlyfile.best^

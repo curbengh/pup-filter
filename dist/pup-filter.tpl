@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 25 May 2021 00:06:47 UTC
+# Updated: Tue, 25 May 2021 12:06:53 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -27,6 +27,7 @@ msFilterList
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
+-d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
@@ -114,6 +115,7 @@ msFilterList
 -d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
+-d fastmapc.xyz
 -d fastmapf.xyz
 -d fastplanetf.xyz
 -d fastspota.xyz
@@ -169,6 +171,7 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
+-d gladspaceplane.xyz
 -d gladspotplay.xyz
 -d gladspotwonder.xyz
 -d gladvideo.fun
@@ -182,9 +185,11 @@ msFilterList
 -d go-x34n7wbcoes-ok.live
 -d googsistem.live
 -d govpshosting.com
+-d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
+-d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -323,9 +328,11 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
+-d online-prize-super-promotion.cyou
 -d online-survey.org
 -d onlinecinema.eu
 -d onlineprize.cyou
+-d onlineprizesuperpromotion.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -391,6 +398,7 @@ msFilterList
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
+-d playspind.xyz
 -d playspote.xyz
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -402,6 +410,7 @@ msFilterList
 -d protect-connection.com
 -d protectyourvpn.com
 -d quantum.work
+-d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -548,6 +557,7 @@ msFilterList
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
+-d theconnectvpn.com
 -d thecryptomoney.info
 -d thefatburner.info
 -d thefitproject.club
@@ -568,7 +578,6 @@ msFilterList
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
 -d thrillqueen.xyz
--d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
 -d trafficbounce.net
@@ -599,6 +608,7 @@ msFilterList
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
+-d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best

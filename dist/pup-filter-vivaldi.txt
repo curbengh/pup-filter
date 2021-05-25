@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 25 May 2021 00:06:47 UTC
+! Updated: Tue, 25 May 2021 12:06:53 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -24,6 +24,7 @@
 ||asufij.xyz$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
+||bestappland.me$document
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
 ||bestlinkupgrading.info$document
@@ -111,6 +112,7 @@
 ||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
+||fastmapc.xyz$document
 ||fastmapf.xyz$document
 ||fastplanetf.xyz$document
 ||fastspota.xyz$document
@@ -166,6 +168,7 @@
 ||gladmstreet.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
+||gladspaceplane.xyz$document
 ||gladspotplay.xyz$document
 ||gladspotwonder.xyz$document
 ||gladvideo.fun$document
@@ -179,9 +182,11 @@
 ||go-x34n7wbcoes-ok.live$document
 ||googsistem.live$document
 ||govpshosting.com$document
+||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
+||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
@@ -320,9 +325,11 @@
 ||official-prize-national-random.cyou$document
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
+||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
 ||onlinecinema.eu$document
 ||onlineprize.cyou$document
+||onlineprizesuperpromotion.cyou$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
@@ -388,6 +395,7 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
+||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -399,6 +407,7 @@
 ||protect-connection.com$document
 ||protectyourvpn.com$document
 ||quantum.work$document
+||quickdeals.online$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -545,6 +554,7 @@
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
+||theconnectvpn.com$document
 ||thecryptomoney.info$document
 ||thefatburner.info$document
 ||thefitproject.club$document
@@ -565,7 +575,6 @@
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
 ||thrillqueen.xyz$document
-||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
@@ -596,6 +605,7 @@
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
+||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchadvanced-bestgreatlyfile.best$document
