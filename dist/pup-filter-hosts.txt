@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 26 May 2021 00:07:00 UTC
+# Updated: Wed, 26 May 2021 12:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -395,7 +395,6 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -462,6 +461,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 searchoffers.info
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -576,6 +576,7 @@
 0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 thrillqueen.xyz
+0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
@@ -583,6 +584,7 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
+0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz

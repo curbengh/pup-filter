@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 26 May 2021 00:07:00 UTC
+! Updated: Wed, 26 May 2021 12:07:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -395,7 +395,6 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
-||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -462,6 +461,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||searchoffers.info$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -576,6 +576,7 @@
 ||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
 ||thrillqueen.xyz$document
+||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||trafficbounce.net$document
@@ -583,6 +584,7 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trktraf.club$document
+||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
