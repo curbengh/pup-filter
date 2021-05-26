@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 25 May 2021 12:06:53 UTC
+# Updated: Wed, 26 May 2021 00:07:00 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d amobil.online
+-d animenation.org
 -d apptool.me
 -d ashtdi.cn
 -d assuredhealth.info
@@ -179,7 +180,6 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
--d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -229,7 +229,6 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -265,6 +264,7 @@ msFilterList
 -d livingmighty.club
 -d loaddevelopeduberfile.digital
 -d loadfree-bestheavilyfile.best
+-d loadfreeextremelyfile.digital
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
@@ -405,12 +405,12 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
+-d protecttool.me
 -d protectyourvpn.com
+-d provpnservice.me
 -d quantum.work
--d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -478,6 +478,7 @@ msFilterList
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
+-d signupandturnyourscreenoffsafepowernow.date
 -d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
@@ -514,6 +515,7 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
@@ -568,7 +570,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -582,6 +583,7 @@ msFilterList
 -d topnotchsports.tips
 -d trafficbounce.net
 -d trafficgate.cc
+-d trafficmind.pro
 -d trane.fun
 -d trktraf.club
 -d tryoneshot-keto.net
@@ -612,6 +614,8 @@ msFilterList
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
+-d watchgreatly-bestcurrentfile.best
+-d watchlatest-bestgreatlyfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work

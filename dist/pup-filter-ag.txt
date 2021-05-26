@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 25 May 2021 12:06:53 UTC
+! Updated: Wed, 26 May 2021 00:07:00 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
+||animenation.org$all
 ||apptool.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
@@ -176,7 +177,6 @@
 ||gladvideo.site$all
 ||gladvideo.surf$all
 ||gladvideo.website$all
-||global-info.space$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
@@ -226,7 +226,6 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -262,6 +261,7 @@
 ||livingmighty.club$all
 ||loaddevelopeduberfile.digital$all
 ||loadfree-bestheavilyfile.best$all
+||loadfreeextremelyfile.digital$all
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
@@ -402,12 +402,12 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
+||protecttool.me$all
 ||protectyourvpn.com$all
+||provpnservice.me$all
 ||quantum.work$all
-||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -475,6 +475,7 @@
 ||shkshk.site$all
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
+||signupandturnyourscreenoffsafepowernow.date$all
 ||spotplanetc.xyz$all
 ||spotplanetd.xyz$all
 ||spotspinb.xyz$all
@@ -511,6 +512,7 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all
@@ -565,7 +567,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -579,6 +580,7 @@
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
+||trafficmind.pro$all
 ||trane.fun$all
 ||trktraf.club$all
 ||tryoneshot-keto.net$all
@@ -609,6 +611,8 @@
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchadvanced-bestgreatlyfile.best$all
+||watchgreatly-bestcurrentfile.best$all
+||watchlatest-bestgreatlyfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all
