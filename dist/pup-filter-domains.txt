@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 27 May 2021 00:07:10 UTC
+# Updated: Thu, 27 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -101,6 +101,7 @@ dailymedia.work
 dailyrep.net
 degreenm.top
 delightcmain.xyz
+desixxx.cloud
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
@@ -147,6 +148,7 @@ flyfreecostas.live
 foregoingpump.xyz
 forsalecheap.net
 free-gifts.net
+freenationalsuperworldwide.cyou
 freeperfectupgrade.work
 freeperfectupgrading.work
 freshclover.info
@@ -187,7 +189,6 @@ graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
-greatsearch.xyz
 growthnetic.club
 hailso.xyz
 haircarepro.info
@@ -314,7 +315,6 @@ mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
 movievod.me
-multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
 news-new19.net
@@ -331,6 +331,7 @@ online-survey.org
 onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
+onlinewinnerluckyrewards.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
@@ -478,6 +479,7 @@ shkshk.site
 shopnsave.world
 shoppingexp.xyz
 signupandturnyourscreenoffsafepowernow.date
+smartys.link
 spotplanetc.xyz
 spotplanetd.xyz
 spotspinb.xyz

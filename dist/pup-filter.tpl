@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 27 May 2021 00:07:10 UTC
+# Updated: Thu, 27 May 2021 12:07:13 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -104,6 +104,7 @@ msFilterList
 -d dailyrep.net
 -d degreenm.top
 -d delightcmain.xyz
+-d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -150,6 +151,7 @@ msFilterList
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
+-d freenationalsuperworldwide.cyou
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
 -d freshclover.info
@@ -190,7 +192,6 @@ msFilterList
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
--d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -317,7 +318,6 @@ msFilterList
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d movievod.me
--d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d news-new19.net
@@ -334,6 +334,7 @@ msFilterList
 -d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
+-d onlinewinnerluckyrewards.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
@@ -481,6 +482,7 @@ msFilterList
 -d shopnsave.world
 -d shoppingexp.xyz
 -d signupandturnyourscreenoffsafepowernow.date
+-d smartys.link
 -d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
