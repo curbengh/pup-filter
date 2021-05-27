@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 26 May 2021 12:07:03 UTC
+! Updated: Thu, 27 May 2021 00:07:10 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -177,6 +177,7 @@
 ||gladvideo.site$all
 ||gladvideo.surf$all
 ||gladvideo.website$all
+||global-info.space$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
@@ -270,6 +271,7 @@
 ||loadrecentoverlyfile.digital$all
 ||loadrefineduberfile.digital$all
 ||loadsophisticateduberfile.digital$all
+||loadstrongextremelyfile.digital$all
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
@@ -291,7 +293,6 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
-||mapopts.top$all
 ||mathison.io$all
 ||max-care.info$all
 ||mediagate.casa$all
@@ -401,6 +402,7 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||protect-connection.com$all
 ||protecttool.me$all
@@ -563,7 +565,6 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
-||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
@@ -614,6 +615,7 @@
 ||vpnupdatesnow.com$all
 ||watchadvanced-bestgreatlyfile.best$all
 ||watchgreatly-bestcurrentfile.best$all
+||watchgreatly-bestlatestfile.best$all
 ||watchlatest-bestgreatlyfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all

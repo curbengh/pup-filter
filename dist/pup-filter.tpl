@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 26 May 2021 12:07:03 UTC
+# Updated: Thu, 27 May 2021 00:07:10 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -180,6 +180,7 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
+-d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -273,6 +274,7 @@ msFilterList
 -d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
+-d loadstrongextremelyfile.digital
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -294,7 +296,6 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mapopts.top
 -d mathison.io
 -d max-care.info
 -d mediagate.casa
@@ -404,6 +405,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d protect-connection.com
 -d protecttool.me
@@ -566,7 +568,6 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
--d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
@@ -617,6 +618,7 @@ msFilterList
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
 -d watchgreatly-bestcurrentfile.best
+-d watchgreatly-bestlatestfile.best
 -d watchlatest-bestgreatlyfile.best
 -d website4all.info
 -d websiteforall.work

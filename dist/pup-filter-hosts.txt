@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 26 May 2021 12:07:03 UTC
+# Updated: Thu, 27 May 2021 00:07:10 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -177,6 +177,7 @@
 0.0.0.0 gladvideo.site
 0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
+0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
@@ -270,6 +271,7 @@
 0.0.0.0 loadrecentoverlyfile.digital
 0.0.0.0 loadrefineduberfile.digital
 0.0.0.0 loadsophisticateduberfile.digital
+0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
@@ -291,7 +293,6 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediagate.casa
@@ -401,6 +402,7 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
@@ -563,7 +565,6 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
-0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
@@ -614,6 +615,7 @@
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchadvanced-bestgreatlyfile.best
 0.0.0.0 watchgreatly-bestcurrentfile.best
+0.0.0.0 watchgreatly-bestlatestfile.best
 0.0.0.0 watchlatest-bestgreatlyfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
