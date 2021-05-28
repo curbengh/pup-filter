@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 27 May 2021 12:07:13 UTC
+! Updated: Fri, 28 May 2021 00:07:04 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 ||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
+||armorprovpn.me$document
 ||ashtdi.cn$document
 ||assuredhealth.info$document
 ||asufij.xyz$document
@@ -99,14 +100,13 @@
 ||dailymedia.surf$document
 ||dailymedia.work$document
 ||dailyrep.net$document
+||defensepro.me$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
-||desixxx.cloud$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -228,6 +228,7 @@
 ||healthysure.info$document
 ||httqzq.vip$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -262,6 +263,7 @@
 ||livelyyroad.xyz$document
 ||livingmighty.club$document
 ||loaddevelopeduberfile.digital$document
+||loadextremelyquickfile.digital$document
 ||loadfree-bestheavilyfile.best$document
 ||loadfreeextremelyfile.digital$document
 ||loadgreatly-bestadvancedfile.best$document
@@ -269,10 +271,10 @@
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
 ||loadpreciseuberfile.digital$document
+||loadquickextremelyfile.digital$document
 ||loadrecentoverlyfile.digital$document
 ||loadrefineduberfile.digital$document
 ||loadsophisticateduberfile.digital$document
-||loadstrongextremelyfile.digital$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
@@ -296,6 +298,7 @@
 ||manageuber-theswiftfile.best$document
 ||mathison.io$document
 ||max-care.info$document
+||mediaevent.uno$document
 ||mediagate.casa$document
 ||mediagate.club$document
 ||mediagate.cyou$document
@@ -409,7 +412,6 @@
 ||protecttool.me$document
 ||protectyourvpn.com$document
 ||provpnservice.me$document
-||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -469,6 +471,7 @@
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
 ||second-handjam.xyz$document
+||securitevpn.me$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
@@ -516,7 +519,6 @@
 ||streamlatest-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
-||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sudoo.net$document
@@ -567,9 +569,11 @@
 ||thehealthcurve.info$document
 ||thehealthcycle.club$document
 ||thehealthgo.info$document
+||thehealthpedia.info$document
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -615,10 +619,6 @@
 ||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
-||watchadvanced-bestgreatlyfile.best$document
-||watchgreatly-bestcurrentfile.best$document
-||watchgreatly-bestlatestfile.best$document
-||watchlatest-bestgreatlyfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document

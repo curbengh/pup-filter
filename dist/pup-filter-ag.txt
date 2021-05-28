@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 27 May 2021 12:07:13 UTC
+! Updated: Fri, 28 May 2021 00:07:04 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 ||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
+||armorprovpn.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
@@ -99,14 +100,13 @@
 ||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
+||defensepro.me$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
-||desixxx.cloud$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -228,6 +228,7 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -262,6 +263,7 @@
 ||livelyyroad.xyz$all
 ||livingmighty.club$all
 ||loaddevelopeduberfile.digital$all
+||loadextremelyquickfile.digital$all
 ||loadfree-bestheavilyfile.best$all
 ||loadfreeextremelyfile.digital$all
 ||loadgreatly-bestadvancedfile.best$all
@@ -269,10 +271,10 @@
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
 ||loadpreciseuberfile.digital$all
+||loadquickextremelyfile.digital$all
 ||loadrecentoverlyfile.digital$all
 ||loadrefineduberfile.digital$all
 ||loadsophisticateduberfile.digital$all
-||loadstrongextremelyfile.digital$all
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
@@ -296,6 +298,7 @@
 ||manageuber-theswiftfile.best$all
 ||mathison.io$all
 ||max-care.info$all
+||mediaevent.uno$all
 ||mediagate.casa$all
 ||mediagate.club$all
 ||mediagate.cyou$all
@@ -409,7 +412,6 @@
 ||protecttool.me$all
 ||protectyourvpn.com$all
 ||provpnservice.me$all
-||quantum.work$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -469,6 +471,7 @@
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
 ||second-handjam.xyz$all
+||securitevpn.me$all
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
@@ -516,7 +519,6 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
-||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all
@@ -567,9 +569,11 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
+||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -615,10 +619,6 @@
 ||vpnservice.me$all
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
-||watchadvanced-bestgreatlyfile.best$all
-||watchgreatly-bestcurrentfile.best$all
-||watchgreatly-bestlatestfile.best$all
-||watchlatest-bestgreatlyfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all

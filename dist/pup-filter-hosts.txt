@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 27 May 2021 12:07:13 UTC
+# Updated: Fri, 28 May 2021 00:07:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
+0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
@@ -99,14 +100,13 @@
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
+0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
-0.0.0.0 desixxx.cloud
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -228,6 +228,7 @@
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -262,6 +263,7 @@
 0.0.0.0 livelyyroad.xyz
 0.0.0.0 livingmighty.club
 0.0.0.0 loaddevelopeduberfile.digital
+0.0.0.0 loadextremelyquickfile.digital
 0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadfreeextremelyfile.digital
 0.0.0.0 loadgreatly-bestadvancedfile.best
@@ -269,10 +271,10 @@
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadheavily-bestfreefile.best
 0.0.0.0 loadpreciseuberfile.digital
+0.0.0.0 loadquickextremelyfile.digital
 0.0.0.0 loadrecentoverlyfile.digital
 0.0.0.0 loadrefineduberfile.digital
 0.0.0.0 loadsophisticateduberfile.digital
-0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
@@ -296,6 +298,7 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
+0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
 0.0.0.0 mediagate.club
 0.0.0.0 mediagate.cyou
@@ -409,7 +412,6 @@
 0.0.0.0 protecttool.me
 0.0.0.0 protectyourvpn.com
 0.0.0.0 provpnservice.me
-0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -469,6 +471,7 @@
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
 0.0.0.0 second-handjam.xyz
+0.0.0.0 securitevpn.me
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
@@ -516,7 +519,6 @@
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
-0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
@@ -567,9 +569,11 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
+0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -615,10 +619,6 @@
 0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
-0.0.0.0 watchadvanced-bestgreatlyfile.best
-0.0.0.0 watchgreatly-bestcurrentfile.best
-0.0.0.0 watchgreatly-bestlatestfile.best
-0.0.0.0 watchlatest-bestgreatlyfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work

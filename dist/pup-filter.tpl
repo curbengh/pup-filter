@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 27 May 2021 12:07:13 UTC
+# Updated: Fri, 28 May 2021 00:07:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@ msFilterList
 -d amobil.online
 -d animenation.org
 -d apptool.me
+-d armorprovpn.me
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
@@ -102,14 +103,13 @@ msFilterList
 -d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
+-d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
--d desixxx.cloud
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -231,6 +231,7 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -265,6 +266,7 @@ msFilterList
 -d livelyyroad.xyz
 -d livingmighty.club
 -d loaddevelopeduberfile.digital
+-d loadextremelyquickfile.digital
 -d loadfree-bestheavilyfile.best
 -d loadfreeextremelyfile.digital
 -d loadgreatly-bestadvancedfile.best
@@ -272,10 +274,10 @@ msFilterList
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
 -d loadpreciseuberfile.digital
+-d loadquickextremelyfile.digital
 -d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
--d loadstrongextremelyfile.digital
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -299,6 +301,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mathison.io
 -d max-care.info
+-d mediaevent.uno
 -d mediagate.casa
 -d mediagate.club
 -d mediagate.cyou
@@ -412,7 +415,6 @@ msFilterList
 -d protecttool.me
 -d protectyourvpn.com
 -d provpnservice.me
--d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -472,6 +474,7 @@ msFilterList
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
 -d second-handjam.xyz
+-d securitevpn.me
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
@@ -519,7 +522,6 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
--d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
@@ -570,9 +572,11 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
+-d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -618,10 +622,6 @@ msFilterList
 -d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
--d watchadvanced-bestgreatlyfile.best
--d watchgreatly-bestcurrentfile.best
--d watchgreatly-bestlatestfile.best
--d watchlatest-bestgreatlyfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work

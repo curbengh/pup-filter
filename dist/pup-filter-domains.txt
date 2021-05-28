@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 27 May 2021 12:07:13 UTC
+# Updated: Fri, 28 May 2021 00:07:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ amateurxporn.com
 amobil.online
 animenation.org
 apptool.me
+armorprovpn.me
 ashtdi.cn
 assuredhealth.info
 asufij.xyz
@@ -99,14 +100,13 @@ dailymedia.space
 dailymedia.surf
 dailymedia.work
 dailyrep.net
+defensepro.me
 degreenm.top
 delightcmain.xyz
-desixxx.cloud
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
 dragonballclub.com
-eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -228,6 +228,7 @@ healthyspirit.info
 healthysure.info
 httqzq.vip
 idtheft-alert.xyz
+iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -262,6 +263,7 @@ livehealthcare.today
 livelyyroad.xyz
 livingmighty.club
 loaddevelopeduberfile.digital
+loadextremelyquickfile.digital
 loadfree-bestheavilyfile.best
 loadfreeextremelyfile.digital
 loadgreatly-bestadvancedfile.best
@@ -269,10 +271,10 @@ loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
 loadpreciseuberfile.digital
+loadquickextremelyfile.digital
 loadrecentoverlyfile.digital
 loadrefineduberfile.digital
 loadsophisticateduberfile.digital
-loadstrongextremelyfile.digital
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
@@ -296,6 +298,7 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mathison.io
 max-care.info
+mediaevent.uno
 mediagate.casa
 mediagate.club
 mediagate.cyou
@@ -409,7 +412,6 @@ protect-connection.com
 protecttool.me
 protectyourvpn.com
 provpnservice.me
-quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -469,6 +471,7 @@ sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
 second-handjam.xyz
+securitevpn.me
 security-made-easy.xyz
 security-pro.xyz
 security-protection.xyz
@@ -516,7 +519,6 @@ streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
-studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sudoo.net
@@ -567,9 +569,11 @@ thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
+thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -615,10 +619,6 @@ vpnadefenceplus.com
 vpnservice.me
 vpntool.me
 vpnupdatesnow.com
-watchadvanced-bestgreatlyfile.best
-watchgreatly-bestcurrentfile.best
-watchgreatly-bestlatestfile.best
-watchlatest-bestgreatlyfile.best
 website4all.info
 websiteforall.work
 websitetoget.work
