@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 28 May 2021 00:07:04 UTC
+! Updated: Fri, 28 May 2021 12:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@
 ||amateurxporn.com$all
 ||amobil.online$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -396,10 +397,12 @@
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
 ||piorkeepi.top$all
+||placesiteb.xyz$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
 ||plampo.xyz$all
 ||playspina.xyz$all
+||playspind.xyz$all
 ||playspote.xyz$all
 ||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
@@ -466,7 +469,6 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||searchoffers.info$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all

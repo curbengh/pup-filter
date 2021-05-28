@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 28 May 2021 00:07:04 UTC
+! Updated: Fri, 28 May 2021 12:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -396,10 +397,12 @@
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
 ||piorkeepi.top$document
+||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
+||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -466,7 +469,6 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
-||searchoffers.info$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
