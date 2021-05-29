@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 28 May 2021 12:07:11 UTC
+! Updated: Sat, 29 May 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -229,7 +230,6 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -276,6 +276,7 @@
 ||loadrecentoverlyfile.digital$all
 ||loadrefineduberfile.digital$all
 ||loadsophisticateduberfile.digital$all
+||loadstrongextremelyfile.digital$all
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
@@ -404,7 +405,6 @@
 ||playspina.xyz$all
 ||playspind.xyz$all
 ||playspote.xyz$all
-||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
@@ -415,6 +415,8 @@
 ||protecttool.me$all
 ||protectyourvpn.com$all
 ||provpnservice.me$all
+||quantum.work$all
+||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -557,7 +559,6 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
-||syncuber-bestsophisticatedfile.best$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
@@ -575,7 +576,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -618,6 +618,7 @@
 ||vpn-pro.info$all
 ||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
+||vpnsecurity.me$all
 ||vpnservice.me$all
 ||vpntool.me$all
 ||vpnupdatesnow.com$all

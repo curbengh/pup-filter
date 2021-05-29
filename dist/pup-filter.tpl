@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 28 May 2021 12:07:11 UTC
+# Updated: Sat, 29 May 2021 00:07:08 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -111,6 +111,7 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -232,7 +233,6 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -279,6 +279,7 @@ msFilterList
 -d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
+-d loadstrongextremelyfile.digital
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -407,7 +408,6 @@ msFilterList
 -d playspina.xyz
 -d playspind.xyz
 -d playspote.xyz
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
@@ -418,6 +418,8 @@ msFilterList
 -d protecttool.me
 -d protectyourvpn.com
 -d provpnservice.me
+-d quantum.work
+-d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -560,7 +562,6 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
--d syncuber-bestsophisticatedfile.best
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -578,7 +579,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -621,6 +621,7 @@ msFilterList
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
+-d vpnsecurity.me
 -d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com

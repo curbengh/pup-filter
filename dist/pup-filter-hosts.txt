@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 28 May 2021 12:07:11 UTC
+# Updated: Sat, 29 May 2021 00:07:08 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -229,7 +230,6 @@
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -276,6 +276,7 @@
 0.0.0.0 loadrecentoverlyfile.digital
 0.0.0.0 loadrefineduberfile.digital
 0.0.0.0 loadsophisticateduberfile.digital
+0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
@@ -404,7 +405,6 @@
 0.0.0.0 playspina.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
@@ -415,6 +415,8 @@
 0.0.0.0 protecttool.me
 0.0.0.0 protectyourvpn.com
 0.0.0.0 provpnservice.me
+0.0.0.0 quantum.work
+0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -557,7 +559,6 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
-0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
@@ -575,7 +576,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -618,6 +618,7 @@
 0.0.0.0 vpn-pro.info
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
+0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com

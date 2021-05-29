@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 28 May 2021 12:07:11 UTC
+! Updated: Sat, 29 May 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 ||displayfriend.xyz^
 ||ditvl.com^
 ||dragonballclub.com^
+||eanswers.net^
 ||ehousan.top^
 ||eproute.info^
 ||eroanimeittyokusen.com^
@@ -229,7 +230,6 @@
 ||healthysure.info^
 ||httqzq.vip^
 ||idtheft-alert.xyz^
-||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -276,6 +276,7 @@
 ||loadrecentoverlyfile.digital^
 ||loadrefineduberfile.digital^
 ||loadsophisticateduberfile.digital^
+||loadstrongextremelyfile.digital^
 ||loaduberprecisefile.digital^
 ||loaduberspeedyfile.digital^
 ||locationtracker.services^
@@ -404,7 +405,6 @@
 ||playspina.xyz^
 ||playspind.xyz^
 ||playspote.xyz^
-||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
 ||primawise.info^
 ||primecare.today^
@@ -415,6 +415,8 @@
 ||protecttool.me^
 ||protectyourvpn.com^
 ||provpnservice.me^
+||quantum.work^
+||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -557,7 +559,6 @@
 ||syncuber-bestprecisefile.best^
 ||syncuber-bestprogressivefile.best^
 ||syncuber-bestrefinedfile.best^
-||syncuber-bestsophisticatedfile.best^
 ||talskingest.top^
 ||tastefulwood.xyz^
 ||tdstraffic.xyz^
@@ -575,7 +576,6 @@
 ||thehealthystyle.info^
 ||thehealthyvibe.info^
 ||thehotshot.info^
-||thelastpicture.show^
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
@@ -618,6 +618,7 @@
 ||vpn-pro.info^
 ||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
+||vpnsecurity.me^
 ||vpnservice.me^
 ||vpntool.me^
 ||vpnupdatesnow.com^

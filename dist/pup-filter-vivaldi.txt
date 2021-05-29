@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 28 May 2021 12:07:11 UTC
+! Updated: Sat, 29 May 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -229,7 +230,6 @@
 ||healthysure.info$document
 ||httqzq.vip$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -276,6 +276,7 @@
 ||loadrecentoverlyfile.digital$document
 ||loadrefineduberfile.digital$document
 ||loadsophisticateduberfile.digital$document
+||loadstrongextremelyfile.digital$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
@@ -404,7 +405,6 @@
 ||playspina.xyz$document
 ||playspind.xyz$document
 ||playspote.xyz$document
-||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -415,6 +415,8 @@
 ||protecttool.me$document
 ||protectyourvpn.com$document
 ||provpnservice.me$document
+||quantum.work$document
+||quickdeals.online$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -557,7 +559,6 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
-||syncuber-bestsophisticatedfile.best$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
@@ -575,7 +576,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -618,6 +618,7 @@
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
+||vpnsecurity.me$document
 ||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
