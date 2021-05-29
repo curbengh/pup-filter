@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 29 May 2021 00:07:08 UTC
+! Updated: Sat, 29 May 2021 12:06:44 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
+||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||news-new19.net$all
@@ -403,7 +404,6 @@
 ||placewebe.xyz$all
 ||plampo.xyz$all
 ||playspina.xyz$all
-||playspind.xyz$all
 ||playspote.xyz$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
@@ -559,6 +559,7 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
+||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
@@ -631,6 +632,7 @@
 ||wherentlybrane.site$all
 ||worldwideofficialrewardssuper.cyou$all
 ||wowlifestyle.info$all
+||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all

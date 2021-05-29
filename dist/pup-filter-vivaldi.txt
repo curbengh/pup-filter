@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 29 May 2021 00:07:08 UTC
+! Updated: Sat, 29 May 2021 12:06:44 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
+||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||news-new19.net$document
@@ -403,7 +404,6 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
-||playspind.xyz$document
 ||playspote.xyz$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
@@ -559,6 +559,7 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
+||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
@@ -631,6 +632,7 @@
 ||wherentlybrane.site$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
+||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 29 May 2021 00:07:08 UTC
+# Updated: Sat, 29 May 2021 12:06:44 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 movievod.me
+0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 news-new19.net
@@ -403,7 +404,6 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
@@ -559,6 +559,7 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
+0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
@@ -631,6 +632,7 @@
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
+0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info
