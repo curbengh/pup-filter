@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 30 May 2021 00:07:29 UTC
+# Updated: Sun, 30 May 2021 12:06:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -172,6 +172,7 @@ msFilterList
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
+-d gladplacespin.xyz
 -d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
@@ -188,7 +189,6 @@ msFilterList
 -d go-x34n7wbcoes-ok.live
 -d googsistem.live
 -d govpshosting.com
--d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
@@ -300,7 +300,6 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mapopts.top
 -d mathison.io
 -d max-care.info
 -d mediaevent.uno
@@ -406,6 +405,7 @@ msFilterList
 -d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
+-d playspind.xyz
 -d playspote.xyz
 -d preparedforsafeupgrading.work
 -d primawise.info
@@ -597,7 +597,6 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d trktraf.club
--d trkvpn.xyz
 -d tryoneshot-keto.net
 -d ubertech.shop
 -d uclaimrewards.net
@@ -635,6 +634,7 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d worldwide-national-claim-free.cyou
+-d worldwidenationalclaimfree.cyou
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
 -d youngleaf.biz

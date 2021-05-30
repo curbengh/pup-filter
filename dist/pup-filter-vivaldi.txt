@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 30 May 2021 00:07:29 UTC
+! Updated: Sun, 30 May 2021 12:06:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -169,6 +169,7 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
+||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -185,7 +186,6 @@
 ||go-x34n7wbcoes-ok.live$document
 ||googsistem.live$document
 ||govpshosting.com$document
-||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
@@ -297,7 +297,6 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
-||mapopts.top$document
 ||mathison.io$document
 ||max-care.info$document
 ||mediaevent.uno$document
@@ -403,6 +402,7 @@
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
+||playspind.xyz$document
 ||playspote.xyz$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
@@ -594,7 +594,6 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
 ||uclaimrewards.net$document
@@ -632,6 +631,7 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||worldwide-national-claim-free.cyou$document
+||worldwidenationalclaimfree.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
 ||youngleaf.biz$document

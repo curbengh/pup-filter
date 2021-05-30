@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 30 May 2021 00:07:29 UTC
+# Updated: Sun, 30 May 2021 12:06:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -169,6 +169,7 @@
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
+0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -185,7 +186,6 @@
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
-0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
@@ -297,7 +297,6 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaevent.uno
@@ -403,6 +402,7 @@
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
+0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
@@ -594,7 +594,6 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
-0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
@@ -632,6 +631,7 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 worldwide-national-claim-free.cyou
+0.0.0.0 worldwidenationalclaimfree.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
 0.0.0.0 youngleaf.biz
