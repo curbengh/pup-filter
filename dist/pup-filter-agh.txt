@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 29 May 2021 12:06:44 UTC
+! Updated: Sun, 30 May 2021 00:07:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -48,7 +48,6 @@
 ||blockchain-com.email^
 ||bodyamaze.club^
 ||bodyselfcare.info^
-||boot-upcompletely-bestprecisefile.best^
 ||boot-upcompletely-bestspeedyfile.best^
 ||boot-upfree-bestuberfile.best^
 ||boot-upoverly-bestadvancedfile.best^
@@ -72,7 +71,6 @@
 ||cloudmedia.fun^
 ||cloudmedia.surf^
 ||coachbelief.xyz^
-||collectrewards.net^
 ||comphp.xyz^
 ||conceivecolor.xyz^
 ||conflaqpzc.info^
@@ -103,7 +101,6 @@
 ||dailyrep.net^
 ||defensepro.me^
 ||degreenm.top^
-||delightcmain.xyz^
 ||digitalinvest.news^
 ||displayfriend.xyz^
 ||ditvl.com^
@@ -153,6 +150,7 @@
 ||freenationalsuperworldwide.cyou^
 ||freeperfectupgrade.work^
 ||freeperfectupgrading.work^
+||freewareappsstreamfastall.digital^
 ||freshclover.info^
 ||fuck-me-hard.club^
 ||funmapc.xyz^
@@ -230,6 +228,7 @@
 ||healthysure.info^
 ||httqzq.vip^
 ||idtheft-alert.xyz^
+||iketo.diet^
 ||inappropriate.top^
 ||information.casa^
 ||instablog.club^
@@ -298,6 +297,7 @@
 ||manageuber-therecentfile.best^
 ||manageuber-thestrongfile.best^
 ||manageuber-theswiftfile.best^
+||mapopts.top^
 ||mathison.io^
 ||max-care.info^
 ||mediaevent.uno^
@@ -322,7 +322,6 @@
 ||movievod.me^
 ||multitax.xyz^
 ||my-credit-score.xyz^
-||mynutriplan.co^
 ||news-new19.net^
 ||newsitedowloads.site^
 ||nogfw.pro^
@@ -416,7 +415,6 @@
 ||protectyourvpn.com^
 ||provpnservice.me^
 ||quantum.work^
-||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -523,6 +521,7 @@
 ||streamlatest-bestoverlyfile.best^
 ||streamquick-bestmostfile.best^
 ||streamrecent-bestintenselyfile.best^
+||studentslearnintogether.club^
 ||styleandhealth.info^
 ||subeamy.pw^
 ||sudoo.net^
@@ -577,6 +576,7 @@
 ||thehealthystyle.info^
 ||thehealthyvibe.info^
 ||thehotshot.info^
+||thelastpicture.show^
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
@@ -596,6 +596,7 @@
 ||trktraf.club^
 ||trkvpn.xyz^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^
 ||uniremedy.info^
@@ -630,6 +631,7 @@
 ||wellnessgram.info^
 ||wellnessplum.info^
 ||wherentlybrane.site^
+||worldwide-national-claim-free.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||wowlifestyle.info^
 ||youngleaf.biz^

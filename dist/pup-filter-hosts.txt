@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 29 May 2021 12:06:44 UTC
+# Updated: Sun, 30 May 2021 00:07:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -48,7 +48,6 @@
 0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
-0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
@@ -72,7 +71,6 @@
 0.0.0.0 cloudmedia.fun
 0.0.0.0 cloudmedia.surf
 0.0.0.0 coachbelief.xyz
-0.0.0.0 collectrewards.net
 0.0.0.0 comphp.xyz
 0.0.0.0 conceivecolor.xyz
 0.0.0.0 conflaqpzc.info
@@ -103,7 +101,6 @@
 0.0.0.0 dailyrep.net
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
-0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
@@ -153,6 +150,7 @@
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
+0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapc.xyz
@@ -230,6 +228,7 @@
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -298,6 +297,7 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
+0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaevent.uno
@@ -322,7 +322,6 @@
 0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
-0.0.0.0 mynutriplan.co
 0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
@@ -416,7 +415,6 @@
 0.0.0.0 protectyourvpn.com
 0.0.0.0 provpnservice.me
 0.0.0.0 quantum.work
-0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -523,6 +521,7 @@
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
+0.0.0.0 studentslearnintogether.club
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
@@ -577,6 +576,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -596,6 +596,7 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
@@ -630,6 +631,7 @@
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
+0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
 0.0.0.0 youngleaf.biz

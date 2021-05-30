@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 29 May 2021 12:06:44 UTC
+# Updated: Sun, 30 May 2021 00:07:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -51,7 +51,6 @@ msFilterList
 -d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
--d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
@@ -75,7 +74,6 @@ msFilterList
 -d cloudmedia.fun
 -d cloudmedia.surf
 -d coachbelief.xyz
--d collectrewards.net
 -d comphp.xyz
 -d conceivecolor.xyz
 -d conflaqpzc.info
@@ -106,7 +104,6 @@ msFilterList
 -d dailyrep.net
 -d defensepro.me
 -d degreenm.top
--d delightcmain.xyz
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
@@ -156,6 +153,7 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
+-d freewareappsstreamfastall.digital
 -d freshclover.info
 -d fuck-me-hard.club
 -d funmapc.xyz
@@ -233,6 +231,7 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -301,6 +300,7 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
+-d mapopts.top
 -d mathison.io
 -d max-care.info
 -d mediaevent.uno
@@ -325,7 +325,6 @@ msFilterList
 -d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
--d mynutriplan.co
 -d news-new19.net
 -d newsitedowloads.site
 -d nogfw.pro
@@ -419,7 +418,6 @@ msFilterList
 -d protectyourvpn.com
 -d provpnservice.me
 -d quantum.work
--d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -526,6 +524,7 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d studentslearnintogether.club
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
@@ -580,6 +579,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -599,6 +599,7 @@ msFilterList
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
@@ -633,6 +634,7 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site
+-d worldwide-national-claim-free.cyou
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
 -d youngleaf.biz

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 29 May 2021 12:06:44 UTC
+! Updated: Sun, 30 May 2021 00:07:29 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -48,7 +48,6 @@
 ||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
-||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upoverly-bestadvancedfile.best$document
@@ -72,7 +71,6 @@
 ||cloudmedia.fun$document
 ||cloudmedia.surf$document
 ||coachbelief.xyz$document
-||collectrewards.net$document
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
 ||conflaqpzc.info$document
@@ -103,7 +101,6 @@
 ||dailyrep.net$document
 ||defensepro.me$document
 ||degreenm.top$document
-||delightcmain.xyz$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
@@ -153,6 +150,7 @@
 ||freenationalsuperworldwide.cyou$document
 ||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
+||freewareappsstreamfastall.digital$document
 ||freshclover.info$document
 ||fuck-me-hard.club$document
 ||funmapc.xyz$document
@@ -230,6 +228,7 @@
 ||healthysure.info$document
 ||httqzq.vip$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||information.casa$document
 ||instablog.club$document
@@ -298,6 +297,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mapopts.top$document
 ||mathison.io$document
 ||max-care.info$document
 ||mediaevent.uno$document
@@ -322,7 +322,6 @@
 ||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
-||mynutriplan.co$document
 ||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
@@ -416,7 +415,6 @@
 ||protectyourvpn.com$document
 ||provpnservice.me$document
 ||quantum.work$document
-||quickdeals.online$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -523,6 +521,7 @@
 ||streamlatest-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
+||studentslearnintogether.club$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sudoo.net$document
@@ -577,6 +576,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -596,6 +596,7 @@
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document
@@ -630,6 +631,7 @@
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
+||worldwide-national-claim-free.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
 ||youngleaf.biz$document
