@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 31 May 2021 00:07:00 UTC
+# Updated: Mon, 31 May 2021 12:06:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
--d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -191,9 +190,11 @@ msFilterList
 -d go-x34n7wbcoes-ok.live
 -d googsistem.live
 -d govpshosting.com
+-d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
+-d greatsearch.xyz
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -241,7 +242,6 @@ msFilterList
 -d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d izipik.com
 -d java-forum.org
 -d jointingifstrawberry.xyz
@@ -281,6 +281,7 @@ msFilterList
 -d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
 -d loadsophisticateduberfile.digital
+-d loadstreamlaunch.digital
 -d loadstrongextremelyfile.digital
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
@@ -567,7 +568,6 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
--d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz

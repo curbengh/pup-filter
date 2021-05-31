@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 31 May 2021 00:07:00 UTC
+! Updated: Mon, 31 May 2021 12:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -188,9 +187,11 @@
 ||go-x34n7wbcoes-ok.live$document
 ||googsistem.live$document
 ||govpshosting.com$document
+||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
+||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
@@ -238,7 +239,6 @@
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
-||iosvpnsecure.com$document
 ||izipik.com$document
 ||java-forum.org$document
 ||jointingifstrawberry.xyz$document
@@ -278,6 +278,7 @@
 ||loadrecentoverlyfile.digital$document
 ||loadrefineduberfile.digital$document
 ||loadsophisticateduberfile.digital$document
+||loadstreamlaunch.digital$document
 ||loadstrongextremelyfile.digital$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
@@ -564,7 +565,6 @@
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
-||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
