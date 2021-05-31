@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 30 May 2021 12:06:51 UTC
+! Updated: Mon, 31 May 2021 00:07:00 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -48,6 +48,7 @@
 ||blockchain-com.email$all
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
+||boot-upcompletely-bestprecisefile.best$all
 ||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
@@ -71,6 +72,7 @@
 ||cloudmedia.fun$all
 ||cloudmedia.surf$all
 ||coachbelief.xyz$all
+||collectrewards.net$all
 ||comphp.xyz$all
 ||conceivecolor.xyz$all
 ||conflaqpzc.info$all
@@ -101,6 +103,7 @@
 ||dailyrep.net$all
 ||defensepro.me$all
 ||degreenm.top$all
+||delightcmain.xyz$all
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
@@ -150,7 +153,6 @@
 ||freenationalsuperworldwide.cyou$all
 ||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
-||freewareappsstreamfastall.digital$all
 ||freshclover.info$all
 ||fuck-me-hard.club$all
 ||funmapc.xyz$all
@@ -239,6 +241,7 @@
 ||iosvpnsecure.com$all
 ||izipik.com$all
 ||java-forum.org$all
+||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotmap.xyz$all
 ||joyspotspin.xyz$all
@@ -321,6 +324,7 @@
 ||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
+||mynutriplan.co$all
 ||news-new19.net$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
@@ -404,6 +408,7 @@
 ||playspina.xyz$all
 ||playspind.xyz$all
 ||playspote.xyz$all
+||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
@@ -558,6 +563,7 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
+||syncuber-bestsophisticatedfile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all

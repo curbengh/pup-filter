@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 30 May 2021 12:06:51 UTC
+! Updated: Mon, 31 May 2021 00:07:00 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -48,6 +48,7 @@
 ||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
+||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upoverly-bestadvancedfile.best$document
@@ -71,6 +72,7 @@
 ||cloudmedia.fun$document
 ||cloudmedia.surf$document
 ||coachbelief.xyz$document
+||collectrewards.net$document
 ||comphp.xyz$document
 ||conceivecolor.xyz$document
 ||conflaqpzc.info$document
@@ -101,6 +103,7 @@
 ||dailyrep.net$document
 ||defensepro.me$document
 ||degreenm.top$document
+||delightcmain.xyz$document
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
@@ -150,7 +153,6 @@
 ||freenationalsuperworldwide.cyou$document
 ||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
-||freewareappsstreamfastall.digital$document
 ||freshclover.info$document
 ||fuck-me-hard.club$document
 ||funmapc.xyz$document
@@ -239,6 +241,7 @@
 ||iosvpnsecure.com$document
 ||izipik.com$document
 ||java-forum.org$document
+||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotmap.xyz$document
 ||joyspotspin.xyz$document
@@ -321,6 +324,7 @@
 ||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
+||mynutriplan.co$document
 ||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
@@ -404,6 +408,7 @@
 ||playspina.xyz$document
 ||playspind.xyz$document
 ||playspote.xyz$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -558,6 +563,7 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
+||syncuber-bestsophisticatedfile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
