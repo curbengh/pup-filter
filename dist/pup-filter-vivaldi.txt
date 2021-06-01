@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 31 May 2021 12:06:59 UTC
+! Updated: Tue, 01 Jun 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
+||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
@@ -303,6 +304,7 @@
 ||manageuber-theswiftfile.best$document
 ||mathison.io$document
 ||max-care.info$document
+||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
 ||mediagate.club$document
@@ -337,7 +339,6 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -414,7 +415,6 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
-||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protecttool.me$document
@@ -441,7 +441,9 @@
 ||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
+||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
+||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
@@ -582,7 +584,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -598,7 +599,6 @@
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trafficmind.pro$document
-||trane.fun$document
 ||trktraf.club$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
@@ -629,6 +629,7 @@
 ||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
+||watchgreatly-bestlatestfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document

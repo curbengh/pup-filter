@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 31 May 2021 12:06:59 UTC
+! Updated: Tue, 01 Jun 2021 00:07:08 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
+1browser.co
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -303,6 +304,7 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mathison.io
 max-care.info
+mediaevent.club
 mediaevent.uno
 mediagate.casa
 mediagate.club
@@ -337,7 +339,6 @@ officialprizenationalrandom.cyou
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
-onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -414,7 +415,6 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
-productiq.net
 prohealthroutine.info
 protect-connection.com
 protecttool.me
@@ -441,7 +441,9 @@ renewvideo.online
 renewvideo.site
 renewvideo.website
 resignation.top
+rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
+rewardspromotionwinnersuper.cyou
 ritaus.org
 roadtoyourhealth.info
 robogarden.io
@@ -582,7 +584,6 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -598,7 +599,6 @@ topnotchsports.tips
 trafficbounce.net
 trafficgate.cc
 trafficmind.pro
-trane.fun
 trktraf.club
 tryoneshot-keto.net
 ubertech.shop
@@ -629,6 +629,7 @@ vpnsecurity.me
 vpnservice.me
 vpntool.me
 vpnupdatesnow.com
+watchgreatly-bestlatestfile.best
 website4all.info
 websiteforall.work
 websitetoget.work
