@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 01 Jun 2021 00:07:08 UTC
+# Updated: Tue, 01 Jun 2021 12:07:21 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ altcasino.info
 amateurxporn.com
 amobil.online
 animenation.org
+anismunre.info
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -171,7 +172,6 @@ getstablesystemupgrades.work
 gladcboulevard.xyz
 gladdboulevard.xyz
 gladmstreet.xyz
-gladplacespin.xyz
 gladplaceweb.xyz
 gladslotweb.xyz
 gladspaceplane.xyz
@@ -192,7 +192,6 @@ graburprize.net
 gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
-greatsearch.xyz
 growthnetic.club
 hailso.xyz
 haircarepro.info
@@ -240,6 +239,7 @@ installcompletely-theoriginalfile.best
 insuredhealth.info
 iosdfnc.com
 iosrecommendedvpn.com
+iosvpnsecure.com
 izipik.com
 java-forum.org
 jointingifstrawberry.xyz
@@ -302,6 +302,7 @@ manageuber-thenewestfile.best
 manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
+mapopts.top
 mathison.io
 max-care.info
 mediaevent.club
@@ -328,7 +329,6 @@ movievod.me
 multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
-news-new19.net
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
@@ -403,12 +403,10 @@ performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
 piorkeepi.top
-placesiteb.xyz
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
 playspina.xyz
-playspind.xyz
 playspote.xyz
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -600,6 +598,7 @@ trafficbounce.net
 trafficgate.cc
 trafficmind.pro
 trktraf.club
+trkvpn.xyz
 tryoneshot-keto.net
 ubertech.shop
 uclaimrewards.net

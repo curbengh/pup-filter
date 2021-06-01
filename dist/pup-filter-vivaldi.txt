@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 01 Jun 2021 00:07:08 UTC
+! Updated: Tue, 01 Jun 2021 12:07:21 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -171,7 +172,6 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
-||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -192,7 +192,6 @@
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
-||greatsearch.xyz$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
@@ -240,6 +239,7 @@
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
+||iosvpnsecure.com$document
 ||izipik.com$document
 ||java-forum.org$document
 ||jointingifstrawberry.xyz$document
@@ -302,6 +302,7 @@
 ||manageuber-therecentfile.best$document
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
+||mapopts.top$document
 ||mathison.io$document
 ||max-care.info$document
 ||mediaevent.club$document
@@ -328,7 +329,6 @@
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
-||news-new19.net$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -403,12 +403,10 @@
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
 ||piorkeepi.top$document
-||placesiteb.xyz$document
 ||placesitee.xyz$document
 ||placewebe.xyz$document
 ||plampo.xyz$document
 ||playspina.xyz$document
-||playspind.xyz$document
 ||playspote.xyz$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -600,6 +598,7 @@
 ||trafficgate.cc$document
 ||trafficmind.pro$document
 ||trktraf.club$document
+||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
 ||uclaimrewards.net$document

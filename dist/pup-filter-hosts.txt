@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 01 Jun 2021 00:07:08 UTC
+# Updated: Tue, 01 Jun 2021 12:07:21 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -171,7 +172,6 @@
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladplaceweb.xyz
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -192,7 +192,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
-0.0.0.0 greatsearch.xyz
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -240,6 +239,7 @@
 0.0.0.0 insuredhealth.info
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
+0.0.0.0 iosvpnsecure.com
 0.0.0.0 izipik.com
 0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
@@ -302,6 +302,7 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
+0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaevent.club
@@ -328,7 +329,6 @@
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
-0.0.0.0 news-new19.net
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
@@ -403,12 +403,10 @@
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 piorkeepi.top
-0.0.0.0 placesiteb.xyz
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
-0.0.0.0 playspind.xyz
 0.0.0.0 playspote.xyz
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -600,6 +598,7 @@
 0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
 0.0.0.0 trktraf.club
+0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net

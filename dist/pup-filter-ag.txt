@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 01 Jun 2021 00:07:08 UTC
+! Updated: Tue, 01 Jun 2021 12:07:21 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@
 ||amateurxporn.com$all
 ||amobil.online$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -171,7 +172,6 @@
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
-||gladplacespin.xyz$all
 ||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
 ||gladspaceplane.xyz$all
@@ -192,7 +192,6 @@
 ||gramp.xyz$all
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
-||greatsearch.xyz$all
 ||growthnetic.club$all
 ||hailso.xyz$all
 ||haircarepro.info$all
@@ -240,6 +239,7 @@
 ||insuredhealth.info$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
+||iosvpnsecure.com$all
 ||izipik.com$all
 ||java-forum.org$all
 ||jointingifstrawberry.xyz$all
@@ -302,6 +302,7 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
+||mapopts.top$all
 ||mathison.io$all
 ||max-care.info$all
 ||mediaevent.club$all
@@ -328,7 +329,6 @@
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
-||news-new19.net$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nosyknot.xyz$all
@@ -403,12 +403,10 @@
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
 ||piorkeepi.top$all
-||placesiteb.xyz$all
 ||placesitee.xyz$all
 ||placewebe.xyz$all
 ||plampo.xyz$all
 ||playspina.xyz$all
-||playspind.xyz$all
 ||playspote.xyz$all
 ||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
@@ -600,6 +598,7 @@
 ||trafficgate.cc$all
 ||trafficmind.pro$all
 ||trktraf.club$all
+||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
 ||ubertech.shop$all
 ||uclaimrewards.net$all
