@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 02 Jun 2021 00:06:59 UTC
+! Updated: Wed, 02 Jun 2021 12:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -57,7 +56,6 @@ boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
 browsercheck.site
 btcinvesting.info
-bulley.shop
 cabins-r-us.com
 calculateprint.xyz
 care-connection.info
@@ -108,6 +106,7 @@ delightcmain.xyz
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
+dollarsurvey365.online
 dragonballclub.com
 eanswers.net
 ehousan.top
@@ -239,7 +238,7 @@ installcompletely-theoriginalfile.best
 insuredhealth.info
 iosdfnc.com
 iosrecommendedvpn.com
-iosvpnsecure.com
+isystemupdate.cloud
 izipik.com
 java-forum.org
 jointingifstrawberry.xyz
@@ -419,6 +418,7 @@ protect-connection.com
 protecttool.me
 protectyourvpn.com
 provpnservice.me
+qh97dkzy20.top
 quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
@@ -476,6 +476,8 @@ score-monitoring.xyz
 search-tool.net
 search-trends.co
 searchfeed.co
+searchoffers.info
+seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -528,7 +530,6 @@ streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
-studentslearnintogether.club
 styleandhealth.info
 subeamy.pw
 sudoo.net
@@ -572,7 +573,6 @@ tdstraffic.xyz
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
-theconnectvpn.com
 thecryptomoney.info
 thefatburner.info
 thefitproject.club

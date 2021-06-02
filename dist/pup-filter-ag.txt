@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 02 Jun 2021 00:06:59 UTC
+! Updated: Wed, 02 Jun 2021 12:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -57,7 +56,6 @@
 ||boot-upuber-bestfreefile.best$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
-||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
 ||care-connection.info$all
@@ -108,6 +106,7 @@
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
+||dollarsurvey365.online$all
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||ehousan.top$all
@@ -239,7 +238,7 @@
 ||insuredhealth.info$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
-||iosvpnsecure.com$all
+||isystemupdate.cloud$all
 ||izipik.com$all
 ||java-forum.org$all
 ||jointingifstrawberry.xyz$all
@@ -419,6 +418,7 @@
 ||protecttool.me$all
 ||protectyourvpn.com$all
 ||provpnservice.me$all
+||qh97dkzy20.top$all
 ||quantum.work$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
@@ -476,6 +476,8 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
+||searchoffers.info$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -528,7 +530,6 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
-||studentslearnintogether.club$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all
@@ -572,7 +573,6 @@
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
-||theconnectvpn.com$all
 ||thecryptomoney.info$all
 ||thefatburner.info$all
 ||thefitproject.club$all
