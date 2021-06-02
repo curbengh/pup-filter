@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 01 Jun 2021 12:07:21 UTC
+! Updated: Wed, 02 Jun 2021 00:06:59 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -413,6 +413,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||protect-connection.com$document
 ||protecttool.me$document
@@ -582,6 +583,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -597,6 +599,7 @@
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trafficmind.pro$document
+||trane.fun$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
@@ -622,7 +625,6 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
