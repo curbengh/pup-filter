@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 02 Jun 2021 12:07:28 UTC
+! Updated: Thu, 03 Jun 2021 00:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,7 +108,6 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -147,12 +146,14 @@
 ||flatbellylife.info$all
 ||flexroll.online$all
 ||flyfreecostas.live$all
+||flymedia.club$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
 ||free-gifts.net$all
 ||freenationalsuperworldwide.cyou$all
 ||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
+||freewareappsstreamfast-best.digital$all
 ||freshclover.info$all
 ||fuck-me-hard.club$all
 ||funmapc.xyz$all
@@ -228,6 +229,7 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||horny-honey.online$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
@@ -338,6 +340,7 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -502,6 +505,7 @@
 ||springplanetf.xyz$all
 ||springsitea.xyz$all
 ||springsitef.xyz$all
+||start-page.one$all
 ||stay-notified.cc$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
@@ -603,7 +607,6 @@
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
@@ -625,12 +628,14 @@
 ||vital-health.club$all
 ||vitalrole.info$all
 ||vpn-pro.info$all
+||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchgreatly-bestlatestfile.best$all
+||watchprogressive-bestmostfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all
@@ -668,4 +673,5 @@
 ||yourstablegreatupdates.work$all
 ||yourtechplaceforupgrades.info$all
 ||yourultimateperfectupgrades.work$all
+||youthewinner.net$all
 ||ysfetinora.tk$all

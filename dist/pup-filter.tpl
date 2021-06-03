@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 02 Jun 2021 12:07:28 UTC
+# Updated: Thu, 03 Jun 2021 00:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -111,7 +111,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -150,12 +149,14 @@ msFilterList
 -d flatbellylife.info
 -d flexroll.online
 -d flyfreecostas.live
+-d flymedia.club
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
+-d freewareappsstreamfast-best.digital
 -d freshclover.info
 -d fuck-me-hard.club
 -d funmapc.xyz
@@ -231,6 +232,7 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d horny-honey.online
 -d httqzq.vip
 -d idtheft-alert.xyz
 -d iketo.diet
@@ -341,6 +343,7 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -505,6 +508,7 @@ msFilterList
 -d springplanetf.xyz
 -d springsitea.xyz
 -d springsitef.xyz
+-d start-page.one
 -d stay-notified.cc
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
@@ -606,7 +610,6 @@ msFilterList
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
@@ -628,12 +631,14 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnsecurity.me
 -d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
+-d watchprogressive-bestmostfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
@@ -671,4 +676,5 @@ msFilterList
 -d yourstablegreatupdates.work
 -d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
+-d youthewinner.net
 -d ysfetinora.tk

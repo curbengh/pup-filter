@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 02 Jun 2021 12:07:28 UTC
+! Updated: Thu, 03 Jun 2021 00:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,7 +108,6 @@ displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
 dragonballclub.com
-eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -147,12 +146,14 @@ flash-rewards.info
 flatbellylife.info
 flexroll.online
 flyfreecostas.live
+flymedia.club
 foregoingpump.xyz
 forsalecheap.net
 free-gifts.net
 freenationalsuperworldwide.cyou
 freeperfectupgrade.work
 freeperfectupgrading.work
+freewareappsstreamfast-best.digital
 freshclover.info
 fuck-me-hard.club
 funmapc.xyz
@@ -228,6 +229,7 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
+horny-honey.online
 httqzq.vip
 idtheft-alert.xyz
 iketo.diet
@@ -338,6 +340,7 @@ officialprizenationalrandom.cyou
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
+onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -502,6 +505,7 @@ springplanetb.xyz
 springplanetf.xyz
 springsitea.xyz
 springsitef.xyz
+start-page.one
 stay-notified.cc
 stingyscent.xyz
 storeheavily-thefreefile.best
@@ -603,7 +607,6 @@ trane.fun
 trktraf.club
 trkvpn.xyz
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
@@ -625,12 +628,14 @@ viralarticles.net
 vital-health.club
 vitalrole.info
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpnsecurity.me
 vpnservice.me
 vpntool.me
 vpnupdatesnow.com
 watchgreatly-bestlatestfile.best
+watchprogressive-bestmostfile.best
 website4all.info
 websiteforall.work
 websitetoget.work
@@ -668,4 +673,5 @@ yourstablegreatupdate.work
 yourstablegreatupdates.work
 yourtechplaceforupgrades.info
 yourultimateperfectupgrades.work
+youthewinner.net
 ysfetinora.tk

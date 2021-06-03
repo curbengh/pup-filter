@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 02 Jun 2021 12:07:28 UTC
+# Updated: Thu, 03 Jun 2021 00:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -108,7 +108,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -147,12 +146,14 @@
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
+0.0.0.0 flymedia.club
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 free-gifts.net
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
+0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapc.xyz
@@ -228,6 +229,7 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
+0.0.0.0 horny-honey.online
 0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
@@ -338,6 +340,7 @@
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
+0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
@@ -502,6 +505,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 springsitea.xyz
 0.0.0.0 springsitef.xyz
+0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
 0.0.0.0 stingyscent.xyz
 0.0.0.0 storeheavily-thefreefile.best
@@ -603,7 +607,6 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
@@ -625,12 +628,14 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchgreatly-bestlatestfile.best
+0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work
@@ -668,4 +673,5 @@
 0.0.0.0 yourstablegreatupdates.work
 0.0.0.0 yourtechplaceforupgrades.info
 0.0.0.0 yourultimateperfectupgrades.work
+0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk
