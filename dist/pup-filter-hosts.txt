@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 03 Jun 2021 00:07:07 UTC
+# Updated: Thu, 03 Jun 2021 12:08:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -230,7 +230,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 horny-honey.online
-0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
@@ -479,8 +478,6 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
-0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -496,7 +493,6 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
-0.0.0.0 smartys.link
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 spotplanetd.xyz
 0.0.0.0 spotspinb.xyz
@@ -605,7 +601,6 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
-0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz

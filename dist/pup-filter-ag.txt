@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 03 Jun 2021 00:07:07 UTC
+! Updated: Thu, 03 Jun 2021 12:08:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -230,7 +230,6 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||horny-honey.online$all
-||httqzq.vip$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -479,8 +478,6 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||searchoffers.info$all
-||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -496,7 +493,6 @@
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
 ||signupandturnyourscreenoffsafepowernow.date$all
-||smartys.link$all
 ||spotplanetc.xyz$all
 ||spotplanetd.xyz$all
 ||spotspinb.xyz$all
@@ -605,7 +601,6 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||trktraf.club$all
-||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all

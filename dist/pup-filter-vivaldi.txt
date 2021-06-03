@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 03 Jun 2021 00:07:07 UTC
+! Updated: Thu, 03 Jun 2021 12:08:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -230,7 +230,6 @@
 ||healthyspirit.info$document
 ||healthysure.info$document
 ||horny-honey.online$document
-||httqzq.vip$document
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
 ||inappropriate.top$document
@@ -479,8 +478,6 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
-||searchoffers.info$document
-||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -496,7 +493,6 @@
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||signupandturnyourscreenoffsafepowernow.date$document
-||smartys.link$document
 ||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
@@ -605,7 +601,6 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
