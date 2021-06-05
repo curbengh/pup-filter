@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 05 Jun 2021 00:31:26 UTC
+# Updated: Sat, 05 Jun 2021 12:06:38 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -192,7 +191,6 @@ go-x34n7wbcoes-ok.live
 googsistem.live
 govpshosting.com
 graburprize.net
-gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
 growthnetic.club
@@ -232,7 +230,7 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
-horny-honey.online
+httqzq.vip
 idtheft-alert.xyz
 iketo.diet
 inappropriate.top
@@ -242,12 +240,11 @@ installcompletely-theoriginalfile.best
 insuredhealth.info
 iosdfnc.com
 iosrecommendedvpn.com
+iosvpnsecure.com
 isystemupdate.cloud
 izipik.com
-java-forum.org
 jointingifstrawberry.xyz
 joyplaceplay.xyz
-joyspotmap.xyz
 joyspotspin.xyz
 jsrenthouse.com
 jubilantdstreet.xyz
@@ -450,7 +447,6 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 roadtoyourhealth.info
-robogarden.io
 rootessential.info
 rotharbor.xyz
 runadvanced-bestextremelyfile.best
@@ -497,6 +493,7 @@ shkshk.site
 shopnsave.world
 shoppingexp.xyz
 signupandturnyourscreenoffsafepowernow.date
+smartys.link
 spotplanetc.xyz
 spotplanetd.xyz
 spotspinb.xyz

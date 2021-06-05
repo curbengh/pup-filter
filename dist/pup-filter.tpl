@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 05 Jun 2021 00:31:26 UTC
+# Updated: Sat, 05 Jun 2021 12:06:38 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -195,7 +194,6 @@ msFilterList
 -d googsistem.live
 -d govpshosting.com
 -d graburprize.net
--d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d growthnetic.club
@@ -235,7 +233,7 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
--d horny-honey.online
+-d httqzq.vip
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
@@ -245,12 +243,11 @@ msFilterList
 -d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
+-d iosvpnsecure.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
--d joyspotmap.xyz
 -d joyspotspin.xyz
 -d jsrenthouse.com
 -d jubilantdstreet.xyz
@@ -453,7 +450,6 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d roadtoyourhealth.info
--d robogarden.io
 -d rootessential.info
 -d rotharbor.xyz
 -d runadvanced-bestextremelyfile.best
@@ -500,6 +496,7 @@ msFilterList
 -d shopnsave.world
 -d shoppingexp.xyz
 -d signupandturnyourscreenoffsafepowernow.date
+-d smartys.link
 -d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
