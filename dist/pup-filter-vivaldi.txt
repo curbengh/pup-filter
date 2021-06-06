@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 06 Jun 2021 00:07:28 UTC
+! Updated: Sun, 06 Jun 2021 12:06:44 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -175,6 +175,7 @@
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
+||gladplacespin.xyz$document
 ||gladplaceweb.xyz$document
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
@@ -231,7 +232,6 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
-||httqzq.vip$document
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
 ||inappropriate.top$document
@@ -241,7 +241,6 @@
 ||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
-||iosvpnsecure.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
 ||jointingifstrawberry.xyz$document
@@ -502,7 +501,6 @@
 ||springplanetf.xyz$document
 ||springsitea.xyz$document
 ||springsitef.xyz$document
-||start-page.one$document
 ||stay-notified.cc$document
 ||stingyscent.xyz$document
 ||storeheavily-thefreefile.best$document

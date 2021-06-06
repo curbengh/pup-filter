@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 06 Jun 2021 00:07:28 UTC
+! Updated: Sun, 06 Jun 2021 12:06:44 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -175,6 +175,7 @@
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
+||gladplacespin.xyz$all
 ||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
 ||gladspaceplane.xyz$all
@@ -231,7 +232,6 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
-||httqzq.vip$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -241,7 +241,6 @@
 ||insuredhealth.info$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
-||iosvpnsecure.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
 ||jointingifstrawberry.xyz$all
@@ -502,7 +501,6 @@
 ||springplanetf.xyz$all
 ||springsitea.xyz$all
 ||springsitef.xyz$all
-||start-page.one$all
 ||stay-notified.cc$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
