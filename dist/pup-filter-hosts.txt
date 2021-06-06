@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 05 Jun 2021 12:06:38 UTC
+# Updated: Sun, 06 Jun 2021 00:07:28 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -149,6 +149,7 @@
 0.0.0.0 flyfreecostas.live
 0.0.0.0 flymedia.club
 0.0.0.0 flymedia.online
+0.0.0.0 flymedia.uno
 0.0.0.0 foregoingpump.xyz
 0.0.0.0 forsalecheap.net
 0.0.0.0 free-gifts.net
@@ -477,7 +478,6 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz

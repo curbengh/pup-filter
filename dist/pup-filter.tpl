@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 05 Jun 2021 12:06:38 UTC
+# Updated: Sun, 06 Jun 2021 00:07:28 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -152,6 +152,7 @@ msFilterList
 -d flyfreecostas.live
 -d flymedia.club
 -d flymedia.online
+-d flymedia.uno
 -d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
@@ -480,7 +481,6 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz

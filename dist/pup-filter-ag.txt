@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 05 Jun 2021 12:06:38 UTC
+! Updated: Sun, 06 Jun 2021 00:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -149,6 +149,7 @@
 ||flyfreecostas.live$all
 ||flymedia.club$all
 ||flymedia.online$all
+||flymedia.uno$all
 ||foregoingpump.xyz$all
 ||forsalecheap.net$all
 ||free-gifts.net$all
@@ -477,7 +478,6 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
