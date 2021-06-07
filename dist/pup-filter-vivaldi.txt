@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 07 Jun 2021 00:07:03 UTC
+! Updated: Mon, 07 Jun 2021 12:07:45 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -193,6 +192,7 @@
 ||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
+||gramp.xyz$document
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
 ||growthnetic.club$document
@@ -322,7 +322,6 @@
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
 ||mindbank.ai$document
-||mindmatch.ai$document
 ||mistraffic.me$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
@@ -625,7 +624,6 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
@@ -644,7 +642,6 @@
 ||worldwidenationalclaimfree.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document
@@ -670,5 +667,4 @@
 ||yourstablegreatupdates.work$document
 ||yourtechplaceforupgrades.info$document
 ||yourultimateperfectupgrades.work$document
-||youthewinner.net$document
 ||ysfetinora.tk$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 07 Jun 2021 00:07:03 UTC
+# Updated: Mon, 07 Jun 2021 12:07:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d animenation.org
--d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -196,6 +195,7 @@ msFilterList
 -d googsistem.live
 -d govpshosting.com
 -d graburprize.net
+-d gramp.xyz
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d growthnetic.club
@@ -325,7 +325,6 @@ msFilterList
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
 -d mindbank.ai
--d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
 -d monitoring-credit.xyz
@@ -628,7 +627,6 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnsecurity.me
 -d vpnservice.me
@@ -647,7 +645,6 @@ msFilterList
 -d worldwidenationalclaimfree.cyou
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
@@ -673,5 +670,4 @@ msFilterList
 -d yourstablegreatupdates.work
 -d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
--d youthewinner.net
 -d ysfetinora.tk
