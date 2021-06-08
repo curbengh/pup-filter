@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 08 Jun 2021 00:07:11 UTC
+! Updated: Tue, 08 Jun 2021 12:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -24,7 +24,6 @@ armorprovpn.me
 ashtdi.cn
 assuredhealth.info
 asufij.xyz
-atprofessor.fun
 auto-lawyer.site
 baseofmp3.com
 bestappland.me
@@ -56,6 +55,7 @@ boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
 browsercheck.site
 btcinvesting.info
+bulley.shop
 cabins-r-us.com
 calculateprint.xyz
 care-connection.info
@@ -108,7 +108,6 @@ displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
 dragonballclub.com
-eanswers.net
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -144,7 +143,6 @@ fithealthsure.info
 fitlifevalue.info
 fitnessdial.club
 fitsure.info
-flash-rewards.info
 flatbellylife.info
 flexroll.online
 flyfreecostas.live
@@ -186,7 +184,6 @@ gladvideo.online
 gladvideo.site
 gladvideo.surf
 gladvideo.website
-global-info.space
 globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
@@ -197,7 +194,6 @@ gramp.xyz
 grandcasinoprize.info
 greatplaceofstubs.work
 growthnetic.club
-hadnothin.fun
 hailso.xyz
 haircarepro.info
 happyactive.today
@@ -234,6 +230,7 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
+httqzq.vip
 idtheft-alert.xyz
 iketo.diet
 inappropriate.top
@@ -370,7 +367,6 @@ operateuber-thefreefile.best
 operateuber-theoriginalfile.best
 patriothealth.today
 pcicompliancemanager.xyz
-pcsecurity-live.xyz
 perfectplaceonnetforplayers.work
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
@@ -449,6 +445,7 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 roadtoyourhealth.info
+robogarden.io
 rootessential.info
 rotharbor.xyz
 runadvanced-bestextremelyfile.best
@@ -503,6 +500,7 @@ springplanetb.xyz
 springplanetf.xyz
 springsitea.xyz
 springsitef.xyz
+start-page.one
 stay-notified.cc
 stingyscent.xyz
 storeheavily-thefreefile.best
@@ -604,7 +602,6 @@ toovolution.club
 topnotchsports.tips
 trafficbounce.net
 trafficgate.cc
-trafficmind.pro
 trane.fun
 trktraf.club
 tryoneshot-keto.net
@@ -629,6 +626,7 @@ viralarticles.net
 vital-health.club
 vitalrole.info
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpnsecurity.me
 vpnservice.me
@@ -649,6 +647,7 @@ worldwideluckypromotionfree.cyou
 worldwidenationalclaimfree.cyou
 worldwideofficialrewardssuper.cyou
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info
@@ -674,4 +673,5 @@ yourstablegreatupdate.work
 yourstablegreatupdates.work
 yourtechplaceforupgrades.info
 yourultimateperfectupgrades.work
+youthewinner.net
 ysfetinora.tk

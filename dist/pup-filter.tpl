@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 08 Jun 2021 00:07:11 UTC
+# Updated: Tue, 08 Jun 2021 12:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -27,7 +27,6 @@ msFilterList
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
--d atprofessor.fun
 -d auto-lawyer.site
 -d baseofmp3.com
 -d bestappland.me
@@ -59,6 +58,7 @@ msFilterList
 -d boot-upuber-bestfreefile.best
 -d browsercheck.site
 -d btcinvesting.info
+-d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
 -d care-connection.info
@@ -111,7 +111,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dragonballclub.com
--d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -147,7 +146,6 @@ msFilterList
 -d fitlifevalue.info
 -d fitnessdial.club
 -d fitsure.info
--d flash-rewards.info
 -d flatbellylife.info
 -d flexroll.online
 -d flyfreecostas.live
@@ -189,7 +187,6 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
--d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -200,7 +197,6 @@ msFilterList
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d growthnetic.club
--d hadnothin.fun
 -d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
@@ -237,6 +233,7 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d httqzq.vip
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
@@ -373,7 +370,6 @@ msFilterList
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
 -d pcicompliancemanager.xyz
--d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -452,6 +448,7 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d roadtoyourhealth.info
+-d robogarden.io
 -d rootessential.info
 -d rotharbor.xyz
 -d runadvanced-bestextremelyfile.best
@@ -506,6 +503,7 @@ msFilterList
 -d springplanetf.xyz
 -d springsitea.xyz
 -d springsitef.xyz
+-d start-page.one
 -d stay-notified.cc
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
@@ -607,7 +605,6 @@ msFilterList
 -d topnotchsports.tips
 -d trafficbounce.net
 -d trafficgate.cc
--d trafficmind.pro
 -d trane.fun
 -d trktraf.club
 -d tryoneshot-keto.net
@@ -632,6 +629,7 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnsecurity.me
 -d vpnservice.me
@@ -652,6 +650,7 @@ msFilterList
 -d worldwidenationalclaimfree.cyou
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info
+-d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
@@ -677,4 +676,5 @@ msFilterList
 -d yourstablegreatupdates.work
 -d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
+-d youthewinner.net
 -d ysfetinora.tk

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 08 Jun 2021 00:07:11 UTC
+! Updated: Tue, 08 Jun 2021 12:07:34 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -24,7 +24,6 @@
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
-||atprofessor.fun$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
 ||bestappland.me$all
@@ -56,6 +55,7 @@
 ||boot-upuber-bestfreefile.best$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
+||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
 ||care-connection.info$all
@@ -108,7 +108,6 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -144,7 +143,6 @@
 ||fitlifevalue.info$all
 ||fitnessdial.club$all
 ||fitsure.info$all
-||flash-rewards.info$all
 ||flatbellylife.info$all
 ||flexroll.online$all
 ||flyfreecostas.live$all
@@ -186,7 +184,6 @@
 ||gladvideo.site$all
 ||gladvideo.surf$all
 ||gladvideo.website$all
-||global-info.space$all
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
@@ -197,7 +194,6 @@
 ||grandcasinoprize.info$all
 ||greatplaceofstubs.work$all
 ||growthnetic.club$all
-||hadnothin.fun$all
 ||hailso.xyz$all
 ||haircarepro.info$all
 ||happyactive.today$all
@@ -234,6 +230,7 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||httqzq.vip$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
@@ -370,7 +367,6 @@
 ||operateuber-theoriginalfile.best$all
 ||patriothealth.today$all
 ||pcicompliancemanager.xyz$all
-||pcsecurity-live.xyz$all
 ||perfectplaceonnetforplayers.work$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -449,6 +445,7 @@
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
 ||roadtoyourhealth.info$all
+||robogarden.io$all
 ||rootessential.info$all
 ||rotharbor.xyz$all
 ||runadvanced-bestextremelyfile.best$all
@@ -503,6 +500,7 @@
 ||springplanetf.xyz$all
 ||springsitea.xyz$all
 ||springsitef.xyz$all
+||start-page.one$all
 ||stay-notified.cc$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
@@ -604,7 +602,6 @@
 ||topnotchsports.tips$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
-||trafficmind.pro$all
 ||trane.fun$all
 ||trktraf.club$all
 ||tryoneshot-keto.net$all
@@ -629,6 +626,7 @@
 ||vital-health.club$all
 ||vitalrole.info$all
 ||vpn-pro.info$all
+||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
@@ -649,6 +647,7 @@
 ||worldwidenationalclaimfree.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||wowlifestyle.info$all
+||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all
@@ -674,4 +673,5 @@
 ||yourstablegreatupdates.work$all
 ||yourtechplaceforupgrades.info$all
 ||yourultimateperfectupgrades.work$all
+||youthewinner.net$all
 ||ysfetinora.tk$all

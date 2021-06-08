@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 08 Jun 2021 00:07:11 UTC
+# Updated: Tue, 08 Jun 2021 12:07:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,7 +24,6 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
-0.0.0.0 atprofessor.fun
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
@@ -56,6 +55,7 @@
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 browsercheck.site
 0.0.0.0 btcinvesting.info
+0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
 0.0.0.0 calculateprint.xyz
 0.0.0.0 care-connection.info
@@ -108,7 +108,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -144,7 +143,6 @@
 0.0.0.0 fitlifevalue.info
 0.0.0.0 fitnessdial.club
 0.0.0.0 fitsure.info
-0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
@@ -186,7 +184,6 @@
 0.0.0.0 gladvideo.site
 0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
-0.0.0.0 global-info.space
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
@@ -197,7 +194,6 @@
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
 0.0.0.0 growthnetic.club
-0.0.0.0 hadnothin.fun
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
@@ -234,6 +230,7 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
+0.0.0.0 httqzq.vip
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
@@ -370,7 +367,6 @@
 0.0.0.0 operateuber-theoriginalfile.best
 0.0.0.0 patriothealth.today
 0.0.0.0 pcicompliancemanager.xyz
-0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 perfectplaceonnetforplayers.work
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
@@ -449,6 +445,7 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
+0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
 0.0.0.0 rotharbor.xyz
 0.0.0.0 runadvanced-bestextremelyfile.best
@@ -503,6 +500,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 springsitea.xyz
 0.0.0.0 springsitef.xyz
+0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
 0.0.0.0 stingyscent.xyz
 0.0.0.0 storeheavily-thefreefile.best
@@ -604,7 +602,6 @@
 0.0.0.0 topnotchsports.tips
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
-0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
 0.0.0.0 tryoneshot-keto.net
@@ -629,6 +626,7 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
@@ -649,6 +647,7 @@
 0.0.0.0 worldwidenationalclaimfree.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info
+0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info
@@ -674,4 +673,5 @@
 0.0.0.0 yourstablegreatupdates.work
 0.0.0.0 yourtechplaceforupgrades.info
 0.0.0.0 yourultimateperfectupgrades.work
+0.0.0.0 youthewinner.net
 0.0.0.0 ysfetinora.tk
