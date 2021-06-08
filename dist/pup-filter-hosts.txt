@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 07 Jun 2021 12:07:45 UTC
+# Updated: Tue, 08 Jun 2021 00:07:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
-0.0.0.0 4uabs.club
 0.0.0.0 7awwa2.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
@@ -25,6 +24,7 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
@@ -108,6 +108,7 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
@@ -132,6 +133,7 @@
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
+0.0.0.0 fisudauh.top
 0.0.0.0 fitandready.info
 0.0.0.0 fitandstable.club
 0.0.0.0 fitbodyandsoul.info
@@ -156,6 +158,7 @@
 0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freewareappsstreamfast-best.digital
+0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapc.xyz
@@ -170,7 +173,6 @@
 0.0.0.0 gapingshame.xyz
 0.0.0.0 generouscare.info
 0.0.0.0 getmoregirls.net
-0.0.0.0 getstablesystemupgrades.work
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
@@ -179,7 +181,6 @@
 0.0.0.0 gladslotweb.xyz
 0.0.0.0 gladspaceplane.xyz
 0.0.0.0 gladspotplay.xyz
-0.0.0.0 gladspotwonder.xyz
 0.0.0.0 gladvideo.fun
 0.0.0.0 gladvideo.online
 0.0.0.0 gladvideo.site
@@ -196,6 +197,7 @@
 0.0.0.0 grandcasinoprize.info
 0.0.0.0 greatplaceofstubs.work
 0.0.0.0 growthnetic.club
+0.0.0.0 hadnothin.fun
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
 0.0.0.0 happyactive.today
@@ -328,7 +330,6 @@
 0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
-0.0.0.0 mynutriplan.co
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
@@ -369,6 +370,7 @@
 0.0.0.0 operateuber-theoriginalfile.best
 0.0.0.0 patriothealth.today
 0.0.0.0 pcicompliancemanager.xyz
+0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 perfectplaceonnetforplayers.work
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
@@ -518,6 +520,7 @@
 0.0.0.0 storeswift-theheavilyfile.best
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
+0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
@@ -527,10 +530,12 @@
 0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
+0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamoverly-bestrenewedfile.best
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
+0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
@@ -603,13 +608,13 @@
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
 0.0.0.0 unitehealth.club
 0.0.0.0 upbeatcboulevard.xyz
 0.0.0.0 upbeatmstreet.xyz
-0.0.0.0 upbeatmway.xyz
 0.0.0.0 updatecurrent-thegreatlyfile.best
 0.0.0.0 updategreatly-thecurrentfile.best
 0.0.0.0 updategreatly-thenewestfile.best
@@ -638,7 +643,9 @@
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
+0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 worldwide-national-claim-free.cyou
+0.0.0.0 worldwideluckypromotionfree.cyou
 0.0.0.0 worldwidenationalclaimfree.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 wowlifestyle.info

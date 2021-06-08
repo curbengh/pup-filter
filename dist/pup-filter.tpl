@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 07 Jun 2021 12:07:45 UTC
+# Updated: Tue, 08 Jun 2021 00:07:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@ msFilterList
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
--d 4uabs.club
 -d 7awwa2.xyz
 -d abeah-security.xyz
 -d adrondespi.top
@@ -28,6 +27,7 @@ msFilterList
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
+-d atprofessor.fun
 -d auto-lawyer.site
 -d baseofmp3.com
 -d bestappland.me
@@ -111,6 +111,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dragonballclub.com
+-d eanswers.net
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -135,6 +136,7 @@ msFilterList
 -d findyourultimateplayersfirst.best
 -d firststableplayer.work
 -d fisham.site
+-d fisudauh.top
 -d fitandready.info
 -d fitandstable.club
 -d fitbodyandsoul.info
@@ -159,6 +161,7 @@ msFilterList
 -d freeperfectupgrade.work
 -d freeperfectupgrading.work
 -d freewareappsstreamfast-best.digital
+-d freewareappsstreamfastall.digital
 -d freshclover.info
 -d fuck-me-hard.club
 -d funmapc.xyz
@@ -173,7 +176,6 @@ msFilterList
 -d gapingshame.xyz
 -d generouscare.info
 -d getmoregirls.net
--d getstablesystemupgrades.work
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
@@ -182,7 +184,6 @@ msFilterList
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
 -d gladspotplay.xyz
--d gladspotwonder.xyz
 -d gladvideo.fun
 -d gladvideo.online
 -d gladvideo.site
@@ -199,6 +200,7 @@ msFilterList
 -d grandcasinoprize.info
 -d greatplaceofstubs.work
 -d growthnetic.club
+-d hadnothin.fun
 -d hailso.xyz
 -d haircarepro.info
 -d happyactive.today
@@ -331,7 +333,6 @@ msFilterList
 -d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
--d mynutriplan.co
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
@@ -372,6 +373,7 @@ msFilterList
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
 -d pcicompliancemanager.xyz
+-d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -521,6 +523,7 @@ msFilterList
 -d storeswift-theheavilyfile.best
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
+-d streamdeveloped-bestoverlyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
@@ -530,10 +533,12 @@ msFilterList
 -d streamintensely-bestquickfile.best
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
+-d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d streamstrong-bestuberfile.best
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
@@ -606,13 +611,13 @@ msFilterList
 -d trane.fun
 -d trktraf.club
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
 -d unitehealth.club
 -d upbeatcboulevard.xyz
 -d upbeatmstreet.xyz
--d upbeatmway.xyz
 -d updatecurrent-thegreatlyfile.best
 -d updategreatly-thecurrentfile.best
 -d updategreatly-thenewestfile.best
@@ -641,7 +646,9 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d wherentlybrane.site
+-d winnerbigwingiveawaysuper.cyou
 -d worldwide-national-claim-free.cyou
+-d worldwideluckypromotionfree.cyou
 -d worldwidenationalclaimfree.cyou
 -d worldwideofficialrewardssuper.cyou
 -d wowlifestyle.info

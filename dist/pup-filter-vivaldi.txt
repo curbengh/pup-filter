@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 07 Jun 2021 12:07:45 UTC
+! Updated: Tue, 08 Jun 2021 00:07:11 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
-||4uabs.club$document
 ||7awwa2.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
@@ -25,6 +24,7 @@
 ||ashtdi.cn$document
 ||assuredhealth.info$document
 ||asufij.xyz$document
+||atprofessor.fun$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
 ||bestappland.me$document
@@ -108,6 +108,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -132,6 +133,7 @@
 ||findyourultimateplayersfirst.best$document
 ||firststableplayer.work$document
 ||fisham.site$document
+||fisudauh.top$document
 ||fitandready.info$document
 ||fitandstable.club$document
 ||fitbodyandsoul.info$document
@@ -156,6 +158,7 @@
 ||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
 ||freewareappsstreamfast-best.digital$document
+||freewareappsstreamfastall.digital$document
 ||freshclover.info$document
 ||fuck-me-hard.club$document
 ||funmapc.xyz$document
@@ -170,7 +173,6 @@
 ||gapingshame.xyz$document
 ||generouscare.info$document
 ||getmoregirls.net$document
-||getstablesystemupgrades.work$document
 ||gladcboulevard.xyz$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
@@ -179,7 +181,6 @@
 ||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
 ||gladspotplay.xyz$document
-||gladspotwonder.xyz$document
 ||gladvideo.fun$document
 ||gladvideo.online$document
 ||gladvideo.site$document
@@ -196,6 +197,7 @@
 ||grandcasinoprize.info$document
 ||greatplaceofstubs.work$document
 ||growthnetic.club$document
+||hadnothin.fun$document
 ||hailso.xyz$document
 ||haircarepro.info$document
 ||happyactive.today$document
@@ -328,7 +330,6 @@
 ||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
-||mynutriplan.co$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
@@ -369,6 +370,7 @@
 ||operateuber-theoriginalfile.best$document
 ||patriothealth.today$document
 ||pcicompliancemanager.xyz$document
+||pcsecurity-live.xyz$document
 ||perfectplaceonnetforplayers.work$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
@@ -518,6 +520,7 @@
 ||storeswift-theheavilyfile.best$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
+||streamdeveloped-bestoverlyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
@@ -527,10 +530,12 @@
 ||streamintensely-bestquickfile.best$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
+||streamoverly-bestdevelopedfile.best$document
 ||streamoverly-bestrenewedfile.best$document
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
+||streamstrong-bestuberfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sudoo.net$document
@@ -603,13 +608,13 @@
 ||trane.fun$document
 ||trktraf.club$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document
 ||unitehealth.club$document
 ||upbeatcboulevard.xyz$document
 ||upbeatmstreet.xyz$document
-||upbeatmway.xyz$document
 ||updatecurrent-thegreatlyfile.best$document
 ||updategreatly-thecurrentfile.best$document
 ||updategreatly-thenewestfile.best$document
@@ -638,7 +643,9 @@
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
+||winnerbigwingiveawaysuper.cyou$document
 ||worldwide-national-claim-free.cyou$document
+||worldwideluckypromotionfree.cyou$document
 ||worldwidenationalclaimfree.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||wowlifestyle.info$document
