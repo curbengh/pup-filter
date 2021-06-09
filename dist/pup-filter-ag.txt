@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 08 Jun 2021 12:07:34 UTC
+! Updated: Wed, 09 Jun 2021 00:06:57 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||animenation.org$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -147,6 +146,7 @@
 ||flexroll.online$all
 ||flyfreecostas.live$all
 ||flymedia.club$all
+||flymedia.fun$all
 ||flymedia.online$all
 ||flymedia.uno$all
 ||foregoingpump.xyz$all
@@ -242,7 +242,6 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
-||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -327,12 +326,15 @@
 ||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
+||mynutriplan.co$all
+||naughtygirlsshowall.live$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nosyknot.xyz$all
 ||nutrahealth.info$all
 ||nutrinamic.info$all
 ||official-prize-national-random.cyou$all
+||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
@@ -407,7 +409,6 @@
 ||plampo.xyz$all
 ||playspina.xyz$all
 ||playspote.xyz$all
-||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
@@ -484,6 +485,7 @@
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
 ||security-protection.xyz$all
+||securityvpnpro.me$all
 ||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
@@ -534,6 +536,7 @@
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||streamstrong-bestuberfile.best$all
+||streamuber-bestswiftfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all
@@ -587,7 +590,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -605,7 +607,6 @@
 ||trane.fun$all
 ||trktraf.club$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all

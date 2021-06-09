@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 08 Jun 2021 12:07:34 UTC
+! Updated: Wed, 09 Jun 2021 00:06:57 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -147,6 +146,7 @@
 ||flexroll.online$document
 ||flyfreecostas.live$document
 ||flymedia.club$document
+||flymedia.fun$document
 ||flymedia.online$document
 ||flymedia.uno$document
 ||foregoingpump.xyz$document
@@ -242,7 +242,6 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
-||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -327,12 +326,15 @@
 ||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
+||mynutriplan.co$document
+||naughtygirlsshowall.live$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nosyknot.xyz$document
 ||nutrahealth.info$document
 ||nutrinamic.info$document
 ||official-prize-national-random.cyou$document
+||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
@@ -407,7 +409,6 @@
 ||plampo.xyz$document
 ||playspina.xyz$document
 ||playspote.xyz$document
-||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -484,6 +485,7 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||security-protection.xyz$document
+||securityvpnpro.me$document
 ||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
@@ -534,6 +536,7 @@
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||streamstrong-bestuberfile.best$document
+||streamuber-bestswiftfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
 ||sudoo.net$document
@@ -587,7 +590,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -605,7 +607,6 @@
 ||trane.fun$document
 ||trktraf.club$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 08 Jun 2021 12:07:34 UTC
+# Updated: Wed, 09 Jun 2021 00:06:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d animenation.org
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -150,6 +149,7 @@ msFilterList
 -d flexroll.online
 -d flyfreecostas.live
 -d flymedia.club
+-d flymedia.fun
 -d flymedia.online
 -d flymedia.uno
 -d foregoingpump.xyz
@@ -245,7 +245,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -330,12 +329,15 @@ msFilterList
 -d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
+-d mynutriplan.co
+-d naughtygirlsshowall.live
 -d newsitedowloads.site
 -d nogfw.pro
 -d nosyknot.xyz
 -d nutrahealth.info
 -d nutrinamic.info
 -d official-prize-national-random.cyou
+-d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
@@ -410,7 +412,6 @@ msFilterList
 -d plampo.xyz
 -d playspina.xyz
 -d playspote.xyz
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
@@ -487,6 +488,7 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d security-protection.xyz
+-d securityvpnpro.me
 -d seemlast.monster
 -d selfradiance.info
 -d service-care.space
@@ -537,6 +539,7 @@ msFilterList
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d streamstrong-bestuberfile.best
+-d streamuber-bestswiftfile.best
 -d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
@@ -590,7 +593,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -608,7 +610,6 @@ msFilterList
 -d trane.fun
 -d trktraf.club
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info

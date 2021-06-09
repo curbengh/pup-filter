@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 08 Jun 2021 12:07:34 UTC
+# Updated: Wed, 09 Jun 2021 00:06:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-animenation.org
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -147,6 +146,7 @@ flatbellylife.info
 flexroll.online
 flyfreecostas.live
 flymedia.club
+flymedia.fun
 flymedia.online
 flymedia.uno
 foregoingpump.xyz
@@ -242,7 +242,6 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
-java-forum.org
 jointingifstrawberry.xyz
 joyplaceplay.xyz
 joyspotspin.xyz
@@ -327,12 +326,15 @@ monitoring-credit.xyz
 movievod.me
 multitax.xyz
 my-credit-score.xyz
+mynutriplan.co
+naughtygirlsshowall.live
 newsitedowloads.site
 nogfw.pro
 nosyknot.xyz
 nutrahealth.info
 nutrinamic.info
 official-prize-national-random.cyou
+officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
 onegowc.pw
 online-prize-super-promotion.cyou
@@ -407,7 +409,6 @@ placewebe.xyz
 plampo.xyz
 playspina.xyz
 playspote.xyz
-premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
@@ -484,6 +485,7 @@ securitevpn.me
 security-made-easy.xyz
 security-pro.xyz
 security-protection.xyz
+securityvpnpro.me
 seemlast.monster
 selfradiance.info
 service-care.space
@@ -534,6 +536,7 @@ streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
 streamstrong-bestuberfile.best
+streamuber-bestswiftfile.best
 styleandhealth.info
 subeamy.pw
 sudoo.net
@@ -587,7 +590,6 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -605,7 +607,6 @@ trafficgate.cc
 trane.fun
 trktraf.club
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info

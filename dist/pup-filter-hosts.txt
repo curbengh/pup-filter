@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 08 Jun 2021 12:07:34 UTC
+# Updated: Wed, 09 Jun 2021 00:06:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -147,6 +146,7 @@
 0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
 0.0.0.0 flymedia.club
+0.0.0.0 flymedia.fun
 0.0.0.0 flymedia.online
 0.0.0.0 flymedia.uno
 0.0.0.0 foregoingpump.xyz
@@ -242,7 +242,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
-0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotspin.xyz
@@ -327,12 +326,15 @@
 0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
+0.0.0.0 mynutriplan.co
+0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nosyknot.xyz
 0.0.0.0 nutrahealth.info
 0.0.0.0 nutrinamic.info
 0.0.0.0 official-prize-national-random.cyou
+0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
@@ -407,7 +409,6 @@
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
 0.0.0.0 playspote.xyz
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
@@ -484,6 +485,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 security-protection.xyz
+0.0.0.0 securityvpnpro.me
 0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
@@ -534,6 +536,7 @@
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 streamstrong-bestuberfile.best
+0.0.0.0 streamuber-bestswiftfile.best
 0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
@@ -587,7 +590,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -605,7 +607,6 @@
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
