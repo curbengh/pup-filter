@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 09 Jun 2021 00:06:57 UTC
+# Updated: Wed, 09 Jun 2021 12:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@ meeryslotspin.xyz
 merryplayglobal.xyz
 merryplayworld.xyz
 mindbank.ai
+mindmatch.ai
 mistraffic.me
 modern-security.xyz
 monitoring-credit.xyz
@@ -369,6 +370,7 @@ operateuber-thefreefile.best
 operateuber-theoriginalfile.best
 patriothealth.today
 pcicompliancemanager.xyz
+pcsecurity-live.xyz
 perfectplaceonnetforplayers.work
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
@@ -574,6 +576,7 @@ syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
+tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
@@ -606,6 +609,7 @@ trafficbounce.net
 trafficgate.cc
 trane.fun
 trktraf.club
+trkvpn.xyz
 tryoneshot-keto.net
 uclaimrewards.net
 unequalfaucet.xyz

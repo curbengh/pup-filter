@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 09 Jun 2021 00:06:57 UTC
+# Updated: Wed, 09 Jun 2021 12:07:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -323,6 +323,7 @@ msFilterList
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
 -d mindbank.ai
+-d mindmatch.ai
 -d mistraffic.me
 -d modern-security.xyz
 -d monitoring-credit.xyz
@@ -372,6 +373,7 @@ msFilterList
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
 -d pcicompliancemanager.xyz
+-d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -577,6 +579,7 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
+-d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
@@ -609,6 +612,7 @@ msFilterList
 -d trafficgate.cc
 -d trane.fun
 -d trktraf.club
+-d trkvpn.xyz
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d unequalfaucet.xyz

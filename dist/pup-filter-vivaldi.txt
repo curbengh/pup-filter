@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 09 Jun 2021 00:06:57 UTC
+! Updated: Wed, 09 Jun 2021 12:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
 ||mindbank.ai$document
+||mindmatch.ai$document
 ||mistraffic.me$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
@@ -369,6 +370,7 @@
 ||operateuber-theoriginalfile.best$document
 ||patriothealth.today$document
 ||pcicompliancemanager.xyz$document
+||pcsecurity-live.xyz$document
 ||perfectplaceonnetforplayers.work$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
@@ -574,6 +576,7 @@
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
+||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
@@ -606,6 +609,7 @@
 ||trafficgate.cc$document
 ||trane.fun$document
 ||trktraf.club$document
+||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document

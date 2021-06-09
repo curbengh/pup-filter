@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 09 Jun 2021 00:06:57 UTC
+! Updated: Wed, 09 Jun 2021 12:07:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -320,6 +320,7 @@
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
 ||mindbank.ai$all
+||mindmatch.ai$all
 ||mistraffic.me$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
@@ -369,6 +370,7 @@
 ||operateuber-theoriginalfile.best$all
 ||patriothealth.today$all
 ||pcicompliancemanager.xyz$all
+||pcsecurity-live.xyz$all
 ||perfectplaceonnetforplayers.work$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -574,6 +576,7 @@
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
 ||syncuber-bestsophisticatedfile.best$all
+||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
@@ -606,6 +609,7 @@
 ||trafficgate.cc$all
 ||trane.fun$all
 ||trktraf.club$all
+||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
