@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 10 Jun 2021 00:07:54 UTC
+! Updated: Thu, 10 Jun 2021 12:07:33 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||animenation.org$document
+||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -58,7 +59,6 @@
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
-||calledbellc.fun$document
 ||care-connection.info$document
 ||carebility.info$document
 ||careerconnecthub.com$document
@@ -145,6 +145,7 @@
 ||fitlifevalue.info$document
 ||fitnessdial.club$document
 ||fitsure.info$document
+||flash-rewards.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
 ||flyfreecostas.live$document
@@ -187,6 +188,7 @@
 ||gladvideo.site$document
 ||gladvideo.surf$document
 ||gladvideo.website$document
+||global-info.space$document
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
@@ -453,7 +455,6 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||roadtoyourhealth.info$document
-||robogarden.io$document
 ||rootessential.info$document
 ||rotharbor.xyz$document
 ||runadvanced-bestextremelyfile.best$document
@@ -501,7 +502,6 @@
 ||shoppingexp.xyz$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
-||spotplanetc.xyz$document
 ||spotplanetd.xyz$document
 ||spotspinb.xyz$document
 ||spotspotf.xyz$document
@@ -582,6 +582,7 @@
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
+||systemupdatit.club$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 10 Jun 2021 00:07:54 UTC
+! Updated: Thu, 10 Jun 2021 12:07:33 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@
 ||altcasino.info^
 ||amateurxporn.com^
 ||animenation.org^
+||anismunre.info^
 ||apptool.me^
 ||armorprovpn.me^
 ||ashtdi.cn^
@@ -58,7 +59,6 @@
 ||bulley.shop^
 ||cabins-r-us.com^
 ||calculateprint.xyz^
-||calledbellc.fun^
 ||care-connection.info^
 ||carebility.info^
 ||careerconnecthub.com^
@@ -145,6 +145,7 @@
 ||fitlifevalue.info^
 ||fitnessdial.club^
 ||fitsure.info^
+||flash-rewards.info^
 ||flatbellylife.info^
 ||flexroll.online^
 ||flyfreecostas.live^
@@ -187,6 +188,7 @@
 ||gladvideo.site^
 ||gladvideo.surf^
 ||gladvideo.website^
+||global-info.space^
 ||globalvideo.fun^
 ||globalvideo.store^
 ||go-x34n7wbcoes-ok.live^
@@ -453,7 +455,6 @@
 ||rewardspromotionwinnersuper.cyou^
 ||ritaus.org^
 ||roadtoyourhealth.info^
-||robogarden.io^
 ||rootessential.info^
 ||rotharbor.xyz^
 ||runadvanced-bestextremelyfile.best^
@@ -501,7 +502,6 @@
 ||shoppingexp.xyz^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||smartys.link^
-||spotplanetc.xyz^
 ||spotplanetd.xyz^
 ||spotspinb.xyz^
 ||spotspotf.xyz^
@@ -582,6 +582,7 @@
 ||syncuber-bestprogressivefile.best^
 ||syncuber-bestrefinedfile.best^
 ||syncuber-bestsophisticatedfile.best^
+||systemupdatit.club^
 ||tackis.xyz^
 ||talskingest.top^
 ||tastefulwood.xyz^

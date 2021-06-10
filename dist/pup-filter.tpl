@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 10 Jun 2021 00:07:54 UTC
+# Updated: Thu, 10 Jun 2021 12:07:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,6 +22,7 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -61,7 +62,6 @@ msFilterList
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
--d calledbellc.fun
 -d care-connection.info
 -d carebility.info
 -d careerconnecthub.com
@@ -148,6 +148,7 @@ msFilterList
 -d fitlifevalue.info
 -d fitnessdial.club
 -d fitsure.info
+-d flash-rewards.info
 -d flatbellylife.info
 -d flexroll.online
 -d flyfreecostas.live
@@ -190,6 +191,7 @@ msFilterList
 -d gladvideo.site
 -d gladvideo.surf
 -d gladvideo.website
+-d global-info.space
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
@@ -456,7 +458,6 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d roadtoyourhealth.info
--d robogarden.io
 -d rootessential.info
 -d rotharbor.xyz
 -d runadvanced-bestextremelyfile.best
@@ -504,7 +505,6 @@ msFilterList
 -d shoppingexp.xyz
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
--d spotplanetc.xyz
 -d spotplanetd.xyz
 -d spotspinb.xyz
 -d spotspotf.xyz
@@ -585,6 +585,7 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
+-d systemupdatit.club
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
