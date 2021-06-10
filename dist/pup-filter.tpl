@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 09 Jun 2021 12:07:07 UTC
+# Updated: Thu, 10 Jun 2021 00:07:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d animenation.org
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -60,6 +61,7 @@ msFilterList
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
+-d calledbellc.fun
 -d care-connection.info
 -d carebility.info
 -d careerconnecthub.com
@@ -131,6 +133,7 @@ msFilterList
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
+-d findwith.me
 -d findyourultimateplayersfirst.best
 -d firststableplayer.work
 -d fisham.site
@@ -245,6 +248,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
+-d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -305,7 +309,6 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
--d mathison.io
 -d max-care.info
 -d mediaevent.club
 -d mediaevent.uno
@@ -337,6 +340,7 @@ msFilterList
 -d nosyknot.xyz
 -d nutrahealth.info
 -d nutrinamic.info
+-d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
@@ -414,6 +418,7 @@ msFilterList
 -d plampo.xyz
 -d playspina.xyz
 -d playspote.xyz
+-d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
@@ -540,6 +545,7 @@ msFilterList
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d streamrenewed-bestoverlyfile.best
 -d streamstrong-bestuberfile.best
 -d streamuber-bestswiftfile.best
 -d styleandhealth.info
@@ -587,6 +593,7 @@ msFilterList
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
 -d thecryptomoney.info
+-d thecryptozone.website
 -d thefatburner.info
 -d thefitproject.club
 -d thehealthcurve.info
@@ -596,6 +603,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -608,12 +616,14 @@ msFilterList
 -d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
+-d track-app.club
 -d trafficbounce.net
 -d trafficgate.cc
 -d trane.fun
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info

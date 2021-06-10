@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 09 Jun 2021 12:07:07 UTC
+! Updated: Thu, 10 Jun 2021 00:07:54 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -57,6 +58,7 @@
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||calculateprint.xyz$document
+||calledbellc.fun$document
 ||care-connection.info$document
 ||carebility.info$document
 ||careerconnecthub.com$document
@@ -128,6 +130,7 @@
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
+||findwith.me$document
 ||findyourultimateplayersfirst.best$document
 ||firststableplayer.work$document
 ||fisham.site$document
@@ -242,6 +245,7 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -302,7 +306,6 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
-||mathison.io$document
 ||max-care.info$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -334,6 +337,7 @@
 ||nosyknot.xyz$document
 ||nutrahealth.info$document
 ||nutrinamic.info$document
+||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
@@ -411,6 +415,7 @@
 ||plampo.xyz$document
 ||playspina.xyz$document
 ||playspote.xyz$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
@@ -537,6 +542,7 @@
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
+||streamrenewed-bestoverlyfile.best$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestswiftfile.best$document
 ||styleandhealth.info$document
@@ -584,6 +590,7 @@
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
 ||thecryptomoney.info$document
+||thecryptozone.website$document
 ||thefatburner.info$document
 ||thefitproject.club$document
 ||thehealthcurve.info$document
@@ -593,6 +600,7 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
+||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -605,12 +613,14 @@
 ||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
+||track-app.club$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trane.fun$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document

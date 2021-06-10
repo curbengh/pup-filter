@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 09 Jun 2021 12:07:07 UTC
+! Updated: Thu, 10 Jun 2021 00:07:54 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
+||animenation.org^
 ||apptool.me^
 ||armorprovpn.me^
 ||ashtdi.cn^
@@ -57,6 +58,7 @@
 ||bulley.shop^
 ||cabins-r-us.com^
 ||calculateprint.xyz^
+||calledbellc.fun^
 ||care-connection.info^
 ||carebility.info^
 ||careerconnecthub.com^
@@ -128,6 +130,7 @@
 ||findoffers.co^
 ||findperfectplaces2download.work^
 ||findperfectplaces4download.work^
+||findwith.me^
 ||findyourultimateplayersfirst.best^
 ||firststableplayer.work^
 ||fisham.site^
@@ -242,6 +245,7 @@
 ||iosrecommendedvpn.com^
 ||isystemupdate.cloud^
 ||izipik.com^
+||java-forum.org^
 ||jointingifstrawberry.xyz^
 ||joyplaceplay.xyz^
 ||joyspotspin.xyz^
@@ -302,7 +306,6 @@
 ||manageuber-thestrongfile.best^
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
-||mathison.io^
 ||max-care.info^
 ||mediaevent.club^
 ||mediaevent.uno^
@@ -334,6 +337,7 @@
 ||nosyknot.xyz^
 ||nutrahealth.info^
 ||nutrinamic.info^
+||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
 ||officialbigwinnationalfree.cyou^
 ||officialprizenationalrandom.cyou^
@@ -411,6 +415,7 @@
 ||plampo.xyz^
 ||playspina.xyz^
 ||playspote.xyz^
+||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
 ||primawise.info^
 ||primecare.today^
@@ -537,6 +542,7 @@
 ||streamprogressive-bestoverlyfile.best^
 ||streamquick-bestmostfile.best^
 ||streamrecent-bestintenselyfile.best^
+||streamrenewed-bestoverlyfile.best^
 ||streamstrong-bestuberfile.best^
 ||streamuber-bestswiftfile.best^
 ||styleandhealth.info^
@@ -584,6 +590,7 @@
 ||thebettercleanplayer.info^
 ||thebettercleanplayers.info^
 ||thecryptomoney.info^
+||thecryptozone.website^
 ||thefatburner.info^
 ||thefitproject.club^
 ||thehealthcurve.info^
@@ -593,6 +600,7 @@
 ||thehealthystyle.info^
 ||thehealthyvibe.info^
 ||thehotshot.info^
+||thelastpicture.show^
 ||thenewjourney.info^
 ||thepackage.club^
 ||thesafestplayerlinks.work^
@@ -605,12 +613,14 @@
 ||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
+||track-app.club^
 ||trafficbounce.net^
 ||trafficgate.cc^
 ||trane.fun^
 ||trktraf.club^
 ||trkvpn.xyz^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^
 ||uniremedy.info^

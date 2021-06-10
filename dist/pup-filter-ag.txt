@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 09 Jun 2021 12:07:07 UTC
+! Updated: Thu, 10 Jun 2021 00:07:54 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||animenation.org$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -57,6 +58,7 @@
 ||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
+||calledbellc.fun$all
 ||care-connection.info$all
 ||carebility.info$all
 ||careerconnecthub.com$all
@@ -128,6 +130,7 @@
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
+||findwith.me$all
 ||findyourultimateplayersfirst.best$all
 ||firststableplayer.work$all
 ||fisham.site$all
@@ -242,6 +245,7 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
+||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -302,7 +306,6 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
-||mathison.io$all
 ||max-care.info$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -334,6 +337,7 @@
 ||nosyknot.xyz$all
 ||nutrahealth.info$all
 ||nutrinamic.info$all
+||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
@@ -411,6 +415,7 @@
 ||plampo.xyz$all
 ||playspina.xyz$all
 ||playspote.xyz$all
+||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
@@ -537,6 +542,7 @@
 ||streamprogressive-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||streamrenewed-bestoverlyfile.best$all
 ||streamstrong-bestuberfile.best$all
 ||streamuber-bestswiftfile.best$all
 ||styleandhealth.info$all
@@ -584,6 +590,7 @@
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
 ||thecryptomoney.info$all
+||thecryptozone.website$all
 ||thefatburner.info$all
 ||thefitproject.club$all
 ||thehealthcurve.info$all
@@ -593,6 +600,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -605,12 +613,14 @@
 ||toolvpn.me$all
 ||toovolution.club$all
 ||topnotchsports.tips$all
+||track-app.club$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trane.fun$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
