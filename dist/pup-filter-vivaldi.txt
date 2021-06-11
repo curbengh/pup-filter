@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 11 Jun 2021 00:07:51 UTC
+! Updated: Fri, 11 Jun 2021 12:07:40 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -110,6 +110,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dragonballclub.com$document
+||eanswers.net$document
 ||earlyprogress.info$document
 ||ehousan.top$document
 ||eproute.info$document
@@ -237,7 +238,6 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
-||horny-honey.online$document
 ||httqzq.vip$document
 ||idtheft-alert.xyz$document
 ||inappropriate.top$document
@@ -341,7 +341,6 @@
 ||nosyknot.xyz$document
 ||nutrahealth.info$document
 ||nutrinamic.info$document
-||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
@@ -458,6 +457,7 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||roadtoyourhealth.info$document
+||robogarden.io$document
 ||rootessential.info$document
 ||rotharbor.xyz$document
 ||runadvanced-bestextremelyfile.best$document
@@ -586,7 +586,6 @@
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
-||systemupdatit.club$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tastefulwood.xyz$document
@@ -663,6 +662,7 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||winnerbigwingiveawaysuper.cyou$document
+||winnerz.site$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideluckypromotionfree.cyou$document

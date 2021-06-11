@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 11 Jun 2021 00:07:51 UTC
+! Updated: Fri, 11 Jun 2021 12:07:40 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -110,6 +110,7 @@ displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
 dragonballclub.com
+eanswers.net
 earlyprogress.info
 ehousan.top
 eproute.info
@@ -237,7 +238,6 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
-horny-honey.online
 httqzq.vip
 idtheft-alert.xyz
 inappropriate.top
@@ -341,7 +341,6 @@ nogfw.pro
 nosyknot.xyz
 nutrahealth.info
 nutrinamic.info
-official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
@@ -458,6 +457,7 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 roadtoyourhealth.info
+robogarden.io
 rootessential.info
 rotharbor.xyz
 runadvanced-bestextremelyfile.best
@@ -586,7 +586,6 @@ syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
-systemupdatit.club
 tackis.xyz
 talskingest.top
 tastefulwood.xyz
@@ -663,6 +662,7 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
+winnerz.site
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou

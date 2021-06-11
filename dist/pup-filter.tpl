@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 11 Jun 2021 00:07:51 UTC
+# Updated: Fri, 11 Jun 2021 12:07:40 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -113,6 +113,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dragonballclub.com
+-d eanswers.net
 -d earlyprogress.info
 -d ehousan.top
 -d eproute.info
@@ -240,7 +241,6 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
--d horny-honey.online
 -d httqzq.vip
 -d idtheft-alert.xyz
 -d inappropriate.top
@@ -344,7 +344,6 @@ msFilterList
 -d nosyknot.xyz
 -d nutrahealth.info
 -d nutrinamic.info
--d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
@@ -461,6 +460,7 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d roadtoyourhealth.info
+-d robogarden.io
 -d rootessential.info
 -d rotharbor.xyz
 -d runadvanced-bestextremelyfile.best
@@ -589,7 +589,6 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
--d systemupdatit.club
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
@@ -666,6 +665,7 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.site
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou
