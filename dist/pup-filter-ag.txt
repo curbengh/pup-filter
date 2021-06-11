@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 10 Jun 2021 12:07:33 UTC
+! Updated: Fri, 11 Jun 2021 00:07:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -109,6 +110,7 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dragonballclub.com$all
+||earlyprogress.info$all
 ||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
@@ -235,9 +237,9 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||horny-honey.online$all
 ||httqzq.vip$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -247,7 +249,6 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
-||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -308,6 +309,7 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
+||mathison.io$all
 ||max-care.info$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -424,6 +426,7 @@
 ||privacykeeper.net$all
 ||productiq.net$all
 ||prohealthroutine.info$all
+||prosecurityvpn.me$all
 ||protect-connection.com$all
 ||protecttool.me$all
 ||protectyourvpn.com$all
@@ -497,6 +500,7 @@
 ||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
+||settothereliableupgradingnew.work$all
 ||shkshk.site$all
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
@@ -587,6 +591,7 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -601,7 +606,6 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
-||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -615,6 +619,7 @@
 ||toovolution.club$all
 ||topnotchsports.tips$all
 ||track-app.club$all
+||track4ast.icu$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trane.fun$all
@@ -659,9 +664,11 @@
 ||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
 ||worldwide-national-claim-free.cyou$all
+||worldwide-prize-giveaway-free.cyou$all
 ||worldwideluckypromotionfree.cyou$all
 ||worldwidenationalclaimfree.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
+||worldwideprizegiveawayfree.cyou$all
 ||wowlifestyle.info$all
 ||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all

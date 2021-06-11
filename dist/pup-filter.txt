@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 10 Jun 2021 12:07:33 UTC
+! Updated: Fri, 11 Jun 2021 00:07:51 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -109,6 +110,7 @@ displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
 dragonballclub.com
+earlyprogress.info
 ehousan.top
 eproute.info
 eroanimeittyokusen.com
@@ -235,9 +237,9 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
+horny-honey.online
 httqzq.vip
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -247,7 +249,6 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
-java-forum.org
 jointingifstrawberry.xyz
 joyplaceplay.xyz
 joyspotspin.xyz
@@ -308,6 +309,7 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
+mathison.io
 max-care.info
 mediaevent.club
 mediaevent.uno
@@ -424,6 +426,7 @@ primecare.today
 privacykeeper.net
 productiq.net
 prohealthroutine.info
+prosecurityvpn.me
 protect-connection.com
 protecttool.me
 protectyourvpn.com
@@ -497,6 +500,7 @@ securityvpnpro.me
 seemlast.monster
 selfradiance.info
 service-care.space
+settothereliableupgradingnew.work
 shkshk.site
 shopnsave.world
 shoppingexp.xyz
@@ -587,6 +591,7 @@ tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -601,7 +606,6 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
-thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -615,6 +619,7 @@ toolvpn.me
 toovolution.club
 topnotchsports.tips
 track-app.club
+track4ast.icu
 trafficbounce.net
 trafficgate.cc
 trane.fun
@@ -659,9 +664,11 @@ wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
 worldwide-national-claim-free.cyou
+worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
 worldwidenationalclaimfree.cyou
 worldwideofficialrewardssuper.cyou
+worldwideprizegiveawayfree.cyou
 wowlifestyle.info
 youngleaf.biz
 yourbestlinkupgrade.info

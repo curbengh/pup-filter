@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 10 Jun 2021 12:07:33 UTC
+# Updated: Fri, 11 Jun 2021 00:07:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -112,6 +113,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dragonballclub.com
+-d earlyprogress.info
 -d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -238,9 +240,9 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d horny-honey.online
 -d httqzq.vip
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -250,7 +252,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -311,6 +312,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d max-care.info
 -d mediaevent.club
 -d mediaevent.uno
@@ -427,6 +429,7 @@ msFilterList
 -d privacykeeper.net
 -d productiq.net
 -d prohealthroutine.info
+-d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
 -d protectyourvpn.com
@@ -500,6 +503,7 @@ msFilterList
 -d seemlast.monster
 -d selfradiance.info
 -d service-care.space
+-d settothereliableupgradingnew.work
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
@@ -590,6 +594,7 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
+-d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -604,7 +609,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -618,6 +622,7 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d track-app.club
+-d track4ast.icu
 -d trafficbounce.net
 -d trafficgate.cc
 -d trane.fun
@@ -662,9 +667,11 @@ msFilterList
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
 -d worldwide-national-claim-free.cyou
+-d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou
 -d worldwidenationalclaimfree.cyou
 -d worldwideofficialrewardssuper.cyou
+-d worldwideprizegiveawayfree.cyou
 -d wowlifestyle.info
 -d youngleaf.biz
 -d yourbestlinkupgrade.info
