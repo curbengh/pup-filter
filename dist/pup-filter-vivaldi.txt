@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 11 Jun 2021 12:07:40 UTC
+! Updated: Sat, 12 Jun 2021 00:31:17 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@
 ||asufij.xyz$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
+||be-5hdo32xes-ok.live$document
 ||bestappland.me$document
 ||bestlinkupgrade.info$document
 ||bestlinkupgrades.info$document
@@ -152,6 +153,7 @@
 ||flatbellylife.info$document
 ||flexroll.online$document
 ||flyfreecostas.live$document
+||flymedia.cam$document
 ||flymedia.club$document
 ||flymedia.fun$document
 ||flymedia.online$document
@@ -249,6 +251,7 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -329,6 +332,7 @@
 ||mindbank.ai$document
 ||mindmatch.ai$document
 ||mistraffic.me$document
+||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
@@ -375,6 +379,7 @@
 ||operatespeedy-thehighlyfile.best$document
 ||operateuber-thefreefile.best$document
 ||operateuber-theoriginalfile.best$document
+||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcicompliancemanager.xyz$document
 ||pcsecurity-live.xyz$document
@@ -488,6 +493,7 @@
 ||search-tool.net$document
 ||search-trends.co$document
 ||searchfeed.co$document
+||searchoffers.info$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -590,7 +596,6 @@
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
-||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -648,6 +653,7 @@
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
+||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
 ||vpntool.me$document
@@ -663,6 +669,7 @@
 ||wherentlybrane.site$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.site$document
+||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideluckypromotionfree.cyou$document

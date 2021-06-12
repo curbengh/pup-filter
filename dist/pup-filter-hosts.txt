@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 11 Jun 2021 12:07:40 UTC
+# Updated: Sat, 12 Jun 2021 00:31:17 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
+0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
@@ -152,6 +153,7 @@
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
+0.0.0.0 flymedia.cam
 0.0.0.0 flymedia.club
 0.0.0.0 flymedia.fun
 0.0.0.0 flymedia.online
@@ -249,6 +251,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
+0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotspin.xyz
@@ -329,6 +332,7 @@
 0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
+0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 movievod.me
@@ -375,6 +379,7 @@
 0.0.0.0 operatespeedy-thehighlyfile.best
 0.0.0.0 operateuber-thefreefile.best
 0.0.0.0 operateuber-theoriginalfile.best
+0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcicompliancemanager.xyz
 0.0.0.0 pcsecurity-live.xyz
@@ -488,6 +493,7 @@
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 searchfeed.co
+0.0.0.0 searchoffers.info
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -590,7 +596,6 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
-0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -648,6 +653,7 @@
 0.0.0.0 vpn-pro.info
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
+0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
@@ -663,6 +669,7 @@
 0.0.0.0 wherentlybrane.site
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
+0.0.0.0 worivo.info
 0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwide-prize-giveaway-free.cyou
 0.0.0.0 worldwideluckypromotionfree.cyou

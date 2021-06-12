@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 11 Jun 2021 12:07:40 UTC
+! Updated: Sat, 12 Jun 2021 00:31:17 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@
 ||asufij.xyz$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
+||be-5hdo32xes-ok.live$all
 ||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
@@ -152,6 +153,7 @@
 ||flatbellylife.info$all
 ||flexroll.online$all
 ||flyfreecostas.live$all
+||flymedia.cam$all
 ||flymedia.club$all
 ||flymedia.fun$all
 ||flymedia.online$all
@@ -249,6 +251,7 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
+||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -329,6 +332,7 @@
 ||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
+||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
@@ -375,6 +379,7 @@
 ||operatespeedy-thehighlyfile.best$all
 ||operateuber-thefreefile.best$all
 ||operateuber-theoriginalfile.best$all
+||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcicompliancemanager.xyz$all
 ||pcsecurity-live.xyz$all
@@ -488,6 +493,7 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
+||searchoffers.info$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -590,7 +596,6 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -648,6 +653,7 @@
 ||vpn-pro.info$all
 ||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
+||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
 ||vpntool.me$all
@@ -663,6 +669,7 @@
 ||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.site$all
+||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all
 ||worldwideluckypromotionfree.cyou$all

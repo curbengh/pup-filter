@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 11 Jun 2021 12:07:40 UTC
+# Updated: Sat, 12 Jun 2021 00:31:17 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -31,6 +31,7 @@ msFilterList
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
+-d be-5hdo32xes-ok.live
 -d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
@@ -155,6 +156,7 @@ msFilterList
 -d flatbellylife.info
 -d flexroll.online
 -d flyfreecostas.live
+-d flymedia.cam
 -d flymedia.club
 -d flymedia.fun
 -d flymedia.online
@@ -252,6 +254,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
+-d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -332,6 +335,7 @@ msFilterList
 -d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
+-d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
 -d movievod.me
@@ -378,6 +382,7 @@ msFilterList
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
+-d ouldthepat.fun
 -d patriothealth.today
 -d pcicompliancemanager.xyz
 -d pcsecurity-live.xyz
@@ -491,6 +496,7 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
+-d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -593,7 +599,6 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -651,6 +656,7 @@ msFilterList
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
+-d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
 -d vpntool.me
@@ -666,6 +672,7 @@ msFilterList
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
+-d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou

@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 11 Jun 2021 12:07:40 UTC
+# Updated: Sat, 12 Jun 2021 00:31:17 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@ assuredhealth.info
 asufij.xyz
 auto-lawyer.site
 baseofmp3.com
+be-5hdo32xes-ok.live
 bestappland.me
 bestlinkupgrade.info
 bestlinkupgrades.info
@@ -152,6 +153,7 @@ flash-rewards.info
 flatbellylife.info
 flexroll.online
 flyfreecostas.live
+flymedia.cam
 flymedia.club
 flymedia.fun
 flymedia.online
@@ -249,6 +251,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
+java-forum.org
 jointingifstrawberry.xyz
 joyplaceplay.xyz
 joyspotspin.xyz
@@ -329,6 +332,7 @@ merryplayworld.xyz
 mindbank.ai
 mindmatch.ai
 mistraffic.me
+mobileluckywinner.site
 modern-security.xyz
 monitoring-credit.xyz
 movievod.me
@@ -375,6 +379,7 @@ operatesophisticated-theoverlyfile.best
 operatespeedy-thehighlyfile.best
 operateuber-thefreefile.best
 operateuber-theoriginalfile.best
+ouldthepat.fun
 patriothealth.today
 pcicompliancemanager.xyz
 pcsecurity-live.xyz
@@ -488,6 +493,7 @@ score-monitoring.xyz
 search-tool.net
 search-trends.co
 searchfeed.co
+searchoffers.info
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -590,7 +596,6 @@ tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
-technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -648,6 +653,7 @@ vitalrole.info
 vpn-pro.info
 vpn1aprotectplus.com
 vpnadefenceplus.com
+vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me
 vpntool.me
@@ -663,6 +669,7 @@ wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
 winnerz.site
+worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
