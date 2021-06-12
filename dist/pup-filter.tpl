@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 12 Jun 2021 00:31:17 UTC
+# Updated: Sat, 12 Jun 2021 12:06:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -137,7 +137,6 @@ msFilterList
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
--d findwith.me
 -d findyourultimateplayersfirst.best
 -d firststableplayer.work
 -d fisham.site
@@ -259,6 +258,7 @@ msFilterList
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
 -d jsrenthouse.com
+-d jtkszl.vip
 -d jubilantdstreet.xyz
 -d kad3md.cn
 -d keepithealthy.info
@@ -348,6 +348,7 @@ msFilterList
 -d nosyknot.xyz
 -d nutrahealth.info
 -d nutrinamic.info
+-d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
@@ -382,10 +383,8 @@ msFilterList
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
--d ouldthepat.fun
 -d patriothealth.today
 -d pcicompliancemanager.xyz
--d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -496,7 +495,6 @@ msFilterList
 -d search-tool.net
 -d search-trends.co
 -d searchfeed.co
--d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz

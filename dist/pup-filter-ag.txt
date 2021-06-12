@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 12 Jun 2021 00:31:17 UTC
+! Updated: Sat, 12 Jun 2021 12:06:55 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -134,7 +134,6 @@
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
-||findwith.me$all
 ||findyourultimateplayersfirst.best$all
 ||firststableplayer.work$all
 ||fisham.site$all
@@ -256,6 +255,7 @@
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
 ||jsrenthouse.com$all
+||jtkszl.vip$all
 ||jubilantdstreet.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
@@ -345,6 +345,7 @@
 ||nosyknot.xyz$all
 ||nutrahealth.info$all
 ||nutrinamic.info$all
+||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
@@ -379,10 +380,8 @@
 ||operatespeedy-thehighlyfile.best$all
 ||operateuber-thefreefile.best$all
 ||operateuber-theoriginalfile.best$all
-||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcicompliancemanager.xyz$all
-||pcsecurity-live.xyz$all
 ||perfectplaceonnetforplayers.work$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -493,7 +492,6 @@
 ||search-tool.net$all
 ||search-trends.co$all
 ||searchfeed.co$all
-||searchoffers.info$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
