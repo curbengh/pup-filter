@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 12 Jun 2021 12:06:55 UTC
+! Updated: Sun, 13 Jun 2021 00:07:37 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -240,7 +240,9 @@
 ||healthyspirit.info$all
 ||healthysure.info$all
 ||httqzq.vip$all
+||hypezen.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||information.casa$all
 ||instablog.club$all
@@ -312,7 +314,6 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
-||mathison.io$all
 ||max-care.info$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -427,12 +428,12 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
 ||protecttool.me$all
 ||protectyourvpn.com$all
+||provpnsecurity.me$all
 ||provpnservice.me$all
 ||qh97dkzy20.top$all
 ||quantum.work$all
@@ -594,6 +595,7 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -608,6 +610,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all

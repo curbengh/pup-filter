@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 12 Jun 2021 12:06:55 UTC
+# Updated: Sun, 13 Jun 2021 00:07:37 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -243,7 +243,9 @@ msFilterList
 -d healthyspirit.info
 -d healthysure.info
 -d httqzq.vip
+-d hypezen.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d information.casa
 -d instablog.club
@@ -315,7 +317,6 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
--d mathison.io
 -d max-care.info
 -d mediaevent.club
 -d mediaevent.uno
@@ -430,12 +431,12 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
 -d protectyourvpn.com
+-d provpnsecurity.me
 -d provpnservice.me
 -d qh97dkzy20.top
 -d quantum.work
@@ -597,6 +598,7 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
+-d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -611,6 +613,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work

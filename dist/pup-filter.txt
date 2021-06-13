@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 12 Jun 2021 12:06:55 UTC
+! Updated: Sun, 13 Jun 2021 00:07:37 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -240,7 +240,9 @@ healthyparker.info
 healthyspirit.info
 healthysure.info
 httqzq.vip
+hypezen.info
 idtheft-alert.xyz
+iketo.diet
 inappropriate.top
 information.casa
 instablog.club
@@ -312,7 +314,6 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
-mathison.io
 max-care.info
 mediaevent.club
 mediaevent.uno
@@ -427,12 +428,12 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
-productiq.net
 prohealthroutine.info
 prosecurityvpn.me
 protect-connection.com
 protecttool.me
 protectyourvpn.com
+provpnsecurity.me
 provpnservice.me
 qh97dkzy20.top
 quantum.work
@@ -594,6 +595,7 @@ tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -608,6 +610,7 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work

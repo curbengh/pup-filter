@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 12 Jun 2021 12:06:55 UTC
+# Updated: Sun, 13 Jun 2021 00:07:37 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -240,7 +240,9 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
+0.0.0.0 hypezen.info
 0.0.0.0 idtheft-alert.xyz
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -312,7 +314,6 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
-0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -427,12 +428,12 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
 0.0.0.0 protectyourvpn.com
+0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
@@ -594,6 +595,7 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -608,6 +610,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
