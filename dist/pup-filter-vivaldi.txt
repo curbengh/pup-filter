@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 13 Jun 2021 00:07:37 UTC
+! Updated: Sun, 13 Jun 2021 12:06:57 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,9 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -239,7 +237,6 @@
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||healthysure.info$document
-||httqzq.vip$document
 ||hypezen.info$document
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
@@ -433,7 +430,6 @@
 ||protect-connection.com$document
 ||protecttool.me$document
 ||protectyourvpn.com$document
-||provpnsecurity.me$document
 ||provpnservice.me$document
 ||qh97dkzy20.top$document
 ||quantum.work$document
@@ -610,7 +606,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document
@@ -678,7 +673,6 @@
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

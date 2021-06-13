@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 13 Jun 2021 00:07:37 UTC
+# Updated: Sun, 13 Jun 2021 12:06:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,9 +18,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
-0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -239,7 +237,6 @@
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 healthysure.info
-0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
@@ -433,7 +430,6 @@
 0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
 0.0.0.0 protectyourvpn.com
-0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
@@ -610,7 +606,6 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
-0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -678,7 +673,6 @@
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 wowlifestyle.info
-0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info
