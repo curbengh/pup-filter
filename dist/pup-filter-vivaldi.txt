@@ -1,12 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 14 Jun 2021 00:07:03 UTC
+! Updated: Mon, 14 Jun 2021 12:07:31 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
-||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
@@ -18,6 +17,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
@@ -242,7 +242,6 @@
 ||healthysure.info$document
 ||hypezen.info$document
 ||idtheft-alert.xyz$document
-||ientsillness.fun$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -435,6 +434,7 @@
 ||protect-connection.com$document
 ||protecttool.me$document
 ||protectyourvpn.com$document
+||provpnsecurity.me$document
 ||provpnservice.me$document
 ||qh97dkzy20.top$document
 ||quantum.work$document
@@ -675,6 +675,7 @@
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||wowlifestyle.info$document
+||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

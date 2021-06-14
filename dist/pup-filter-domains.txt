@@ -1,12 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 14 Jun 2021 00:07:03 UTC
+# Updated: Mon, 14 Jun 2021 12:07:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
-1browser.co
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -18,6 +17,7 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
+amobil.online
 animenation.org
 apptool.me
 armorprovpn.me
@@ -242,7 +242,6 @@ healthyspirit.info
 healthysure.info
 hypezen.info
 idtheft-alert.xyz
-ientsillness.fun
 inappropriate.top
 incrediblebuzz.info
 information.casa
@@ -435,6 +434,7 @@ prosecurityvpn.me
 protect-connection.com
 protecttool.me
 protectyourvpn.com
+provpnsecurity.me
 provpnservice.me
 qh97dkzy20.top
 quantum.work
@@ -675,6 +675,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
 wowlifestyle.info
+youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info
