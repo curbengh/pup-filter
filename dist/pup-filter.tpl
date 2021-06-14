@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 13 Jun 2021 12:06:57 UTC
+# Updated: Mon, 14 Jun 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -111,6 +111,7 @@ msFilterList
 -d displayfriend.xyz
 -d ditvl.com
 -d dollarsurvey365.online
+-d dollarsurvey365.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -135,6 +136,7 @@ msFilterList
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
+-d findwith.me
 -d findyourultimateplayersfirst.best
 -d firststableplayer.work
 -d fisham.site
@@ -197,6 +199,7 @@ msFilterList
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
+-d goalmedia.club
 -d googsistem.live
 -d govpshosting.com
 -d graburprize.net
@@ -242,8 +245,9 @@ msFilterList
 -d healthysure.info
 -d hypezen.info
 -d idtheft-alert.xyz
--d iketo.diet
+-d ientsillness.fun
 -d inappropriate.top
+-d incrediblebuzz.info
 -d information.casa
 -d instablog.club
 -d installcompletely-theoriginalfile.best
@@ -252,7 +256,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -314,6 +317,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d max-care.info
 -d mediaevent.club
 -d mediaevent.uno
@@ -428,6 +432,7 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
@@ -504,7 +509,6 @@ msFilterList
 -d seemlast.monster
 -d selfradiance.info
 -d service-care.space
--d settothereliableupgradingnew.work
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
@@ -650,7 +654,6 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -658,7 +661,6 @@ msFilterList
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
--d watchprogressive-bestmostfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work

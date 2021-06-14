@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 13 Jun 2021 12:06:57 UTC
+! Updated: Mon, 14 Jun 2021 00:07:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
+||dollarsurvey365.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
@@ -132,6 +133,7 @@
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
+||findwith.me$document
 ||findyourultimateplayersfirst.best$document
 ||firststableplayer.work$document
 ||fisham.site$document
@@ -194,6 +196,7 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
+||goalmedia.club$document
 ||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
@@ -239,8 +242,9 @@
 ||healthysure.info$document
 ||hypezen.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
+||ientsillness.fun$document
 ||inappropriate.top$document
+||incrediblebuzz.info$document
 ||information.casa$document
 ||instablog.club$document
 ||installcompletely-theoriginalfile.best$document
@@ -249,7 +253,6 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
-||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -311,6 +314,7 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||mathison.io$document
 ||max-care.info$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -425,6 +429,7 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
@@ -501,7 +506,6 @@
 ||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
-||settothereliableupgradingnew.work$document
 ||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
@@ -647,7 +651,6 @@
 ||vital-health.club$document
 ||vitalrole.info$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
@@ -655,7 +658,6 @@
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchgreatly-bestlatestfile.best$document
-||watchprogressive-bestmostfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document

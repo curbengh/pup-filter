@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 13 Jun 2021 12:06:57 UTC
+# Updated: Mon, 14 Jun 2021 00:07:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
+0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
@@ -132,6 +133,7 @@
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
+0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
@@ -194,6 +196,7 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
+0.0.0.0 goalmedia.club
 0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
@@ -239,8 +242,9 @@
 0.0.0.0 healthysure.info
 0.0.0.0 hypezen.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
+0.0.0.0 ientsillness.fun
 0.0.0.0 inappropriate.top
+0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
 0.0.0.0 installcompletely-theoriginalfile.best
@@ -249,7 +253,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
-0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotspin.xyz
@@ -311,6 +314,7 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
+0.0.0.0 mathison.io
 0.0.0.0 max-care.info
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -425,6 +429,7 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
@@ -501,7 +506,6 @@
 0.0.0.0 seemlast.monster
 0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
-0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shkshk.site
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
@@ -647,7 +651,6 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -655,7 +658,6 @@
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchgreatly-bestlatestfile.best
-0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work

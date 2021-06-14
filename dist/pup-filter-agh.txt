@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 13 Jun 2021 12:06:57 UTC
+! Updated: Mon, 14 Jun 2021 00:07:03 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -108,6 +108,7 @@
 ||displayfriend.xyz^
 ||ditvl.com^
 ||dollarsurvey365.online^
+||dollarsurvey365.org^
 ||dragonballclub.com^
 ||eanswers.net^
 ||earlyprogress.info^
@@ -132,6 +133,7 @@
 ||findoffers.co^
 ||findperfectplaces2download.work^
 ||findperfectplaces4download.work^
+||findwith.me^
 ||findyourultimateplayersfirst.best^
 ||firststableplayer.work^
 ||fisham.site^
@@ -194,6 +196,7 @@
 ||globalvideo.fun^
 ||globalvideo.store^
 ||go-x34n7wbcoes-ok.live^
+||goalmedia.club^
 ||googsistem.live^
 ||govpshosting.com^
 ||graburprize.net^
@@ -239,8 +242,9 @@
 ||healthysure.info^
 ||hypezen.info^
 ||idtheft-alert.xyz^
-||iketo.diet^
+||ientsillness.fun^
 ||inappropriate.top^
+||incrediblebuzz.info^
 ||information.casa^
 ||instablog.club^
 ||installcompletely-theoriginalfile.best^
@@ -249,7 +253,6 @@
 ||iosrecommendedvpn.com^
 ||isystemupdate.cloud^
 ||izipik.com^
-||java-forum.org^
 ||jointingifstrawberry.xyz^
 ||joyplaceplay.xyz^
 ||joyspotspin.xyz^
@@ -311,6 +314,7 @@
 ||manageuber-thestrongfile.best^
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
+||mathison.io^
 ||max-care.info^
 ||mediaevent.club^
 ||mediaevent.uno^
@@ -425,6 +429,7 @@
 ||primawise.info^
 ||primecare.today^
 ||privacykeeper.net^
+||productiq.net^
 ||prohealthroutine.info^
 ||prosecurityvpn.me^
 ||protect-connection.com^
@@ -501,7 +506,6 @@
 ||seemlast.monster^
 ||selfradiance.info^
 ||service-care.space^
-||settothereliableupgradingnew.work^
 ||shkshk.site^
 ||shopnsave.world^
 ||shoppingexp.xyz^
@@ -647,7 +651,6 @@
 ||vital-health.club^
 ||vitalrole.info^
 ||vpn-pro.info^
-||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
@@ -655,7 +658,6 @@
 ||vpntool.me^
 ||vpnupdatesnow.com^
 ||watchgreatly-bestlatestfile.best^
-||watchprogressive-bestmostfile.best^
 ||website4all.info^
 ||websiteforall.work^
 ||websitetoget.work^
