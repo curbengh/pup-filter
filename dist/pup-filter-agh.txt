@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 14 Jun 2021 12:07:31 UTC
+! Updated: Tue, 15 Jun 2021 00:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
-||amobil.online^
 ||animenation.org^
 ||apptool.me^
 ||armorprovpn.me^
@@ -135,6 +134,7 @@
 ||findperfectplaces4download.work^
 ||findwith.me^
 ||findyourultimateplayersfirst.best^
+||finreporter.net^
 ||firststableplayer.work^
 ||fisham.site^
 ||fisudauh.top^
@@ -242,6 +242,7 @@
 ||healthysure.info^
 ||hypezen.info^
 ||idtheft-alert.xyz^
+||iketo.diet^
 ||inappropriate.top^
 ||incrediblebuzz.info^
 ||information.casa^
@@ -383,6 +384,7 @@
 ||operateuber-theoriginalfile.best^
 ||patriothealth.today^
 ||pcicompliancemanager.xyz^
+||pcsecurity-live.xyz^
 ||perfectplaceonnetforplayers.work^
 ||performcompletely-thelatestfile.best^
 ||performcompletely-thequickfile.best^
@@ -506,6 +508,7 @@
 ||seemlast.monster^
 ||selfradiance.info^
 ||service-care.space^
+||settothereliableupgradingnew.work^
 ||shkshk.site^
 ||shopnsave.world^
 ||shoppingexp.xyz^
@@ -520,6 +523,7 @@
 ||springsitef.xyz^
 ||start-page.one^
 ||stay-notified.cc^
+||stickr.co^
 ||stingyscent.xyz^
 ||storeheavily-thefreefile.best^
 ||storeheavily-thequickfile.best^
@@ -553,6 +557,7 @@
 ||streamrecent-bestintenselyfile.best^
 ||streamrenewed-bestoverlyfile.best^
 ||streamstrong-bestuberfile.best^
+||streamuber-bestspeedyfile.best^
 ||streamuber-bestswiftfile.best^
 ||styleandhealth.info^
 ||subeamy.pw^
@@ -658,6 +663,7 @@
 ||vpntool.me^
 ||vpnupdatesnow.com^
 ||watchgreatly-bestlatestfile.best^
+||watchprogressive-bestmostfile.best^
 ||website4all.info^
 ||websiteforall.work^
 ||websitetoget.work^

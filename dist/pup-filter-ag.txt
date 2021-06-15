@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 14 Jun 2021 12:07:31 UTC
+! Updated: Tue, 15 Jun 2021 00:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||armorprovpn.me$all
@@ -135,6 +134,7 @@
 ||findperfectplaces4download.work$all
 ||findwith.me$all
 ||findyourultimateplayersfirst.best$all
+||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -242,6 +242,7 @@
 ||healthysure.info$all
 ||hypezen.info$all
 ||idtheft-alert.xyz$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
 ||information.casa$all
@@ -383,6 +384,7 @@
 ||operateuber-theoriginalfile.best$all
 ||patriothealth.today$all
 ||pcicompliancemanager.xyz$all
+||pcsecurity-live.xyz$all
 ||perfectplaceonnetforplayers.work$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -506,6 +508,7 @@
 ||seemlast.monster$all
 ||selfradiance.info$all
 ||service-care.space$all
+||settothereliableupgradingnew.work$all
 ||shkshk.site$all
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
@@ -520,6 +523,7 @@
 ||springsitef.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
@@ -553,6 +557,7 @@
 ||streamrecent-bestintenselyfile.best$all
 ||streamrenewed-bestoverlyfile.best$all
 ||streamstrong-bestuberfile.best$all
+||streamuber-bestspeedyfile.best$all
 ||streamuber-bestswiftfile.best$all
 ||styleandhealth.info$all
 ||subeamy.pw$all
@@ -658,6 +663,7 @@
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchgreatly-bestlatestfile.best$all
+||watchprogressive-bestmostfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all

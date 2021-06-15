@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 14 Jun 2021 12:07:31 UTC
+# Updated: Tue, 15 Jun 2021 00:07:28 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d armorprovpn.me
@@ -138,6 +137,7 @@ msFilterList
 -d findperfectplaces4download.work
 -d findwith.me
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -245,6 +245,7 @@ msFilterList
 -d healthysure.info
 -d hypezen.info
 -d idtheft-alert.xyz
+-d iketo.diet
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -386,6 +387,7 @@ msFilterList
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
 -d pcicompliancemanager.xyz
+-d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -509,6 +511,7 @@ msFilterList
 -d seemlast.monster
 -d selfradiance.info
 -d service-care.space
+-d settothereliableupgradingnew.work
 -d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
@@ -523,6 +526,7 @@ msFilterList
 -d springsitef.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
@@ -556,6 +560,7 @@ msFilterList
 -d streamrecent-bestintenselyfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamstrong-bestuberfile.best
+-d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d styleandhealth.info
 -d subeamy.pw
@@ -661,6 +666,7 @@ msFilterList
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
+-d watchprogressive-bestmostfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work

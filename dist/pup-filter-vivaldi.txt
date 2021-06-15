@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 14 Jun 2021 12:07:31 UTC
+! Updated: Tue, 15 Jun 2021 00:07:28 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
@@ -135,6 +134,7 @@
 ||findperfectplaces4download.work$document
 ||findwith.me$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
@@ -242,6 +242,7 @@
 ||healthysure.info$document
 ||hypezen.info$document
 ||idtheft-alert.xyz$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -383,6 +384,7 @@
 ||operateuber-theoriginalfile.best$document
 ||patriothealth.today$document
 ||pcicompliancemanager.xyz$document
+||pcsecurity-live.xyz$document
 ||perfectplaceonnetforplayers.work$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
@@ -506,6 +508,7 @@
 ||seemlast.monster$document
 ||selfradiance.info$document
 ||service-care.space$document
+||settothereliableupgradingnew.work$document
 ||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
@@ -520,6 +523,7 @@
 ||springsitef.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||stingyscent.xyz$document
 ||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
@@ -553,6 +557,7 @@
 ||streamrecent-bestintenselyfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
 ||streamstrong-bestuberfile.best$document
+||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
 ||styleandhealth.info$document
 ||subeamy.pw$document
@@ -658,6 +663,7 @@
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchgreatly-bestlatestfile.best$document
+||watchprogressive-bestmostfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document
