@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 15 Jun 2021 00:07:28 UTC
+# Updated: Tue, 15 Jun 2021 12:29:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
+-d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
@@ -21,6 +22,7 @@ msFilterList
 -d altcasino.info
 -d amateurxporn.com
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -28,7 +30,6 @@ msFilterList
 -d asufij.xyz
 -d auto-lawyer.site
 -d baseofmp3.com
--d be-5hdo32xes-ok.live
 -d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
@@ -243,6 +244,7 @@ msFilterList
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
+-d httqzq.vip
 -d hypezen.info
 -d idtheft-alert.xyz
 -d iketo.diet
@@ -634,6 +636,7 @@ msFilterList
 -d track4ast.icu
 -d trafficbounce.net
 -d trafficgate.cc
+-d trafficmind.pro
 -d trane.fun
 -d trktraf.club
 -d trkvpn.xyz
@@ -659,6 +662,7 @@ msFilterList
 -d vital-health.club
 -d vitalrole.info
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me

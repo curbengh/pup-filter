@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 15 Jun 2021 00:07:28 UTC
+! Updated: Tue, 15 Jun 2021 12:29:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
+1browser.co
 20patogh.com
 2kddbl.club
 321movies.xyz
@@ -18,6 +19,7 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 animenation.org
+anismunre.info
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -25,7 +27,6 @@ assuredhealth.info
 asufij.xyz
 auto-lawyer.site
 baseofmp3.com
-be-5hdo32xes-ok.live
 bestappland.me
 bestlinkupgrade.info
 bestlinkupgrades.info
@@ -240,6 +241,7 @@ healthyideal.club
 healthyparker.info
 healthyspirit.info
 healthysure.info
+httqzq.vip
 hypezen.info
 idtheft-alert.xyz
 iketo.diet
@@ -631,6 +633,7 @@ track-app.club
 track4ast.icu
 trafficbounce.net
 trafficgate.cc
+trafficmind.pro
 trane.fun
 trktraf.club
 trkvpn.xyz
@@ -656,6 +659,7 @@ viralarticles.net
 vital-health.club
 vitalrole.info
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpnprosecurity.me
 vpnsecurity.me

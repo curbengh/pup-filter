@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 15 Jun 2021 00:07:28 UTC
+! Updated: Tue, 15 Jun 2021 12:29:07 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$all
+||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
@@ -18,6 +19,7 @@
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -25,7 +27,6 @@
 ||asufij.xyz$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
-||be-5hdo32xes-ok.live$all
 ||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
@@ -240,6 +241,7 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
+||httqzq.vip$all
 ||hypezen.info$all
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
@@ -631,6 +633,7 @@
 ||track4ast.icu$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
+||trafficmind.pro$all
 ||trane.fun$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
@@ -656,6 +659,7 @@
 ||vital-health.club$all
 ||vitalrole.info$all
 ||vpn-pro.info$all
+||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
