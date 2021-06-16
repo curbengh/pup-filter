@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 15 Jun 2021 12:29:07 UTC
+# Updated: Wed, 16 Jun 2021 00:07:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -110,7 +111,6 @@ msFilterList
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
--d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dragonballclub.com
 -d eanswers.net
@@ -138,7 +138,6 @@ msFilterList
 -d findperfectplaces4download.work
 -d findwith.me
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -249,6 +248,7 @@ msFilterList
 -d idtheft-alert.xyz
 -d iketo.diet
 -d inappropriate.top
+-d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
 -d instablog.club
@@ -258,6 +258,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
+-d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -290,6 +291,7 @@ msFilterList
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
+-d loadhighlyadvancedthefile.vip
 -d loadpreciseuberfile.digital
 -d loadquickextremelyfile.digital
 -d loadrecentoverlyfile.digital
@@ -342,7 +344,6 @@ msFilterList
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
--d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -435,7 +436,6 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
@@ -605,7 +605,6 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -670,7 +669,6 @@ msFilterList
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
--d watchprogressive-bestmostfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work

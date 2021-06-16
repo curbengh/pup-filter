@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 15 Jun 2021 12:29:07 UTC
+! Updated: Wed, 16 Jun 2021 00:07:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -107,7 +108,6 @@
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
-||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||dragonballclub.com$all
 ||eanswers.net$all
@@ -135,7 +135,6 @@
 ||findperfectplaces4download.work$all
 ||findwith.me$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -246,6 +245,7 @@
 ||idtheft-alert.xyz$all
 ||iketo.diet$all
 ||inappropriate.top$all
+||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
 ||instablog.club$all
@@ -255,6 +255,7 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
+||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -287,6 +288,7 @@
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
+||loadhighlyadvancedthefile.vip$all
 ||loadpreciseuberfile.digital$all
 ||loadquickextremelyfile.digital$all
 ||loadrecentoverlyfile.digital$all
@@ -339,7 +341,6 @@
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
-||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -432,7 +433,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
@@ -602,7 +602,6 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -667,7 +666,6 @@
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchgreatly-bestlatestfile.best$all
-||watchprogressive-bestmostfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all

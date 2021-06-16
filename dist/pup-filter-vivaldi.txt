@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 15 Jun 2021 12:29:07 UTC
+! Updated: Wed, 16 Jun 2021 00:07:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
@@ -107,7 +108,6 @@
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
-||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
@@ -135,7 +135,6 @@
 ||findperfectplaces4download.work$document
 ||findwith.me$document
 ||findyourultimateplayersfirst.best$document
-||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
@@ -246,6 +245,7 @@
 ||idtheft-alert.xyz$document
 ||iketo.diet$document
 ||inappropriate.top$document
+||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||instablog.club$document
@@ -255,6 +255,7 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -287,6 +288,7 @@
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
+||loadhighlyadvancedthefile.vip$document
 ||loadpreciseuberfile.digital$document
 ||loadquickextremelyfile.digital$document
 ||loadrecentoverlyfile.digital$document
@@ -339,7 +341,6 @@
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
-||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
@@ -432,7 +433,6 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
-||productiq.net$document
 ||prohealthroutine.info$document
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
@@ -602,7 +602,6 @@
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
-||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -667,7 +666,6 @@
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchgreatly-bestlatestfile.best$document
-||watchprogressive-bestmostfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document

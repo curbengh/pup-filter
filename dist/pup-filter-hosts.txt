@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 15 Jun 2021 12:29:07 UTC
+# Updated: Wed, 16 Jun 2021 00:07:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
+0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
@@ -107,7 +108,6 @@
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
-0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
@@ -135,7 +135,6 @@
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
-0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
@@ -246,6 +245,7 @@
 0.0.0.0 idtheft-alert.xyz
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
+0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -255,6 +255,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
+0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotspin.xyz
@@ -287,6 +288,7 @@
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadheavily-bestfreefile.best
+0.0.0.0 loadhighlyadvancedthefile.vip
 0.0.0.0 loadpreciseuberfile.digital
 0.0.0.0 loadquickextremelyfile.digital
 0.0.0.0 loadrecentoverlyfile.digital
@@ -339,7 +341,6 @@
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
-0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
@@ -432,7 +433,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
@@ -602,7 +602,6 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
-0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -667,7 +666,6 @@
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchgreatly-bestlatestfile.best
-0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work
