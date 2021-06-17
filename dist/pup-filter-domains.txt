@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 16 Jun 2021 12:07:23 +0000
+# Updated: Thu, 17 Jun 2021 00:07:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@ blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 boot-upcompletely-bestprecisefile.best
+boot-upcompletely-bestsophisticatedfile.best
 boot-upcompletely-bestspeedyfile.best
 boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
@@ -109,9 +110,9 @@ delightcmain.xyz
 digitalinvest.news
 displayfriend.xyz
 ditvl.com
+dollarsurvey365.online
 dollarsurvey365.org
 dragonballclub.com
-eanswers.net
 earlyprogress.info
 ehousan.top
 eproute.info
@@ -136,10 +137,10 @@ findperfectplaces2download.work
 findperfectplaces4download.work
 findwith.me
 findyourultimateplayersfirst.best
+finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
-fitandready.info
 fitandstable.club
 fitbodyandsoul.info
 fitcourage.info
@@ -197,6 +198,7 @@ global-info.space
 globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
+goalmedia.bar
 goalmedia.club
 googsistem.live
 govpshosting.com
@@ -245,7 +247,6 @@ horny-honey.online
 httqzq.vip
 hypezen.info
 idtheft-alert.xyz
-iketo.diet
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -257,7 +258,6 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
-java-forum.org
 jointingifstrawberry.xyz
 joyplaceplay.xyz
 joyspotspin.xyz
@@ -282,15 +282,21 @@ lightstop.xyz
 livehealthcare.today
 livelyyroad.xyz
 livingmighty.club
+loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
 loadextremelyquickfile.digital
+loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
 loadfreeextremelyfile.digital
 loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
 loadheavily-bestfreefile.best
-loadhighlyadvancedthefile.vip
+loadintenselyquickthefile.vip
+loadintenselyspeedythefile.vip
+loadintenselystrongthefile.vip
+loadintenselyswiftthefile.vip
+loadpreciseintenselythefile.vip
 loadpreciseuberfile.digital
 loadquickextremelyfile.digital
 loadrecentoverlyfile.digital
@@ -298,6 +304,8 @@ loadrefineduberfile.digital
 loadsophisticateduberfile.digital
 loadstreamlaunch.digital
 loadstrongextremelyfile.digital
+loadstrongintenselythefile.vip
+loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
@@ -337,12 +345,12 @@ medsjournal.info
 meeryslotspin.xyz
 merryplayglobal.xyz
 merryplayworld.xyz
-mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
 monitoring-credit.xyz
+movievod.me
 multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
@@ -388,7 +396,6 @@ operatespeedy-thehighlyfile.best
 operateuber-thefreefile.best
 operateuber-theoriginalfile.best
 patriothealth.today
-pcicompliancemanager.xyz
 pcsecurity-live.xyz
 perfectplaceonnetforplayers.work
 performcompletely-thelatestfile.best
@@ -435,11 +442,11 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 prosecurityvpn.me
 protect-connection.com
 protecttool.me
-protectyourvpn.com
 provpnsecurity.me
 provpnservice.me
 qh97dkzy20.top
@@ -548,6 +555,7 @@ streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
+streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -604,6 +612,7 @@ tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -639,7 +648,6 @@ trane.fun
 trktraf.club
 trkvpn.xyz
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
@@ -668,6 +676,7 @@ vpnservice.me
 vpntool.me
 vpnupdatesnow.com
 watchgreatly-bestlatestfile.best
+watchprogressive-bestmostfile.best
 website4all.info
 websiteforall.work
 websitetoget.work

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 16 Jun 2021 12:07:23 +0000
+! Updated: Thu, 17 Jun 2021 00:07:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upcompletely-bestprecisefile.best$all
+||boot-upcompletely-bestsophisticatedfile.best$all
 ||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
@@ -109,9 +110,9 @@
 ||digitalinvest.news$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
+||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||dragonballclub.com$all
-||eanswers.net$all
 ||earlyprogress.info$all
 ||ehousan.top$all
 ||eproute.info$all
@@ -136,10 +137,10 @@
 ||findperfectplaces4download.work$all
 ||findwith.me$all
 ||findyourultimateplayersfirst.best$all
+||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
-||fitandready.info$all
 ||fitandstable.club$all
 ||fitbodyandsoul.info$all
 ||fitcourage.info$all
@@ -197,6 +198,7 @@
 ||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
+||goalmedia.bar$all
 ||goalmedia.club$all
 ||googsistem.live$all
 ||govpshosting.com$all
@@ -245,7 +247,6 @@
 ||httqzq.vip$all
 ||hypezen.info$all
 ||idtheft-alert.xyz$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -257,7 +258,6 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
-||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
 ||joyspotspin.xyz$all
@@ -282,15 +282,21 @@
 ||livehealthcare.today$all
 ||livelyyroad.xyz$all
 ||livingmighty.club$all
+||loadadvancedextremelythefile.vip$all
 ||loaddevelopeduberfile.digital$all
 ||loadextremelyquickfile.digital$all
+||loadextremelyrecentthefile.vip$all
 ||loadfree-bestheavilyfile.best$all
 ||loadfreeextremelyfile.digital$all
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadheavily-bestfreefile.best$all
-||loadhighlyadvancedthefile.vip$all
+||loadintenselyquickthefile.vip$all
+||loadintenselyspeedythefile.vip$all
+||loadintenselystrongthefile.vip$all
+||loadintenselyswiftthefile.vip$all
+||loadpreciseintenselythefile.vip$all
 ||loadpreciseuberfile.digital$all
 ||loadquickextremelyfile.digital$all
 ||loadrecentoverlyfile.digital$all
@@ -298,6 +304,8 @@
 ||loadsophisticateduberfile.digital$all
 ||loadstreamlaunch.digital$all
 ||loadstrongextremelyfile.digital$all
+||loadstrongintenselythefile.vip$all
+||loadswiftintenselythefile.vip$all
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
@@ -337,12 +345,12 @@
 ||meeryslotspin.xyz$all
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
-||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
+||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -388,7 +396,6 @@
 ||operateuber-thefreefile.best$all
 ||operateuber-theoriginalfile.best$all
 ||patriothealth.today$all
-||pcicompliancemanager.xyz$all
 ||pcsecurity-live.xyz$all
 ||perfectplaceonnetforplayers.work$all
 ||performcompletely-thelatestfile.best$all
@@ -435,11 +442,11 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
 ||protecttool.me$all
-||protectyourvpn.com$all
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||qh97dkzy20.top$all
@@ -548,6 +555,7 @@
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
+||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -604,6 +612,7 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -639,7 +648,6 @@
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
@@ -668,6 +676,7 @@
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchgreatly-bestlatestfile.best$all
+||watchprogressive-bestmostfile.best$all
 ||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all

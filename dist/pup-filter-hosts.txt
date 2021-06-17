@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 16 Jun 2021 12:07:23 +0000
+# Updated: Thu, 17 Jun 2021 00:07:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upcompletely-bestprecisefile.best
+0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
@@ -109,9 +110,9 @@
 0.0.0.0 digitalinvest.news
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
+0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
-0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
@@ -136,10 +137,10 @@
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
+0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
-0.0.0.0 fitandready.info
 0.0.0.0 fitandstable.club
 0.0.0.0 fitbodyandsoul.info
 0.0.0.0 fitcourage.info
@@ -197,6 +198,7 @@
 0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
+0.0.0.0 goalmedia.bar
 0.0.0.0 goalmedia.club
 0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
@@ -245,7 +247,6 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 idtheft-alert.xyz
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -257,7 +258,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
-0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 joyplaceplay.xyz
 0.0.0.0 joyspotspin.xyz
@@ -282,15 +282,21 @@
 0.0.0.0 livehealthcare.today
 0.0.0.0 livelyyroad.xyz
 0.0.0.0 livingmighty.club
+0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
 0.0.0.0 loadextremelyquickfile.digital
+0.0.0.0 loadextremelyrecentthefile.vip
 0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadfreeextremelyfile.digital
 0.0.0.0 loadgreatly-bestadvancedfile.best
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadheavily-bestfreefile.best
-0.0.0.0 loadhighlyadvancedthefile.vip
+0.0.0.0 loadintenselyquickthefile.vip
+0.0.0.0 loadintenselyspeedythefile.vip
+0.0.0.0 loadintenselystrongthefile.vip
+0.0.0.0 loadintenselyswiftthefile.vip
+0.0.0.0 loadpreciseintenselythefile.vip
 0.0.0.0 loadpreciseuberfile.digital
 0.0.0.0 loadquickextremelyfile.digital
 0.0.0.0 loadrecentoverlyfile.digital
@@ -298,6 +304,8 @@
 0.0.0.0 loadsophisticateduberfile.digital
 0.0.0.0 loadstreamlaunch.digital
 0.0.0.0 loadstrongextremelyfile.digital
+0.0.0.0 loadstrongintenselythefile.vip
+0.0.0.0 loadswiftintenselythefile.vip
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
@@ -337,12 +345,12 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 merryplayglobal.xyz
 0.0.0.0 merryplayworld.xyz
-0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
+0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
@@ -388,7 +396,6 @@
 0.0.0.0 operateuber-thefreefile.best
 0.0.0.0 operateuber-theoriginalfile.best
 0.0.0.0 patriothealth.today
-0.0.0.0 pcicompliancemanager.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 perfectplaceonnetforplayers.work
 0.0.0.0 performcompletely-thelatestfile.best
@@ -435,11 +442,11 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
-0.0.0.0 protectyourvpn.com
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 qh97dkzy20.top
@@ -548,6 +555,7 @@
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
+0.0.0.0 streamingmadness.net
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best
@@ -604,6 +612,7 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -639,7 +648,6 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
@@ -668,6 +676,7 @@
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchgreatly-bestlatestfile.best
+0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 website4all.info
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work

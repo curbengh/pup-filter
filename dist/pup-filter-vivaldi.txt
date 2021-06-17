@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 16 Jun 2021 12:07:23 +0000
+! Updated: Thu, 17 Jun 2021 00:07:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upcompletely-bestprecisefile.best$document
+||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upoverly-bestadvancedfile.best$document
@@ -109,9 +110,9 @@
 ||digitalinvest.news$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
+||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||earlyprogress.info$document
 ||ehousan.top$document
 ||eproute.info$document
@@ -136,10 +137,10 @@
 ||findperfectplaces4download.work$document
 ||findwith.me$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
-||fitandready.info$document
 ||fitandstable.club$document
 ||fitbodyandsoul.info$document
 ||fitcourage.info$document
@@ -197,6 +198,7 @@
 ||globalvideo.fun$document
 ||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
+||goalmedia.bar$document
 ||goalmedia.club$document
 ||googsistem.live$document
 ||govpshosting.com$document
@@ -245,7 +247,6 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||idtheft-alert.xyz$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -257,7 +258,6 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
-||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||joyplaceplay.xyz$document
 ||joyspotspin.xyz$document
@@ -282,15 +282,21 @@
 ||livehealthcare.today$document
 ||livelyyroad.xyz$document
 ||livingmighty.club$document
+||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
 ||loadextremelyquickfile.digital$document
+||loadextremelyrecentthefile.vip$document
 ||loadfree-bestheavilyfile.best$document
 ||loadfreeextremelyfile.digital$document
 ||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadheavily-bestfreefile.best$document
-||loadhighlyadvancedthefile.vip$document
+||loadintenselyquickthefile.vip$document
+||loadintenselyspeedythefile.vip$document
+||loadintenselystrongthefile.vip$document
+||loadintenselyswiftthefile.vip$document
+||loadpreciseintenselythefile.vip$document
 ||loadpreciseuberfile.digital$document
 ||loadquickextremelyfile.digital$document
 ||loadrecentoverlyfile.digital$document
@@ -298,6 +304,8 @@
 ||loadsophisticateduberfile.digital$document
 ||loadstreamlaunch.digital$document
 ||loadstrongextremelyfile.digital$document
+||loadstrongintenselythefile.vip$document
+||loadswiftintenselythefile.vip$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
@@ -337,12 +345,12 @@
 ||meeryslotspin.xyz$document
 ||merryplayglobal.xyz$document
 ||merryplayworld.xyz$document
-||mindbank.ai$document
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
+||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
@@ -388,7 +396,6 @@
 ||operateuber-thefreefile.best$document
 ||operateuber-theoriginalfile.best$document
 ||patriothealth.today$document
-||pcicompliancemanager.xyz$document
 ||pcsecurity-live.xyz$document
 ||perfectplaceonnetforplayers.work$document
 ||performcompletely-thelatestfile.best$document
@@ -435,11 +442,11 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
 ||protecttool.me$document
-||protectyourvpn.com$document
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||qh97dkzy20.top$document
@@ -548,6 +555,7 @@
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
+||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -604,6 +612,7 @@
 ||talskingest.top$document
 ||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
+||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -639,7 +648,6 @@
 ||trktraf.club$document
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unequalfaucet.xyz$document
 ||uniremedy.info$document
@@ -668,6 +676,7 @@
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
 ||watchgreatly-bestlatestfile.best$document
+||watchprogressive-bestmostfile.best$document
 ||website4all.info$document
 ||websiteforall.work$document
 ||websitetoget.work$document

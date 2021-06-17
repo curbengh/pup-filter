@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 16 Jun 2021 12:07:23 +0000
+# Updated: Thu, 17 Jun 2021 00:07:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -53,6 +53,7 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upcompletely-bestprecisefile.best
+-d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
@@ -112,9 +113,9 @@ msFilterList
 -d digitalinvest.news
 -d displayfriend.xyz
 -d ditvl.com
+-d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dragonballclub.com
--d eanswers.net
 -d earlyprogress.info
 -d ehousan.top
 -d eproute.info
@@ -139,10 +140,10 @@ msFilterList
 -d findperfectplaces4download.work
 -d findwith.me
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
--d fitandready.info
 -d fitandstable.club
 -d fitbodyandsoul.info
 -d fitcourage.info
@@ -200,6 +201,7 @@ msFilterList
 -d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
+-d goalmedia.bar
 -d goalmedia.club
 -d googsistem.live
 -d govpshosting.com
@@ -248,7 +250,6 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d idtheft-alert.xyz
--d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -260,7 +261,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
 -d joyspotspin.xyz
@@ -285,15 +285,21 @@ msFilterList
 -d livehealthcare.today
 -d livelyyroad.xyz
 -d livingmighty.club
+-d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
 -d loadextremelyquickfile.digital
+-d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
 -d loadfreeextremelyfile.digital
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadheavily-bestfreefile.best
--d loadhighlyadvancedthefile.vip
+-d loadintenselyquickthefile.vip
+-d loadintenselyspeedythefile.vip
+-d loadintenselystrongthefile.vip
+-d loadintenselyswiftthefile.vip
+-d loadpreciseintenselythefile.vip
 -d loadpreciseuberfile.digital
 -d loadquickextremelyfile.digital
 -d loadrecentoverlyfile.digital
@@ -301,6 +307,8 @@ msFilterList
 -d loadsophisticateduberfile.digital
 -d loadstreamlaunch.digital
 -d loadstrongextremelyfile.digital
+-d loadstrongintenselythefile.vip
+-d loadswiftintenselythefile.vip
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -340,12 +348,12 @@ msFilterList
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
--d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
+-d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -391,7 +399,6 @@ msFilterList
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
--d pcicompliancemanager.xyz
 -d pcsecurity-live.xyz
 -d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
@@ -438,11 +445,11 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
--d protectyourvpn.com
 -d provpnsecurity.me
 -d provpnservice.me
 -d qh97dkzy20.top
@@ -551,6 +558,7 @@ msFilterList
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
+-d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -607,6 +615,7 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
+-d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -642,7 +651,6 @@ msFilterList
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
@@ -671,6 +679,7 @@ msFilterList
 -d vpntool.me
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
+-d watchprogressive-bestmostfile.best
 -d website4all.info
 -d websiteforall.work
 -d websitetoget.work
