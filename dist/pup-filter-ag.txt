@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 18 Jun 2021 00:07:02 +0000
+! Updated: Fri, 18 Jun 2021 12:06:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@
 ||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
-||calledbellc.fun$all
 ||care-connection.info$all
 ||carebility.info$all
 ||careerconnecthub.com$all
@@ -242,7 +241,6 @@
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||healthysure.info$all
-||horny-honey.online$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||inappropriate.top$all
