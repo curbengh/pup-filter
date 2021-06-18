@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 17 Jun 2021 12:07:11 +0000
+# Updated: Fri, 18 Jun 2021 00:07:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 anismunre.info
 apptool.me
@@ -50,12 +49,12 @@ blockchain-com.email
 bodyamaze.club
 bodyselfcare.info
 boot-upcompletely-bestprecisefile.best
-boot-upcompletely-bestsophisticatedfile.best
 boot-upcompletely-bestspeedyfile.best
 boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
 boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
+browse-privately.net
 browsercheck.site
 btcinvesting.info
 bulley.shop
@@ -104,6 +103,7 @@ dailymedia.space
 dailymedia.surf
 dailymedia.work
 dailyrep.net
+darkview.org
 defensepro.me
 degreenm.top
 delightcmain.xyz
@@ -113,6 +113,7 @@ ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
 dragonballclub.com
+eanswers.net
 earlyprogress.info
 ehousan.top
 eproute.info
@@ -137,7 +138,6 @@ findperfectplaces2download.work
 findperfectplaces4download.work
 findwith.me
 findyourultimateplayersfirst.best
-finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
@@ -195,7 +195,6 @@ gladvideo.site
 gladvideo.surf
 gladvideo.website
 global-info.space
-globalvideo.fun
 globalvideo.store
 go-x34n7wbcoes-ok.live
 goalmedia.bar
@@ -246,7 +245,6 @@ healthysure.info
 horny-honey.online
 httqzq.vip
 hypezen.info
-idtheft-alert.xyz
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -291,21 +289,29 @@ loadfreeextremelyfile.digital
 loadgreatly-bestadvancedfile.best
 loadgreatly-bestquickfile.best
 loadgreatly-bestrenewedfile.best
+loadgreatlynewestthefile.vip
+loadgreatlyoriginalthefile.vip
+loadgreatlyprogressivethefile.vip
+loadgreatlyrenewedthefile.vip
 loadheavily-bestfreefile.best
 loadintenselyquickthefile.vip
-loadintenselyspeedythefile.vip
 loadintenselystrongthefile.vip
 loadintenselyswiftthefile.vip
+loadnewestgreatlythefile.vip
+loadoriginalextremelythefile.vip
+loadoriginalgreatlythefile.vip
 loadpreciseintenselythefile.vip
 loadpreciseuberfile.digital
+loadprogressivegreatlythefile.vip
 loadquickextremelyfile.digital
+loadrecentextremelythefile.vip
 loadrecentoverlyfile.digital
 loadrefineduberfile.digital
+loadrenewedgreatlythefile.vip
 loadsophisticateduberfile.digital
 loadstreamlaunch.digital
 loadstrongextremelyfile.digital
 loadstrongintenselythefile.vip
-loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
@@ -345,6 +351,7 @@ medsjournal.info
 meeryslotspin.xyz
 merryplayglobal.xyz
 merryplayworld.xyz
+mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
@@ -442,7 +449,6 @@ preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
-productiq.net
 prohealthroutine.info
 prosecurityvpn.me
 protect-connection.com
@@ -571,7 +577,6 @@ streamrenewed-bestoverlyfile.best
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
-styleandhealth.info
 subeamy.pw
 sudoo.net
 sugar-legal-about13.fun
@@ -627,6 +632,7 @@ thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
+thelastpicture.show
 thenewjourney.info
 thepackage.club
 thesafestplayerlinks.work
@@ -721,4 +727,3 @@ yourstablegreatupdates.work
 yourtechplaceforupgrades.info
 yourultimateperfectupgrades.work
 youthewinner.net
-ysfetinora.tk

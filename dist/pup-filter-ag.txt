@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 17 Jun 2021 12:07:11 +0000
+! Updated: Fri, 18 Jun 2021 00:07:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||apptool.me$all
@@ -50,12 +49,12 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upcompletely-bestprecisefile.best$all
-||boot-upcompletely-bestsophisticatedfile.best$all
 ||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
+||browse-privately.net$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
 ||bulley.shop$all
@@ -104,6 +103,7 @@
 ||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
+||darkview.org$all
 ||defensepro.me$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
@@ -113,6 +113,7 @@
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||dragonballclub.com$all
+||eanswers.net$all
 ||earlyprogress.info$all
 ||ehousan.top$all
 ||eproute.info$all
@@ -137,7 +138,6 @@
 ||findperfectplaces4download.work$all
 ||findwith.me$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -195,7 +195,6 @@
 ||gladvideo.surf$all
 ||gladvideo.website$all
 ||global-info.space$all
-||globalvideo.fun$all
 ||globalvideo.store$all
 ||go-x34n7wbcoes-ok.live$all
 ||goalmedia.bar$all
@@ -246,7 +245,6 @@
 ||horny-honey.online$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||idtheft-alert.xyz$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -291,21 +289,29 @@
 ||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
+||loadgreatlynewestthefile.vip$all
+||loadgreatlyoriginalthefile.vip$all
+||loadgreatlyprogressivethefile.vip$all
+||loadgreatlyrenewedthefile.vip$all
 ||loadheavily-bestfreefile.best$all
 ||loadintenselyquickthefile.vip$all
-||loadintenselyspeedythefile.vip$all
 ||loadintenselystrongthefile.vip$all
 ||loadintenselyswiftthefile.vip$all
+||loadnewestgreatlythefile.vip$all
+||loadoriginalextremelythefile.vip$all
+||loadoriginalgreatlythefile.vip$all
 ||loadpreciseintenselythefile.vip$all
 ||loadpreciseuberfile.digital$all
+||loadprogressivegreatlythefile.vip$all
 ||loadquickextremelyfile.digital$all
+||loadrecentextremelythefile.vip$all
 ||loadrecentoverlyfile.digital$all
 ||loadrefineduberfile.digital$all
+||loadrenewedgreatlythefile.vip$all
 ||loadsophisticateduberfile.digital$all
 ||loadstreamlaunch.digital$all
 ||loadstrongextremelyfile.digital$all
 ||loadstrongintenselythefile.vip$all
-||loadswiftintenselythefile.vip$all
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
@@ -345,6 +351,7 @@
 ||meeryslotspin.xyz$all
 ||merryplayglobal.xyz$all
 ||merryplayworld.xyz$all
+||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
@@ -442,7 +449,6 @@
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||prohealthroutine.info$all
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
@@ -571,7 +577,6 @@
 ||streamstrong-bestuberfile.best$all
 ||streamuber-bestspeedyfile.best$all
 ||streamuber-bestswiftfile.best$all
-||styleandhealth.info$all
 ||subeamy.pw$all
 ||sudoo.net$all
 ||sugar-legal-about13.fun$all
@@ -627,6 +632,7 @@
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
+||thelastpicture.show$all
 ||thenewjourney.info$all
 ||thepackage.club$all
 ||thesafestplayerlinks.work$all
@@ -721,4 +727,3 @@
 ||yourtechplaceforupgrades.info$all
 ||yourultimateperfectupgrades.work$all
 ||youthewinner.net$all
-||ysfetinora.tk$all

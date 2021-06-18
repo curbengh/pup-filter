@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 17 Jun 2021 12:07:11 +0000
+# Updated: Fri, 18 Jun 2021 00:07:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
@@ -50,12 +49,12 @@
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upcompletely-bestprecisefile.best
-0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
+0.0.0.0 browse-privately.net
 0.0.0.0 browsercheck.site
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
@@ -104,6 +103,7 @@
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
+0.0.0.0 darkview.org
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
@@ -113,6 +113,7 @@
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dragonballclub.com
+0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
 0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
@@ -137,7 +138,6 @@
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
-0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
@@ -195,7 +195,6 @@
 0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
 0.0.0.0 global-info.space
-0.0.0.0 globalvideo.fun
 0.0.0.0 globalvideo.store
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
@@ -246,7 +245,6 @@
 0.0.0.0 horny-honey.online
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 idtheft-alert.xyz
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -291,21 +289,29 @@
 0.0.0.0 loadgreatly-bestadvancedfile.best
 0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
+0.0.0.0 loadgreatlynewestthefile.vip
+0.0.0.0 loadgreatlyoriginalthefile.vip
+0.0.0.0 loadgreatlyprogressivethefile.vip
+0.0.0.0 loadgreatlyrenewedthefile.vip
 0.0.0.0 loadheavily-bestfreefile.best
 0.0.0.0 loadintenselyquickthefile.vip
-0.0.0.0 loadintenselyspeedythefile.vip
 0.0.0.0 loadintenselystrongthefile.vip
 0.0.0.0 loadintenselyswiftthefile.vip
+0.0.0.0 loadnewestgreatlythefile.vip
+0.0.0.0 loadoriginalextremelythefile.vip
+0.0.0.0 loadoriginalgreatlythefile.vip
 0.0.0.0 loadpreciseintenselythefile.vip
 0.0.0.0 loadpreciseuberfile.digital
+0.0.0.0 loadprogressivegreatlythefile.vip
 0.0.0.0 loadquickextremelyfile.digital
+0.0.0.0 loadrecentextremelythefile.vip
 0.0.0.0 loadrecentoverlyfile.digital
 0.0.0.0 loadrefineduberfile.digital
+0.0.0.0 loadrenewedgreatlythefile.vip
 0.0.0.0 loadsophisticateduberfile.digital
 0.0.0.0 loadstreamlaunch.digital
 0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loadstrongintenselythefile.vip
-0.0.0.0 loadswiftintenselythefile.vip
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
@@ -345,6 +351,7 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 merryplayglobal.xyz
 0.0.0.0 merryplayworld.xyz
+0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
@@ -442,7 +449,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
@@ -571,7 +577,6 @@
 0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
-0.0.0.0 styleandhealth.info
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
 0.0.0.0 sugar-legal-about13.fun
@@ -627,6 +632,7 @@
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
+0.0.0.0 thelastpicture.show
 0.0.0.0 thenewjourney.info
 0.0.0.0 thepackage.club
 0.0.0.0 thesafestplayerlinks.work
@@ -721,4 +727,3 @@
 0.0.0.0 yourtechplaceforupgrades.info
 0.0.0.0 yourultimateperfectupgrades.work
 0.0.0.0 youthewinner.net
-0.0.0.0 ysfetinora.tk

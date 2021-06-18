@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 17 Jun 2021 12:07:11 +0000
+# Updated: Fri, 18 Jun 2021 00:07:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -53,12 +52,12 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upcompletely-bestprecisefile.best
--d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
+-d browse-privately.net
 -d browsercheck.site
 -d btcinvesting.info
 -d bulley.shop
@@ -107,6 +106,7 @@ msFilterList
 -d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
+-d darkview.org
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
@@ -116,6 +116,7 @@ msFilterList
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dragonballclub.com
+-d eanswers.net
 -d earlyprogress.info
 -d ehousan.top
 -d eproute.info
@@ -140,7 +141,6 @@ msFilterList
 -d findperfectplaces4download.work
 -d findwith.me
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -198,7 +198,6 @@ msFilterList
 -d gladvideo.surf
 -d gladvideo.website
 -d global-info.space
--d globalvideo.fun
 -d globalvideo.store
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
@@ -249,7 +248,6 @@ msFilterList
 -d horny-honey.online
 -d httqzq.vip
 -d hypezen.info
--d idtheft-alert.xyz
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -294,21 +292,29 @@ msFilterList
 -d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
+-d loadgreatlynewestthefile.vip
+-d loadgreatlyoriginalthefile.vip
+-d loadgreatlyprogressivethefile.vip
+-d loadgreatlyrenewedthefile.vip
 -d loadheavily-bestfreefile.best
 -d loadintenselyquickthefile.vip
--d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
+-d loadnewestgreatlythefile.vip
+-d loadoriginalextremelythefile.vip
+-d loadoriginalgreatlythefile.vip
 -d loadpreciseintenselythefile.vip
 -d loadpreciseuberfile.digital
+-d loadprogressivegreatlythefile.vip
 -d loadquickextremelyfile.digital
+-d loadrecentextremelythefile.vip
 -d loadrecentoverlyfile.digital
 -d loadrefineduberfile.digital
+-d loadrenewedgreatlythefile.vip
 -d loadsophisticateduberfile.digital
 -d loadstreamlaunch.digital
 -d loadstrongextremelyfile.digital
 -d loadstrongintenselythefile.vip
--d loadswiftintenselythefile.vip
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -348,6 +354,7 @@ msFilterList
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
 -d merryplayworld.xyz
+-d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
@@ -445,7 +452,6 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
@@ -574,7 +580,6 @@ msFilterList
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
--d styleandhealth.info
 -d subeamy.pw
 -d sudoo.net
 -d sugar-legal-about13.fun
@@ -630,6 +635,7 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
+-d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
@@ -724,4 +730,3 @@ msFilterList
 -d yourtechplaceforupgrades.info
 -d yourultimateperfectupgrades.work
 -d youthewinner.net
--d ysfetinora.tk
