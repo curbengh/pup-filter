@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 18 Jun 2021 12:06:51 +0000
+! Updated: Sat, 19 Jun 2021 00:07:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||apptool.me$document
@@ -137,6 +138,7 @@
 ||findperfectplaces4download.work$document
 ||findwith.me$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
@@ -194,7 +196,6 @@
 ||gladvideo.surf$document
 ||gladvideo.website$document
 ||global-info.space$document
-||globalvideo.store$document
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
 ||goalmedia.club$document
@@ -243,13 +244,13 @@
 ||healthysure.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||instablog.club$document
 ||installcompletely-theoriginalfile.best$document
-||insuredhealth.info$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
@@ -288,11 +289,11 @@
 ||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadgreatlynewestthefile.vip$document
-||loadgreatlyoriginalthefile.vip$document
 ||loadgreatlyprogressivethefile.vip$document
 ||loadgreatlyrenewedthefile.vip$document
 ||loadheavily-bestfreefile.best$document
 ||loadintenselyquickthefile.vip$document
+||loadintenselyspeedythefile.vip$document
 ||loadintenselystrongthefile.vip$document
 ||loadintenselyswiftthefile.vip$document
 ||loadnewestgreatlythefile.vip$document
@@ -310,6 +311,7 @@
 ||loadstreamlaunch.digital$document
 ||loadstrongextremelyfile.digital$document
 ||loadstrongintenselythefile.vip$document
+||loadswiftintenselythefile.vip$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
@@ -447,12 +449,14 @@
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
 ||protecttool.me$document
 ||provpnsecurity.me$document
 ||provpnservice.me$document
+||prtctapp.me$document
 ||qh97dkzy20.top$document
 ||quantum.work$document
 ||rainlonginsect23.life$document
@@ -630,7 +634,6 @@
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
-||thelastpicture.show$document
 ||thenewjourney.info$document
 ||thepackage.club$document
 ||thesafestplayerlinks.work$document

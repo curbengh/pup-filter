@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 18 Jun 2021 12:06:51 +0000
+# Updated: Sat, 19 Jun 2021 00:07:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d apptool.me
@@ -140,6 +141,7 @@ msFilterList
 -d findperfectplaces4download.work
 -d findwith.me
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -197,7 +199,6 @@ msFilterList
 -d gladvideo.surf
 -d gladvideo.website
 -d global-info.space
--d globalvideo.store
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
 -d goalmedia.club
@@ -246,13 +247,13 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d hypezen.info
+-d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
 -d instablog.club
 -d installcompletely-theoriginalfile.best
--d insuredhealth.info
 -d iosdfnc.com
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
@@ -291,11 +292,11 @@ msFilterList
 -d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadgreatlynewestthefile.vip
--d loadgreatlyoriginalthefile.vip
 -d loadgreatlyprogressivethefile.vip
 -d loadgreatlyrenewedthefile.vip
 -d loadheavily-bestfreefile.best
 -d loadintenselyquickthefile.vip
+-d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
 -d loadnewestgreatlythefile.vip
@@ -313,6 +314,7 @@ msFilterList
 -d loadstreamlaunch.digital
 -d loadstrongextremelyfile.digital
 -d loadstrongintenselythefile.vip
+-d loadswiftintenselythefile.vip
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
@@ -450,12 +452,14 @@ msFilterList
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
 -d provpnsecurity.me
 -d provpnservice.me
+-d prtctapp.me
 -d qh97dkzy20.top
 -d quantum.work
 -d rainlonginsect23.life
@@ -633,7 +637,6 @@ msFilterList
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
--d thelastpicture.show
 -d thenewjourney.info
 -d thepackage.club
 -d thesafestplayerlinks.work
