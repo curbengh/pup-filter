@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 19 Jun 2021 00:07:02 +0000
+! Updated: Sat, 19 Jun 2021 12:06:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -136,7 +136,6 @@
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
-||findwith.me$all
 ||findyourultimateplayersfirst.best$all
 ||finreporter.net$all
 ||firststableplayer.work$all
@@ -170,7 +169,6 @@
 ||freewareappsstreamfastall.digital$all
 ||freshclover.info$all
 ||fuck-me-hard.club$all
-||funmapc.xyz$all
 ||funmapd.xyz$all
 ||funplanetb.xyz$all
 ||funsiteb.xyz$all

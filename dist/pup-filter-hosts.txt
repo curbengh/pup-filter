@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 19 Jun 2021 00:07:02 +0000
+# Updated: Sat, 19 Jun 2021 12:06:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -136,7 +136,6 @@
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
-0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
@@ -170,7 +169,6 @@
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
-0.0.0.0 funmapc.xyz
 0.0.0.0 funmapd.xyz
 0.0.0.0 funplanetb.xyz
 0.0.0.0 funsiteb.xyz
