@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 19 Jun 2021 12:06:45 +0000
+# Updated: Sun, 20 Jun 2021 00:07:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -53,6 +53,7 @@ msFilterList
 -d bodyamaze.club
 -d bodyselfcare.info
 -d boot-upcompletely-bestprecisefile.best
+-d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
@@ -118,7 +119,6 @@ msFilterList
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
--d ehousan.top
 -d eproute.info
 -d eroanimeittyokusen.com
 -d erotica.live
@@ -200,12 +200,12 @@ msFilterList
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
 -d goalmedia.club
+-d goalmedia.monster
 -d googsistem.live
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
 -d grandcasinoprize.info
--d greatplaceofstubs.work
 -d growthnetic.club
 -d hailso.xyz
 -d haircarepro.info
@@ -238,7 +238,6 @@ msFilterList
 -d healthvenue.club
 -d healthvibe.live
 -d healthwella.club
--d healthy-lifestyle.club
 -d healthyideal.club
 -d healthyparker.info
 -d healthyspirit.info
@@ -287,7 +286,6 @@ msFilterList
 -d loadfree-bestheavilyfile.best
 -d loadfreeextremelyfile.digital
 -d loadgreatly-bestadvancedfile.best
--d loadgreatly-bestquickfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadgreatlynewestthefile.vip
 -d loadgreatlyprogressivethefile.vip
@@ -297,6 +295,7 @@ msFilterList
 -d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
+-d loadnewestextremelythefile.vip
 -d loadnewestgreatlythefile.vip
 -d loadoriginalextremelythefile.vip
 -d loadoriginalgreatlythefile.vip
@@ -455,6 +454,7 @@ msFilterList
 -d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
+-d provpn.me
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
@@ -483,7 +483,6 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
--d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -510,6 +509,7 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -526,7 +526,6 @@ msFilterList
 -d security-protection.xyz
 -d securityvpnpro.me
 -d seemlast.monster
--d selfradiance.info
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shkshk.site
@@ -670,6 +669,9 @@ msFilterList
 -d updaterecent-thegreatlyfile.best
 -d upmakesite.xyz
 -d upplayglobal.xyz
+-d usepro.me
+-d useprovpn.me
+-d usevpnpro.me
 -d vexearth.xyz
 -d viral-surveys.win
 -d viralarticles.net

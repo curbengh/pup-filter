@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 19 Jun 2021 12:06:45 +0000
+# Updated: Sun, 20 Jun 2021 00:07:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 0.0.0.0 bodyamaze.club
 0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upcompletely-bestprecisefile.best
+0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
@@ -115,7 +116,6 @@
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
-0.0.0.0 ehousan.top
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
 0.0.0.0 erotica.live
@@ -197,12 +197,12 @@
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
 0.0.0.0 goalmedia.club
+0.0.0.0 goalmedia.monster
 0.0.0.0 googsistem.live
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandcasinoprize.info
-0.0.0.0 greatplaceofstubs.work
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 haircarepro.info
@@ -235,7 +235,6 @@
 0.0.0.0 healthvenue.club
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
-0.0.0.0 healthy-lifestyle.club
 0.0.0.0 healthyideal.club
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
@@ -284,7 +283,6 @@
 0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadfreeextremelyfile.digital
 0.0.0.0 loadgreatly-bestadvancedfile.best
-0.0.0.0 loadgreatly-bestquickfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadgreatlynewestthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
@@ -294,6 +292,7 @@
 0.0.0.0 loadintenselyspeedythefile.vip
 0.0.0.0 loadintenselystrongthefile.vip
 0.0.0.0 loadintenselyswiftthefile.vip
+0.0.0.0 loadnewestextremelythefile.vip
 0.0.0.0 loadnewestgreatlythefile.vip
 0.0.0.0 loadoriginalextremelythefile.vip
 0.0.0.0 loadoriginalgreatlythefile.vip
@@ -452,6 +451,7 @@
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
+0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
@@ -480,7 +480,6 @@
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
-0.0.0.0 ritaus.org
 0.0.0.0 roadtoyourhealth.info
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
@@ -507,6 +506,7 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scheduleagreement.xyz
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
@@ -523,7 +523,6 @@
 0.0.0.0 security-protection.xyz
 0.0.0.0 securityvpnpro.me
 0.0.0.0 seemlast.monster
-0.0.0.0 selfradiance.info
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shkshk.site
@@ -667,6 +666,9 @@
 0.0.0.0 updaterecent-thegreatlyfile.best
 0.0.0.0 upmakesite.xyz
 0.0.0.0 upplayglobal.xyz
+0.0.0.0 usepro.me
+0.0.0.0 useprovpn.me
+0.0.0.0 usevpnpro.me
 0.0.0.0 vexearth.xyz
 0.0.0.0 viral-surveys.win
 0.0.0.0 viralarticles.net

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 19 Jun 2021 12:06:45 +0000
+! Updated: Sun, 20 Jun 2021 00:07:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 ||bodyamaze.club^
 ||bodyselfcare.info^
 ||boot-upcompletely-bestprecisefile.best^
+||boot-upcompletely-bestsophisticatedfile.best^
 ||boot-upcompletely-bestspeedyfile.best^
 ||boot-upfree-bestuberfile.best^
 ||boot-upoverly-bestadvancedfile.best^
@@ -115,7 +116,6 @@
 ||dragonballclub.com^
 ||eanswers.net^
 ||earlyprogress.info^
-||ehousan.top^
 ||eproute.info^
 ||eroanimeittyokusen.com^
 ||erotica.live^
@@ -197,12 +197,12 @@
 ||go-x34n7wbcoes-ok.live^
 ||goalmedia.bar^
 ||goalmedia.club^
+||goalmedia.monster^
 ||googsistem.live^
 ||govpshosting.com^
 ||graburprize.net^
 ||gramp.xyz^
 ||grandcasinoprize.info^
-||greatplaceofstubs.work^
 ||growthnetic.club^
 ||hailso.xyz^
 ||haircarepro.info^
@@ -235,7 +235,6 @@
 ||healthvenue.club^
 ||healthvibe.live^
 ||healthwella.club^
-||healthy-lifestyle.club^
 ||healthyideal.club^
 ||healthyparker.info^
 ||healthyspirit.info^
@@ -284,7 +283,6 @@
 ||loadfree-bestheavilyfile.best^
 ||loadfreeextremelyfile.digital^
 ||loadgreatly-bestadvancedfile.best^
-||loadgreatly-bestquickfile.best^
 ||loadgreatly-bestrenewedfile.best^
 ||loadgreatlynewestthefile.vip^
 ||loadgreatlyprogressivethefile.vip^
@@ -294,6 +292,7 @@
 ||loadintenselyspeedythefile.vip^
 ||loadintenselystrongthefile.vip^
 ||loadintenselyswiftthefile.vip^
+||loadnewestextremelythefile.vip^
 ||loadnewestgreatlythefile.vip^
 ||loadoriginalextremelythefile.vip^
 ||loadoriginalgreatlythefile.vip^
@@ -452,6 +451,7 @@
 ||prosecurityvpn.me^
 ||protect-connection.com^
 ||protecttool.me^
+||provpn.me^
 ||provpnsecurity.me^
 ||provpnservice.me^
 ||prtctapp.me^
@@ -480,7 +480,6 @@
 ||rewards-promotion-winner-super.cyou^
 ||rewardsluckygiveawayprize.cyou^
 ||rewardspromotionwinnersuper.cyou^
-||ritaus.org^
 ||roadtoyourhealth.info^
 ||robogarden.io^
 ||rootessential.info^
@@ -507,6 +506,7 @@
 ||safelyonline.tech^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
+||savagegrowplus.net^
 ||scheduleagreement.xyz^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
@@ -523,7 +523,6 @@
 ||security-protection.xyz^
 ||securityvpnpro.me^
 ||seemlast.monster^
-||selfradiance.info^
 ||service-care.space^
 ||settothereliableupgradingnew.work^
 ||shkshk.site^
@@ -667,6 +666,9 @@
 ||updaterecent-thegreatlyfile.best^
 ||upmakesite.xyz^
 ||upplayglobal.xyz^
+||usepro.me^
+||useprovpn.me^
+||usevpnpro.me^
 ||vexearth.xyz^
 ||viral-surveys.win^
 ||viralarticles.net^

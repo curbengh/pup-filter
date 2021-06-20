@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 19 Jun 2021 12:06:45 +0000
+! Updated: Sun, 20 Jun 2021 00:07:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
 ||boot-upcompletely-bestprecisefile.best$document
+||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upoverly-bestadvancedfile.best$document
@@ -115,7 +116,6 @@
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
-||ehousan.top$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
@@ -197,12 +197,12 @@
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
 ||goalmedia.club$document
+||goalmedia.monster$document
 ||googsistem.live$document
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
 ||grandcasinoprize.info$document
-||greatplaceofstubs.work$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||haircarepro.info$document
@@ -235,7 +235,6 @@
 ||healthvenue.club$document
 ||healthvibe.live$document
 ||healthwella.club$document
-||healthy-lifestyle.club$document
 ||healthyideal.club$document
 ||healthyparker.info$document
 ||healthyspirit.info$document
@@ -284,7 +283,6 @@
 ||loadfree-bestheavilyfile.best$document
 ||loadfreeextremelyfile.digital$document
 ||loadgreatly-bestadvancedfile.best$document
-||loadgreatly-bestquickfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadgreatlynewestthefile.vip$document
 ||loadgreatlyprogressivethefile.vip$document
@@ -294,6 +292,7 @@
 ||loadintenselyspeedythefile.vip$document
 ||loadintenselystrongthefile.vip$document
 ||loadintenselyswiftthefile.vip$document
+||loadnewestextremelythefile.vip$document
 ||loadnewestgreatlythefile.vip$document
 ||loadoriginalextremelythefile.vip$document
 ||loadoriginalgreatlythefile.vip$document
@@ -452,6 +451,7 @@
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
 ||protecttool.me$document
+||provpn.me$document
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
@@ -480,7 +480,6 @@
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
-||ritaus.org$document
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
@@ -507,6 +506,7 @@
 ||safelyonline.tech$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scheduleagreement.xyz$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
@@ -523,7 +523,6 @@
 ||security-protection.xyz$document
 ||securityvpnpro.me$document
 ||seemlast.monster$document
-||selfradiance.info$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shkshk.site$document
@@ -667,6 +666,9 @@
 ||updaterecent-thegreatlyfile.best$document
 ||upmakesite.xyz$document
 ||upplayglobal.xyz$document
+||usepro.me$document
+||useprovpn.me$document
+||usevpnpro.me$document
 ||vexearth.xyz$document
 ||viral-surveys.win$document
 ||viralarticles.net$document

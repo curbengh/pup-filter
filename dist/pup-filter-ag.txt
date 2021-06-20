@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 19 Jun 2021 12:06:45 +0000
+! Updated: Sun, 20 Jun 2021 00:07:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@
 ||bodyamaze.club$all
 ||bodyselfcare.info$all
 ||boot-upcompletely-bestprecisefile.best$all
+||boot-upcompletely-bestsophisticatedfile.best$all
 ||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
@@ -115,7 +116,6 @@
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||earlyprogress.info$all
-||ehousan.top$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
 ||erotica.live$all
@@ -197,12 +197,12 @@
 ||go-x34n7wbcoes-ok.live$all
 ||goalmedia.bar$all
 ||goalmedia.club$all
+||goalmedia.monster$all
 ||googsistem.live$all
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
 ||grandcasinoprize.info$all
-||greatplaceofstubs.work$all
 ||growthnetic.club$all
 ||hailso.xyz$all
 ||haircarepro.info$all
@@ -235,7 +235,6 @@
 ||healthvenue.club$all
 ||healthvibe.live$all
 ||healthwella.club$all
-||healthy-lifestyle.club$all
 ||healthyideal.club$all
 ||healthyparker.info$all
 ||healthyspirit.info$all
@@ -284,7 +283,6 @@
 ||loadfree-bestheavilyfile.best$all
 ||loadfreeextremelyfile.digital$all
 ||loadgreatly-bestadvancedfile.best$all
-||loadgreatly-bestquickfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadgreatlynewestthefile.vip$all
 ||loadgreatlyprogressivethefile.vip$all
@@ -294,6 +292,7 @@
 ||loadintenselyspeedythefile.vip$all
 ||loadintenselystrongthefile.vip$all
 ||loadintenselyswiftthefile.vip$all
+||loadnewestextremelythefile.vip$all
 ||loadnewestgreatlythefile.vip$all
 ||loadoriginalextremelythefile.vip$all
 ||loadoriginalgreatlythefile.vip$all
@@ -452,6 +451,7 @@
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
 ||protecttool.me$all
+||provpn.me$all
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
@@ -480,7 +480,6 @@
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
-||ritaus.org$all
 ||roadtoyourhealth.info$all
 ||robogarden.io$all
 ||rootessential.info$all
@@ -507,6 +506,7 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scheduleagreement.xyz$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
@@ -523,7 +523,6 @@
 ||security-protection.xyz$all
 ||securityvpnpro.me$all
 ||seemlast.monster$all
-||selfradiance.info$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shkshk.site$all
@@ -667,6 +666,9 @@
 ||updaterecent-thegreatlyfile.best$all
 ||upmakesite.xyz$all
 ||upplayglobal.xyz$all
+||usepro.me$all
+||useprovpn.me$all
+||usevpnpro.me$all
 ||vexearth.xyz$all
 ||viral-surveys.win$all
 ||viralarticles.net$all
