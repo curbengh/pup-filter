@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 20 Jun 2021 00:07:26 +0000
+# Updated: Sun, 20 Jun 2021 12:07:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
-0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -285,6 +284,7 @@
 0.0.0.0 loadgreatly-bestadvancedfile.best
 0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadgreatlynewestthefile.vip
+0.0.0.0 loadgreatlyoriginalthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
 0.0.0.0 loadgreatlyrenewedthefile.vip
 0.0.0.0 loadheavily-bestfreefile.best
