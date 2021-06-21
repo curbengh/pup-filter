@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 21 Jun 2021 00:06:51 +0000
+! Updated: Mon, 21 Jun 2021 12:07:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -126,7 +126,6 @@
 ||fastplanetf.xyz^
 ||fastspota.xyz^
 ||fastspotb.xyz^
-||fastwebe.xyz^
 ||filmesonlineturbo.net^
 ||filmrod.xyz^
 ||films-down.com^
@@ -443,7 +442,6 @@
 ||primawise.info^
 ||primecare.today^
 ||privacykeeper.net^
-||productiq.net^
 ||prohealthroutine.info^
 ||proprotect.me^
 ||prosecurityvpn.me^
@@ -582,7 +580,6 @@
 ||superplace4upgrading.work^
 ||superplaceforupgrade.info^
 ||superpromotion.cyou^
-||support-notify.space^
 ||survey-club.club^
 ||survey-review.club^
 ||syncadvanced-bestuberfile.best^
@@ -674,7 +671,6 @@
 ||vital-health.club^
 ||vitalrole.info^
 ||vpn-pro.info^
-||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^

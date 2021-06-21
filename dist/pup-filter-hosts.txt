@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 21 Jun 2021 00:06:51 +0000
+# Updated: Mon, 21 Jun 2021 12:07:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -126,7 +126,6 @@
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
-0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
@@ -443,7 +442,6 @@
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -582,7 +580,6 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 superpromotion.cyou
-0.0.0.0 support-notify.space
 0.0.0.0 survey-club.club
 0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
@@ -674,7 +671,6 @@
 0.0.0.0 vital-health.club
 0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
