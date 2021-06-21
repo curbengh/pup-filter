@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 20 Jun 2021 12:07:10 +0000
+! Updated: Mon, 21 Jun 2021 00:06:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -204,7 +204,6 @@
 ||grandcasinoprize.info^
 ||growthnetic.club^
 ||hailso.xyz^
-||haircarepro.info^
 ||happyactive.today^
 ||happymakesite.xyz^
 ||happymakeworld.xyz^
@@ -235,12 +234,12 @@
 ||healthvibe.live^
 ||healthwella.club^
 ||healthyideal.club^
+||healthylives.today^
 ||healthyparker.info^
 ||healthyspirit.info^
 ||healthysure.info^
 ||httqzq.vip^
 ||hypezen.info^
-||iketo.diet^
 ||inappropriate.top^
 ||incing-marganic.icu^
 ||incrediblebuzz.info^
@@ -292,7 +291,6 @@
 ||loadintenselyspeedythefile.vip^
 ||loadintenselystrongthefile.vip^
 ||loadintenselyswiftthefile.vip^
-||loadnewestextremelythefile.vip^
 ||loadnewestgreatlythefile.vip^
 ||loadoriginalextremelythefile.vip^
 ||loadoriginalgreatlythefile.vip^
@@ -401,7 +399,6 @@
 ||operateuber-theoriginalfile.best^
 ||patriothealth.today^
 ||pcsecurity-live.xyz^
-||perfectplaceonnetforplayers.work^
 ||performcompletely-thelatestfile.best^
 ||performcompletely-thequickfile.best^
 ||performextremely-theprecisefile.best^
@@ -448,6 +445,7 @@
 ||privacykeeper.net^
 ||productiq.net^
 ||prohealthroutine.info^
+||proprotect.me^
 ||prosecurityvpn.me^
 ||protect-connection.com^
 ||protecttool.me^
@@ -480,6 +478,7 @@
 ||rewards-promotion-winner-super.cyou^
 ||rewardsluckygiveawayprize.cyou^
 ||rewardspromotionwinnersuper.cyou^
+||ritaus.org^
 ||roadtoyourhealth.info^
 ||robogarden.io^
 ||rootessential.info^
@@ -506,7 +505,6 @@
 ||safelyonline.tech^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
-||savagegrowplus.net^
 ||scheduleagreement.xyz^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
@@ -652,6 +650,7 @@
 ||trktraf.club^
 ||trkvpn.xyz^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||uclaimrewards.net^
 ||unequalfaucet.xyz^
 ||uniremedy.info^

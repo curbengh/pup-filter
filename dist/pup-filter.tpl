@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 20 Jun 2021 12:07:10 +0000
+# Updated: Mon, 21 Jun 2021 00:06:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -207,7 +207,6 @@ msFilterList
 -d grandcasinoprize.info
 -d growthnetic.club
 -d hailso.xyz
--d haircarepro.info
 -d happyactive.today
 -d happymakesite.xyz
 -d happymakeworld.xyz
@@ -238,12 +237,12 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
+-d healthylives.today
 -d healthyparker.info
 -d healthyspirit.info
 -d healthysure.info
 -d httqzq.vip
 -d hypezen.info
--d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -295,7 +294,6 @@ msFilterList
 -d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
--d loadnewestextremelythefile.vip
 -d loadnewestgreatlythefile.vip
 -d loadoriginalextremelythefile.vip
 -d loadoriginalgreatlythefile.vip
@@ -404,7 +402,6 @@ msFilterList
 -d operateuber-theoriginalfile.best
 -d patriothealth.today
 -d pcsecurity-live.xyz
--d perfectplaceonnetforplayers.work
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
 -d performextremely-theprecisefile.best
@@ -451,6 +448,7 @@ msFilterList
 -d privacykeeper.net
 -d productiq.net
 -d prohealthroutine.info
+-d proprotect.me
 -d prosecurityvpn.me
 -d protect-connection.com
 -d protecttool.me
@@ -483,6 +481,7 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
+-d ritaus.org
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
@@ -509,7 +508,6 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -655,6 +653,7 @@ msFilterList
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
