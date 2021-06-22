@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 21 Jun 2021 12:07:11 +0000
+# Updated: Tue, 22 Jun 2021 00:07:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -135,7 +135,6 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
-finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
@@ -194,6 +193,7 @@ gladvideo.website
 global-info.space
 go-x34n7wbcoes-ok.live
 goalmedia.bar
+goalmedia.cam
 goalmedia.club
 goalmedia.monster
 googsistem.live
@@ -271,10 +271,10 @@ life-esteem.info
 lifecaregoal.info
 lightstop.xyz
 livehealthcare.today
-livelyyroad.xyz
 livingmighty.club
 loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
+loadextremelycurrentthefile.vip
 loadextremelyquickfile.digital
 loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
@@ -286,10 +286,12 @@ loadgreatlyoriginalthefile.vip
 loadgreatlyprogressivethefile.vip
 loadgreatlyrenewedthefile.vip
 loadheavily-bestfreefile.best
+loadhighlyadvancedthefile.vip
 loadintenselyquickthefile.vip
 loadintenselyspeedythefile.vip
 loadintenselystrongthefile.vip
 loadintenselyswiftthefile.vip
+loadnewestextremelythefile.vip
 loadnewestgreatlythefile.vip
 loadoriginalextremelythefile.vip
 loadoriginalgreatlythefile.vip
@@ -329,7 +331,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
 mathison.io
-max-care.info
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -431,7 +432,6 @@ performstrong-thegreatlyfile.digital
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
-piorkeepi.top
 placesitee.xyz
 placewebe.xyz
 plampo.xyz
@@ -467,7 +467,6 @@ recontent.surf
 recontent.website
 reliablesoftwarevideos.info
 remedify.info
-renewvideo.casa
 renewvideo.fun
 renewvideo.online
 renewvideo.site
@@ -503,6 +502,7 @@ runrecent-besthighlyfile.best
 safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scheduleagreement.xyz
 scoopswoop.info
 score-monitoring.xyz
@@ -647,13 +647,11 @@ trane.fun
 trktraf.club
 trkvpn.xyz
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
 unitehealth.club
 upbeatcboulevard.xyz
-upbeatmstreet.xyz
 updatecurrent-thegreatlyfile.best
 updategreatly-thecurrentfile.best
 updategreatly-thenewestfile.best

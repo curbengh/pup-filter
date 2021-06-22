@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 21 Jun 2021 12:07:11 +0000
+# Updated: Tue, 22 Jun 2021 00:07:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -135,7 +135,6 @@
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
-0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
@@ -194,6 +193,7 @@
 0.0.0.0 global-info.space
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
+0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.club
 0.0.0.0 goalmedia.monster
 0.0.0.0 googsistem.live
@@ -271,10 +271,10 @@
 0.0.0.0 lifecaregoal.info
 0.0.0.0 lightstop.xyz
 0.0.0.0 livehealthcare.today
-0.0.0.0 livelyyroad.xyz
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
+0.0.0.0 loadextremelycurrentthefile.vip
 0.0.0.0 loadextremelyquickfile.digital
 0.0.0.0 loadextremelyrecentthefile.vip
 0.0.0.0 loadfree-bestheavilyfile.best
@@ -286,10 +286,12 @@
 0.0.0.0 loadgreatlyprogressivethefile.vip
 0.0.0.0 loadgreatlyrenewedthefile.vip
 0.0.0.0 loadheavily-bestfreefile.best
+0.0.0.0 loadhighlyadvancedthefile.vip
 0.0.0.0 loadintenselyquickthefile.vip
 0.0.0.0 loadintenselyspeedythefile.vip
 0.0.0.0 loadintenselystrongthefile.vip
 0.0.0.0 loadintenselyswiftthefile.vip
+0.0.0.0 loadnewestextremelythefile.vip
 0.0.0.0 loadnewestgreatlythefile.vip
 0.0.0.0 loadoriginalextremelythefile.vip
 0.0.0.0 loadoriginalgreatlythefile.vip
@@ -329,7 +331,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 mathison.io
-0.0.0.0 max-care.info
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -431,7 +432,6 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
-0.0.0.0 piorkeepi.top
 0.0.0.0 placesitee.xyz
 0.0.0.0 placewebe.xyz
 0.0.0.0 plampo.xyz
@@ -467,7 +467,6 @@
 0.0.0.0 recontent.website
 0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 remedify.info
-0.0.0.0 renewvideo.casa
 0.0.0.0 renewvideo.fun
 0.0.0.0 renewvideo.online
 0.0.0.0 renewvideo.site
@@ -503,6 +502,7 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scheduleagreement.xyz
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
@@ -647,13 +647,11 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
 0.0.0.0 unitehealth.club
 0.0.0.0 upbeatcboulevard.xyz
-0.0.0.0 upbeatmstreet.xyz
 0.0.0.0 updatecurrent-thegreatlyfile.best
 0.0.0.0 updategreatly-thecurrentfile.best
 0.0.0.0 updategreatly-thenewestfile.best

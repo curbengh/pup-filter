@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 21 Jun 2021 12:07:11 +0000
+# Updated: Tue, 22 Jun 2021 00:07:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -138,7 +138,6 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -197,6 +196,7 @@ msFilterList
 -d global-info.space
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
+-d goalmedia.cam
 -d goalmedia.club
 -d goalmedia.monster
 -d googsistem.live
@@ -274,10 +274,10 @@ msFilterList
 -d lifecaregoal.info
 -d lightstop.xyz
 -d livehealthcare.today
--d livelyyroad.xyz
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
+-d loadextremelycurrentthefile.vip
 -d loadextremelyquickfile.digital
 -d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
@@ -289,10 +289,12 @@ msFilterList
 -d loadgreatlyprogressivethefile.vip
 -d loadgreatlyrenewedthefile.vip
 -d loadheavily-bestfreefile.best
+-d loadhighlyadvancedthefile.vip
 -d loadintenselyquickthefile.vip
 -d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
+-d loadnewestextremelythefile.vip
 -d loadnewestgreatlythefile.vip
 -d loadoriginalextremelythefile.vip
 -d loadoriginalgreatlythefile.vip
@@ -332,7 +334,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d mathison.io
--d max-care.info
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -434,7 +435,6 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
--d piorkeepi.top
 -d placesitee.xyz
 -d placewebe.xyz
 -d plampo.xyz
@@ -470,7 +470,6 @@ msFilterList
 -d recontent.website
 -d reliablesoftwarevideos.info
 -d remedify.info
--d renewvideo.casa
 -d renewvideo.fun
 -d renewvideo.online
 -d renewvideo.site
@@ -506,6 +505,7 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -650,13 +650,11 @@ msFilterList
 -d trktraf.club
 -d trkvpn.xyz
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unequalfaucet.xyz
 -d uniremedy.info
 -d unitehealth.club
 -d upbeatcboulevard.xyz
--d upbeatmstreet.xyz
 -d updatecurrent-thegreatlyfile.best
 -d updategreatly-thecurrentfile.best
 -d updategreatly-thenewestfile.best
