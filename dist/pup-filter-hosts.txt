@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 23 Jun 2021 00:07:05 +0000
+# Updated: Wed, 23 Jun 2021 12:07:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,18 +20,19 @@
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
 0.0.0.0 bestlinkupgrade.info
 0.0.0.0 bestlinkupgrades.info
 0.0.0.0 bestlinkupgrading.info
-0.0.0.0 bestresults.xyz
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bettercleanplayer.info
 0.0.0.0 bettercleanplayers.info
@@ -61,6 +62,7 @@
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
 0.0.0.0 calculateprint.xyz
+0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 carebility.info
 0.0.0.0 careerconnecthub.com
@@ -126,7 +128,6 @@
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
-0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
@@ -135,7 +136,9 @@
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
+0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
+0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
@@ -240,6 +243,7 @@
 0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -248,6 +252,7 @@
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
+0.0.0.0 iosvpnsecure.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
 0.0.0.0 jointingifstrawberry.xyz
@@ -255,7 +260,6 @@
 0.0.0.0 joyspotspin.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jtkszl.vip
-0.0.0.0 jubilantdstreet.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
@@ -398,6 +402,7 @@
 0.0.0.0 operatespeedy-thehighlyfile.best
 0.0.0.0 operateuber-thefreefile.best
 0.0.0.0 operateuber-theoriginalfile.best
+0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
@@ -503,7 +508,6 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scheduleagreement.xyz
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
@@ -614,7 +618,6 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
-0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -698,6 +701,7 @@
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 wowlifestyle.info
+0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info

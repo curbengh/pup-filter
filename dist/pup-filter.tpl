@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 23 Jun 2021 00:07:05 +0000
+# Updated: Wed, 23 Jun 2021 12:07:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,18 +23,19 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
+-d atprofessor.fun
 -d auto-lawyer.site
 -d baseofmp3.com
 -d bestappland.me
 -d bestlinkupgrade.info
 -d bestlinkupgrades.info
 -d bestlinkupgrading.info
--d bestresults.xyz
 -d bestvideoplayerupgrades.work
 -d bettercleanplayer.info
 -d bettercleanplayers.info
@@ -64,6 +65,7 @@ msFilterList
 -d bulley.shop
 -d cabins-r-us.com
 -d calculateprint.xyz
+-d calledbellc.fun
 -d care-connection.info
 -d carebility.info
 -d careerconnecthub.com
@@ -129,7 +131,6 @@ msFilterList
 -d fastplanetf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
--d fastwebe.xyz
 -d filmesonlineturbo.net
 -d filmrod.xyz
 -d films-down.com
@@ -138,7 +139,9 @@ msFilterList
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
+-d findwith.me
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -243,6 +246,7 @@ msFilterList
 -d healthysure.info
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -251,6 +255,7 @@ msFilterList
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
+-d iosvpnsecure.com
 -d isystemupdate.cloud
 -d izipik.com
 -d jointingifstrawberry.xyz
@@ -258,7 +263,6 @@ msFilterList
 -d joyspotspin.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
--d jubilantdstreet.xyz
 -d kad3md.cn
 -d keepithealthy.info
 -d ketodietrecipes.org
@@ -401,6 +405,7 @@ msFilterList
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
+-d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
@@ -506,7 +511,6 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -617,7 +621,6 @@ msFilterList
 -d talskingest.top
 -d tastefulwood.xyz
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -701,6 +704,7 @@ msFilterList
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d wowlifestyle.info
+-d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

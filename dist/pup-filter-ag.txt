@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 23 Jun 2021 00:07:05 +0000
+! Updated: Wed, 23 Jun 2021 12:07:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,18 +20,19 @@
 ||amateurxporn.com$all
 ||amobil.online$all
 ||animenation.org$all
+||anismunre.info$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
+||atprofessor.fun$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
 ||bestappland.me$all
 ||bestlinkupgrade.info$all
 ||bestlinkupgrades.info$all
 ||bestlinkupgrading.info$all
-||bestresults.xyz$all
 ||bestvideoplayerupgrades.work$all
 ||bettercleanplayer.info$all
 ||bettercleanplayers.info$all
@@ -61,6 +62,7 @@
 ||bulley.shop$all
 ||cabins-r-us.com$all
 ||calculateprint.xyz$all
+||calledbellc.fun$all
 ||care-connection.info$all
 ||carebility.info$all
 ||careerconnecthub.com$all
@@ -126,7 +128,6 @@
 ||fastplanetf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
-||fastwebe.xyz$all
 ||filmesonlineturbo.net$all
 ||filmrod.xyz$all
 ||films-down.com$all
@@ -135,7 +136,9 @@
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
+||findwith.me$all
 ||findyourultimateplayersfirst.best$all
+||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -240,6 +243,7 @@
 ||healthysure.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
+||ientsillness.fun$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -248,6 +252,7 @@
 ||installcompletely-theoriginalfile.best$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
+||iosvpnsecure.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
 ||jointingifstrawberry.xyz$all
@@ -255,7 +260,6 @@
 ||joyspotspin.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
-||jubilantdstreet.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
 ||ketodietrecipes.org$all
@@ -398,6 +402,7 @@
 ||operatespeedy-thehighlyfile.best$all
 ||operateuber-thefreefile.best$all
 ||operateuber-theoriginalfile.best$all
+||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
@@ -503,7 +508,6 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scheduleagreement.xyz$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
@@ -614,7 +618,6 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -698,6 +701,7 @@
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
 ||wowlifestyle.info$all
+||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all
