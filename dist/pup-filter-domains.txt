@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 23 Jun 2021 12:07:11 +0000
+# Updated: Thu, 24 Jun 2021 00:06:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ amateurxporn.com
 amobil.online
 animenation.org
 anismunre.info
+appardinga.club
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -110,6 +111,7 @@ defensepro.me
 degreenm.top
 delightcmain.xyz
 digitalinvest.news
+discoveryfeed.org
 displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
@@ -133,7 +135,6 @@ filmrod.xyz
 films-down.com
 financial-deals.xyz
 findforus.net
-findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findwith.me
@@ -274,6 +275,7 @@ legendaryvideoupgrades.info
 legendaryvideoupgrading.info
 life-esteem.info
 lifecaregoal.info
+ligamedia.art
 lightstop.xyz
 livehealthcare.today
 livingmighty.club
@@ -327,7 +329,6 @@ luckymedia.fun
 luckymedia.space
 luckymedia.website
 madpandatv.net
-majorhealthpro.info
 makemesafeios.com
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
@@ -335,7 +336,6 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -443,11 +443,13 @@ placewebe.xyz
 plampo.xyz
 playspina.xyz
 playspote.xyz
+ppploanchoices.site
 premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
 primecare.today
 privacykeeper.net
+productiq.net
 prohealthroutine.info
 proprotect.me
 prosecurityvpn.me
@@ -508,6 +510,7 @@ runrecent-besthighlyfile.best
 safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scheduleagreement.xyz
 scoopswoop.info
 score-monitoring.xyz
@@ -526,7 +529,6 @@ securityvpnpro.me
 seemlast.monster
 service-care.space
 settothereliableupgradingnew.work
-shkshk.site
 shopnsave.world
 shoppingexp.xyz
 signupandturnyourscreenoffsafepowernow.date
@@ -541,7 +543,6 @@ springsitea.xyz
 springsitef.xyz
 start-page.one
 stay-notified.cc
-stickr.co
 stingyscent.xyz
 storeheavily-thefreefile.best
 storeheavily-thequickfile.best
@@ -552,7 +553,6 @@ storenewest-theoverlyfile.best
 storeoverly-theadvancedfile.best
 storeoverly-thecurrentfile.best
 storeoverly-thelatestfile.best
-storeoverly-thenewestfile.best
 storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
@@ -603,6 +603,7 @@ synchighly-bestsophisticatedfile.best
 synchighly-bestspeedyfile.best
 syncintensely-bestprogressivefile.best
 synclatest-bestuberfile.best
+syncnewestuberthefile.vip
 syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
@@ -628,7 +629,6 @@ thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
-thehealthpedia.info
 thehealthystyle.info
 thehealthyvibe.info
 thehotshot.info
@@ -673,7 +673,6 @@ vexearth.xyz
 viral-surveys.win
 viralarticles.net
 vital-health.club
-vitalrole.info
 vpn-pro.info
 vpn1aprotectplus.com
 vpnadefenceplus.com
@@ -701,7 +700,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
 wowlifestyle.info
-youngleaf.biz
 yourbestlinkupgrade.info
 yourbestlinkupgrades.info
 yourbestlinkupgrading.info

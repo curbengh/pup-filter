@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 23 Jun 2021 12:07:11 +0000
+! Updated: Thu, 24 Jun 2021 00:06:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@
 ||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
+||appardinga.club$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -110,6 +111,7 @@
 ||degreenm.top$document
 ||delightcmain.xyz$document
 ||digitalinvest.news$document
+||discoveryfeed.org$document
 ||displayfriend.xyz$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
@@ -133,7 +135,6 @@
 ||films-down.com$document
 ||financial-deals.xyz$document
 ||findforus.net$document
-||findoffers.co$document
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findwith.me$document
@@ -274,6 +275,7 @@
 ||legendaryvideoupgrading.info$document
 ||life-esteem.info$document
 ||lifecaregoal.info$document
+||ligamedia.art$document
 ||lightstop.xyz$document
 ||livehealthcare.today$document
 ||livingmighty.club$document
@@ -327,7 +329,6 @@
 ||luckymedia.space$document
 ||luckymedia.website$document
 ||madpandatv.net$document
-||majorhealthpro.info$document
 ||makemesafeios.com$document
 ||managestrong-theuberfile.best$document
 ||manageuber-thenewestfile.best$document
@@ -335,7 +336,6 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -443,11 +443,13 @@
 ||plampo.xyz$document
 ||playspina.xyz$document
 ||playspote.xyz$document
+||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||prohealthroutine.info$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
@@ -508,6 +510,7 @@
 ||safelyonline.tech$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scheduleagreement.xyz$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
@@ -526,7 +529,6 @@
 ||seemlast.monster$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
-||shkshk.site$document
 ||shopnsave.world$document
 ||shoppingexp.xyz$document
 ||signupandturnyourscreenoffsafepowernow.date$document
@@ -541,7 +543,6 @@
 ||springsitef.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||stingyscent.xyz$document
 ||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
@@ -552,7 +553,6 @@
 ||storeoverly-theadvancedfile.best$document
 ||storeoverly-thecurrentfile.best$document
 ||storeoverly-thelatestfile.best$document
-||storeoverly-thenewestfile.best$document
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
@@ -603,6 +603,7 @@
 ||synchighly-bestspeedyfile.best$document
 ||syncintensely-bestprogressivefile.best$document
 ||synclatest-bestuberfile.best$document
+||syncnewestuberthefile.vip$document
 ||syncoriginal-bestcompletelyfile.best$document
 ||syncprogressive-bestcompletelyfile.best$document
 ||syncprogressive-besthighlyfile.best$document
@@ -628,7 +629,6 @@
 ||thehealthcurve.info$document
 ||thehealthcycle.club$document
 ||thehealthgo.info$document
-||thehealthpedia.info$document
 ||thehealthystyle.info$document
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
@@ -673,7 +673,6 @@
 ||viral-surveys.win$document
 ||viralarticles.net$document
 ||vital-health.club$document
-||vitalrole.info$document
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
@@ -701,7 +700,6 @@
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||wowlifestyle.info$document
-||youngleaf.biz$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 23 Jun 2021 12:07:11 +0000
+# Updated: Thu, 24 Jun 2021 00:06:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 anismunre.info
+0.0.0.0 appardinga.club
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -110,6 +111,7 @@
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 digitalinvest.news
+0.0.0.0 discoveryfeed.org
 0.0.0.0 displayfriend.xyz
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
@@ -133,7 +135,6 @@
 0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
 0.0.0.0 findforus.net
-0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findwith.me
@@ -274,6 +275,7 @@
 0.0.0.0 legendaryvideoupgrading.info
 0.0.0.0 life-esteem.info
 0.0.0.0 lifecaregoal.info
+0.0.0.0 ligamedia.art
 0.0.0.0 lightstop.xyz
 0.0.0.0 livehealthcare.today
 0.0.0.0 livingmighty.club
@@ -327,7 +329,6 @@
 0.0.0.0 luckymedia.space
 0.0.0.0 luckymedia.website
 0.0.0.0 madpandatv.net
-0.0.0.0 majorhealthpro.info
 0.0.0.0 makemesafeios.com
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
@@ -335,7 +336,6 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -443,11 +443,13 @@
 0.0.0.0 plampo.xyz
 0.0.0.0 playspina.xyz
 0.0.0.0 playspote.xyz
+0.0.0.0 ppploanchoices.site
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 prohealthroutine.info
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -508,6 +510,7 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scheduleagreement.xyz
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
@@ -526,7 +529,6 @@
 0.0.0.0 seemlast.monster
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shkshk.site
 0.0.0.0 shopnsave.world
 0.0.0.0 shoppingexp.xyz
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
@@ -541,7 +543,6 @@
 0.0.0.0 springsitef.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
-0.0.0.0 stickr.co
 0.0.0.0 stingyscent.xyz
 0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
@@ -552,7 +553,6 @@
 0.0.0.0 storeoverly-theadvancedfile.best
 0.0.0.0 storeoverly-thecurrentfile.best
 0.0.0.0 storeoverly-thelatestfile.best
-0.0.0.0 storeoverly-thenewestfile.best
 0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
@@ -603,6 +603,7 @@
 0.0.0.0 synchighly-bestspeedyfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatest-bestuberfile.best
+0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncoriginal-bestcompletelyfile.best
 0.0.0.0 syncprogressive-bestcompletelyfile.best
 0.0.0.0 syncprogressive-besthighlyfile.best
@@ -628,7 +629,6 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
-0.0.0.0 thehealthpedia.info
 0.0.0.0 thehealthystyle.info
 0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
@@ -673,7 +673,6 @@
 0.0.0.0 viral-surveys.win
 0.0.0.0 viralarticles.net
 0.0.0.0 vital-health.club
-0.0.0.0 vitalrole.info
 0.0.0.0 vpn-pro.info
 0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
@@ -701,7 +700,6 @@
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 wowlifestyle.info
-0.0.0.0 youngleaf.biz
 0.0.0.0 yourbestlinkupgrade.info
 0.0.0.0 yourbestlinkupgrades.info
 0.0.0.0 yourbestlinkupgrading.info

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 23 Jun 2021 12:07:11 +0000
+# Updated: Thu, 24 Jun 2021 00:06:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,6 +24,7 @@ msFilterList
 -d amobil.online
 -d animenation.org
 -d anismunre.info
+-d appardinga.club
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -113,6 +114,7 @@ msFilterList
 -d degreenm.top
 -d delightcmain.xyz
 -d digitalinvest.news
+-d discoveryfeed.org
 -d displayfriend.xyz
 -d ditvl.com
 -d dollarsurvey365.online
@@ -136,7 +138,6 @@ msFilterList
 -d films-down.com
 -d financial-deals.xyz
 -d findforus.net
--d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findwith.me
@@ -277,6 +278,7 @@ msFilterList
 -d legendaryvideoupgrading.info
 -d life-esteem.info
 -d lifecaregoal.info
+-d ligamedia.art
 -d lightstop.xyz
 -d livehealthcare.today
 -d livingmighty.club
@@ -330,7 +332,6 @@ msFilterList
 -d luckymedia.space
 -d luckymedia.website
 -d madpandatv.net
--d majorhealthpro.info
 -d makemesafeios.com
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
@@ -338,7 +339,6 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -446,11 +446,13 @@ msFilterList
 -d plampo.xyz
 -d playspina.xyz
 -d playspote.xyz
+-d ppploanchoices.site
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d prohealthroutine.info
 -d proprotect.me
 -d prosecurityvpn.me
@@ -511,6 +513,7 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -529,7 +532,6 @@ msFilterList
 -d seemlast.monster
 -d service-care.space
 -d settothereliableupgradingnew.work
--d shkshk.site
 -d shopnsave.world
 -d shoppingexp.xyz
 -d signupandturnyourscreenoffsafepowernow.date
@@ -544,7 +546,6 @@ msFilterList
 -d springsitef.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
@@ -555,7 +556,6 @@ msFilterList
 -d storeoverly-theadvancedfile.best
 -d storeoverly-thecurrentfile.best
 -d storeoverly-thelatestfile.best
--d storeoverly-thenewestfile.best
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
@@ -606,6 +606,7 @@ msFilterList
 -d synchighly-bestspeedyfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatest-bestuberfile.best
+-d syncnewestuberthefile.vip
 -d syncoriginal-bestcompletelyfile.best
 -d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
@@ -631,7 +632,6 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
--d thehealthpedia.info
 -d thehealthystyle.info
 -d thehealthyvibe.info
 -d thehotshot.info
@@ -676,7 +676,6 @@ msFilterList
 -d viral-surveys.win
 -d viralarticles.net
 -d vital-health.club
--d vitalrole.info
 -d vpn-pro.info
 -d vpn1aprotectplus.com
 -d vpnadefenceplus.com
@@ -704,7 +703,6 @@ msFilterList
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d wowlifestyle.info
--d youngleaf.biz
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info

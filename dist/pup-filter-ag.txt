@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 23 Jun 2021 12:07:11 +0000
+! Updated: Thu, 24 Jun 2021 00:06:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@
 ||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
+||appardinga.club$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -110,6 +111,7 @@
 ||degreenm.top$all
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
+||discoveryfeed.org$all
 ||displayfriend.xyz$all
 ||ditvl.com$all
 ||dollarsurvey365.online$all
@@ -133,7 +135,6 @@
 ||films-down.com$all
 ||financial-deals.xyz$all
 ||findforus.net$all
-||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findwith.me$all
@@ -274,6 +275,7 @@
 ||legendaryvideoupgrading.info$all
 ||life-esteem.info$all
 ||lifecaregoal.info$all
+||ligamedia.art$all
 ||lightstop.xyz$all
 ||livehealthcare.today$all
 ||livingmighty.club$all
@@ -327,7 +329,6 @@
 ||luckymedia.space$all
 ||luckymedia.website$all
 ||madpandatv.net$all
-||majorhealthpro.info$all
 ||makemesafeios.com$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
@@ -335,7 +336,6 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
-||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -443,11 +443,13 @@
 ||plampo.xyz$all
 ||playspina.xyz$all
 ||playspote.xyz$all
+||ppploanchoices.site$all
 ||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||prohealthroutine.info$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -508,6 +510,7 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scheduleagreement.xyz$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
@@ -526,7 +529,6 @@
 ||seemlast.monster$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
-||shkshk.site$all
 ||shopnsave.world$all
 ||shoppingexp.xyz$all
 ||signupandturnyourscreenoffsafepowernow.date$all
@@ -541,7 +543,6 @@
 ||springsitef.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
@@ -552,7 +553,6 @@
 ||storeoverly-theadvancedfile.best$all
 ||storeoverly-thecurrentfile.best$all
 ||storeoverly-thelatestfile.best$all
-||storeoverly-thenewestfile.best$all
 ||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
@@ -603,6 +603,7 @@
 ||synchighly-bestspeedyfile.best$all
 ||syncintensely-bestprogressivefile.best$all
 ||synclatest-bestuberfile.best$all
+||syncnewestuberthefile.vip$all
 ||syncoriginal-bestcompletelyfile.best$all
 ||syncprogressive-bestcompletelyfile.best$all
 ||syncprogressive-besthighlyfile.best$all
@@ -628,7 +629,6 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
-||thehealthpedia.info$all
 ||thehealthystyle.info$all
 ||thehealthyvibe.info$all
 ||thehotshot.info$all
@@ -673,7 +673,6 @@
 ||viral-surveys.win$all
 ||viralarticles.net$all
 ||vital-health.club$all
-||vitalrole.info$all
 ||vpn-pro.info$all
 ||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
@@ -701,7 +700,6 @@
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
 ||wowlifestyle.info$all
-||youngleaf.biz$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all
