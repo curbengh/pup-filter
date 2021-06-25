@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 24 Jun 2021 12:07:14 +0000
+# Updated: Fri, 25 Jun 2021 00:02:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@ msFilterList
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
--d browse-privately.net
 -d browsercheck.site
 -d btcinvesting.info
 -d bulley.shop
@@ -138,6 +137,7 @@ msFilterList
 -d films-down.com
 -d financial-deals.xyz
 -d findforus.net
+-d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
@@ -183,6 +183,7 @@ msFilterList
 -d gainhealth.info
 -d gapingshame.xyz
 -d generouscare.info
+-d get-your-score.club
 -d getmoregirls.net
 -d gladcboulevard.xyz
 -d gladdboulevard.xyz
@@ -243,10 +244,10 @@ msFilterList
 -d healthylives.today
 -d healthyparker.info
 -d healthyspirit.info
--d healthysure.info
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -373,10 +374,10 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
+-d oldharper.xyz
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
--d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -512,13 +513,11 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
 -d search-trends.co
--d searchfeed.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -532,7 +531,6 @@ msFilterList
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
--d shoppingexp.xyz
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
@@ -545,13 +543,13 @@ msFilterList
 -d springsitef.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d stingyscent.xyz
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
 -d storeheavily-thespeedyfile.best
 -d storeheavily-thestrongfile.best
 -d storelatest-theoverlyfile.best
--d storenewest-theoverlyfile.best
 -d storeoverly-theadvancedfile.best
 -d storeoverly-thecurrentfile.best
 -d storeoverly-thelatestfile.best
@@ -605,6 +603,7 @@ msFilterList
 -d synchighly-bestspeedyfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatest-bestuberfile.best
+-d synclatestintenselythefile.vip
 -d syncnewestuberthefile.vip
 -d syncoriginal-bestcompletelyfile.best
 -d syncprogressive-bestcompletelyfile.best
@@ -616,7 +615,6 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
--d syncuber-bestsophisticatedfile.best
 -d tackis.xyz
 -d talskingest.top
 -d tastefulwood.xyz
@@ -659,7 +657,6 @@ msFilterList
 -d unequalfaucet.xyz
 -d uniremedy.info
 -d unitehealth.club
--d upbeatcboulevard.xyz
 -d updatecurrent-thegreatlyfile.best
 -d updategreatly-thecurrentfile.best
 -d updategreatly-thenewestfile.best

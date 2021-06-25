@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 24 Jun 2021 12:07:14 +0000
+! Updated: Fri, 25 Jun 2021 00:02:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -57,7 +57,6 @@
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
-||browse-privately.net$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
 ||bulley.shop$all
@@ -135,6 +134,7 @@
 ||films-down.com$all
 ||financial-deals.xyz$all
 ||findforus.net$all
+||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
@@ -180,6 +180,7 @@
 ||gainhealth.info$all
 ||gapingshame.xyz$all
 ||generouscare.info$all
+||get-your-score.club$all
 ||getmoregirls.net$all
 ||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
@@ -240,10 +241,10 @@
 ||healthylives.today$all
 ||healthyparker.info$all
 ||healthyspirit.info$all
-||healthysure.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
+||iketo.diet$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -370,10 +371,10 @@
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
+||oldharper.xyz$all
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -509,13 +510,11 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scheduleagreement.xyz$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
 ||search-trends.co$all
-||searchfeed.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -529,7 +528,6 @@
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
-||shoppingexp.xyz$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartys.link$all
 ||sorrectionki.space$all
@@ -542,13 +540,13 @@
 ||springsitef.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
 ||storeheavily-thespeedyfile.best$all
 ||storeheavily-thestrongfile.best$all
 ||storelatest-theoverlyfile.best$all
-||storenewest-theoverlyfile.best$all
 ||storeoverly-theadvancedfile.best$all
 ||storeoverly-thecurrentfile.best$all
 ||storeoverly-thelatestfile.best$all
@@ -602,6 +600,7 @@
 ||synchighly-bestspeedyfile.best$all
 ||syncintensely-bestprogressivefile.best$all
 ||synclatest-bestuberfile.best$all
+||synclatestintenselythefile.vip$all
 ||syncnewestuberthefile.vip$all
 ||syncoriginal-bestcompletelyfile.best$all
 ||syncprogressive-bestcompletelyfile.best$all
@@ -613,7 +612,6 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
-||syncuber-bestsophisticatedfile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tastefulwood.xyz$all
@@ -656,7 +654,6 @@
 ||unequalfaucet.xyz$all
 ||uniremedy.info$all
 ||unitehealth.club$all
-||upbeatcboulevard.xyz$all
 ||updatecurrent-thegreatlyfile.best$all
 ||updategreatly-thecurrentfile.best$all
 ||updategreatly-thenewestfile.best$all

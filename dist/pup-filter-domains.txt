@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 24 Jun 2021 12:07:14 +0000
+# Updated: Fri, 25 Jun 2021 00:02:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,7 +57,6 @@ boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
 boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
-browse-privately.net
 browsercheck.site
 btcinvesting.info
 bulley.shop
@@ -135,6 +134,7 @@ filmrod.xyz
 films-down.com
 financial-deals.xyz
 findforus.net
+findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
@@ -180,6 +180,7 @@ fwsxqc.cn
 gainhealth.info
 gapingshame.xyz
 generouscare.info
+get-your-score.club
 getmoregirls.net
 gladcboulevard.xyz
 gladdboulevard.xyz
@@ -240,10 +241,10 @@ healthyideal.club
 healthylives.today
 healthyparker.info
 healthyspirit.info
-healthysure.info
 httqzq.vip
 hypezen.info
 ientsillness.fun
+iketo.diet
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -370,10 +371,10 @@ official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
+oldharper.xyz
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
-onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -509,13 +510,11 @@ runrecent-besthighlyfile.best
 safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scheduleagreement.xyz
 scoopswoop.info
 score-monitoring.xyz
 search-tool.net
 search-trends.co
-searchfeed.co
 sec-alert.xyz
 sec-alerts.xyz
 sec-monitoring.xyz
@@ -529,7 +528,6 @@ seemlast.monster
 service-care.space
 settothereliableupgradingnew.work
 shopnsave.world
-shoppingexp.xyz
 signupandturnyourscreenoffsafepowernow.date
 smartys.link
 sorrectionki.space
@@ -542,13 +540,13 @@ springsitea.xyz
 springsitef.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 stingyscent.xyz
 storeheavily-thefreefile.best
 storeheavily-thequickfile.best
 storeheavily-thespeedyfile.best
 storeheavily-thestrongfile.best
 storelatest-theoverlyfile.best
-storenewest-theoverlyfile.best
 storeoverly-theadvancedfile.best
 storeoverly-thecurrentfile.best
 storeoverly-thelatestfile.best
@@ -602,6 +600,7 @@ synchighly-bestsophisticatedfile.best
 synchighly-bestspeedyfile.best
 syncintensely-bestprogressivefile.best
 synclatest-bestuberfile.best
+synclatestintenselythefile.vip
 syncnewestuberthefile.vip
 syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
@@ -613,7 +612,6 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
-syncuber-bestsophisticatedfile.best
 tackis.xyz
 talskingest.top
 tastefulwood.xyz
@@ -656,7 +654,6 @@ uclaimrewards.net
 unequalfaucet.xyz
 uniremedy.info
 unitehealth.club
-upbeatcboulevard.xyz
 updatecurrent-thegreatlyfile.best
 updategreatly-thecurrentfile.best
 updategreatly-thenewestfile.best

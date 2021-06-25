@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 24 Jun 2021 12:07:14 +0000
+# Updated: Fri, 25 Jun 2021 00:02:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,7 +57,6 @@
 0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
-0.0.0.0 browse-privately.net
 0.0.0.0 browsercheck.site
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
@@ -135,6 +134,7 @@
 0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
 0.0.0.0 findforus.net
+0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
@@ -180,6 +180,7 @@
 0.0.0.0 gainhealth.info
 0.0.0.0 gapingshame.xyz
 0.0.0.0 generouscare.info
+0.0.0.0 get-your-score.club
 0.0.0.0 getmoregirls.net
 0.0.0.0 gladcboulevard.xyz
 0.0.0.0 gladdboulevard.xyz
@@ -240,10 +241,10 @@
 0.0.0.0 healthylives.today
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
-0.0.0.0 healthysure.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -370,10 +371,10 @@
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
+0.0.0.0 oldharper.xyz
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
@@ -509,13 +510,11 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scheduleagreement.xyz
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
-0.0.0.0 searchfeed.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -529,7 +528,6 @@
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
-0.0.0.0 shoppingexp.xyz
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
@@ -542,13 +540,13 @@
 0.0.0.0 springsitef.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 stingyscent.xyz
 0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
 0.0.0.0 storeheavily-thespeedyfile.best
 0.0.0.0 storeheavily-thestrongfile.best
 0.0.0.0 storelatest-theoverlyfile.best
-0.0.0.0 storenewest-theoverlyfile.best
 0.0.0.0 storeoverly-theadvancedfile.best
 0.0.0.0 storeoverly-thecurrentfile.best
 0.0.0.0 storeoverly-thelatestfile.best
@@ -602,6 +600,7 @@
 0.0.0.0 synchighly-bestspeedyfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatest-bestuberfile.best
+0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncoriginal-bestcompletelyfile.best
 0.0.0.0 syncprogressive-bestcompletelyfile.best
@@ -613,7 +612,6 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
-0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
@@ -656,7 +654,6 @@
 0.0.0.0 unequalfaucet.xyz
 0.0.0.0 uniremedy.info
 0.0.0.0 unitehealth.club
-0.0.0.0 upbeatcboulevard.xyz
 0.0.0.0 updatecurrent-thegreatlyfile.best
 0.0.0.0 updategreatly-thecurrentfile.best
 0.0.0.0 updategreatly-thenewestfile.best
