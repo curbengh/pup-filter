@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 25 Jun 2021 00:02:20 +0000
+# Updated: Fri, 25 Jun 2021 12:03:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -27,7 +27,6 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
-0.0.0.0 atprofessor.fun
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
@@ -129,6 +128,7 @@
 0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
+0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 filmrod.xyz
 0.0.0.0 films-down.com
@@ -170,6 +170,7 @@
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
+0.0.0.0 funmapc.xyz
 0.0.0.0 funmapd.xyz
 0.0.0.0 funplanetb.xyz
 0.0.0.0 funsiteb.xyz
@@ -238,7 +239,6 @@
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
 0.0.0.0 healthyideal.club
-0.0.0.0 healthylives.today
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
@@ -616,6 +616,7 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tastefulwood.xyz
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -712,6 +713,7 @@
 0.0.0.0 yourlegendaryvideoupgrades.info
 0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work
+0.0.0.0 yourluckytoday.club
 0.0.0.0 yoursafestplayerlink.best
 0.0.0.0 yoursafestreliablelink.work
 0.0.0.0 yoursafeststablelink.info

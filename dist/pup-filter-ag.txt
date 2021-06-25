@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 25 Jun 2021 00:02:20 +0000
+! Updated: Fri, 25 Jun 2021 12:03:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -27,7 +27,6 @@
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
-||atprofessor.fun$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
 ||bestappland.me$all
@@ -129,6 +128,7 @@
 ||fastplanetf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
+||fastwebe.xyz$all
 ||filmesonlineturbo.net$all
 ||filmrod.xyz$all
 ||films-down.com$all
@@ -170,6 +170,7 @@
 ||freewareappsstreamfastall.digital$all
 ||freshclover.info$all
 ||fuck-me-hard.club$all
+||funmapc.xyz$all
 ||funmapd.xyz$all
 ||funplanetb.xyz$all
 ||funsiteb.xyz$all
@@ -238,7 +239,6 @@
 ||healthvibe.live$all
 ||healthwella.club$all
 ||healthyideal.club$all
-||healthylives.today$all
 ||healthyparker.info$all
 ||healthyspirit.info$all
 ||httqzq.vip$all
@@ -616,6 +616,7 @@
 ||talskingest.top$all
 ||tastefulwood.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -712,6 +713,7 @@
 ||yourlegendaryvideoupgrades.info$all
 ||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
+||yourluckytoday.club$all
 ||yoursafestplayerlink.best$all
 ||yoursafestreliablelink.work$all
 ||yoursafeststablelink.info$all

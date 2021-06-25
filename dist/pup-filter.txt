@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 25 Jun 2021 00:02:20 +0000
+! Updated: Fri, 25 Jun 2021 12:03:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -27,7 +27,6 @@ armorprovpn.me
 ashtdi.cn
 assuredhealth.info
 asufij.xyz
-atprofessor.fun
 auto-lawyer.site
 baseofmp3.com
 bestappland.me
@@ -129,6 +128,7 @@ fastmapf.xyz
 fastplanetf.xyz
 fastspota.xyz
 fastspotb.xyz
+fastwebe.xyz
 filmesonlineturbo.net
 filmrod.xyz
 films-down.com
@@ -170,6 +170,7 @@ freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 freshclover.info
 fuck-me-hard.club
+funmapc.xyz
 funmapd.xyz
 funplanetb.xyz
 funsiteb.xyz
@@ -238,7 +239,6 @@ healthvenue.club
 healthvibe.live
 healthwella.club
 healthyideal.club
-healthylives.today
 healthyparker.info
 healthyspirit.info
 httqzq.vip
@@ -616,6 +616,7 @@ tackis.xyz
 talskingest.top
 tastefulwood.xyz
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -712,6 +713,7 @@ yourlegendarysystemsupgrade.work
 yourlegendaryvideoupgrades.info
 yourlegendaryvideoupgrading.info
 yourlinkplaceupdatingfree.work
+yourluckytoday.club
 yoursafestplayerlink.best
 yoursafestreliablelink.work
 yoursafeststablelink.info
