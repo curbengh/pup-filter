@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 25 Jun 2021 12:03:16 +0000
+# Updated: Sat, 26 Jun 2021 00:01:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d anismunre.info
 -d appardinga.club
@@ -59,11 +58,11 @@ msFilterList
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
+-d browse-privately.net
 -d browsercheck.site
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
--d calculateprint.xyz
 -d calledbellc.fun
 -d care-connection.info
 -d carebility.info
@@ -72,7 +71,6 @@ msFilterList
 -d celebseven.com
 -d centrodeartigos.com
 -d check-your-profitzone.life
--d cheerplaceweb.xyz
 -d cloudmedia.casa
 -d cloudmedia.cyou
 -d cloudmedia.fun
@@ -113,7 +111,6 @@ msFilterList
 -d delightcmain.xyz
 -d digitalinvest.news
 -d discoveryfeed.org
--d displayfriend.xyz
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
@@ -141,7 +138,6 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -186,11 +182,9 @@ msFilterList
 -d generouscare.info
 -d get-your-score.club
 -d getmoregirls.net
--d gladcboulevard.xyz
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
 -d gladplacespin.xyz
--d gladplaceweb.xyz
 -d gladslotweb.xyz
 -d gladspaceplane.xyz
 -d gladspotplay.xyz
@@ -261,7 +255,6 @@ msFilterList
 -d izipik.com
 -d jointingifstrawberry.xyz
 -d joyplaceplay.xyz
--d joyspotspin.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
 -d kad3md.cn
@@ -353,7 +346,6 @@ msFilterList
 -d medsjournal.info
 -d meeryslotspin.xyz
 -d merryplayglobal.xyz
--d merryplayworld.xyz
 -d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
@@ -367,7 +359,6 @@ msFilterList
 -d naughtygirlsshowall.live
 -d newsitedowloads.site
 -d nogfw.pro
--d nosyknot.xyz
 -d nutrahealth.info
 -d nutrinamic.info
 -d official-bigwin-national-free.cyou
@@ -378,6 +369,7 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -442,7 +434,6 @@ msFilterList
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
 -d placesitee.xyz
--d placewebe.xyz
 -d plampo.xyz
 -d playspina.xyz
 -d playspote.xyz
@@ -478,7 +469,6 @@ msFilterList
 -d recontent.website
 -d reliablesoftwarevideos.info
 -d remedify.info
--d renewvideo.fun
 -d renewvideo.online
 -d renewvideo.site
 -d renewvideo.website
@@ -513,6 +503,7 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -535,7 +526,6 @@ msFilterList
 -d smartys.link
 -d sorrectionki.space
 -d spotplanetd.xyz
--d spotspinb.xyz
 -d spotspotf.xyz
 -d springplanetb.xyz
 -d springplanetf.xyz
@@ -544,7 +534,6 @@ msFilterList
 -d start-page.one
 -d stay-notified.cc
 -d stickr.co
--d stingyscent.xyz
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
 -d storeheavily-thespeedyfile.best
@@ -574,6 +563,7 @@ msFilterList
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
@@ -593,6 +583,7 @@ msFilterList
 -d synccompletely-bestoriginalfile.best
 -d synccompletely-bestprogressivefile.best
 -d synccompletely-bestrecentfile.best
+-d synccurrentmostthefile.vip
 -d syncgreatly-bestrenewedfile.best
 -d syncheavily-bestlatestfile.best
 -d synchighly-bestfreefile.best
@@ -604,10 +595,12 @@ msFilterList
 -d syncintensely-bestprogressivefile.best
 -d synclatest-bestuberfile.best
 -d synclatestintenselythefile.vip
+-d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncoriginal-bestcompletelyfile.best
 -d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
+-d syncrecentintenselythefile.vip
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
 -d syncuber-bestlatestfile.best
@@ -641,7 +634,6 @@ msFilterList
 -d thestablealwayssafeupdates.work
 -d thestablegreatupdates.work
 -d thestablegreatupgrades.best
--d thrillqueen.xyz
 -d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
@@ -663,8 +655,6 @@ msFilterList
 -d updategreatly-thenewestfile.best
 -d updategreatly-therecentfile.best
 -d updatelatest-thegreatlyfile.best
--d updaterecent-thegreatlyfile.best
--d upmakesite.xyz
 -d upplayglobal.xyz
 -d usepro.me
 -d useprovpn.me
@@ -683,7 +673,6 @@ msFilterList
 -d vpnupdatesnow.com
 -d watchgreatly-bestlatestfile.best
 -d watchprogressive-bestmostfile.best
--d website4all.info
 -d websiteforall.work
 -d websitetoget.work
 -d webtip.co
@@ -691,7 +680,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
--d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
@@ -717,8 +705,6 @@ msFilterList
 -d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
--d yoursafestplayerlink.best
--d yoursafestreliablelink.work
 -d yoursafeststablelink.info
 -d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work

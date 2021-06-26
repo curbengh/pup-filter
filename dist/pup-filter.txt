@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 25 Jun 2021 12:03:16 +0000
+! Updated: Sat, 26 Jun 2021 00:01:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 anismunre.info
 appardinga.club
@@ -56,11 +55,11 @@ boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
 boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
+browse-privately.net
 browsercheck.site
 btcinvesting.info
 bulley.shop
 cabins-r-us.com
-calculateprint.xyz
 calledbellc.fun
 care-connection.info
 carebility.info
@@ -69,7 +68,6 @@ carevision.info
 celebseven.com
 centrodeartigos.com
 check-your-profitzone.life
-cheerplaceweb.xyz
 cloudmedia.casa
 cloudmedia.cyou
 cloudmedia.fun
@@ -110,7 +108,6 @@ degreenm.top
 delightcmain.xyz
 digitalinvest.news
 discoveryfeed.org
-displayfriend.xyz
 ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
@@ -138,7 +135,6 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
-finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
@@ -183,11 +179,9 @@ gapingshame.xyz
 generouscare.info
 get-your-score.club
 getmoregirls.net
-gladcboulevard.xyz
 gladdboulevard.xyz
 gladmstreet.xyz
 gladplacespin.xyz
-gladplaceweb.xyz
 gladslotweb.xyz
 gladspaceplane.xyz
 gladspotplay.xyz
@@ -258,7 +252,6 @@ isystemupdate.cloud
 izipik.com
 jointingifstrawberry.xyz
 joyplaceplay.xyz
-joyspotspin.xyz
 jsrenthouse.com
 jtkszl.vip
 kad3md.cn
@@ -350,7 +343,6 @@ medjournalketo.info
 medsjournal.info
 meeryslotspin.xyz
 merryplayglobal.xyz
-merryplayworld.xyz
 mindbank.ai
 mindmatch.ai
 mistraffic.me
@@ -364,7 +356,6 @@ mynutriplan.co
 naughtygirlsshowall.live
 newsitedowloads.site
 nogfw.pro
-nosyknot.xyz
 nutrahealth.info
 nutrinamic.info
 official-bigwin-national-free.cyou
@@ -375,6 +366,7 @@ oldharper.xyz
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
+onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -439,7 +431,6 @@ performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
 placesitee.xyz
-placewebe.xyz
 plampo.xyz
 playspina.xyz
 playspote.xyz
@@ -475,7 +466,6 @@ recontent.surf
 recontent.website
 reliablesoftwarevideos.info
 remedify.info
-renewvideo.fun
 renewvideo.online
 renewvideo.site
 renewvideo.website
@@ -510,6 +500,7 @@ runrecent-besthighlyfile.best
 safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scheduleagreement.xyz
 scoopswoop.info
 score-monitoring.xyz
@@ -532,7 +523,6 @@ signupandturnyourscreenoffsafepowernow.date
 smartys.link
 sorrectionki.space
 spotplanetd.xyz
-spotspinb.xyz
 spotspotf.xyz
 springplanetb.xyz
 springplanetf.xyz
@@ -541,7 +531,6 @@ springsitef.xyz
 start-page.one
 stay-notified.cc
 stickr.co
-stingyscent.xyz
 storeheavily-thefreefile.best
 storeheavily-thequickfile.best
 storeheavily-thespeedyfile.best
@@ -571,6 +560,7 @@ streamoverly-bestrenewedfile.best
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
+streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
@@ -590,6 +580,7 @@ syncadvanced-bestuberfile.best
 synccompletely-bestoriginalfile.best
 synccompletely-bestprogressivefile.best
 synccompletely-bestrecentfile.best
+synccurrentmostthefile.vip
 syncgreatly-bestrenewedfile.best
 syncheavily-bestlatestfile.best
 synchighly-bestfreefile.best
@@ -601,10 +592,12 @@ synchighly-bestspeedyfile.best
 syncintensely-bestprogressivefile.best
 synclatest-bestuberfile.best
 synclatestintenselythefile.vip
+syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncoriginal-bestcompletelyfile.best
 syncprogressive-bestcompletelyfile.best
 syncprogressive-besthighlyfile.best
+syncrecentintenselythefile.vip
 syncrenewed-bestcompletelyfile.best
 syncstrong-bestextremelyfile.best
 syncuber-bestlatestfile.best
@@ -638,7 +631,6 @@ theslotomania.info
 thestablealwayssafeupdates.work
 thestablegreatupdates.work
 thestablegreatupgrades.best
-thrillqueen.xyz
 toolvpn.me
 toovolution.club
 topnotchsports.tips
@@ -660,8 +652,6 @@ updategreatly-thecurrentfile.best
 updategreatly-thenewestfile.best
 updategreatly-therecentfile.best
 updatelatest-thegreatlyfile.best
-updaterecent-thegreatlyfile.best
-upmakesite.xyz
 upplayglobal.xyz
 usepro.me
 useprovpn.me
@@ -680,7 +670,6 @@ vpntool.me
 vpnupdatesnow.com
 watchgreatly-bestlatestfile.best
 watchprogressive-bestmostfile.best
-website4all.info
 websiteforall.work
 websitetoget.work
 webtip.co
@@ -688,7 +677,6 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
-winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
@@ -714,8 +702,6 @@ yourlegendaryvideoupgrades.info
 yourlegendaryvideoupgrading.info
 yourlinkplaceupdatingfree.work
 yourluckytoday.club
-yoursafestplayerlink.best
-yoursafestreliablelink.work
 yoursafeststablelink.info
 yoursafeststablelinks.info
 yoursafesystemsupdating.work

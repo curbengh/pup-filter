@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 25 Jun 2021 12:03:16 +0000
+! Updated: Sat, 26 Jun 2021 00:01:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||anismunre.info$all
 ||appardinga.club$all
@@ -56,11 +55,11 @@
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
+||browse-privately.net$all
 ||browsercheck.site$all
 ||btcinvesting.info$all
 ||bulley.shop$all
 ||cabins-r-us.com$all
-||calculateprint.xyz$all
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||carebility.info$all
@@ -69,7 +68,6 @@
 ||celebseven.com$all
 ||centrodeartigos.com$all
 ||check-your-profitzone.life$all
-||cheerplaceweb.xyz$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
 ||cloudmedia.fun$all
@@ -110,7 +108,6 @@
 ||delightcmain.xyz$all
 ||digitalinvest.news$all
 ||discoveryfeed.org$all
-||displayfriend.xyz$all
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
@@ -138,7 +135,6 @@
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -183,11 +179,9 @@
 ||generouscare.info$all
 ||get-your-score.club$all
 ||getmoregirls.net$all
-||gladcboulevard.xyz$all
 ||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
-||gladplaceweb.xyz$all
 ||gladslotweb.xyz$all
 ||gladspaceplane.xyz$all
 ||gladspotplay.xyz$all
@@ -258,7 +252,6 @@
 ||izipik.com$all
 ||jointingifstrawberry.xyz$all
 ||joyplaceplay.xyz$all
-||joyspotspin.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
 ||kad3md.cn$all
@@ -350,7 +343,6 @@
 ||medsjournal.info$all
 ||meeryslotspin.xyz$all
 ||merryplayglobal.xyz$all
-||merryplayworld.xyz$all
 ||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
@@ -364,7 +356,6 @@
 ||naughtygirlsshowall.live$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
-||nosyknot.xyz$all
 ||nutrahealth.info$all
 ||nutrinamic.info$all
 ||official-bigwin-national-free.cyou$all
@@ -375,6 +366,7 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -439,7 +431,6 @@
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
 ||placesitee.xyz$all
-||placewebe.xyz$all
 ||plampo.xyz$all
 ||playspina.xyz$all
 ||playspote.xyz$all
@@ -475,7 +466,6 @@
 ||recontent.website$all
 ||reliablesoftwarevideos.info$all
 ||remedify.info$all
-||renewvideo.fun$all
 ||renewvideo.online$all
 ||renewvideo.site$all
 ||renewvideo.website$all
@@ -510,6 +500,7 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scheduleagreement.xyz$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
@@ -532,7 +523,6 @@
 ||smartys.link$all
 ||sorrectionki.space$all
 ||spotplanetd.xyz$all
-||spotspinb.xyz$all
 ||spotspotf.xyz$all
 ||springplanetb.xyz$all
 ||springplanetf.xyz$all
@@ -541,7 +531,6 @@
 ||start-page.one$all
 ||stay-notified.cc$all
 ||stickr.co$all
-||stingyscent.xyz$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
 ||storeheavily-thespeedyfile.best$all
@@ -571,6 +560,7 @@
 ||streamprogressive-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
+||streamrecent-bestuberfile.best$all
 ||streamrenewed-bestoverlyfile.best$all
 ||streamstrong-bestuberfile.best$all
 ||streamuber-bestspeedyfile.best$all
@@ -590,6 +580,7 @@
 ||synccompletely-bestoriginalfile.best$all
 ||synccompletely-bestprogressivefile.best$all
 ||synccompletely-bestrecentfile.best$all
+||synccurrentmostthefile.vip$all
 ||syncgreatly-bestrenewedfile.best$all
 ||syncheavily-bestlatestfile.best$all
 ||synchighly-bestfreefile.best$all
@@ -601,10 +592,12 @@
 ||syncintensely-bestprogressivefile.best$all
 ||synclatest-bestuberfile.best$all
 ||synclatestintenselythefile.vip$all
+||syncnewestmostthefile.vip$all
 ||syncnewestuberthefile.vip$all
 ||syncoriginal-bestcompletelyfile.best$all
 ||syncprogressive-bestcompletelyfile.best$all
 ||syncprogressive-besthighlyfile.best$all
+||syncrecentintenselythefile.vip$all
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncstrong-bestextremelyfile.best$all
 ||syncuber-bestlatestfile.best$all
@@ -638,7 +631,6 @@
 ||thestablealwayssafeupdates.work$all
 ||thestablegreatupdates.work$all
 ||thestablegreatupgrades.best$all
-||thrillqueen.xyz$all
 ||toolvpn.me$all
 ||toovolution.club$all
 ||topnotchsports.tips$all
@@ -660,8 +652,6 @@
 ||updategreatly-thenewestfile.best$all
 ||updategreatly-therecentfile.best$all
 ||updatelatest-thegreatlyfile.best$all
-||updaterecent-thegreatlyfile.best$all
-||upmakesite.xyz$all
 ||upplayglobal.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
@@ -680,7 +670,6 @@
 ||vpnupdatesnow.com$all
 ||watchgreatly-bestlatestfile.best$all
 ||watchprogressive-bestmostfile.best$all
-||website4all.info$all
 ||websiteforall.work$all
 ||websitetoget.work$all
 ||webtip.co$all
@@ -688,7 +677,6 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
-||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all
@@ -714,8 +702,6 @@
 ||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
-||yoursafestplayerlink.best$all
-||yoursafestreliablelink.work$all
 ||yoursafeststablelink.info$all
 ||yoursafeststablelinks.info$all
 ||yoursafesystemsupdating.work$all
