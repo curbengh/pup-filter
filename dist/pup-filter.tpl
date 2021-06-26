@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 26 Jun 2021 00:01:49 +0000
+# Updated: Sat, 26 Jun 2021 12:01:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,7 +63,6 @@ msFilterList
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
--d calledbellc.fun
 -d care-connection.info
 -d carebility.info
 -d careerconnecthub.com
@@ -169,7 +168,6 @@ msFilterList
 -d freewareappsstreamfastall.digital
 -d freshclover.info
 -d fuck-me-hard.club
--d funmapc.xyz
 -d funmapd.xyz
 -d funplanetb.xyz
 -d funsiteb.xyz
@@ -240,7 +238,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
@@ -250,7 +247,6 @@ msFilterList
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d isystemupdate.cloud
 -d izipik.com
 -d jointingifstrawberry.xyz
@@ -563,7 +559,6 @@ msFilterList
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
--d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best

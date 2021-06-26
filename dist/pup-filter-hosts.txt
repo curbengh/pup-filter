@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 26 Jun 2021 00:01:49 +0000
+# Updated: Sat, 26 Jun 2021 12:01:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
-0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 carebility.info
 0.0.0.0 careerconnecthub.com
@@ -166,7 +165,6 @@
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
-0.0.0.0 funmapc.xyz
 0.0.0.0 funmapd.xyz
 0.0.0.0 funplanetb.xyz
 0.0.0.0 funsiteb.xyz
@@ -237,7 +235,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
@@ -247,7 +244,6 @@
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
-0.0.0.0 iosvpnsecure.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
 0.0.0.0 jointingifstrawberry.xyz
@@ -560,7 +556,6 @@
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
-0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
 0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best

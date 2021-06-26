@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 26 Jun 2021 00:01:49 +0000
+# Updated: Sat, 26 Jun 2021 12:01:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@ browsercheck.site
 btcinvesting.info
 bulley.shop
 cabins-r-us.com
-calledbellc.fun
 care-connection.info
 carebility.info
 careerconnecthub.com
@@ -166,7 +165,6 @@ freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 freshclover.info
 fuck-me-hard.club
-funmapc.xyz
 funmapd.xyz
 funplanetb.xyz
 funsiteb.xyz
@@ -237,7 +235,6 @@ healthyparker.info
 healthyspirit.info
 httqzq.vip
 hypezen.info
-ientsillness.fun
 iketo.diet
 inappropriate.top
 incing-marganic.icu
@@ -247,7 +244,6 @@ instablog.club
 installcompletely-theoriginalfile.best
 iosdfnc.com
 iosrecommendedvpn.com
-iosvpnsecure.com
 isystemupdate.cloud
 izipik.com
 jointingifstrawberry.xyz
@@ -560,7 +556,6 @@ streamoverly-bestrenewedfile.best
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
-streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best

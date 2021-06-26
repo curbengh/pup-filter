@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 26 Jun 2021 00:01:49 +0000
+! Updated: Sat, 26 Jun 2021 12:01:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@
 ||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
-||calledbellc.fun$document
 ||care-connection.info$document
 ||carebility.info$document
 ||careerconnecthub.com$document
@@ -166,7 +165,6 @@
 ||freewareappsstreamfastall.digital$document
 ||freshclover.info$document
 ||fuck-me-hard.club$document
-||funmapc.xyz$document
 ||funmapd.xyz$document
 ||funplanetb.xyz$document
 ||funsiteb.xyz$document
@@ -237,7 +235,6 @@
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
@@ -247,7 +244,6 @@
 ||installcompletely-theoriginalfile.best$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
-||iosvpnsecure.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
 ||jointingifstrawberry.xyz$document
@@ -560,7 +556,6 @@
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
-||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
