@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 27 Jun 2021 00:02:08 +0000
+! Updated: Sun, 27 Jun 2021 12:01:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 ||amateurxporn.com^
 ||amobil.online^
 ||animenation.org^
-||anismunre.info^
 ||appardinga.club^
 ||apptool.me^
 ||armorprovpn.me^
@@ -217,7 +216,6 @@
 ||healthvibe.live^
 ||healthwella.club^
 ||healthyideal.club^
-||healthylives.today^
 ||healthyparker.info^
 ||healthyspirit.info^
 ||httqzq.vip^
@@ -377,7 +375,6 @@
 ||operatespeedy-thehighlyfile.best^
 ||operateuber-thefreefile.best^
 ||operateuber-theoriginalfile.best^
-||ouldthepat.fun^
 ||patriothealth.today^
 ||pcsecurity-live.xyz^
 ||performcompletely-thelatestfile.best^

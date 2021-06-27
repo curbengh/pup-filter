@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 27 Jun 2021 00:02:08 +0000
+# Updated: Sun, 27 Jun 2021 12:01:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
-0.0.0.0 anismunre.info
 0.0.0.0 appardinga.club
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
@@ -217,7 +216,6 @@
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
 0.0.0.0 healthyideal.club
-0.0.0.0 healthylives.today
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
@@ -377,7 +375,6 @@
 0.0.0.0 operatespeedy-thehighlyfile.best
 0.0.0.0 operateuber-thefreefile.best
 0.0.0.0 operateuber-theoriginalfile.best
-0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best

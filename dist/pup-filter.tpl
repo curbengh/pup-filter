@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 27 Jun 2021 00:02:08 +0000
+# Updated: Sun, 27 Jun 2021 12:01:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
--d anismunre.info
 -d appardinga.club
 -d apptool.me
 -d armorprovpn.me
@@ -220,7 +219,6 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
--d healthylives.today
 -d healthyparker.info
 -d healthyspirit.info
 -d httqzq.vip
@@ -380,7 +378,6 @@ msFilterList
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
--d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best

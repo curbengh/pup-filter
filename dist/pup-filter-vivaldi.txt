@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 27 Jun 2021 00:02:08 +0000
+! Updated: Sun, 27 Jun 2021 12:01:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
-||anismunre.info$document
 ||appardinga.club$document
 ||apptool.me$document
 ||armorprovpn.me$document
@@ -217,7 +216,6 @@
 ||healthvibe.live$document
 ||healthwella.club$document
 ||healthyideal.club$document
-||healthylives.today$document
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||httqzq.vip$document
@@ -377,7 +375,6 @@
 ||operatespeedy-thehighlyfile.best$document
 ||operateuber-thefreefile.best$document
 ||operateuber-theoriginalfile.best$document
-||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
