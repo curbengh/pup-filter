@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 26 Jun 2021 12:01:49 +0000
+# Updated: Sun, 27 Jun 2021 00:02:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d anismunre.info
 -d appardinga.club
@@ -47,7 +48,6 @@ msFilterList
 -d bitcoin-trader.me
 -d bitcoinjunction.club
 -d bittrend.com
--d biztherapy.info
 -d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
@@ -64,7 +64,6 @@ msFilterList
 -d bulley.shop
 -d cabins-r-us.com
 -d care-connection.info
--d carebility.info
 -d careerconnecthub.com
 -d carevision.info
 -d celebseven.com
@@ -74,10 +73,8 @@ msFilterList
 -d cloudmedia.cyou
 -d cloudmedia.fun
 -d cloudmedia.surf
--d coachbelief.xyz
 -d collectrewards.net
 -d comphp.xyz
--d conceivecolor.xyz
 -d conflaqpzc.info
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
@@ -119,7 +116,6 @@ msFilterList
 -d eproute.info
 -d eroanimeittyokusen.com
 -d erotica.live
--d excitingthing.xyz
 -d extrasafe.xyz
 -d facebook-sex.com
 -d fastmapc.xyz
@@ -129,7 +125,6 @@ msFilterList
 -d fastspotb.xyz
 -d fastwebe.xyz
 -d filmesonlineturbo.net
--d filmrod.xyz
 -d films-down.com
 -d financial-deals.xyz
 -d findforus.net
@@ -137,11 +132,11 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
 -d fitandstable.club
--d fitbodyandsoul.info
 -d fitcourage.info
 -d fithealthspark.info
 -d fithealthspot.club
@@ -158,7 +153,6 @@ msFilterList
 -d flymedia.fun
 -d flymedia.online
 -d flymedia.uno
--d foregoingpump.xyz
 -d forsalecheap.net
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
@@ -169,23 +163,17 @@ msFilterList
 -d freshclover.info
 -d fuck-me-hard.club
 -d funmapd.xyz
--d funplanetb.xyz
 -d funsiteb.xyz
--d funspinf.xyz
--d funspotf.xyz
 -d funwebd.xyz
 -d fwsxqc.cn
 -d gainhealth.info
--d gapingshame.xyz
 -d generouscare.info
 -d get-your-score.club
 -d getmoregirls.net
 -d gladdboulevard.xyz
 -d gladmstreet.xyz
 -d gladplacespin.xyz
--d gladslotweb.xyz
 -d gladspaceplane.xyz
--d gladspotplay.xyz
 -d gladvideo.fun
 -d gladvideo.online
 -d gladvideo.site
@@ -206,7 +194,6 @@ msFilterList
 -d hailso.xyz
 -d happyactive.today
 -d happymakesite.xyz
--d happymakeworld.xyz
 -d healandgrow.club
 -d healthdefine.info
 -d healthdome.info
@@ -223,7 +210,6 @@ msFilterList
 -d healthready.info
 -d healthreportsweb.info
 -d healthreward.info
--d healthroll.info
 -d healthscale.club
 -d healthschedule.club
 -d healthspark.today
@@ -234,6 +220,7 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
+-d healthylives.today
 -d healthyparker.info
 -d healthyspirit.info
 -d httqzq.vip
@@ -268,7 +255,7 @@ msFilterList
 -d life-esteem.info
 -d lifecaregoal.info
 -d ligamedia.art
--d lightstop.xyz
+-d ligamedia.casa
 -d livehealthcare.today
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
@@ -431,9 +418,6 @@ msFilterList
 -d performuberquickapplication.icu
 -d placesitee.xyz
 -d plampo.xyz
--d playspina.xyz
--d playspote.xyz
--d ppploanchoices.site
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
@@ -464,9 +448,7 @@ msFilterList
 -d recontent.surf
 -d recontent.website
 -d reliablesoftwarevideos.info
--d remedify.info
 -d renewvideo.online
--d renewvideo.site
 -d renewvideo.website
 -d resignation.top
 -d rewards-promotion-winner-super.cyou
@@ -476,7 +458,6 @@ msFilterList
 -d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
--d rotharbor.xyz
 -d runadvanced-bestextremelyfile.best
 -d runcurrent-bestextremelyfile.best
 -d rundeveloped-bestoverlyfile.best
@@ -500,7 +481,6 @@ msFilterList
 -d safest4placeupdate.info
 -d safest4placeupdates.info
 -d savagegrowplus.net
--d scheduleagreement.xyz
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -508,7 +488,6 @@ msFilterList
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
--d second-handjam.xyz
 -d securitevpn.me
 -d security-made-easy.xyz
 -d security-pro.xyz
@@ -521,9 +500,6 @@ msFilterList
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
--d spotplanetd.xyz
--d spotspotf.xyz
--d springplanetb.xyz
 -d springplanetf.xyz
 -d springsitea.xyz
 -d springsitef.xyz
@@ -535,8 +511,6 @@ msFilterList
 -d storeheavily-thespeedyfile.best
 -d storeheavily-thestrongfile.best
 -d storelatest-theoverlyfile.best
--d storeoverly-theadvancedfile.best
--d storeoverly-thecurrentfile.best
 -d storeoverly-thelatestfile.best
 -d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
@@ -572,7 +546,6 @@ msFilterList
 -d superplaceforupgrade.info
 -d superpromotion.cyou
 -d support-notify.space
--d survey-club.club
 -d survey-review.club
 -d syncadvanced-bestuberfile.best
 -d synccompletely-bestoriginalfile.best
@@ -605,7 +578,6 @@ msFilterList
 -d syncuber-bestrefinedfile.best
 -d tackis.xyz
 -d talskingest.top
--d tastefulwood.xyz
 -d tdstraffic.xyz
 -d technologypartners.net
 -d theable.me
@@ -622,7 +594,6 @@ msFilterList
 -d thehealthyvibe.info
 -d thehotshot.info
 -d thenewjourney.info
--d thepackage.club
 -d thesafestplayerlinks.work
 -d thesafestreliablelink.work
 -d theslotomania.info
@@ -642,19 +613,16 @@ msFilterList
 -d trkvpn.xyz
 -d tryoneshot-keto.net
 -d uclaimrewards.net
--d unequalfaucet.xyz
 -d uniremedy.info
 -d unitehealth.club
 -d updatecurrent-thegreatlyfile.best
 -d updategreatly-thecurrentfile.best
--d updategreatly-thenewestfile.best
 -d updategreatly-therecentfile.best
 -d updatelatest-thegreatlyfile.best
 -d upplayglobal.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vexearth.xyz
 -d viral-surveys.win
 -d viralarticles.net
 -d vital-health.club
@@ -675,6 +643,7 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou

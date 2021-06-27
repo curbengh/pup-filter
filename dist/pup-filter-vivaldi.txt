@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 26 Jun 2021 12:01:49 +0000
+! Updated: Sun, 27 Jun 2021 00:02:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||animenation.org$document
 ||anismunre.info$document
 ||appardinga.club$document
@@ -44,7 +45,6 @@
 ||bitcoin-trader.me$document
 ||bitcoinjunction.club$document
 ||bittrend.com$document
-||biztherapy.info$document
 ||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
@@ -61,7 +61,6 @@
 ||bulley.shop$document
 ||cabins-r-us.com$document
 ||care-connection.info$document
-||carebility.info$document
 ||careerconnecthub.com$document
 ||carevision.info$document
 ||celebseven.com$document
@@ -71,10 +70,8 @@
 ||cloudmedia.cyou$document
 ||cloudmedia.fun$document
 ||cloudmedia.surf$document
-||coachbelief.xyz$document
 ||collectrewards.net$document
 ||comphp.xyz$document
-||conceivecolor.xyz$document
 ||conflaqpzc.info$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
@@ -116,7 +113,6 @@
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
-||excitingthing.xyz$document
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
 ||fastmapc.xyz$document
@@ -126,7 +122,6 @@
 ||fastspotb.xyz$document
 ||fastwebe.xyz$document
 ||filmesonlineturbo.net$document
-||filmrod.xyz$document
 ||films-down.com$document
 ||financial-deals.xyz$document
 ||findforus.net$document
@@ -134,11 +129,11 @@
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
 ||fitandstable.club$document
-||fitbodyandsoul.info$document
 ||fitcourage.info$document
 ||fithealthspark.info$document
 ||fithealthspot.club$document
@@ -155,7 +150,6 @@
 ||flymedia.fun$document
 ||flymedia.online$document
 ||flymedia.uno$document
-||foregoingpump.xyz$document
 ||forsalecheap.net$document
 ||free-gifts.net$document
 ||freenationalsuperworldwide.cyou$document
@@ -166,23 +160,17 @@
 ||freshclover.info$document
 ||fuck-me-hard.club$document
 ||funmapd.xyz$document
-||funplanetb.xyz$document
 ||funsiteb.xyz$document
-||funspinf.xyz$document
-||funspotf.xyz$document
 ||funwebd.xyz$document
 ||fwsxqc.cn$document
 ||gainhealth.info$document
-||gapingshame.xyz$document
 ||generouscare.info$document
 ||get-your-score.club$document
 ||getmoregirls.net$document
 ||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
-||gladslotweb.xyz$document
 ||gladspaceplane.xyz$document
-||gladspotplay.xyz$document
 ||gladvideo.fun$document
 ||gladvideo.online$document
 ||gladvideo.site$document
@@ -203,7 +191,6 @@
 ||hailso.xyz$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
-||happymakeworld.xyz$document
 ||healandgrow.club$document
 ||healthdefine.info$document
 ||healthdome.info$document
@@ -220,7 +207,6 @@
 ||healthready.info$document
 ||healthreportsweb.info$document
 ||healthreward.info$document
-||healthroll.info$document
 ||healthscale.club$document
 ||healthschedule.club$document
 ||healthspark.today$document
@@ -231,6 +217,7 @@
 ||healthvibe.live$document
 ||healthwella.club$document
 ||healthyideal.club$document
+||healthylives.today$document
 ||healthyparker.info$document
 ||healthyspirit.info$document
 ||httqzq.vip$document
@@ -265,7 +252,7 @@
 ||life-esteem.info$document
 ||lifecaregoal.info$document
 ||ligamedia.art$document
-||lightstop.xyz$document
+||ligamedia.casa$document
 ||livehealthcare.today$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
@@ -428,9 +415,6 @@
 ||performuberquickapplication.icu$document
 ||placesitee.xyz$document
 ||plampo.xyz$document
-||playspina.xyz$document
-||playspote.xyz$document
-||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
@@ -461,9 +445,7 @@
 ||recontent.surf$document
 ||recontent.website$document
 ||reliablesoftwarevideos.info$document
-||remedify.info$document
 ||renewvideo.online$document
-||renewvideo.site$document
 ||renewvideo.website$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
@@ -473,7 +455,6 @@
 ||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
-||rotharbor.xyz$document
 ||runadvanced-bestextremelyfile.best$document
 ||runcurrent-bestextremelyfile.best$document
 ||rundeveloped-bestoverlyfile.best$document
@@ -497,7 +478,6 @@
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
 ||savagegrowplus.net$document
-||scheduleagreement.xyz$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-tool.net$document
@@ -505,7 +485,6 @@
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
-||second-handjam.xyz$document
 ||securitevpn.me$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
@@ -518,9 +497,6 @@
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
 ||sorrectionki.space$document
-||spotplanetd.xyz$document
-||spotspotf.xyz$document
-||springplanetb.xyz$document
 ||springplanetf.xyz$document
 ||springsitea.xyz$document
 ||springsitef.xyz$document
@@ -532,8 +508,6 @@
 ||storeheavily-thespeedyfile.best$document
 ||storeheavily-thestrongfile.best$document
 ||storelatest-theoverlyfile.best$document
-||storeoverly-theadvancedfile.best$document
-||storeoverly-thecurrentfile.best$document
 ||storeoverly-thelatestfile.best$document
 ||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
@@ -569,7 +543,6 @@
 ||superplaceforupgrade.info$document
 ||superpromotion.cyou$document
 ||support-notify.space$document
-||survey-club.club$document
 ||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
 ||synccompletely-bestoriginalfile.best$document
@@ -602,7 +575,6 @@
 ||syncuber-bestrefinedfile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
-||tastefulwood.xyz$document
 ||tdstraffic.xyz$document
 ||technologypartners.net$document
 ||theable.me$document
@@ -619,7 +591,6 @@
 ||thehealthyvibe.info$document
 ||thehotshot.info$document
 ||thenewjourney.info$document
-||thepackage.club$document
 ||thesafestplayerlinks.work$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
@@ -639,19 +610,16 @@
 ||trkvpn.xyz$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
-||unequalfaucet.xyz$document
 ||uniremedy.info$document
 ||unitehealth.club$document
 ||updatecurrent-thegreatlyfile.best$document
 ||updategreatly-thecurrentfile.best$document
-||updategreatly-thenewestfile.best$document
 ||updategreatly-therecentfile.best$document
 ||updatelatest-thegreatlyfile.best$document
 ||upplayglobal.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||vexearth.xyz$document
 ||viral-surveys.win$document
 ||viralarticles.net$document
 ||vital-health.club$document
@@ -672,6 +640,7 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||winnerbigwingiveawaysuper.cyou$document
+||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
