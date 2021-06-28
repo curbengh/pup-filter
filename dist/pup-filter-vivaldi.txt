@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 27 Jun 2021 12:01:55 +0000
+! Updated: Mon, 28 Jun 2021 00:01:48 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,13 +14,11 @@
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||adtrackingflow.pro$document
-||advancecare.info$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
-||appardinga.club$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -115,8 +113,6 @@
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
 ||fastmapc.xyz$document
-||fastmapf.xyz$document
-||fastplanetf.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebe.xyz$document
@@ -137,7 +133,6 @@
 ||fithealthspark.info$document
 ||fithealthspot.club$document
 ||fithealthsure.info$document
-||fitlifevalue.info$document
 ||fitnessdial.club$document
 ||fitsure.info$document
 ||flash-rewards.info$document
@@ -160,13 +155,11 @@
 ||fuck-me-hard.club$document
 ||funmapd.xyz$document
 ||funsiteb.xyz$document
-||funwebd.xyz$document
 ||fwsxqc.cn$document
 ||gainhealth.info$document
 ||generouscare.info$document
 ||get-your-score.club$document
 ||getmoregirls.net$document
-||gladdboulevard.xyz$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
@@ -232,7 +225,6 @@
 ||isystemupdate.cloud$document
 ||izipik.com$document
 ||jointingifstrawberry.xyz$document
-||joyplaceplay.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
 ||kad3md.cn$document
@@ -323,7 +315,6 @@
 ||medjournalketo.info$document
 ||medsjournal.info$document
 ||meeryslotspin.xyz$document
-||merryplayglobal.xyz$document
 ||mindbank.ai$document
 ||mindmatch.ai$document
 ||mistraffic.me$document
@@ -335,10 +326,10 @@
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||naughtygirlsshowall.live$document
+||newbuy.xyz$document
 ||newsitedowloads.site$document
 ||nogfw.pro$document
 ||nutrahealth.info$document
-||nutrinamic.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -410,8 +401,8 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
-||placesitee.xyz$document
 ||plampo.xyz$document
+||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primawise.info$document
@@ -474,7 +465,6 @@
 ||safelyonline.tech$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-tool.net$document
@@ -495,18 +485,12 @@
 ||smartys.link$document
 ||sorrectionki.space$document
 ||springplanetf.xyz$document
-||springsitea.xyz$document
-||springsitef.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
 ||stickr.co$document
 ||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
 ||storeheavily-thespeedyfile.best$document
-||storeheavily-thestrongfile.best$document
-||storelatest-theoverlyfile.best$document
-||storeoverly-thelatestfile.best$document
-||storerecent-theoverlyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
 ||streamadvanced-bestcompletelyfile.best$document
@@ -605,14 +589,11 @@
 ||trane.fun$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
+||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||uniremedy.info$document
 ||unitehealth.club$document
-||updatecurrent-thegreatlyfile.best$document
-||updategreatly-thecurrentfile.best$document
-||updategreatly-therecentfile.best$document
-||updatelatest-thegreatlyfile.best$document
 ||upplayglobal.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
@@ -628,6 +609,8 @@
 ||vpnservice.me$document
 ||vpntool.me$document
 ||vpnupdatesnow.com$document
+||watchadvanced-bestgreatlyfile.best$document
+||watchgreatly-bestcurrentfile.best$document
 ||watchgreatly-bestlatestfile.best$document
 ||watchprogressive-bestmostfile.best$document
 ||websiteforall.work$document
@@ -637,7 +620,6 @@
 ||wellnessplum.info$document
 ||wherentlybrane.site$document
 ||winnerbigwingiveawaysuper.cyou$document
-||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
@@ -663,8 +645,6 @@
 ||yourlegendaryvideoupgrading.info$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
-||yoursafeststablelink.info$document
-||yoursafeststablelinks.info$document
 ||yoursafesystemsupdating.work$document
 ||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document

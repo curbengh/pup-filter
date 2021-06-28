@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 27 Jun 2021 12:01:55 +0000
+! Updated: Mon, 28 Jun 2021 00:01:48 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,13 +14,11 @@
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||adtrackingflow.pro$all
-||advancecare.info$all
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
 ||amobil.online$all
 ||animenation.org$all
-||appardinga.club$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
@@ -115,8 +113,6 @@
 ||extrasafe.xyz$all
 ||facebook-sex.com$all
 ||fastmapc.xyz$all
-||fastmapf.xyz$all
-||fastplanetf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebe.xyz$all
@@ -137,7 +133,6 @@
 ||fithealthspark.info$all
 ||fithealthspot.club$all
 ||fithealthsure.info$all
-||fitlifevalue.info$all
 ||fitnessdial.club$all
 ||fitsure.info$all
 ||flash-rewards.info$all
@@ -160,13 +155,11 @@
 ||fuck-me-hard.club$all
 ||funmapd.xyz$all
 ||funsiteb.xyz$all
-||funwebd.xyz$all
 ||fwsxqc.cn$all
 ||gainhealth.info$all
 ||generouscare.info$all
 ||get-your-score.club$all
 ||getmoregirls.net$all
-||gladdboulevard.xyz$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
@@ -232,7 +225,6 @@
 ||isystemupdate.cloud$all
 ||izipik.com$all
 ||jointingifstrawberry.xyz$all
-||joyplaceplay.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
 ||kad3md.cn$all
@@ -323,7 +315,6 @@
 ||medjournalketo.info$all
 ||medsjournal.info$all
 ||meeryslotspin.xyz$all
-||merryplayglobal.xyz$all
 ||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
@@ -335,10 +326,10 @@
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
+||newbuy.xyz$all
 ||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nutrahealth.info$all
-||nutrinamic.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -410,8 +401,8 @@
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
-||placesitee.xyz$all
 ||plampo.xyz$all
+||ppploanchoices.site$all
 ||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primawise.info$all
@@ -474,7 +465,6 @@
 ||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
@@ -495,18 +485,12 @@
 ||smartys.link$all
 ||sorrectionki.space$all
 ||springplanetf.xyz$all
-||springsitea.xyz$all
-||springsitef.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
 ||stickr.co$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
 ||storeheavily-thespeedyfile.best$all
-||storeheavily-thestrongfile.best$all
-||storelatest-theoverlyfile.best$all
-||storeoverly-thelatestfile.best$all
-||storerecent-theoverlyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
 ||streamadvanced-bestcompletelyfile.best$all
@@ -605,14 +589,11 @@
 ||trane.fun$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
+||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||uniremedy.info$all
 ||unitehealth.club$all
-||updatecurrent-thegreatlyfile.best$all
-||updategreatly-thecurrentfile.best$all
-||updategreatly-therecentfile.best$all
-||updatelatest-thegreatlyfile.best$all
 ||upplayglobal.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
@@ -628,6 +609,8 @@
 ||vpnservice.me$all
 ||vpntool.me$all
 ||vpnupdatesnow.com$all
+||watchadvanced-bestgreatlyfile.best$all
+||watchgreatly-bestcurrentfile.best$all
 ||watchgreatly-bestlatestfile.best$all
 ||watchprogressive-bestmostfile.best$all
 ||websiteforall.work$all
@@ -637,7 +620,6 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
-||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all
@@ -663,8 +645,6 @@
 ||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
-||yoursafeststablelink.info$all
-||yoursafeststablelinks.info$all
 ||yoursafesystemsupdating.work$all
 ||yourstablegreatupdate.work$all
 ||yourstablegreatupdates.work$all

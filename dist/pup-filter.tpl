@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 27 Jun 2021 12:01:55 +0000
+# Updated: Mon, 28 Jun 2021 00:01:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,13 +17,11 @@ msFilterList
 -d abeah-security.xyz
 -d adrondespi.top
 -d adtrackingflow.pro
--d advancecare.info
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
--d appardinga.club
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -118,8 +116,6 @@ msFilterList
 -d extrasafe.xyz
 -d facebook-sex.com
 -d fastmapc.xyz
--d fastmapf.xyz
--d fastplanetf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebe.xyz
@@ -140,7 +136,6 @@ msFilterList
 -d fithealthspark.info
 -d fithealthspot.club
 -d fithealthsure.info
--d fitlifevalue.info
 -d fitnessdial.club
 -d fitsure.info
 -d flash-rewards.info
@@ -163,13 +158,11 @@ msFilterList
 -d fuck-me-hard.club
 -d funmapd.xyz
 -d funsiteb.xyz
--d funwebd.xyz
 -d fwsxqc.cn
 -d gainhealth.info
 -d generouscare.info
 -d get-your-score.club
 -d getmoregirls.net
--d gladdboulevard.xyz
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
@@ -235,7 +228,6 @@ msFilterList
 -d isystemupdate.cloud
 -d izipik.com
 -d jointingifstrawberry.xyz
--d joyplaceplay.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
 -d kad3md.cn
@@ -326,7 +318,6 @@ msFilterList
 -d medjournalketo.info
 -d medsjournal.info
 -d meeryslotspin.xyz
--d merryplayglobal.xyz
 -d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
@@ -338,10 +329,10 @@ msFilterList
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d naughtygirlsshowall.live
+-d newbuy.xyz
 -d newsitedowloads.site
 -d nogfw.pro
 -d nutrahealth.info
--d nutrinamic.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -413,8 +404,8 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
--d placesitee.xyz
 -d plampo.xyz
+-d ppploanchoices.site
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primawise.info
@@ -477,7 +468,6 @@ msFilterList
 -d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -498,18 +488,12 @@ msFilterList
 -d smartys.link
 -d sorrectionki.space
 -d springplanetf.xyz
--d springsitea.xyz
--d springsitef.xyz
 -d start-page.one
 -d stay-notified.cc
 -d stickr.co
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
 -d storeheavily-thespeedyfile.best
--d storeheavily-thestrongfile.best
--d storelatest-theoverlyfile.best
--d storeoverly-thelatestfile.best
--d storerecent-theoverlyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
 -d streamadvanced-bestcompletelyfile.best
@@ -608,14 +592,11 @@ msFilterList
 -d trane.fun
 -d trktraf.club
 -d trkvpn.xyz
+-d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d uniremedy.info
 -d unitehealth.club
--d updatecurrent-thegreatlyfile.best
--d updategreatly-thecurrentfile.best
--d updategreatly-therecentfile.best
--d updatelatest-thegreatlyfile.best
 -d upplayglobal.xyz
 -d usepro.me
 -d useprovpn.me
@@ -631,6 +612,8 @@ msFilterList
 -d vpnservice.me
 -d vpntool.me
 -d vpnupdatesnow.com
+-d watchadvanced-bestgreatlyfile.best
+-d watchgreatly-bestcurrentfile.best
 -d watchgreatly-bestlatestfile.best
 -d watchprogressive-bestmostfile.best
 -d websiteforall.work
@@ -640,7 +623,6 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
--d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
@@ -666,8 +648,6 @@ msFilterList
 -d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
--d yoursafeststablelink.info
--d yoursafeststablelinks.info
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work

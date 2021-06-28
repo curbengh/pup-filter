@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 27 Jun 2021 12:01:55 +0000
+# Updated: Mon, 28 Jun 2021 00:01:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,13 +14,11 @@
 abeah-security.xyz
 adrondespi.top
 adtrackingflow.pro
-advancecare.info
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
 amobil.online
 animenation.org
-appardinga.club
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -115,8 +113,6 @@ erotica.live
 extrasafe.xyz
 facebook-sex.com
 fastmapc.xyz
-fastmapf.xyz
-fastplanetf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebe.xyz
@@ -137,7 +133,6 @@ fitcourage.info
 fithealthspark.info
 fithealthspot.club
 fithealthsure.info
-fitlifevalue.info
 fitnessdial.club
 fitsure.info
 flash-rewards.info
@@ -160,13 +155,11 @@ freshclover.info
 fuck-me-hard.club
 funmapd.xyz
 funsiteb.xyz
-funwebd.xyz
 fwsxqc.cn
 gainhealth.info
 generouscare.info
 get-your-score.club
 getmoregirls.net
-gladdboulevard.xyz
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
@@ -232,7 +225,6 @@ iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
 jointingifstrawberry.xyz
-joyplaceplay.xyz
 jsrenthouse.com
 jtkszl.vip
 kad3md.cn
@@ -323,7 +315,6 @@ medicreed.club
 medjournalketo.info
 medsjournal.info
 meeryslotspin.xyz
-merryplayglobal.xyz
 mindbank.ai
 mindmatch.ai
 mistraffic.me
@@ -335,10 +326,10 @@ multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
 naughtygirlsshowall.live
+newbuy.xyz
 newsitedowloads.site
 nogfw.pro
 nutrahealth.info
-nutrinamic.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -410,8 +401,8 @@ performstrong-thegreatlyfile.digital
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
-placesitee.xyz
 plampo.xyz
+ppploanchoices.site
 premiernursingacademy.org
 preparedforsafeupgrading.work
 primawise.info
@@ -474,7 +465,6 @@ runrecent-besthighlyfile.best
 safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-tool.net
@@ -495,18 +485,12 @@ signupandturnyourscreenoffsafepowernow.date
 smartys.link
 sorrectionki.space
 springplanetf.xyz
-springsitea.xyz
-springsitef.xyz
 start-page.one
 stay-notified.cc
 stickr.co
 storeheavily-thefreefile.best
 storeheavily-thequickfile.best
 storeheavily-thespeedyfile.best
-storeheavily-thestrongfile.best
-storelatest-theoverlyfile.best
-storeoverly-thelatestfile.best
-storerecent-theoverlyfile.best
 storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
 streamadvanced-bestcompletelyfile.best
@@ -605,14 +589,11 @@ trafficmind.pro
 trane.fun
 trktraf.club
 trkvpn.xyz
+trustappstreamsall.digital
 tryoneshot-keto.net
 uclaimrewards.net
 uniremedy.info
 unitehealth.club
-updatecurrent-thegreatlyfile.best
-updategreatly-thecurrentfile.best
-updategreatly-therecentfile.best
-updatelatest-thegreatlyfile.best
 upplayglobal.xyz
 usepro.me
 useprovpn.me
@@ -628,6 +609,8 @@ vpnsecurity.me
 vpnservice.me
 vpntool.me
 vpnupdatesnow.com
+watchadvanced-bestgreatlyfile.best
+watchgreatly-bestcurrentfile.best
 watchgreatly-bestlatestfile.best
 watchprogressive-bestmostfile.best
 websiteforall.work
@@ -637,7 +620,6 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
-winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
@@ -663,8 +645,6 @@ yourlegendaryvideoupgrades.info
 yourlegendaryvideoupgrading.info
 yourlinkplaceupdatingfree.work
 yourluckytoday.club
-yoursafeststablelink.info
-yoursafeststablelinks.info
 yoursafesystemsupdating.work
 yourstablegreatupdate.work
 yourstablegreatupdates.work

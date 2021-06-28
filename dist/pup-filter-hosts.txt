@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 27 Jun 2021 12:01:55 +0000
+# Updated: Mon, 28 Jun 2021 00:01:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,13 +14,11 @@
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 adtrackingflow.pro
-0.0.0.0 advancecare.info
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
-0.0.0.0 appardinga.club
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -115,8 +113,6 @@
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
 0.0.0.0 fastmapc.xyz
-0.0.0.0 fastmapf.xyz
-0.0.0.0 fastplanetf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebe.xyz
@@ -137,7 +133,6 @@
 0.0.0.0 fithealthspark.info
 0.0.0.0 fithealthspot.club
 0.0.0.0 fithealthsure.info
-0.0.0.0 fitlifevalue.info
 0.0.0.0 fitnessdial.club
 0.0.0.0 fitsure.info
 0.0.0.0 flash-rewards.info
@@ -160,13 +155,11 @@
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapd.xyz
 0.0.0.0 funsiteb.xyz
-0.0.0.0 funwebd.xyz
 0.0.0.0 fwsxqc.cn
 0.0.0.0 gainhealth.info
 0.0.0.0 generouscare.info
 0.0.0.0 get-your-score.club
 0.0.0.0 getmoregirls.net
-0.0.0.0 gladdboulevard.xyz
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -232,7 +225,6 @@
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
 0.0.0.0 jointingifstrawberry.xyz
-0.0.0.0 joyplaceplay.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jtkszl.vip
 0.0.0.0 kad3md.cn
@@ -323,7 +315,6 @@
 0.0.0.0 medjournalketo.info
 0.0.0.0 medsjournal.info
 0.0.0.0 meeryslotspin.xyz
-0.0.0.0 merryplayglobal.xyz
 0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
@@ -335,10 +326,10 @@
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 naughtygirlsshowall.live
+0.0.0.0 newbuy.xyz
 0.0.0.0 newsitedowloads.site
 0.0.0.0 nogfw.pro
 0.0.0.0 nutrahealth.info
-0.0.0.0 nutrinamic.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
@@ -410,8 +401,8 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
-0.0.0.0 placesitee.xyz
 0.0.0.0 plampo.xyz
+0.0.0.0 ppploanchoices.site
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primawise.info
@@ -474,7 +465,6 @@
 0.0.0.0 safelyonline.tech
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-tool.net
@@ -495,18 +485,12 @@
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
 0.0.0.0 springplanetf.xyz
-0.0.0.0 springsitea.xyz
-0.0.0.0 springsitef.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
 0.0.0.0 stickr.co
 0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
 0.0.0.0 storeheavily-thespeedyfile.best
-0.0.0.0 storeheavily-thestrongfile.best
-0.0.0.0 storelatest-theoverlyfile.best
-0.0.0.0 storeoverly-thelatestfile.best
-0.0.0.0 storerecent-theoverlyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
 0.0.0.0 streamadvanced-bestcompletelyfile.best
@@ -605,14 +589,11 @@
 0.0.0.0 trane.fun
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz
+0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 uclaimrewards.net
 0.0.0.0 uniremedy.info
 0.0.0.0 unitehealth.club
-0.0.0.0 updatecurrent-thegreatlyfile.best
-0.0.0.0 updategreatly-thecurrentfile.best
-0.0.0.0 updategreatly-therecentfile.best
-0.0.0.0 updatelatest-thegreatlyfile.best
 0.0.0.0 upplayglobal.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
@@ -628,6 +609,8 @@
 0.0.0.0 vpnservice.me
 0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
+0.0.0.0 watchadvanced-bestgreatlyfile.best
+0.0.0.0 watchgreatly-bestcurrentfile.best
 0.0.0.0 watchgreatly-bestlatestfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 websiteforall.work
@@ -637,7 +620,6 @@
 0.0.0.0 wellnessplum.info
 0.0.0.0 wherentlybrane.site
 0.0.0.0 winnerbigwingiveawaysuper.cyou
-0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwide-prize-giveaway-free.cyou
@@ -663,8 +645,6 @@
 0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
-0.0.0.0 yoursafeststablelink.info
-0.0.0.0 yoursafeststablelinks.info
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work
