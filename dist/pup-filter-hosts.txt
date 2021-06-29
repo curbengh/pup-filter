@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 28 Jun 2021 12:02:40 +0000
+# Updated: Tue, 29 Jun 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -39,7 +39,6 @@
 0.0.0.0 bigdaycasino.info
 0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bigwinonlinefreecongrats.cyou
-0.0.0.0 bitcoin-trader.me
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 bittrend.com
 0.0.0.0 blockchain-com.email
@@ -53,7 +52,6 @@
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 browse-privately.net
-0.0.0.0 browsercheck.site
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
@@ -151,7 +149,6 @@
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
-0.0.0.0 freshclover.info
 0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapd.xyz
 0.0.0.0 funsiteb.xyz
@@ -178,7 +175,6 @@
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
-0.0.0.0 grandcasinoprize.info
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 happyactive.today
@@ -302,6 +298,7 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
+0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -316,12 +313,10 @@
 0.0.0.0 medsjournal.info
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mindbank.ai
-0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
-0.0.0.0 movievod.me
 0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
@@ -433,7 +428,6 @@
 0.0.0.0 recontent.surf
 0.0.0.0 recontent.website
 0.0.0.0 reliablesoftwarevideos.info
-0.0.0.0 renewvideo.online
 0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -490,7 +484,6 @@
 0.0.0.0 stickr.co
 0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
-0.0.0.0 storeheavily-thespeedyfile.best
 0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
 0.0.0.0 streamadvanced-bestcompletelyfile.best
@@ -602,7 +595,6 @@
 0.0.0.0 viralarticles.net
 0.0.0.0 vital-health.club
 0.0.0.0 vpn-pro.info
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -612,6 +604,7 @@
 0.0.0.0 watchadvanced-bestgreatlyfile.best
 0.0.0.0 watchgreatly-bestcurrentfile.best
 0.0.0.0 watchgreatly-bestlatestfile.best
+0.0.0.0 watchlatest-bestgreatlyfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work

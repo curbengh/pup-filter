@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 28 Jun 2021 12:02:40 +0000
+! Updated: Tue, 29 Jun 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -39,7 +39,6 @@
 ||bigdaycasino.info$all
 ||bigwin-online-free-congrats.cyou$all
 ||bigwinonlinefreecongrats.cyou$all
-||bitcoin-trader.me$all
 ||bitcoinjunction.club$all
 ||bittrend.com$all
 ||blockchain-com.email$all
@@ -53,7 +52,6 @@
 ||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||browse-privately.net$all
-||browsercheck.site$all
 ||btcinvesting.info$all
 ||bulley.shop$all
 ||cabins-r-us.com$all
@@ -151,7 +149,6 @@
 ||freeperfectupgrading.work$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
-||freshclover.info$all
 ||fuck-me-hard.club$all
 ||funmapd.xyz$all
 ||funsiteb.xyz$all
@@ -178,7 +175,6 @@
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
-||grandcasinoprize.info$all
 ||growthnetic.club$all
 ||hailso.xyz$all
 ||happyactive.today$all
@@ -302,6 +298,7 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -316,12 +313,10 @@
 ||medsjournal.info$all
 ||meeryslotspin.xyz$all
 ||mindbank.ai$all
-||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
-||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -433,7 +428,6 @@
 ||recontent.surf$all
 ||recontent.website$all
 ||reliablesoftwarevideos.info$all
-||renewvideo.online$all
 ||renewvideo.website$all
 ||resignation.top$all
 ||rewards-promotion-winner-super.cyou$all
@@ -490,7 +484,6 @@
 ||stickr.co$all
 ||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
-||storeheavily-thespeedyfile.best$all
 ||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
 ||streamadvanced-bestcompletelyfile.best$all
@@ -602,7 +595,6 @@
 ||viralarticles.net$all
 ||vital-health.club$all
 ||vpn-pro.info$all
-||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
@@ -612,6 +604,7 @@
 ||watchadvanced-bestgreatlyfile.best$all
 ||watchgreatly-bestcurrentfile.best$all
 ||watchgreatly-bestlatestfile.best$all
+||watchlatest-bestgreatlyfile.best$all
 ||watchprogressive-bestmostfile.best$all
 ||websiteforall.work$all
 ||websitetoget.work$all

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 28 Jun 2021 12:02:40 +0000
+! Updated: Tue, 29 Jun 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -39,7 +39,6 @@
 ||bigdaycasino.info$document
 ||bigwin-online-free-congrats.cyou$document
 ||bigwinonlinefreecongrats.cyou$document
-||bitcoin-trader.me$document
 ||bitcoinjunction.club$document
 ||bittrend.com$document
 ||blockchain-com.email$document
@@ -53,7 +52,6 @@
 ||boot-uprefined-bestcompletelyfile.best$document
 ||boot-upuber-bestfreefile.best$document
 ||browse-privately.net$document
-||browsercheck.site$document
 ||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
@@ -151,7 +149,6 @@
 ||freeperfectupgrading.work$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
-||freshclover.info$document
 ||fuck-me-hard.club$document
 ||funmapd.xyz$document
 ||funsiteb.xyz$document
@@ -178,7 +175,6 @@
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
-||grandcasinoprize.info$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||happyactive.today$document
@@ -302,6 +298,7 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -316,12 +313,10 @@
 ||medsjournal.info$document
 ||meeryslotspin.xyz$document
 ||mindbank.ai$document
-||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
-||movievod.me$document
 ||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
@@ -433,7 +428,6 @@
 ||recontent.surf$document
 ||recontent.website$document
 ||reliablesoftwarevideos.info$document
-||renewvideo.online$document
 ||renewvideo.website$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
@@ -490,7 +484,6 @@
 ||stickr.co$document
 ||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
-||storeheavily-thespeedyfile.best$document
 ||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
 ||streamadvanced-bestcompletelyfile.best$document
@@ -602,7 +595,6 @@
 ||viralarticles.net$document
 ||vital-health.club$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
@@ -612,6 +604,7 @@
 ||watchadvanced-bestgreatlyfile.best$document
 ||watchgreatly-bestcurrentfile.best$document
 ||watchgreatly-bestlatestfile.best$document
+||watchlatest-bestgreatlyfile.best$document
 ||watchprogressive-bestmostfile.best$document
 ||websiteforall.work$document
 ||websitetoget.work$document

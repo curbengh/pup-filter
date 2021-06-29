@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 28 Jun 2021 12:02:40 +0000
+# Updated: Tue, 29 Jun 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@ msFilterList
 -d bigdaycasino.info
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
--d bitcoin-trader.me
 -d bitcoinjunction.club
 -d bittrend.com
 -d blockchain-com.email
@@ -56,7 +55,6 @@ msFilterList
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
 -d browse-privately.net
--d browsercheck.site
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
@@ -154,7 +152,6 @@ msFilterList
 -d freeperfectupgrading.work
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d freshclover.info
 -d fuck-me-hard.club
 -d funmapd.xyz
 -d funsiteb.xyz
@@ -181,7 +178,6 @@ msFilterList
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
--d grandcasinoprize.info
 -d growthnetic.club
 -d hailso.xyz
 -d happyactive.today
@@ -305,6 +301,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -319,12 +316,10 @@ msFilterList
 -d medsjournal.info
 -d meeryslotspin.xyz
 -d mindbank.ai
--d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
--d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -436,7 +431,6 @@ msFilterList
 -d recontent.surf
 -d recontent.website
 -d reliablesoftwarevideos.info
--d renewvideo.online
 -d renewvideo.website
 -d resignation.top
 -d rewards-promotion-winner-super.cyou
@@ -493,7 +487,6 @@ msFilterList
 -d stickr.co
 -d storeheavily-thefreefile.best
 -d storeheavily-thequickfile.best
--d storeheavily-thespeedyfile.best
 -d storespeedy-theheavilyfile.best
 -d storeswift-theheavilyfile.best
 -d streamadvanced-bestcompletelyfile.best
@@ -605,7 +598,6 @@ msFilterList
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -615,6 +607,7 @@ msFilterList
 -d watchadvanced-bestgreatlyfile.best
 -d watchgreatly-bestcurrentfile.best
 -d watchgreatly-bestlatestfile.best
+-d watchlatest-bestgreatlyfile.best
 -d watchprogressive-bestmostfile.best
 -d websiteforall.work
 -d websitetoget.work
