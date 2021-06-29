@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 29 Jun 2021 00:03:02 +0000
+# Updated: Tue, 29 Jun 2021 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,12 +16,14 @@ msFilterList
 -d 7awwa2.xyz
 -d abeah-security.xyz
 -d adrondespi.top
+-d adslauchgo.xyz
 -d adtrackingflow.pro
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
+-d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -58,6 +60,7 @@ msFilterList
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
+-d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
 -d carevision.info
@@ -100,6 +103,7 @@ msFilterList
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
+-d desixxx.cloud
 -d digitalinvest.news
 -d discoveryfeed.org
 -d ditvl.com
@@ -208,10 +212,12 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
+-d healthylives.today
 -d healthyparker.info
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
@@ -464,7 +470,6 @@ msFilterList
 -d safest4placeupdates.info
 -d scoopswoop.info
 -d score-monitoring.xyz
--d search-tool.net
 -d search-trends.co
 -d sec-alert.xyz
 -d sec-alerts.xyz

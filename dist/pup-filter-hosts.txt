@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 29 Jun 2021 00:03:02 +0000
+# Updated: Tue, 29 Jun 2021 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,12 +13,14 @@
 0.0.0.0 7awwa2.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
+0.0.0.0 adslauchgo.xyz
 0.0.0.0 adtrackingflow.pro
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 animenation.org
+0.0.0.0 anismunre.info
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
@@ -55,6 +57,7 @@
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
+0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
 0.0.0.0 carevision.info
@@ -97,6 +100,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
+0.0.0.0 desixxx.cloud
 0.0.0.0 digitalinvest.news
 0.0.0.0 discoveryfeed.org
 0.0.0.0 ditvl.com
@@ -205,10 +209,12 @@
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
 0.0.0.0 healthyideal.club
+0.0.0.0 healthylives.today
 0.0.0.0 healthyparker.info
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
@@ -461,7 +467,6 @@
 0.0.0.0 safest4placeupdates.info
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
-0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
