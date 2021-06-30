@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 30 Jun 2021 00:02:53 +0000
+# Updated: Wed, 30 Jun 2021 12:02:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -26,6 +26,7 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
