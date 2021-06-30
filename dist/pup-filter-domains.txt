@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 29 Jun 2021 12:03:47 +0000
+# Updated: Wed, 30 Jun 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -95,7 +95,6 @@ dailymedia.site
 dailymedia.space
 dailymedia.surf
 dailymedia.work
-dailyrep.net
 darkview.org
 defensepro.me
 degreenm.top
@@ -126,7 +125,6 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
-finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
@@ -323,12 +321,12 @@ mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
 monitoring-credit.xyz
+movievod.me
 multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
 naughtygirlsshowall.live
 newbuy.xyz
-newsitedowloads.site
 nogfw.pro
 nutrahealth.info
 official-bigwin-national-free.cyou
@@ -462,9 +460,9 @@ runoverly-bestsophisticatedfile.best
 runprogressive-bestmostfile.best
 runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
-safelyonline.tech
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-trends.co
@@ -555,7 +553,6 @@ syncuber-bestrefinedfile.best
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
-technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -585,6 +582,7 @@ trafficbounce.net
 trafficgate.cc
 trafficmind.pro
 trane.fun
+tripleprofit-zone.life
 trktraf.club
 trkvpn.xyz
 trustappstreamsall.digital
@@ -600,6 +598,7 @@ viral-surveys.win
 viralarticles.net
 vital-health.club
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpnprosecurity.me
 vpnsecurity.me
@@ -618,6 +617,7 @@ wellnessgram.info
 wellnessplum.info
 wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
+winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou

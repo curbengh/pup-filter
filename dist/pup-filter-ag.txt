@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 29 Jun 2021 12:03:47 +0000
+! Updated: Wed, 30 Jun 2021 00:02:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -95,7 +95,6 @@
 ||dailymedia.space$all
 ||dailymedia.surf$all
 ||dailymedia.work$all
-||dailyrep.net$all
 ||darkview.org$all
 ||defensepro.me$all
 ||degreenm.top$all
@@ -126,7 +125,6 @@
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -323,12 +321,12 @@
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
+||movievod.me$all
 ||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsitedowloads.site$all
 ||nogfw.pro$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
@@ -462,9 +460,9 @@
 ||runprogressive-bestmostfile.best$all
 ||runrecent-bestextremelyfile.best$all
 ||runrecent-besthighlyfile.best$all
-||safelyonline.tech$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-trends.co$all
@@ -555,7 +553,6 @@
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -585,6 +582,7 @@
 ||trafficgate.cc$all
 ||trafficmind.pro$all
 ||trane.fun$all
+||tripleprofit-zone.life$all
 ||trktraf.club$all
 ||trkvpn.xyz$all
 ||trustappstreamsall.digital$all
@@ -600,6 +598,7 @@
 ||viralarticles.net$all
 ||vital-health.club$all
 ||vpn-pro.info$all
+||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
@@ -618,6 +617,7 @@
 ||wellnessplum.info$all
 ||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
+||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all

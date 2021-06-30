@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 29 Jun 2021 12:03:47 +0000
+# Updated: Wed, 30 Jun 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -98,7 +98,6 @@ msFilterList
 -d dailymedia.space
 -d dailymedia.surf
 -d dailymedia.work
--d dailyrep.net
 -d darkview.org
 -d defensepro.me
 -d degreenm.top
@@ -129,7 +128,6 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisham.site
 -d fisudauh.top
@@ -326,12 +324,12 @@ msFilterList
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
+-d movievod.me
 -d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d naughtygirlsshowall.live
 -d newbuy.xyz
--d newsitedowloads.site
 -d nogfw.pro
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
@@ -465,9 +463,9 @@ msFilterList
 -d runprogressive-bestmostfile.best
 -d runrecent-bestextremelyfile.best
 -d runrecent-besthighlyfile.best
--d safelyonline.tech
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-trends.co
@@ -558,7 +556,6 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -588,6 +585,7 @@ msFilterList
 -d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
+-d tripleprofit-zone.life
 -d trktraf.club
 -d trkvpn.xyz
 -d trustappstreamsall.digital
@@ -603,6 +601,7 @@ msFilterList
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -621,6 +620,7 @@ msFilterList
 -d wellnessplum.info
 -d wherentlybrane.site
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
