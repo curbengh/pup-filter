@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 30 Jun 2021 12:02:50 +0000
+# Updated: Thu, 01 Jul 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
-0.0.0.0 7awwa2.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 adslauchgo.xyz
@@ -27,6 +26,7 @@
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
+0.0.0.0 atwater.org
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
@@ -61,7 +61,6 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
-0.0.0.0 carevision.info
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
 0.0.0.0 check-your-profitzone.life
@@ -96,6 +95,7 @@
 0.0.0.0 dailymedia.space
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
+0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
@@ -126,6 +126,7 @@
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
+0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
@@ -231,6 +232,7 @@
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
+0.0.0.0 ktpyzw.vip
 0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
@@ -244,6 +246,7 @@
 0.0.0.0 lifecaregoal.info
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
+0.0.0.0 ligamedia.club
 0.0.0.0 livehealthcare.today
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
@@ -289,7 +292,6 @@
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
-0.0.0.0 luckjackcasino.info
 0.0.0.0 luckymedia.casa
 0.0.0.0 luckymedia.cyou
 0.0.0.0 luckymedia.fun
@@ -401,11 +403,9 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
-0.0.0.0 plampo.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
-0.0.0.0 primawise.info
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
 0.0.0.0 productiq.net
@@ -433,7 +433,6 @@
 0.0.0.0 recontent.surf
 0.0.0.0 recontent.website
 0.0.0.0 reliablesoftwarevideos.info
-0.0.0.0 renewvideo.website
 0.0.0.0 resignation.top
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
@@ -463,7 +462,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-trends.co
@@ -486,9 +484,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
 0.0.0.0 stickr.co
-0.0.0.0 storeheavily-thefreefile.best
 0.0.0.0 storeheavily-thequickfile.best
-0.0.0.0 storespeedy-theheavilyfile.best
 0.0.0.0 storeswift-theheavilyfile.best
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
@@ -551,9 +547,11 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
+0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -589,7 +587,6 @@
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 uclaimrewards.net
-0.0.0.0 uniremedy.info
 0.0.0.0 unitehealth.club
 0.0.0.0 upplayglobal.xyz
 0.0.0.0 usepro.me
@@ -616,9 +613,7 @@
 0.0.0.0 webtip.co
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
-0.0.0.0 wherentlybrane.site
 0.0.0.0 winnerbigwingiveawaysuper.cyou
-0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwide-prize-giveaway-free.cyou

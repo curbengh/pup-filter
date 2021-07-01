@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 30 Jun 2021 12:02:50 +0000
+! Updated: Thu, 01 Jul 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
-||7awwa2.xyz$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||adslauchgo.xyz$all
@@ -27,6 +26,7 @@
 ||assuredhealth.info$all
 ||asufij.xyz$all
 ||atprofessor.fun$all
+||atwater.org$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
 ||bestappland.me$all
@@ -61,7 +61,6 @@
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
-||carevision.info$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
 ||check-your-profitzone.life$all
@@ -96,6 +95,7 @@
 ||dailymedia.space$all
 ||dailymedia.surf$all
 ||dailymedia.work$all
+||dailyrep.net$all
 ||darkview.org$all
 ||defensepro.me$all
 ||degreenm.top$all
@@ -126,6 +126,7 @@
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
+||finreporter.net$all
 ||firststableplayer.work$all
 ||fisham.site$all
 ||fisudauh.top$all
@@ -231,6 +232,7 @@
 ||kad3md.cn$all
 ||keepithealthy.info$all
 ||ketodietrecipes.org$all
+||ktpyzw.vip$all
 ||leeching.net$all
 ||legendaryplaceupgrade.info$all
 ||legendaryplaceupgrades.info$all
@@ -244,6 +246,7 @@
 ||lifecaregoal.info$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
+||ligamedia.club$all
 ||livehealthcare.today$all
 ||livingmighty.club$all
 ||loadadvancedextremelythefile.vip$all
@@ -289,7 +292,6 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||luckjackcasino.info$all
 ||luckymedia.casa$all
 ||luckymedia.cyou$all
 ||luckymedia.fun$all
@@ -401,11 +403,9 @@
 ||performuber-theoriginalfile.best$all
 ||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
-||plampo.xyz$all
 ||ppploanchoices.site$all
 ||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
-||primawise.info$all
 ||primecare.today$all
 ||privacykeeper.net$all
 ||productiq.net$all
@@ -433,7 +433,6 @@
 ||recontent.surf$all
 ||recontent.website$all
 ||reliablesoftwarevideos.info$all
-||renewvideo.website$all
 ||resignation.top$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -463,7 +462,6 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-trends.co$all
@@ -486,9 +484,7 @@
 ||start-page.one$all
 ||stay-notified.cc$all
 ||stickr.co$all
-||storeheavily-thefreefile.best$all
 ||storeheavily-thequickfile.best$all
-||storespeedy-theheavilyfile.best$all
 ||storeswift-theheavilyfile.best$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
@@ -551,9 +547,11 @@
 ||syncuber-bestprecisefile.best$all
 ||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
+||syncuber-bestsophisticatedfile.best$all
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -589,7 +587,6 @@
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
-||uniremedy.info$all
 ||unitehealth.club$all
 ||upplayglobal.xyz$all
 ||usepro.me$all
@@ -616,9 +613,7 @@
 ||webtip.co$all
 ||wellnessgram.info$all
 ||wellnessplum.info$all
-||wherentlybrane.site$all
 ||winnerbigwingiveawaysuper.cyou$all
-||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all

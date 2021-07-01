@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 30 Jun 2021 12:02:50 +0000
+# Updated: Thu, 01 Jul 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 20patogh.com
 2kddbl.club
 321movies.xyz
-7awwa2.xyz
 abeah-security.xyz
 adrondespi.top
 adslauchgo.xyz
@@ -27,6 +26,7 @@ ashtdi.cn
 assuredhealth.info
 asufij.xyz
 atprofessor.fun
+atwater.org
 auto-lawyer.site
 baseofmp3.com
 bestappland.me
@@ -61,7 +61,6 @@ cabins-r-us.com
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
-carevision.info
 celebseven.com
 centrodeartigos.com
 check-your-profitzone.life
@@ -96,6 +95,7 @@ dailymedia.site
 dailymedia.space
 dailymedia.surf
 dailymedia.work
+dailyrep.net
 darkview.org
 defensepro.me
 degreenm.top
@@ -126,6 +126,7 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
+finreporter.net
 firststableplayer.work
 fisham.site
 fisudauh.top
@@ -231,6 +232,7 @@ jtkszl.vip
 kad3md.cn
 keepithealthy.info
 ketodietrecipes.org
+ktpyzw.vip
 leeching.net
 legendaryplaceupgrade.info
 legendaryplaceupgrades.info
@@ -244,6 +246,7 @@ life-esteem.info
 lifecaregoal.info
 ligamedia.art
 ligamedia.casa
+ligamedia.club
 livehealthcare.today
 livingmighty.club
 loadadvancedextremelythefile.vip
@@ -289,7 +292,6 @@ loosefit.info
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-luckjackcasino.info
 luckymedia.casa
 luckymedia.cyou
 luckymedia.fun
@@ -401,11 +403,9 @@ performstrong-thegreatlyfile.digital
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
-plampo.xyz
 ppploanchoices.site
 premiernursingacademy.org
 preparedforsafeupgrading.work
-primawise.info
 primecare.today
 privacykeeper.net
 productiq.net
@@ -433,7 +433,6 @@ recontent.space
 recontent.surf
 recontent.website
 reliablesoftwarevideos.info
-renewvideo.website
 resignation.top
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
@@ -463,7 +462,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-trends.co
@@ -486,9 +484,7 @@ springplanetf.xyz
 start-page.one
 stay-notified.cc
 stickr.co
-storeheavily-thefreefile.best
 storeheavily-thequickfile.best
-storespeedy-theheavilyfile.best
 storeswift-theheavilyfile.best
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -551,9 +547,11 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
+syncuber-bestsophisticatedfile.best
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -589,7 +587,6 @@ trkvpn.xyz
 trustappstreamsall.digital
 tryoneshot-keto.net
 uclaimrewards.net
-uniremedy.info
 unitehealth.club
 upplayglobal.xyz
 usepro.me
@@ -616,9 +613,7 @@ websitetoget.work
 webtip.co
 wellnessgram.info
 wellnessplum.info
-wherentlybrane.site
 winnerbigwingiveawaysuper.cyou
-winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou

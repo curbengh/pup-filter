@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 30 Jun 2021 12:02:50 +0000
+! Updated: Thu, 01 Jul 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
-||7awwa2.xyz$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||adslauchgo.xyz$document
@@ -27,6 +26,7 @@
 ||assuredhealth.info$document
 ||asufij.xyz$document
 ||atprofessor.fun$document
+||atwater.org$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
 ||bestappland.me$document
@@ -61,7 +61,6 @@
 ||calledbellc.fun$document
 ||care-connection.info$document
 ||careerconnecthub.com$document
-||carevision.info$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
 ||check-your-profitzone.life$document
@@ -96,6 +95,7 @@
 ||dailymedia.space$document
 ||dailymedia.surf$document
 ||dailymedia.work$document
+||dailyrep.net$document
 ||darkview.org$document
 ||defensepro.me$document
 ||degreenm.top$document
@@ -126,6 +126,7 @@
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisham.site$document
 ||fisudauh.top$document
@@ -231,6 +232,7 @@
 ||kad3md.cn$document
 ||keepithealthy.info$document
 ||ketodietrecipes.org$document
+||ktpyzw.vip$document
 ||leeching.net$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
@@ -244,6 +246,7 @@
 ||lifecaregoal.info$document
 ||ligamedia.art$document
 ||ligamedia.casa$document
+||ligamedia.club$document
 ||livehealthcare.today$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
@@ -289,7 +292,6 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
-||luckjackcasino.info$document
 ||luckymedia.casa$document
 ||luckymedia.cyou$document
 ||luckymedia.fun$document
@@ -401,11 +403,9 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
-||plampo.xyz$document
 ||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
-||primawise.info$document
 ||primecare.today$document
 ||privacykeeper.net$document
 ||productiq.net$document
@@ -433,7 +433,6 @@
 ||recontent.surf$document
 ||recontent.website$document
 ||reliablesoftwarevideos.info$document
-||renewvideo.website$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
@@ -463,7 +462,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-trends.co$document
@@ -486,9 +484,7 @@
 ||start-page.one$document
 ||stay-notified.cc$document
 ||stickr.co$document
-||storeheavily-thefreefile.best$document
 ||storeheavily-thequickfile.best$document
-||storespeedy-theheavilyfile.best$document
 ||storeswift-theheavilyfile.best$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -551,9 +547,11 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
+||syncuber-bestsophisticatedfile.best$document
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tdstraffic.xyz$document
+||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -589,7 +587,6 @@
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
-||uniremedy.info$document
 ||unitehealth.club$document
 ||upplayglobal.xyz$document
 ||usepro.me$document
@@ -616,9 +613,7 @@
 ||webtip.co$document
 ||wellnessgram.info$document
 ||wellnessplum.info$document
-||wherentlybrane.site$document
 ||winnerbigwingiveawaysuper.cyou$document
-||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
