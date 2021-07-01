@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 01 Jul 2021 00:02:46 +0000
+! Updated: Thu, 01 Jul 2021 12:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||ashtdi.cn$document
 ||assuredhealth.info$document
 ||asufij.xyz$document
-||atprofessor.fun$document
 ||atwater.org$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
@@ -154,6 +153,7 @@
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
 ||fuck-me-hard.club$document
+||funmapc.xyz$document
 ||funmapd.xyz$document
 ||funsiteb.xyz$document
 ||fwsxqc.cn$document
@@ -214,7 +214,6 @@
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
@@ -224,6 +223,7 @@
 ||installcompletely-theoriginalfile.best$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
+||iosvpnsecure.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
 ||jointingifstrawberry.xyz$document
@@ -320,6 +320,7 @@
 ||medsjournal.info$document
 ||meeryslotspin.xyz$document
 ||mindbank.ai$document
+||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
@@ -368,6 +369,7 @@
 ||operatespeedy-thehighlyfile.best$document
 ||operateuber-thefreefile.best$document
 ||operateuber-theoriginalfile.best$document
+||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
@@ -477,7 +479,6 @@
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
-||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
 ||sorrectionki.space$document
 ||springplanetf.xyz$document

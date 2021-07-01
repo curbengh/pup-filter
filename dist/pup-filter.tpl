@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 01 Jul 2021 00:02:46 +0000
+# Updated: Thu, 01 Jul 2021 12:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,6 @@ msFilterList
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
--d atprofessor.fun
 -d atwater.org
 -d auto-lawyer.site
 -d baseofmp3.com
@@ -157,6 +156,7 @@ msFilterList
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d fuck-me-hard.club
+-d funmapc.xyz
 -d funmapd.xyz
 -d funsiteb.xyz
 -d fwsxqc.cn
@@ -217,7 +217,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
@@ -227,6 +226,7 @@ msFilterList
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
+-d iosvpnsecure.com
 -d isystemupdate.cloud
 -d izipik.com
 -d jointingifstrawberry.xyz
@@ -323,6 +323,7 @@ msFilterList
 -d medsjournal.info
 -d meeryslotspin.xyz
 -d mindbank.ai
+-d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
@@ -371,6 +372,7 @@ msFilterList
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
 -d operateuber-theoriginalfile.best
+-d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
@@ -480,7 +482,6 @@ msFilterList
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
--d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
 -d springplanetf.xyz

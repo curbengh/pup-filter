@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 01 Jul 2021 00:02:46 +0000
+! Updated: Thu, 01 Jul 2021 12:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||ashtdi.cn^
 ||assuredhealth.info^
 ||asufij.xyz^
-||atprofessor.fun^
 ||atwater.org^
 ||auto-lawyer.site^
 ||baseofmp3.com^
@@ -154,6 +153,7 @@
 ||freewareappsstreamfast-best.digital^
 ||freewareappsstreamfastall.digital^
 ||fuck-me-hard.club^
+||funmapc.xyz^
 ||funmapd.xyz^
 ||funsiteb.xyz^
 ||fwsxqc.cn^
@@ -214,7 +214,6 @@
 ||healthyspirit.info^
 ||httqzq.vip^
 ||hypezen.info^
-||ientsillness.fun^
 ||iketo.diet^
 ||inappropriate.top^
 ||incing-marganic.icu^
@@ -224,6 +223,7 @@
 ||installcompletely-theoriginalfile.best^
 ||iosdfnc.com^
 ||iosrecommendedvpn.com^
+||iosvpnsecure.com^
 ||isystemupdate.cloud^
 ||izipik.com^
 ||jointingifstrawberry.xyz^
@@ -320,6 +320,7 @@
 ||medsjournal.info^
 ||meeryslotspin.xyz^
 ||mindbank.ai^
+||mindmatch.ai^
 ||mistraffic.me^
 ||mobileluckywinner.site^
 ||modern-security.xyz^
@@ -368,6 +369,7 @@
 ||operatespeedy-thehighlyfile.best^
 ||operateuber-thefreefile.best^
 ||operateuber-theoriginalfile.best^
+||ouldthepat.fun^
 ||patriothealth.today^
 ||pcsecurity-live.xyz^
 ||performcompletely-thelatestfile.best^
@@ -477,7 +479,6 @@
 ||service-care.space^
 ||settothereliableupgradingnew.work^
 ||shopnsave.world^
-||signupandturnyourscreenoffsafepowernow.date^
 ||smartys.link^
 ||sorrectionki.space^
 ||springplanetf.xyz^
