@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 01 Jul 2021 12:03:09 +0000
+! Updated: Fri, 02 Jul 2021 00:03:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -100,7 +100,6 @@
 ||degreenm.top$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
-||digitalinvest.news$all
 ||discoveryfeed.org$all
 ||ditvl.com$all
 ||dollarsurvey365.online$all
@@ -125,9 +124,7 @@
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
-||fisham.site$all
 ||fisudauh.top$all
 ||fitandstable.club$all
 ||fitcourage.info$all
@@ -153,7 +150,6 @@
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
 ||fuck-me-hard.club$all
-||funmapc.xyz$all
 ||funmapd.xyz$all
 ||funsiteb.xyz$all
 ||fwsxqc.cn$all
@@ -214,7 +210,6 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -223,7 +218,6 @@
 ||installcompletely-theoriginalfile.best$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
-||iosvpnsecure.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
 ||jointingifstrawberry.xyz$all
@@ -243,7 +237,6 @@
 ||legendaryvideoupgrades.info$all
 ||legendaryvideoupgrading.info$all
 ||life-esteem.info$all
-||lifecaregoal.info$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -305,7 +298,6 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
-||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -411,6 +403,7 @@
 ||primecare.today$all
 ||privacykeeper.net$all
 ||productiq.net$all
+||profitsurvey365.org$all
 ||prohealthroutine.info$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -464,6 +457,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-trends.co$all
@@ -484,7 +478,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||storeheavily-thequickfile.best$all
 ||storeswift-theheavilyfile.best$all
 ||streamadvanced-bestcompletelyfile.best$all
@@ -589,6 +582,7 @@
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
+||updatefix.xyz$all
 ||upplayglobal.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
@@ -602,7 +596,6 @@
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
-||vpntool.me$all
 ||vpnupdatesnow.com$all
 ||watchadvanced-bestgreatlyfile.best$all
 ||watchgreatly-bestcurrentfile.best$all
@@ -615,6 +608,7 @@
 ||wellnessgram.info$all
 ||wellnessplum.info$all
 ||winnerbigwingiveawaysuper.cyou$all
+||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all

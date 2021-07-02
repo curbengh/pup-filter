@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 01 Jul 2021 12:03:09 +0000
+# Updated: Fri, 02 Jul 2021 00:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -103,7 +103,6 @@ msFilterList
 -d degreenm.top
 -d delightcmain.xyz
 -d desixxx.cloud
--d digitalinvest.news
 -d discoveryfeed.org
 -d ditvl.com
 -d dollarsurvey365.online
@@ -128,9 +127,7 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
--d fisham.site
 -d fisudauh.top
 -d fitandstable.club
 -d fitcourage.info
@@ -156,7 +153,6 @@ msFilterList
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d fuck-me-hard.club
--d funmapc.xyz
 -d funmapd.xyz
 -d funsiteb.xyz
 -d fwsxqc.cn
@@ -217,7 +213,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -226,7 +221,6 @@ msFilterList
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
--d iosvpnsecure.com
 -d isystemupdate.cloud
 -d izipik.com
 -d jointingifstrawberry.xyz
@@ -246,7 +240,6 @@ msFilterList
 -d legendaryvideoupgrades.info
 -d legendaryvideoupgrading.info
 -d life-esteem.info
--d lifecaregoal.info
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -308,7 +301,6 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -414,6 +406,7 @@ msFilterList
 -d primecare.today
 -d privacykeeper.net
 -d productiq.net
+-d profitsurvey365.org
 -d prohealthroutine.info
 -d proprotect.me
 -d prosecurityvpn.me
@@ -467,6 +460,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-trends.co
@@ -487,7 +481,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d storeheavily-thequickfile.best
 -d storeswift-theheavilyfile.best
 -d streamadvanced-bestcompletelyfile.best
@@ -592,6 +585,7 @@ msFilterList
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d unitehealth.club
+-d updatefix.xyz
 -d upplayglobal.xyz
 -d usepro.me
 -d useprovpn.me
@@ -605,7 +599,6 @@ msFilterList
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
--d vpntool.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
 -d watchgreatly-bestcurrentfile.best
@@ -618,6 +611,7 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou

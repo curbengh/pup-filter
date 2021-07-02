@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 01 Jul 2021 12:03:09 +0000
+# Updated: Fri, 02 Jul 2021 00:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -100,7 +100,6 @@
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
-0.0.0.0 digitalinvest.news
 0.0.0.0 discoveryfeed.org
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
@@ -125,9 +124,7 @@
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
-0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
-0.0.0.0 fisham.site
 0.0.0.0 fisudauh.top
 0.0.0.0 fitandstable.club
 0.0.0.0 fitcourage.info
@@ -153,7 +150,6 @@
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 fuck-me-hard.club
-0.0.0.0 funmapc.xyz
 0.0.0.0 funmapd.xyz
 0.0.0.0 funsiteb.xyz
 0.0.0.0 fwsxqc.cn
@@ -214,7 +210,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -223,7 +218,6 @@
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
-0.0.0.0 iosvpnsecure.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
 0.0.0.0 jointingifstrawberry.xyz
@@ -243,7 +237,6 @@
 0.0.0.0 legendaryvideoupgrades.info
 0.0.0.0 legendaryvideoupgrading.info
 0.0.0.0 life-esteem.info
-0.0.0.0 lifecaregoal.info
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
@@ -305,7 +298,6 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -411,6 +403,7 @@
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
 0.0.0.0 productiq.net
+0.0.0.0 profitsurvey365.org
 0.0.0.0 prohealthroutine.info
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -464,6 +457,7 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-trends.co
@@ -484,7 +478,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
-0.0.0.0 stickr.co
 0.0.0.0 storeheavily-thequickfile.best
 0.0.0.0 storeswift-theheavilyfile.best
 0.0.0.0 streamadvanced-bestcompletelyfile.best
@@ -589,6 +582,7 @@
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
+0.0.0.0 updatefix.xyz
 0.0.0.0 upplayglobal.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
@@ -602,7 +596,6 @@
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
-0.0.0.0 vpntool.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchadvanced-bestgreatlyfile.best
 0.0.0.0 watchgreatly-bestcurrentfile.best
@@ -615,6 +608,7 @@
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 winnerbigwingiveawaysuper.cyou
+0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwide-prize-giveaway-free.cyou

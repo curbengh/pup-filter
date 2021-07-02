@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 01 Jul 2021 12:03:09 +0000
+! Updated: Fri, 02 Jul 2021 00:03:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -100,7 +100,6 @@ defensepro.me
 degreenm.top
 delightcmain.xyz
 desixxx.cloud
-digitalinvest.news
 discoveryfeed.org
 ditvl.com
 dollarsurvey365.online
@@ -125,9 +124,7 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
-finreporter.net
 firststableplayer.work
-fisham.site
 fisudauh.top
 fitandstable.club
 fitcourage.info
@@ -153,7 +150,6 @@ freeperfectupgrading.work
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 fuck-me-hard.club
-funmapc.xyz
 funmapd.xyz
 funsiteb.xyz
 fwsxqc.cn
@@ -214,7 +210,6 @@ healthyparker.info
 healthyspirit.info
 httqzq.vip
 hypezen.info
-iketo.diet
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -223,7 +218,6 @@ instablog.club
 installcompletely-theoriginalfile.best
 iosdfnc.com
 iosrecommendedvpn.com
-iosvpnsecure.com
 isystemupdate.cloud
 izipik.com
 jointingifstrawberry.xyz
@@ -243,7 +237,6 @@ legendaryvideoupgrade.info
 legendaryvideoupgrades.info
 legendaryvideoupgrading.info
 life-esteem.info
-lifecaregoal.info
 ligamedia.art
 ligamedia.casa
 ligamedia.club
@@ -305,7 +298,6 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -411,6 +403,7 @@ preparedforsafeupgrading.work
 primecare.today
 privacykeeper.net
 productiq.net
+profitsurvey365.org
 prohealthroutine.info
 proprotect.me
 prosecurityvpn.me
@@ -464,6 +457,7 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-trends.co
@@ -484,7 +478,6 @@ sorrectionki.space
 springplanetf.xyz
 start-page.one
 stay-notified.cc
-stickr.co
 storeheavily-thequickfile.best
 storeswift-theheavilyfile.best
 streamadvanced-bestcompletelyfile.best
@@ -589,6 +582,7 @@ trustappstreamsall.digital
 tryoneshot-keto.net
 uclaimrewards.net
 unitehealth.club
+updatefix.xyz
 upplayglobal.xyz
 usepro.me
 useprovpn.me
@@ -602,7 +596,6 @@ vpnadefenceplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me
-vpntool.me
 vpnupdatesnow.com
 watchadvanced-bestgreatlyfile.best
 watchgreatly-bestcurrentfile.best
@@ -615,6 +608,7 @@ webtip.co
 wellnessgram.info
 wellnessplum.info
 winnerbigwingiveawaysuper.cyou
+winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
