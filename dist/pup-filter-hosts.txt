@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 02 Jul 2021 00:03:20 +0000
+# Updated: Fri, 02 Jul 2021 12:03:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
-0.0.0.0 adslauchgo.xyz
 0.0.0.0 adtrackingflow.pro
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
