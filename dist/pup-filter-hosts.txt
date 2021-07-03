@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 03 Jul 2021 00:03:02 +0000
+# Updated: Sat, 03 Jul 2021 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
@@ -213,7 +214,6 @@
 0.0.0.0 hypezen.info
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
-0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 instablog.club
@@ -325,7 +325,6 @@
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 naughtygirlsshowall.live
-0.0.0.0 newbuy.xyz
 0.0.0.0 nogfw.pro
 0.0.0.0 nutrahealth.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -475,6 +474,7 @@
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
+0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
 0.0.0.0 springplanetf.xyz

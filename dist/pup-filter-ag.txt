@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 03 Jul 2021 00:03:02 +0000
+! Updated: Sat, 03 Jul 2021 12:02:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@
 ||ashtdi.cn$all
 ||assuredhealth.info$all
 ||asufij.xyz$all
+||atprofessor.fun$all
 ||atwater.org$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
@@ -213,7 +214,6 @@
 ||hypezen.info$all
 ||iketo.diet$all
 ||inappropriate.top$all
-||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
 ||instablog.club$all
@@ -325,7 +325,6 @@
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
-||newbuy.xyz$all
 ||nogfw.pro$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
@@ -475,6 +474,7 @@
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
+||signupandturnyourscreenoffsafepowernow.date$all
 ||smartys.link$all
 ||sorrectionki.space$all
 ||springplanetf.xyz$all
