@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 02 Jul 2021 12:03:11 +0000
+# Updated: Sat, 03 Jul 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@ msFilterList
 -d amateurxporn.com
 -d amobil.online
 -d animenation.org
--d anismunre.info
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -64,6 +63,7 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -98,6 +98,7 @@ msFilterList
 -d dailymedia.work
 -d dailyrep.net
 -d darkview.org
+-d dealmedia.xyz
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
@@ -106,6 +107,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -126,6 +128,7 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisudauh.top
 -d fitandstable.club
@@ -208,10 +211,10 @@ msFilterList
 -d healthwella.club
 -d healthyideal.club
 -d healthylives.today
--d healthyparker.info
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
+-d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -300,6 +303,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -459,7 +463,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-trends.co
@@ -480,8 +483,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d storeheavily-thequickfile.best
--d storeswift-theheavilyfile.best
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -571,7 +572,6 @@ msFilterList
 -d toolvpn.me
 -d toovolution.club
 -d topnotchsports.tips
--d track-app.club
 -d track4ast.icu
 -d trafficbounce.net
 -d trafficgate.cc
@@ -593,7 +593,6 @@ msFilterList
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me

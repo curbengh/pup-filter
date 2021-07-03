@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 02 Jul 2021 12:03:11 +0000
+! Updated: Sat, 03 Jul 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||amateurxporn.com^
 ||amobil.online^
 ||animenation.org^
-||anismunre.info^
 ||apptool.me^
 ||armorprovpn.me^
 ||ashtdi.cn^
@@ -61,6 +60,7 @@
 ||careerconnecthub.com^
 ||celebseven.com^
 ||centrodeartigos.com^
+||chatverse.net^
 ||check-your-profitzone.life^
 ||cloudmedia.casa^
 ||cloudmedia.cyou^
@@ -95,6 +95,7 @@
 ||dailymedia.work^
 ||dailyrep.net^
 ||darkview.org^
+||dealmedia.xyz^
 ||defensepro.me^
 ||degreenm.top^
 ||delightcmain.xyz^
@@ -103,6 +104,7 @@
 ||ditvl.com^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
+||dollarsurvey366.org^
 ||dragonballclub.com^
 ||eanswers.net^
 ||earlyprogress.info^
@@ -123,6 +125,7 @@
 ||findperfectplaces2download.work^
 ||findperfectplaces4download.work^
 ||findyourultimateplayersfirst.best^
+||finreporter.net^
 ||firststableplayer.work^
 ||fisudauh.top^
 ||fitandstable.club^
@@ -205,10 +208,10 @@
 ||healthwella.club^
 ||healthyideal.club^
 ||healthylives.today^
-||healthyparker.info^
 ||healthyspirit.info^
 ||httqzq.vip^
 ||hypezen.info^
+||iketo.diet^
 ||inappropriate.top^
 ||incing-marganic.icu^
 ||incrediblebuzz.info^
@@ -297,6 +300,7 @@
 ||manageuber-thestrongfile.best^
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
+||mathison.io^
 ||mediaevent.club^
 ||mediaevent.uno^
 ||mediagate.casa^
@@ -456,7 +460,6 @@
 ||runrecent-besthighlyfile.best^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
-||savagegrowplus.net^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||search-trends.co^
@@ -477,8 +480,6 @@
 ||springplanetf.xyz^
 ||start-page.one^
 ||stay-notified.cc^
-||storeheavily-thequickfile.best^
-||storeswift-theheavilyfile.best^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
@@ -568,7 +569,6 @@
 ||toolvpn.me^
 ||toovolution.club^
 ||topnotchsports.tips^
-||track-app.club^
 ||track4ast.icu^
 ||trafficbounce.net^
 ||trafficgate.cc^
@@ -590,7 +590,6 @@
 ||viralarticles.net^
 ||vital-health.club^
 ||vpn-pro.info^
-||vpn1aprotectplus.com^
 ||vpnadefenceplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^

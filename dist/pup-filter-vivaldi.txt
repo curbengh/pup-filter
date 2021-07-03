@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 02 Jul 2021 12:03:11 +0000
+! Updated: Sat, 03 Jul 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||amateurxporn.com$document
 ||amobil.online$document
 ||animenation.org$document
-||anismunre.info$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -61,6 +60,7 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -95,6 +95,7 @@
 ||dailymedia.work$document
 ||dailyrep.net$document
 ||darkview.org$document
+||dealmedia.xyz$document
 ||defensepro.me$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
@@ -103,6 +104,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
@@ -123,6 +125,7 @@
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
+||finreporter.net$document
 ||firststableplayer.work$document
 ||fisudauh.top$document
 ||fitandstable.club$document
@@ -205,10 +208,10 @@
 ||healthwella.club$document
 ||healthyideal.club$document
 ||healthylives.today$document
-||healthyparker.info$document
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -297,6 +300,7 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -456,7 +460,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-trends.co$document
@@ -477,8 +480,6 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||storeheavily-thequickfile.best$document
-||storeswift-theheavilyfile.best$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -568,7 +569,6 @@
 ||toolvpn.me$document
 ||toovolution.club$document
 ||topnotchsports.tips$document
-||track-app.club$document
 ||track4ast.icu$document
 ||trafficbounce.net$document
 ||trafficgate.cc$document
@@ -590,7 +590,6 @@
 ||viralarticles.net$document
 ||vital-health.club$document
 ||vpn-pro.info$document
-||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
