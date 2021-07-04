@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 04 Jul 2021 00:02:46 +0000
+! Updated: Sun, 04 Jul 2021 12:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -174,7 +174,6 @@
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
-||grandencryptions.me$all
 ||growthnetic.club$all
 ||hailso.xyz$all
 ||happyactive.today$all
@@ -208,6 +207,7 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
+||ientsillness.fun$all
 ||iketo.diet$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
@@ -354,7 +354,6 @@
 ||operatesophisticated-theoverlyfile.best$all
 ||operatespeedy-thehighlyfile.best$all
 ||operateuber-thefreefile.best$all
-||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
@@ -452,6 +451,7 @@
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
+||search-tool.net$all
 ||search-trends.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
