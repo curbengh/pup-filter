@@ -1,18 +1,18 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 03 Jul 2021 12:02:25 +0000
+# Updated: Sun, 04 Jul 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
+-d 4upgradingstablesafe.work
 -d abeah-security.xyz
 -d adrondespi.top
 -d adtrackingflow.pro
@@ -64,7 +64,6 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -81,7 +80,6 @@ msFilterList
 -d contentgate.fun
 -d contentgate.uno
 -d cooing.top
--d credit-alerts.xyz
 -d credit-monitor.xyz
 -d credit-resources.xyz
 -d cryptotilt.club
@@ -108,7 +106,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
--d dollarsurvey366.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -169,7 +166,6 @@ msFilterList
 -d gladvideo.fun
 -d gladvideo.online
 -d gladvideo.site
--d gladvideo.surf
 -d gladvideo.website
 -d global-info.space
 -d go-x34n7wbcoes-ok.live
@@ -181,6 +177,7 @@ msFilterList
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
+-d grandencryptions.me
 -d growthnetic.club
 -d hailso.xyz
 -d happyactive.today
@@ -199,7 +196,6 @@ msFilterList
 -d healthneo.club
 -d healthomega.club
 -d healthready.info
--d healthreportsweb.info
 -d healthreward.info
 -d healthscale.club
 -d healthschedule.club
@@ -323,12 +319,9 @@ msFilterList
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
--d movievod.me
--d multitax.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d naughtygirlsshowall.live
--d nogfw.pro
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -338,7 +331,6 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
--d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -365,7 +357,6 @@ msFilterList
 -d operatesophisticated-theoverlyfile.best
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
--d operateuber-theoriginalfile.best
 -d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
@@ -407,7 +398,6 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d profitsurvey365.org
 -d prohealthroutine.info
 -d proprotect.me
@@ -462,6 +452,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-trends.co
@@ -548,7 +539,6 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -560,7 +550,6 @@ msFilterList
 -d thehealthcycle.club
 -d thehealthgo.info
 -d thehealthystyle.info
--d thehealthyvibe.info
 -d thehotshot.info
 -d thenewjourney.info
 -d thesafestplayerlinks.work
@@ -589,10 +578,10 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d viral-surveys.win
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me

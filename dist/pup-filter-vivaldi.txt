@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 03 Jul 2021 12:02:25 +0000
+! Updated: Sun, 04 Jul 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
+||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
 ||adtrackingflow.pro$document
@@ -61,7 +61,6 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -78,7 +77,6 @@
 ||contentgate.fun$document
 ||contentgate.uno$document
 ||cooing.top$document
-||credit-alerts.xyz$document
 ||credit-monitor.xyz$document
 ||credit-resources.xyz$document
 ||cryptotilt.club$document
@@ -105,7 +103,6 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
-||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
@@ -166,7 +163,6 @@
 ||gladvideo.fun$document
 ||gladvideo.online$document
 ||gladvideo.site$document
-||gladvideo.surf$document
 ||gladvideo.website$document
 ||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
@@ -178,6 +174,7 @@
 ||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
+||grandencryptions.me$document
 ||growthnetic.club$document
 ||hailso.xyz$document
 ||happyactive.today$document
@@ -196,7 +193,6 @@
 ||healthneo.club$document
 ||healthomega.club$document
 ||healthready.info$document
-||healthreportsweb.info$document
 ||healthreward.info$document
 ||healthscale.club$document
 ||healthschedule.club$document
@@ -320,12 +316,9 @@
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
-||movievod.me$document
-||multitax.xyz$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||naughtygirlsshowall.live$document
-||nogfw.pro$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
@@ -335,7 +328,6 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -362,7 +354,6 @@
 ||operatesophisticated-theoverlyfile.best$document
 ||operatespeedy-thehighlyfile.best$document
 ||operateuber-thefreefile.best$document
-||operateuber-theoriginalfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
@@ -404,7 +395,6 @@
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
-||productiq.net$document
 ||profitsurvey365.org$document
 ||prohealthroutine.info$document
 ||proprotect.me$document
@@ -459,6 +449,7 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-trends.co$document
@@ -545,7 +536,6 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tdstraffic.xyz$document
-||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -557,7 +547,6 @@
 ||thehealthcycle.club$document
 ||thehealthgo.info$document
 ||thehealthystyle.info$document
-||thehealthyvibe.info$document
 ||thehotshot.info$document
 ||thenewjourney.info$document
 ||thesafestplayerlinks.work$document
@@ -586,10 +575,10 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||viral-surveys.win$document
 ||viralarticles.net$document
 ||vital-health.club$document
 ||vpn-pro.info$document
+||vpn1aprotectplus.com$document
 ||vpnadefenceplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document

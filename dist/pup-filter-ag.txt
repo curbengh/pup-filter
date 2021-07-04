@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 03 Jul 2021 12:02:25 +0000
+! Updated: Sun, 04 Jul 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
 ||321movies.xyz$all
+||4upgradingstablesafe.work$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
 ||adtrackingflow.pro$all
@@ -61,7 +61,6 @@
 ||careerconnecthub.com$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -78,7 +77,6 @@
 ||contentgate.fun$all
 ||contentgate.uno$all
 ||cooing.top$all
-||credit-alerts.xyz$all
 ||credit-monitor.xyz$all
 ||credit-resources.xyz$all
 ||cryptotilt.club$all
@@ -105,7 +103,6 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||earlyprogress.info$all
@@ -166,7 +163,6 @@
 ||gladvideo.fun$all
 ||gladvideo.online$all
 ||gladvideo.site$all
-||gladvideo.surf$all
 ||gladvideo.website$all
 ||global-info.space$all
 ||go-x34n7wbcoes-ok.live$all
@@ -178,6 +174,7 @@
 ||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
+||grandencryptions.me$all
 ||growthnetic.club$all
 ||hailso.xyz$all
 ||happyactive.today$all
@@ -196,7 +193,6 @@
 ||healthneo.club$all
 ||healthomega.club$all
 ||healthready.info$all
-||healthreportsweb.info$all
 ||healthreward.info$all
 ||healthscale.club$all
 ||healthschedule.club$all
@@ -320,12 +316,9 @@
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
-||movievod.me$all
-||multitax.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
-||nogfw.pro$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -335,7 +328,6 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -362,7 +354,6 @@
 ||operatesophisticated-theoverlyfile.best$all
 ||operatespeedy-thehighlyfile.best$all
 ||operateuber-thefreefile.best$all
-||operateuber-theoriginalfile.best$all
 ||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcsecurity-live.xyz$all
@@ -404,7 +395,6 @@
 ||preparedforsafeupgrading.work$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||profitsurvey365.org$all
 ||prohealthroutine.info$all
 ||proprotect.me$all
@@ -459,6 +449,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-trends.co$all
@@ -545,7 +536,6 @@
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -557,7 +547,6 @@
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
 ||thehealthystyle.info$all
-||thehealthyvibe.info$all
 ||thehotshot.info$all
 ||thenewjourney.info$all
 ||thesafestplayerlinks.work$all
@@ -586,10 +575,10 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||viral-surveys.win$all
 ||viralarticles.net$all
 ||vital-health.club$all
 ||vpn-pro.info$all
+||vpn1aprotectplus.com$all
 ||vpnadefenceplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all

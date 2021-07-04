@@ -1,15 +1,15 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 03 Jul 2021 12:02:25 +0000
+# Updated: Sun, 04 Jul 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 1browser.co
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
+0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
 0.0.0.0 adtrackingflow.pro
@@ -61,7 +61,6 @@
 0.0.0.0 careerconnecthub.com
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
@@ -78,7 +77,6 @@
 0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
-0.0.0.0 credit-alerts.xyz
 0.0.0.0 credit-monitor.xyz
 0.0.0.0 credit-resources.xyz
 0.0.0.0 cryptotilt.club
@@ -105,7 +103,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
-0.0.0.0 dollarsurvey366.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
@@ -166,7 +163,6 @@
 0.0.0.0 gladvideo.fun
 0.0.0.0 gladvideo.online
 0.0.0.0 gladvideo.site
-0.0.0.0 gladvideo.surf
 0.0.0.0 gladvideo.website
 0.0.0.0 global-info.space
 0.0.0.0 go-x34n7wbcoes-ok.live
@@ -178,6 +174,7 @@
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
+0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 happyactive.today
@@ -196,7 +193,6 @@
 0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
 0.0.0.0 healthready.info
-0.0.0.0 healthreportsweb.info
 0.0.0.0 healthreward.info
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
@@ -320,12 +316,9 @@
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
-0.0.0.0 movievod.me
-0.0.0.0 multitax.xyz
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 naughtygirlsshowall.live
-0.0.0.0 nogfw.pro
 0.0.0.0 nutrahealth.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
@@ -335,7 +328,6 @@
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
@@ -362,7 +354,6 @@
 0.0.0.0 operatesophisticated-theoverlyfile.best
 0.0.0.0 operatespeedy-thehighlyfile.best
 0.0.0.0 operateuber-thefreefile.best
-0.0.0.0 operateuber-theoriginalfile.best
 0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
@@ -404,7 +395,6 @@
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
-0.0.0.0 productiq.net
 0.0.0.0 profitsurvey365.org
 0.0.0.0 prohealthroutine.info
 0.0.0.0 proprotect.me
@@ -459,6 +449,7 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-trends.co
@@ -545,7 +536,6 @@
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
-0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info
@@ -557,7 +547,6 @@
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
 0.0.0.0 thehealthystyle.info
-0.0.0.0 thehealthyvibe.info
 0.0.0.0 thehotshot.info
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestplayerlinks.work
@@ -586,10 +575,10 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 viral-surveys.win
 0.0.0.0 viralarticles.net
 0.0.0.0 vital-health.club
 0.0.0.0 vpn-pro.info
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me

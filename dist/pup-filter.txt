@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 03 Jul 2021 12:02:25 +0000
+! Updated: Sun, 04 Jul 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 1browser.co
 20patogh.com
 2kddbl.club
 321movies.xyz
+4upgradingstablesafe.work
 abeah-security.xyz
 adrondespi.top
 adtrackingflow.pro
@@ -61,7 +61,6 @@ care-connection.info
 careerconnecthub.com
 celebseven.com
 centrodeartigos.com
-chatverse.net
 check-your-profitzone.life
 cloudmedia.casa
 cloudmedia.cyou
@@ -78,7 +77,6 @@ contentgate.club
 contentgate.fun
 contentgate.uno
 cooing.top
-credit-alerts.xyz
 credit-monitor.xyz
 credit-resources.xyz
 cryptotilt.club
@@ -105,7 +103,6 @@ discoveryfeed.org
 ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
-dollarsurvey366.org
 dragonballclub.com
 eanswers.net
 earlyprogress.info
@@ -166,7 +163,6 @@ gladspaceplane.xyz
 gladvideo.fun
 gladvideo.online
 gladvideo.site
-gladvideo.surf
 gladvideo.website
 global-info.space
 go-x34n7wbcoes-ok.live
@@ -178,6 +174,7 @@ googsistem.live
 govpshosting.com
 graburprize.net
 gramp.xyz
+grandencryptions.me
 growthnetic.club
 hailso.xyz
 happyactive.today
@@ -196,7 +193,6 @@ healthmarlin.club
 healthneo.club
 healthomega.club
 healthready.info
-healthreportsweb.info
 healthreward.info
 healthscale.club
 healthschedule.club
@@ -320,12 +316,9 @@ mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
 monitoring-credit.xyz
-movievod.me
-multitax.xyz
 my-credit-score.xyz
 mynutriplan.co
 naughtygirlsshowall.live
-nogfw.pro
 nutrahealth.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -335,7 +328,6 @@ oldharper.xyz
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
-onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -362,7 +354,6 @@ operaterenewed-theextremelyfile.best
 operatesophisticated-theoverlyfile.best
 operatespeedy-thehighlyfile.best
 operateuber-thefreefile.best
-operateuber-theoriginalfile.best
 ouldthepat.fun
 patriothealth.today
 pcsecurity-live.xyz
@@ -404,7 +395,6 @@ premiernursingacademy.org
 preparedforsafeupgrading.work
 primecare.today
 privacykeeper.net
-productiq.net
 profitsurvey365.org
 prohealthroutine.info
 proprotect.me
@@ -459,6 +449,7 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-trends.co
@@ -545,7 +536,6 @@ syncuber-bestsophisticatedfile.best
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
-technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
@@ -557,7 +547,6 @@ thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
 thehealthystyle.info
-thehealthyvibe.info
 thehotshot.info
 thenewjourney.info
 thesafestplayerlinks.work
@@ -586,10 +575,10 @@ upplayglobal.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
-viral-surveys.win
 viralarticles.net
 vital-health.club
 vpn-pro.info
+vpn1aprotectplus.com
 vpnadefenceplus.com
 vpnprosecurity.me
 vpnsecurity.me
