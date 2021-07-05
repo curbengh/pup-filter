@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 04 Jul 2021 12:02:43 +0000
+! Updated: Mon, 05 Jul 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
@@ -16,7 +17,6 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
-||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||armorprovpn.me$all
@@ -103,6 +103,7 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
+||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||earlyprogress.info$all
@@ -234,7 +235,6 @@
 ||legendaryvideoupgrade.info$all
 ||legendaryvideoupgrades.info$all
 ||legendaryvideoupgrading.info$all
-||life-esteem.info$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -316,6 +316,7 @@
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
 ||monitoring-credit.xyz$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
@@ -328,6 +329,7 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -342,9 +344,7 @@
 ||operatehighly-thestrongfile.best$all
 ||operateintensely-theprogressivefile.best$all
 ||operateintensely-thestrongfile.best$all
-||operatenewest-theuberfile.best$all
 ||operateoriginal-themostfile.best$all
-||operateoriginal-theuberfile.best$all
 ||operateoverly-thesophisticatedfile.best$all
 ||operateprecise-thecompletelyfile.best$all
 ||operateprogressive-theintenselyfile.best$all
@@ -394,8 +394,8 @@
 ||preparedforsafeupgrading.work$all
 ||primecare.today$all
 ||privacykeeper.net$all
+||productiq.net$all
 ||profitsurvey365.org$all
-||prohealthroutine.info$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
 ||protect-connection.com$all
@@ -448,7 +448,6 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
@@ -471,6 +470,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -496,7 +496,6 @@
 ||subeamy.pw$all
 ||sudoo.net$all
 ||sugar-legal-about13.fun$all
-||superiorcare.info$all
 ||superplace4upgrade.work$all
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
@@ -536,6 +535,7 @@
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all

@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 04 Jul 2021 12:02:43 +0000
+# Updated: Mon, 05 Jul 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -19,7 +20,6 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
 -d animenation.org
 -d apptool.me
 -d armorprovpn.me
@@ -106,6 +106,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -237,7 +238,6 @@ msFilterList
 -d legendaryvideoupgrade.info
 -d legendaryvideoupgrades.info
 -d legendaryvideoupgrading.info
--d life-esteem.info
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -319,6 +319,7 @@ msFilterList
 -d mobileluckywinner.site
 -d modern-security.xyz
 -d monitoring-credit.xyz
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d naughtygirlsshowall.live
@@ -331,6 +332,7 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -345,9 +347,7 @@ msFilterList
 -d operatehighly-thestrongfile.best
 -d operateintensely-theprogressivefile.best
 -d operateintensely-thestrongfile.best
--d operatenewest-theuberfile.best
 -d operateoriginal-themostfile.best
--d operateoriginal-theuberfile.best
 -d operateoverly-thesophisticatedfile.best
 -d operateprecise-thecompletelyfile.best
 -d operateprogressive-theintenselyfile.best
@@ -397,8 +397,8 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
+-d productiq.net
 -d profitsurvey365.org
--d prohealthroutine.info
 -d proprotect.me
 -d prosecurityvpn.me
 -d protect-connection.com
@@ -451,7 +451,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -474,6 +473,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -499,7 +499,6 @@ msFilterList
 -d subeamy.pw
 -d sudoo.net
 -d sugar-legal-about13.fun
--d superiorcare.info
 -d superplace4upgrade.work
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
@@ -539,6 +538,7 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
+-d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info

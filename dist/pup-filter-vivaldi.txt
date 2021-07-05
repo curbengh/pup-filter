@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 04 Jul 2021 12:02:43 +0000
+! Updated: Mon, 05 Jul 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -16,7 +17,6 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
 ||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
@@ -103,6 +103,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
@@ -234,7 +235,6 @@
 ||legendaryvideoupgrade.info$document
 ||legendaryvideoupgrades.info$document
 ||legendaryvideoupgrading.info$document
-||life-esteem.info$document
 ||ligamedia.art$document
 ||ligamedia.casa$document
 ||ligamedia.club$document
@@ -316,6 +316,7 @@
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
 ||monitoring-credit.xyz$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||naughtygirlsshowall.live$document
@@ -328,6 +329,7 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -342,9 +344,7 @@
 ||operatehighly-thestrongfile.best$document
 ||operateintensely-theprogressivefile.best$document
 ||operateintensely-thestrongfile.best$document
-||operatenewest-theuberfile.best$document
 ||operateoriginal-themostfile.best$document
-||operateoriginal-theuberfile.best$document
 ||operateoverly-thesophisticatedfile.best$document
 ||operateprecise-thecompletelyfile.best$document
 ||operateprogressive-theintenselyfile.best$document
@@ -394,8 +394,8 @@
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
+||productiq.net$document
 ||profitsurvey365.org$document
-||prohealthroutine.info$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
 ||protect-connection.com$document
@@ -448,7 +448,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-tool.net$document
@@ -471,6 +470,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -496,7 +496,6 @@
 ||subeamy.pw$document
 ||sudoo.net$document
 ||sugar-legal-about13.fun$document
-||superiorcare.info$document
 ||superplace4upgrade.work$document
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
@@ -536,6 +535,7 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tdstraffic.xyz$document
+||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document

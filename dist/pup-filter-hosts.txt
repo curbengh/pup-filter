@@ -1,10 +1,11 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 04 Jul 2021 12:02:43 +0000
+# Updated: Mon, 05 Jul 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 1browser.co
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
@@ -16,7 +17,6 @@
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amateurxporn.com
-0.0.0.0 amobil.online
 0.0.0.0 animenation.org
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
@@ -103,6 +103,7 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
+0.0.0.0 dollarsurvey366.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
@@ -234,7 +235,6 @@
 0.0.0.0 legendaryvideoupgrade.info
 0.0.0.0 legendaryvideoupgrades.info
 0.0.0.0 legendaryvideoupgrading.info
-0.0.0.0 life-esteem.info
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
@@ -316,6 +316,7 @@
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
 0.0.0.0 monitoring-credit.xyz
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 naughtygirlsshowall.live
@@ -328,6 +329,7 @@
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
+0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
@@ -342,9 +344,7 @@
 0.0.0.0 operatehighly-thestrongfile.best
 0.0.0.0 operateintensely-theprogressivefile.best
 0.0.0.0 operateintensely-thestrongfile.best
-0.0.0.0 operatenewest-theuberfile.best
 0.0.0.0 operateoriginal-themostfile.best
-0.0.0.0 operateoriginal-theuberfile.best
 0.0.0.0 operateoverly-thesophisticatedfile.best
 0.0.0.0 operateprecise-thecompletelyfile.best
 0.0.0.0 operateprogressive-theintenselyfile.best
@@ -394,8 +394,8 @@
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
+0.0.0.0 productiq.net
 0.0.0.0 profitsurvey365.org
-0.0.0.0 prohealthroutine.info
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-connection.com
@@ -448,7 +448,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-tool.net
@@ -471,6 +470,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -496,7 +496,6 @@
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
 0.0.0.0 sugar-legal-about13.fun
-0.0.0.0 superiorcare.info
 0.0.0.0 superplace4upgrade.work
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
@@ -536,6 +535,7 @@
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 theable.me
 0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thebettercleanplayers.info

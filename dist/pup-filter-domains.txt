@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 04 Jul 2021 12:02:43 +0000
+# Updated: Mon, 05 Jul 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+123news.website
 1browser.co
 20patogh.com
 2kddbl.club
@@ -16,7 +17,6 @@ adtrackingflow.pro
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
 animenation.org
 apptool.me
 armorprovpn.me
@@ -103,6 +103,7 @@ discoveryfeed.org
 ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
+dollarsurvey366.org
 dragonballclub.com
 eanswers.net
 earlyprogress.info
@@ -234,7 +235,6 @@ legendarysiteupgrading.work
 legendaryvideoupgrade.info
 legendaryvideoupgrades.info
 legendaryvideoupgrading.info
-life-esteem.info
 ligamedia.art
 ligamedia.casa
 ligamedia.club
@@ -316,6 +316,7 @@ mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
 monitoring-credit.xyz
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 naughtygirlsshowall.live
@@ -328,6 +329,7 @@ oldharper.xyz
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
+onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -342,9 +344,7 @@ operatehighly-thespeedyfile.best
 operatehighly-thestrongfile.best
 operateintensely-theprogressivefile.best
 operateintensely-thestrongfile.best
-operatenewest-theuberfile.best
 operateoriginal-themostfile.best
-operateoriginal-theuberfile.best
 operateoverly-thesophisticatedfile.best
 operateprecise-thecompletelyfile.best
 operateprogressive-theintenselyfile.best
@@ -394,8 +394,8 @@ premiernursingacademy.org
 preparedforsafeupgrading.work
 primecare.today
 privacykeeper.net
+productiq.net
 profitsurvey365.org
-prohealthroutine.info
 proprotect.me
 prosecurityvpn.me
 protect-connection.com
@@ -448,7 +448,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-tool.net
@@ -471,6 +470,7 @@ sorrectionki.space
 springplanetf.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -496,7 +496,6 @@ streamuber-bestswiftfile.best
 subeamy.pw
 sudoo.net
 sugar-legal-about13.fun
-superiorcare.info
 superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
@@ -536,6 +535,7 @@ syncuber-bestsophisticatedfile.best
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
+technologypartners.net
 theable.me
 thebettercleanplayer.info
 thebettercleanplayers.info
