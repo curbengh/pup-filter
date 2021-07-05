@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 05 Jul 2021 00:02:59 +0000
+! Updated: Mon, 05 Jul 2021 12:03:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@
 ||ashtdi.cn$document
 ||assuredhealth.info$document
 ||asufij.xyz$document
-||atprofessor.fun$document
 ||atwater.org$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
@@ -56,7 +55,6 @@
 ||btcinvesting.info$document
 ||bulley.shop$document
 ||cabins-r-us.com$document
-||calledbellc.fun$document
 ||care-connection.info$document
 ||careerconnecthub.com$document
 ||celebseven.com$document
@@ -208,7 +206,6 @@
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||iketo.diet$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
