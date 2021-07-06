@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 06 Jul 2021 00:02:49 +0000
+# Updated: Tue, 06 Jul 2021 12:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -27,6 +27,7 @@ msFilterList
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
+-d atprofessor.fun
 -d atwater.org
 -d auto-lawyer.site
 -d baseofmp3.com
@@ -59,10 +60,12 @@ msFilterList
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
+-d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -101,7 +104,6 @@ msFilterList
 -d degreenm.top
 -d delightcmain.xyz
 -d desixxx.cloud
--d discoveryfeed.org
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
@@ -355,6 +357,7 @@ msFilterList
 -d operatesophisticated-theoverlyfile.best
 -d operatespeedy-thehighlyfile.best
 -d operateuber-thefreefile.best
+-d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
@@ -533,6 +536,7 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
+-d systemupdatit.club
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
