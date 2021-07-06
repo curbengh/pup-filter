@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 05 Jul 2021 12:03:46 +0000
+! Updated: Tue, 06 Jul 2021 00:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||akb48wrapup.com$all
 ||altcasino.info$all
 ||amateurxporn.com$all
+||amobil.online$all
 ||animenation.org$all
 ||apptool.me$all
 ||armorprovpn.me$all
@@ -101,7 +102,6 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||earlyprogress.info$all
@@ -293,6 +293,7 @@
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
+||matchyourgirl.online$all
 ||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -391,7 +392,6 @@
 ||preparedforsafeupgrading.work$all
 ||primecare.today$all
 ||privacykeeper.net$all
-||productiq.net$all
 ||profitsurvey365.org$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -445,6 +445,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
@@ -559,7 +560,6 @@
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trafficmind.pro$all
-||trane.fun$all
 ||tripleprofit-zone.life$all
 ||trktraf.club$all
 ||trkvpn.xyz$all

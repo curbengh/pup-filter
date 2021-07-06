@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 05 Jul 2021 12:03:46 +0000
+# Updated: Tue, 06 Jul 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,6 +20,7 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d animenation.org
 -d apptool.me
 -d armorprovpn.me
@@ -104,7 +105,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
--d dollarsurvey366.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -296,6 +296,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d matchyourgirl.online
 -d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
@@ -394,7 +395,6 @@ msFilterList
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
--d productiq.net
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
@@ -448,6 +448,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -562,7 +563,6 @@ msFilterList
 -d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
--d trane.fun
 -d tripleprofit-zone.life
 -d trktraf.club
 -d trkvpn.xyz
