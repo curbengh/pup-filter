@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 06 Jul 2021 12:03:08 +0000
+# Updated: Wed, 07 Jul 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 1browser.co
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
@@ -62,7 +61,6 @@
 0.0.0.0 careerconnecthub.com
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
@@ -84,7 +82,6 @@
 0.0.0.0 cryptotilt.club
 0.0.0.0 cryptotradingcourses.net
 0.0.0.0 cryptounlimited.info
-0.0.0.0 cs-alerts.xyz
 0.0.0.0 cselfconnect.com
 0.0.0.0 curesector.today
 0.0.0.0 dailymedia.casa
@@ -104,6 +101,7 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
+0.0.0.0 dollarsurvey366.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 eanswers.net
 0.0.0.0 earlyprogress.info
@@ -161,7 +159,6 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
-0.0.0.0 gladvideo.fun
 0.0.0.0 gladvideo.online
 0.0.0.0 gladvideo.site
 0.0.0.0 gladvideo.website
@@ -329,7 +326,6 @@
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
-0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
@@ -453,6 +449,7 @@
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-tool.net
 0.0.0.0 search-trends.co
+0.0.0.0 searchoffers.info
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 sec-monitoring.xyz
@@ -564,6 +561,7 @@
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
+0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trktraf.club
 0.0.0.0 trkvpn.xyz

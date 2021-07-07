@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 06 Jul 2021 12:03:08 +0000
+! Updated: Wed, 07 Jul 2021 00:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
@@ -62,7 +61,6 @@
 ||careerconnecthub.com$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -84,7 +82,6 @@
 ||cryptotilt.club$all
 ||cryptotradingcourses.net$all
 ||cryptounlimited.info$all
-||cs-alerts.xyz$all
 ||cselfconnect.com$all
 ||curesector.today$all
 ||dailymedia.casa$all
@@ -104,6 +101,7 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
+||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||eanswers.net$all
 ||earlyprogress.info$all
@@ -161,7 +159,6 @@
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
-||gladvideo.fun$all
 ||gladvideo.online$all
 ||gladvideo.site$all
 ||gladvideo.website$all
@@ -329,7 +326,6 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -453,6 +449,7 @@
 ||score-monitoring.xyz$all
 ||search-tool.net$all
 ||search-trends.co$all
+||searchoffers.info$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||sec-monitoring.xyz$all
@@ -564,6 +561,7 @@
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trafficmind.pro$all
+||trane.fun$all
 ||tripleprofit-zone.life$all
 ||trktraf.club$all
 ||trkvpn.xyz$all

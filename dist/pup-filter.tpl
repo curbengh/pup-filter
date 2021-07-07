@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 06 Jul 2021 12:03:08 +0000
+# Updated: Wed, 07 Jul 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -65,7 +64,6 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -87,7 +85,6 @@ msFilterList
 -d cryptotilt.club
 -d cryptotradingcourses.net
 -d cryptounlimited.info
--d cs-alerts.xyz
 -d cselfconnect.com
 -d curesector.today
 -d dailymedia.casa
@@ -107,6 +104,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d dragonballclub.com
 -d eanswers.net
 -d earlyprogress.info
@@ -164,7 +162,6 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
--d gladvideo.fun
 -d gladvideo.online
 -d gladvideo.site
 -d gladvideo.website
@@ -332,7 +329,6 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
--d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -456,6 +452,7 @@ msFilterList
 -d score-monitoring.xyz
 -d search-tool.net
 -d search-trends.co
+-d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d sec-monitoring.xyz
@@ -567,6 +564,7 @@ msFilterList
 -d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
+-d trane.fun
 -d tripleprofit-zone.life
 -d trktraf.club
 -d trkvpn.xyz

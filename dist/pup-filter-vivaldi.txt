@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 06 Jul 2021 12:03:08 +0000
+! Updated: Wed, 07 Jul 2021 00:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -62,7 +61,6 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -84,7 +82,6 @@
 ||cryptotilt.club$document
 ||cryptotradingcourses.net$document
 ||cryptounlimited.info$document
-||cs-alerts.xyz$document
 ||cselfconnect.com$document
 ||curesector.today$document
 ||dailymedia.casa$document
@@ -104,6 +101,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||eanswers.net$document
 ||earlyprogress.info$document
@@ -161,7 +159,6 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
-||gladvideo.fun$document
 ||gladvideo.online$document
 ||gladvideo.site$document
 ||gladvideo.website$document
@@ -329,7 +326,6 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -453,6 +449,7 @@
 ||score-monitoring.xyz$document
 ||search-tool.net$document
 ||search-trends.co$document
+||searchoffers.info$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||sec-monitoring.xyz$document
@@ -564,6 +561,7 @@
 ||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trafficmind.pro$document
+||trane.fun$document
 ||tripleprofit-zone.life$document
 ||trktraf.club$document
 ||trkvpn.xyz$document
