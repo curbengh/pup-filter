@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 07 Jul 2021 00:03:01 +0000
+# Updated: Wed, 07 Jul 2021 12:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -172,6 +172,7 @@
 0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
+0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
 0.0.0.0 hailso.xyz
 0.0.0.0 happyactive.today
@@ -323,6 +324,7 @@
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 oldharper.xyz
+0.0.0.0 olivedinflats.space
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
