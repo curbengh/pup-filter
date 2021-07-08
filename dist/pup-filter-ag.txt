@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 07 Jul 2021 12:03:34 +0000
+! Updated: Thu, 08 Jul 2021 00:03:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
@@ -61,6 +62,7 @@
 ||careerconnecthub.com$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -78,7 +80,6 @@
 ||contentgate.uno$all
 ||cooing.top$all
 ||credit-monitor.xyz$all
-||credit-resources.xyz$all
 ||cryptotilt.club$all
 ||cryptotradingcourses.net$all
 ||cryptounlimited.info$all
@@ -183,7 +184,6 @@
 ||healtheezy.info$all
 ||healthemerge.info$all
 ||healthjolly.info$all
-||healthmainly.info$all
 ||healthmaintain.info$all
 ||healthmama.info$all
 ||healthmanic.info$all
@@ -206,7 +206,6 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
 ||information.casa$all
@@ -216,7 +215,6 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
-||jointingifstrawberry.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
 ||kad3md.cn$all
@@ -328,6 +326,7 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
+||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -335,7 +334,6 @@
 ||operatecompletely-thespeedyfile.best$all
 ||operateextremely-theprogressivefile.best$all
 ||operateextremely-therenewedfile.best$all
-||operatefree-theuberfile.best$all
 ||operategreatly-therefinedfile.best$all
 ||operategreatly-theswiftfile.best$all
 ||operatehighly-thespeedyfile.best$all
@@ -351,7 +349,6 @@
 ||operaterenewed-theextremelyfile.best$all
 ||operatesophisticated-theoverlyfile.best$all
 ||operatespeedy-thehighlyfile.best$all
-||operateuber-thefreefile.best$all
 ||ouldthepat.fun$all
 ||patriothealth.today$all
 ||pcsecurity-live.xyz$all
@@ -470,7 +467,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -573,6 +569,7 @@
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplayglobal.xyz$all
+||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
@@ -596,7 +593,6 @@
 ||wellnessgram.info$all
 ||wellnessplum.info$all
 ||winnerbigwingiveawaysuper.cyou$all
-||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all

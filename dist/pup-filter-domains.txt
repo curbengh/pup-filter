@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 07 Jul 2021 12:03:34 +0000
+# Updated: Thu, 08 Jul 2021 00:03:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+123news.website
 1browser.co
 20patogh.com
 2kddbl.club
@@ -61,6 +62,7 @@ care-connection.info
 careerconnecthub.com
 celebseven.com
 centrodeartigos.com
+chatverse.net
 check-your-profitzone.life
 cloudmedia.casa
 cloudmedia.cyou
@@ -78,7 +80,6 @@ contentgate.fun
 contentgate.uno
 cooing.top
 credit-monitor.xyz
-credit-resources.xyz
 cryptotilt.club
 cryptotradingcourses.net
 cryptounlimited.info
@@ -183,7 +184,6 @@ healthdome.info
 healtheezy.info
 healthemerge.info
 healthjolly.info
-healthmainly.info
 healthmaintain.info
 healthmama.info
 healthmanic.info
@@ -206,7 +206,6 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
-iketo.diet
 inappropriate.top
 incrediblebuzz.info
 information.casa
@@ -216,7 +215,6 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
-jointingifstrawberry.xyz
 jsrenthouse.com
 jtkszl.vip
 kad3md.cn
@@ -328,6 +326,7 @@ olivedinflats.space
 onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
+onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
@@ -335,7 +334,6 @@ operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
 operateextremely-theprogressivefile.best
 operateextremely-therenewedfile.best
-operatefree-theuberfile.best
 operategreatly-therefinedfile.best
 operategreatly-theswiftfile.best
 operatehighly-thespeedyfile.best
@@ -351,7 +349,6 @@ operaterefined-thegreatlyfile.best
 operaterenewed-theextremelyfile.best
 operatesophisticated-theoverlyfile.best
 operatespeedy-thehighlyfile.best
-operateuber-thefreefile.best
 ouldthepat.fun
 patriothealth.today
 pcsecurity-live.xyz
@@ -470,7 +467,6 @@ sorrectionki.space
 springplanetf.xyz
 start-page.one
 stay-notified.cc
-stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -573,6 +569,7 @@ uclaimrewards.net
 unitehealth.club
 updatefix.xyz
 upplayglobal.xyz
+upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
@@ -596,7 +593,6 @@ webtip.co
 wellnessgram.info
 wellnessplum.info
 winnerbigwingiveawaysuper.cyou
-winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou

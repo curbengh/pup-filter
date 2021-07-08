@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 07 Jul 2021 12:03:34 +0000
+# Updated: Thu, 08 Jul 2021 00:03:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -64,6 +65,7 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -81,7 +83,6 @@ msFilterList
 -d contentgate.uno
 -d cooing.top
 -d credit-monitor.xyz
--d credit-resources.xyz
 -d cryptotilt.club
 -d cryptotradingcourses.net
 -d cryptounlimited.info
@@ -186,7 +187,6 @@ msFilterList
 -d healtheezy.info
 -d healthemerge.info
 -d healthjolly.info
--d healthmainly.info
 -d healthmaintain.info
 -d healthmama.info
 -d healthmanic.info
@@ -209,7 +209,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d iketo.diet
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -219,7 +218,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
 -d kad3md.cn
@@ -331,6 +329,7 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -338,7 +337,6 @@ msFilterList
 -d operatecompletely-thespeedyfile.best
 -d operateextremely-theprogressivefile.best
 -d operateextremely-therenewedfile.best
--d operatefree-theuberfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
 -d operatehighly-thespeedyfile.best
@@ -354,7 +352,6 @@ msFilterList
 -d operaterenewed-theextremelyfile.best
 -d operatesophisticated-theoverlyfile.best
 -d operatespeedy-thehighlyfile.best
--d operateuber-thefreefile.best
 -d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
@@ -473,7 +470,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -576,6 +572,7 @@ msFilterList
 -d unitehealth.club
 -d updatefix.xyz
 -d upplayglobal.xyz
+-d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
@@ -599,7 +596,6 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
--d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou

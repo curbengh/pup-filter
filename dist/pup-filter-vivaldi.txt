@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 07 Jul 2021 12:03:34 +0000
+! Updated: Thu, 08 Jul 2021 00:03:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -61,6 +62,7 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -78,7 +80,6 @@
 ||contentgate.uno$document
 ||cooing.top$document
 ||credit-monitor.xyz$document
-||credit-resources.xyz$document
 ||cryptotilt.club$document
 ||cryptotradingcourses.net$document
 ||cryptounlimited.info$document
@@ -183,7 +184,6 @@
 ||healtheezy.info$document
 ||healthemerge.info$document
 ||healthjolly.info$document
-||healthmainly.info$document
 ||healthmaintain.info$document
 ||healthmama.info$document
 ||healthmanic.info$document
@@ -206,7 +206,6 @@
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||iketo.diet$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -216,7 +215,6 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
-||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
 ||kad3md.cn$document
@@ -328,6 +326,7 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -335,7 +334,6 @@
 ||operatecompletely-thespeedyfile.best$document
 ||operateextremely-theprogressivefile.best$document
 ||operateextremely-therenewedfile.best$document
-||operatefree-theuberfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
 ||operatehighly-thespeedyfile.best$document
@@ -351,7 +349,6 @@
 ||operaterenewed-theextremelyfile.best$document
 ||operatesophisticated-theoverlyfile.best$document
 ||operatespeedy-thehighlyfile.best$document
-||operateuber-thefreefile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
@@ -470,7 +467,6 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -573,6 +569,7 @@
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplayglobal.xyz$document
+||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
@@ -596,7 +593,6 @@
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||winnerbigwingiveawaysuper.cyou$document
-||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
