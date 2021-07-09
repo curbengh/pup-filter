@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 09 Jul 2021 00:03:18 +0000
+# Updated: Fri, 09 Jul 2021 12:03:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -178,6 +178,7 @@ msFilterList
 -d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
+-d grandencryptions.me
 -d growthnetic.club
 -d hailso.xyz
 -d happyactive.today
@@ -209,9 +210,9 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d iketo.diet
 -d inappropriate.top
+-d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
 -d instablog.club
@@ -389,7 +390,6 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
--d placespina.xyz
 -d playplanete.xyz
 -d ppploanchoices.site
 -d premiernursingacademy.org
@@ -453,7 +453,6 @@ msFilterList
 -d score-monitoring.xyz
 -d search-tool.net
 -d search-trends.co
--d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -575,13 +574,13 @@ msFilterList
 -d unitehealth.club
 -d updatefix.xyz
 -d upplayglobal.xyz
--d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
