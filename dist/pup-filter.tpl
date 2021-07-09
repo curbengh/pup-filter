@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 08 Jul 2021 12:02:58 +0000
+# Updated: Fri, 09 Jul 2021 00:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -97,6 +97,7 @@ msFilterList
 -d dailymedia.work
 -d dailyrep.net
 -d darkview.org
+-d dealmedia.club
 -d dealmedia.xyz
 -d defensepro.me
 -d degreenm.top
@@ -115,8 +116,10 @@ msFilterList
 -d extrasafe.xyz
 -d facebook-sex.com
 -d fastmapc.xyz
+-d fastspinc.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
+-d fastwebb.xyz
 -d fastwebe.xyz
 -d filmesonlineturbo.net
 -d films-down.com
@@ -165,7 +168,6 @@ msFilterList
 -d gladspaceplane.xyz
 -d gladvideo.online
 -d gladvideo.site
--d gladvideo.website
 -d global-info.space
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
@@ -185,7 +187,6 @@ msFilterList
 -d healthdome.info
 -d healtheezy.info
 -d healthemerge.info
--d healthjolly.info
 -d healthmaintain.info
 -d healthmama.info
 -d healthmanic.info
@@ -209,6 +210,7 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d iketo.diet
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -218,6 +220,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
+-d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
 -d kad3md.cn
@@ -295,7 +298,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -324,7 +326,6 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
--d oldharper.xyz
 -d olivedinflats.space
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
@@ -388,6 +389,8 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
+-d placespina.xyz
+-d playplanete.xyz
 -d ppploanchoices.site
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -403,7 +406,6 @@ msFilterList
 -d provpnservice.me
 -d prtctapp.me
 -d qh97dkzy20.top
--d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -454,7 +456,6 @@ msFilterList
 -d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
--d sec-monitoring.xyz
 -d securitevpn.me
 -d security-made-easy.xyz
 -d security-pro.xyz
@@ -467,9 +468,11 @@ msFilterList
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
+-d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -579,7 +582,6 @@ msFilterList
 -d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
--d vpnadefenceplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
@@ -595,6 +597,7 @@ msFilterList
 -d wellnessgram.info
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou

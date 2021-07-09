@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 08 Jul 2021 12:02:58 +0000
+! Updated: Fri, 09 Jul 2021 00:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -94,6 +94,7 @@
 ||dailymedia.work$document
 ||dailyrep.net$document
 ||darkview.org$document
+||dealmedia.club$document
 ||dealmedia.xyz$document
 ||defensepro.me$document
 ||degreenm.top$document
@@ -112,8 +113,10 @@
 ||extrasafe.xyz$document
 ||facebook-sex.com$document
 ||fastmapc.xyz$document
+||fastspinc.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
+||fastwebb.xyz$document
 ||fastwebe.xyz$document
 ||filmesonlineturbo.net$document
 ||films-down.com$document
@@ -162,7 +165,6 @@
 ||gladspaceplane.xyz$document
 ||gladvideo.online$document
 ||gladvideo.site$document
-||gladvideo.website$document
 ||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
@@ -182,7 +184,6 @@
 ||healthdome.info$document
 ||healtheezy.info$document
 ||healthemerge.info$document
-||healthjolly.info$document
 ||healthmaintain.info$document
 ||healthmama.info$document
 ||healthmanic.info$document
@@ -206,6 +207,7 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -215,6 +217,7 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
 ||kad3md.cn$document
@@ -292,7 +295,6 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -321,7 +323,6 @@
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
-||oldharper.xyz$document
 ||olivedinflats.space$document
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
@@ -385,6 +386,8 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
+||placespina.xyz$document
+||playplanete.xyz$document
 ||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -400,7 +403,6 @@
 ||provpnservice.me$document
 ||prtctapp.me$document
 ||qh97dkzy20.top$document
-||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -451,7 +453,6 @@
 ||searchoffers.info$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
-||sec-monitoring.xyz$document
 ||securitevpn.me$document
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
@@ -464,9 +465,11 @@
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
 ||sorrectionki.space$document
+||spotmapd.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -576,7 +579,6 @@
 ||viralarticles.net$document
 ||vital-health.club$document
 ||vpn-pro.info$document
-||vpnadefenceplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
@@ -592,6 +594,7 @@
 ||wellnessgram.info$document
 ||wellnessplum.info$document
 ||winnerbigwingiveawaysuper.cyou$document
+||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 08 Jul 2021 12:02:58 +0000
+# Updated: Fri, 09 Jul 2021 00:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -94,6 +94,7 @@
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
+0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.xyz
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
@@ -112,8 +113,10 @@
 0.0.0.0 extrasafe.xyz
 0.0.0.0 facebook-sex.com
 0.0.0.0 fastmapc.xyz
+0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
+0.0.0.0 fastwebb.xyz
 0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 films-down.com
@@ -162,7 +165,6 @@
 0.0.0.0 gladspaceplane.xyz
 0.0.0.0 gladvideo.online
 0.0.0.0 gladvideo.site
-0.0.0.0 gladvideo.website
 0.0.0.0 global-info.space
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
@@ -182,7 +184,6 @@
 0.0.0.0 healthdome.info
 0.0.0.0 healtheezy.info
 0.0.0.0 healthemerge.info
-0.0.0.0 healthjolly.info
 0.0.0.0 healthmaintain.info
 0.0.0.0 healthmama.info
 0.0.0.0 healthmanic.info
@@ -206,6 +207,7 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -215,6 +217,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 izipik.com
+0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jtkszl.vip
 0.0.0.0 kad3md.cn
@@ -292,7 +295,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -321,7 +323,6 @@
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
-0.0.0.0 oldharper.xyz
 0.0.0.0 olivedinflats.space
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
@@ -385,6 +386,8 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
+0.0.0.0 placespina.xyz
+0.0.0.0 playplanete.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -400,7 +403,6 @@
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
 0.0.0.0 qh97dkzy20.top
-0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -451,7 +453,6 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
-0.0.0.0 sec-monitoring.xyz
 0.0.0.0 securitevpn.me
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
@@ -464,9 +465,11 @@
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
+0.0.0.0 spotmapd.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -576,7 +579,6 @@
 0.0.0.0 viralarticles.net
 0.0.0.0 vital-health.club
 0.0.0.0 vpn-pro.info
-0.0.0.0 vpnadefenceplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
@@ -592,6 +594,7 @@
 0.0.0.0 wellnessgram.info
 0.0.0.0 wellnessplum.info
 0.0.0.0 winnerbigwingiveawaysuper.cyou
+0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-national-claim-free.cyou
 0.0.0.0 worldwide-prize-giveaway-free.cyou

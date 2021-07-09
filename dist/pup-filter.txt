@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 08 Jul 2021 12:02:58 +0000
+! Updated: Fri, 09 Jul 2021 00:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -94,6 +94,7 @@ dailymedia.surf
 dailymedia.work
 dailyrep.net
 darkview.org
+dealmedia.club
 dealmedia.xyz
 defensepro.me
 degreenm.top
@@ -112,8 +113,10 @@ erotica.live
 extrasafe.xyz
 facebook-sex.com
 fastmapc.xyz
+fastspinc.xyz
 fastspota.xyz
 fastspotb.xyz
+fastwebb.xyz
 fastwebe.xyz
 filmesonlineturbo.net
 films-down.com
@@ -162,7 +165,6 @@ gladplacespin.xyz
 gladspaceplane.xyz
 gladvideo.online
 gladvideo.site
-gladvideo.website
 global-info.space
 go-x34n7wbcoes-ok.live
 goalmedia.bar
@@ -182,7 +184,6 @@ healthdefine.info
 healthdome.info
 healtheezy.info
 healthemerge.info
-healthjolly.info
 healthmaintain.info
 healthmama.info
 healthmanic.info
@@ -206,6 +207,7 @@ healthyspirit.info
 httqzq.vip
 hypezen.info
 ientsillness.fun
+iketo.diet
 inappropriate.top
 incrediblebuzz.info
 information.casa
@@ -215,6 +217,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 isystemupdate.cloud
 izipik.com
+jointingifstrawberry.xyz
 jsrenthouse.com
 jtkszl.vip
 kad3md.cn
@@ -292,7 +295,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -321,7 +323,6 @@ official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
-oldharper.xyz
 olivedinflats.space
 onegowc.pw
 online-prize-super-promotion.cyou
@@ -385,6 +386,8 @@ performstrong-thegreatlyfile.digital
 performuber-theoriginalfile.best
 performuber-therenewedfile.best
 performuberquickapplication.icu
+placespina.xyz
+playplanete.xyz
 ppploanchoices.site
 premiernursingacademy.org
 preparedforsafeupgrading.work
@@ -400,7 +403,6 @@ provpnsecurity.me
 provpnservice.me
 prtctapp.me
 qh97dkzy20.top
-quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -451,7 +453,6 @@ search-trends.co
 searchoffers.info
 sec-alert.xyz
 sec-alerts.xyz
-sec-monitoring.xyz
 securitevpn.me
 security-made-easy.xyz
 security-pro.xyz
@@ -464,9 +465,11 @@ shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartys.link
 sorrectionki.space
+spotmapd.xyz
 springplanetf.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -576,7 +579,6 @@ usevpnpro.me
 viralarticles.net
 vital-health.club
 vpn-pro.info
-vpnadefenceplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me
@@ -592,6 +594,7 @@ webtip.co
 wellnessgram.info
 wellnessplum.info
 winnerbigwingiveawaysuper.cyou
+winnerz.site
 worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
