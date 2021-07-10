@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 09 Jul 2021 12:03:43 +0000
+# Updated: Sat, 10 Jul 2021 00:32:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -65,7 +64,6 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -104,11 +102,9 @@ msFilterList
 -d delightcmain.xyz
 -d desixxx.cloud
 -d ditvl.com
--d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dollarsurvey366.org
 -d dragonballclub.com
--d eanswers.net
 -d earlyprogress.info
 -d eproute.info
 -d eroanimeittyokusen.com
@@ -136,7 +132,6 @@ msFilterList
 -d fitcourage.info
 -d fithealthspark.info
 -d fithealthspot.club
--d fithealthsure.info
 -d fitnessdial.club
 -d fitsure.info
 -d flash-rewards.info
@@ -299,6 +294,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -327,6 +323,7 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
+-d oldharper.xyz
 -d olivedinflats.space
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
@@ -337,7 +334,6 @@ msFilterList
 -d onlinewinnerluckyrewards.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
--d operateextremely-theprogressivefile.best
 -d operateextremely-therenewedfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
@@ -346,13 +342,11 @@ msFilterList
 -d operateintensely-theprogressivefile.best
 -d operateintensely-thestrongfile.best
 -d operateoriginal-themostfile.best
--d operateoverly-thesophisticatedfile.best
 -d operateprecise-thecompletelyfile.best
 -d operateprogressive-theintenselyfile.best
 -d operatequick-themostfile.best
 -d operaterefined-thegreatlyfile.best
 -d operaterenewed-theextremelyfile.best
--d operatesophisticated-theoverlyfile.best
 -d operatespeedy-thehighlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
@@ -406,6 +400,7 @@ msFilterList
 -d provpnservice.me
 -d prtctapp.me
 -d qh97dkzy20.top
+-d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -453,6 +448,7 @@ msFilterList
 -d score-monitoring.xyz
 -d search-tool.net
 -d search-trends.co
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -464,14 +460,12 @@ msFilterList
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
--d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
 -d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -566,13 +560,11 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
--d trktraf.club
 -d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d unitehealth.club
--d updatefix.xyz
 -d upplayglobal.xyz
 -d usepro.me
 -d useprovpn.me

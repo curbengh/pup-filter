@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 09 Jul 2021 12:03:43 +0000
+! Updated: Sat, 10 Jul 2021 00:32:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -62,7 +61,6 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -101,11 +99,9 @@
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
 ||ditvl.com$document
-||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||dollarsurvey366.org$document
 ||dragonballclub.com$document
-||eanswers.net$document
 ||earlyprogress.info$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
@@ -133,7 +129,6 @@
 ||fitcourage.info$document
 ||fithealthspark.info$document
 ||fithealthspot.club$document
-||fithealthsure.info$document
 ||fitnessdial.club$document
 ||fitsure.info$document
 ||flash-rewards.info$document
@@ -296,6 +291,7 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -324,6 +320,7 @@
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
+||oldharper.xyz$document
 ||olivedinflats.space$document
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
@@ -334,7 +331,6 @@
 ||onlinewinnerluckyrewards.cyou$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
-||operateextremely-theprogressivefile.best$document
 ||operateextremely-therenewedfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
@@ -343,13 +339,11 @@
 ||operateintensely-theprogressivefile.best$document
 ||operateintensely-thestrongfile.best$document
 ||operateoriginal-themostfile.best$document
-||operateoverly-thesophisticatedfile.best$document
 ||operateprecise-thecompletelyfile.best$document
 ||operateprogressive-theintenselyfile.best$document
 ||operatequick-themostfile.best$document
 ||operaterefined-thegreatlyfile.best$document
 ||operaterenewed-theextremelyfile.best$document
-||operatesophisticated-theoverlyfile.best$document
 ||operatespeedy-thehighlyfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
@@ -403,6 +397,7 @@
 ||provpnservice.me$document
 ||prtctapp.me$document
 ||qh97dkzy20.top$document
+||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -450,6 +445,7 @@
 ||score-monitoring.xyz$document
 ||search-tool.net$document
 ||search-trends.co$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
@@ -461,14 +457,12 @@
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
-||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
 ||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -563,13 +557,11 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
-||trktraf.club$document
 ||trkvpn.xyz$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
-||updatefix.xyz$document
 ||upplayglobal.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
