@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Jul 2021 12:02:27 +0000
+! Updated: Sun, 11 Jul 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -61,6 +62,7 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -93,12 +95,14 @@
 ||dailyrep.net$document
 ||darkview.org$document
 ||dealmedia.club$document
+||dealmedia.website$document
 ||dealmedia.xyz$document
 ||defensepro.me$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
 ||ditvl.com$document
+||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||dollarsurvey366.org$document
 ||dragonballclub.com$document
@@ -158,7 +162,6 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
-||gladvideo.online$document
 ||gladvideo.site$document
 ||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
@@ -176,7 +179,6 @@
 ||happyactive.today$document
 ||happymakesite.xyz$document
 ||healandgrow.club$document
-||healthdefine.info$document
 ||healthdome.info$document
 ||healtheezy.info$document
 ||healthemerge.info$document
@@ -214,6 +216,7 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
@@ -457,12 +460,14 @@
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
+||signupandturnyourscreenoffsafepowernow.date$document
 ||smartys.link$document
 ||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -557,12 +562,13 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
+||trktraf.club$document
 ||trkvpn.xyz$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
-||upplayglobal.xyz$document
+||updatefix.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document

@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Jul 2021 12:02:27 +0000
+! Updated: Sun, 11 Jul 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website^
 ||1browser.co^
 ||20patogh.com^
 ||2kddbl.club^
@@ -61,6 +62,7 @@
 ||careerconnecthub.com^
 ||celebseven.com^
 ||centrodeartigos.com^
+||chatverse.net^
 ||check-your-profitzone.life^
 ||cloudmedia.casa^
 ||cloudmedia.cyou^
@@ -93,12 +95,14 @@
 ||dailyrep.net^
 ||darkview.org^
 ||dealmedia.club^
+||dealmedia.website^
 ||dealmedia.xyz^
 ||defensepro.me^
 ||degreenm.top^
 ||delightcmain.xyz^
 ||desixxx.cloud^
 ||ditvl.com^
+||dollarsurvey365.online^
 ||dollarsurvey365.org^
 ||dollarsurvey366.org^
 ||dragonballclub.com^
@@ -158,7 +162,6 @@
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
 ||gladspaceplane.xyz^
-||gladvideo.online^
 ||gladvideo.site^
 ||global-info.space^
 ||go-x34n7wbcoes-ok.live^
@@ -176,7 +179,6 @@
 ||happyactive.today^
 ||happymakesite.xyz^
 ||healandgrow.club^
-||healthdefine.info^
 ||healthdome.info^
 ||healtheezy.info^
 ||healthemerge.info^
@@ -214,6 +216,7 @@
 ||iosrecommendedvpn.com^
 ||isystemupdate.cloud^
 ||izipik.com^
+||java-forum.org^
 ||jointingifstrawberry.xyz^
 ||jsrenthouse.com^
 ||jtkszl.vip^
@@ -457,12 +460,14 @@
 ||service-care.space^
 ||settothereliableupgradingnew.work^
 ||shopnsave.world^
+||signupandturnyourscreenoffsafepowernow.date^
 ||smartys.link^
 ||sorrectionki.space^
 ||spotmapd.xyz^
 ||springplanetf.xyz^
 ||start-page.one^
 ||stay-notified.cc^
+||stickr.co^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
@@ -557,12 +562,13 @@
 ||trafficmind.pro^
 ||trane.fun^
 ||tripleprofit-zone.life^
+||trktraf.club^
 ||trkvpn.xyz^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
 ||uclaimrewards.net^
 ||unitehealth.club^
-||upplayglobal.xyz^
+||updatefix.xyz^
 ||usepro.me^
 ||useprovpn.me^
 ||usevpnpro.me^

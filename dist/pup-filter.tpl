@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 10 Jul 2021 12:02:27 +0000
+# Updated: Sun, 11 Jul 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -64,6 +65,7 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -96,12 +98,14 @@ msFilterList
 -d dailyrep.net
 -d darkview.org
 -d dealmedia.club
+-d dealmedia.website
 -d dealmedia.xyz
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
 -d desixxx.cloud
 -d ditvl.com
+-d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dollarsurvey366.org
 -d dragonballclub.com
@@ -161,7 +165,6 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
--d gladvideo.online
 -d gladvideo.site
 -d global-info.space
 -d go-x34n7wbcoes-ok.live
@@ -179,7 +182,6 @@ msFilterList
 -d happyactive.today
 -d happymakesite.xyz
 -d healandgrow.club
--d healthdefine.info
 -d healthdome.info
 -d healtheezy.info
 -d healthemerge.info
@@ -217,6 +219,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
+-d java-forum.org
 -d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
@@ -460,12 +463,14 @@ msFilterList
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
+-d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
 -d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -560,12 +565,13 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
+-d trktraf.club
 -d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d uclaimrewards.net
 -d unitehealth.club
--d upplayglobal.xyz
+-d updatefix.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me

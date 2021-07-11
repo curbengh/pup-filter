@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 10 Jul 2021 12:02:27 +0000
+! Updated: Sun, 11 Jul 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
@@ -61,6 +62,7 @@
 ||careerconnecthub.com$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -93,12 +95,14 @@
 ||dailyrep.net$all
 ||darkview.org$all
 ||dealmedia.club$all
+||dealmedia.website$all
 ||dealmedia.xyz$all
 ||defensepro.me$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
 ||ditvl.com$all
+||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||dollarsurvey366.org$all
 ||dragonballclub.com$all
@@ -158,7 +162,6 @@
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
-||gladvideo.online$all
 ||gladvideo.site$all
 ||global-info.space$all
 ||go-x34n7wbcoes-ok.live$all
@@ -176,7 +179,6 @@
 ||happyactive.today$all
 ||happymakesite.xyz$all
 ||healandgrow.club$all
-||healthdefine.info$all
 ||healthdome.info$all
 ||healtheezy.info$all
 ||healthemerge.info$all
@@ -214,6 +216,7 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
+||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
@@ -457,12 +460,14 @@
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
+||signupandturnyourscreenoffsafepowernow.date$all
 ||smartys.link$all
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -557,12 +562,13 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
+||trktraf.club$all
 ||trkvpn.xyz$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
-||upplayglobal.xyz$all
+||updatefix.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
