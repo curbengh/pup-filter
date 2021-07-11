@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Jul 2021 00:02:43 +0000
+# Updated: Sun, 11 Jul 2021 12:02:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,7 +24,6 @@
 0.0.0.0 ashtdi.cn
 0.0.0.0 assuredhealth.info
 0.0.0.0 asufij.xyz
-0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-lawyer.site
 0.0.0.0 baseofmp3.com
@@ -448,6 +447,7 @@
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-trends.co
+0.0.0.0 searchoffers.info
 0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
