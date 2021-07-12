@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Jul 2021 12:02:21 +0000
+# Updated: Mon, 12 Jul 2021 00:02:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@
 0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
+0.0.0.0 breaking-news.digital
 0.0.0.0 browse-privately.net
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
@@ -61,7 +62,6 @@
 0.0.0.0 careerconnecthub.com
 0.0.0.0 celebseven.com
 0.0.0.0 centrodeartigos.com
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
@@ -103,7 +103,6 @@
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
-0.0.0.0 dollarsurvey366.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 earlyprogress.info
 0.0.0.0 eproute.info
@@ -155,7 +154,6 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 fwsxqc.cn
 0.0.0.0 gainhealth.info
-0.0.0.0 generouscare.info
 0.0.0.0 get-your-score.club
 0.0.0.0 getmoregirls.net
 0.0.0.0 gladmstreet.xyz
@@ -187,7 +185,6 @@
 0.0.0.0 healthmarlin.club
 0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
-0.0.0.0 healthready.info
 0.0.0.0 healthreward.info
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
@@ -313,6 +310,7 @@
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
+0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
@@ -334,7 +332,6 @@
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 operatecompletely-theprecisefile.best
 0.0.0.0 operatecompletely-thespeedyfile.best
-0.0.0.0 operateextremely-therenewedfile.best
 0.0.0.0 operategreatly-therefinedfile.best
 0.0.0.0 operategreatly-theswiftfile.best
 0.0.0.0 operatehighly-thespeedyfile.best
@@ -346,7 +343,6 @@
 0.0.0.0 operateprogressive-theintenselyfile.best
 0.0.0.0 operatequick-themostfile.best
 0.0.0.0 operaterefined-thegreatlyfile.best
-0.0.0.0 operaterenewed-theextremelyfile.best
 0.0.0.0 operatespeedy-thehighlyfile.best
 0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
@@ -597,6 +593,7 @@
 0.0.0.0 worldwide-prize-giveaway-free.cyou
 0.0.0.0 worldwideluckypromotionfree.cyou
 0.0.0.0 worldwidenationalclaimfree.cyou
+0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 wowlifestyle.info

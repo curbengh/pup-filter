@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 11 Jul 2021 12:02:21 +0000
+! Updated: Mon, 12 Jul 2021 00:02:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@
 ||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprefined-bestcompletelyfile.best$all
 ||boot-upuber-bestfreefile.best$all
+||breaking-news.digital$all
 ||browse-privately.net$all
 ||btcinvesting.info$all
 ||bulley.shop$all
@@ -61,7 +62,6 @@
 ||careerconnecthub.com$all
 ||celebseven.com$all
 ||centrodeartigos.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -103,7 +103,6 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||earlyprogress.info$all
 ||eproute.info$all
@@ -155,7 +154,6 @@
 ||funsiteb.xyz$all
 ||fwsxqc.cn$all
 ||gainhealth.info$all
-||generouscare.info$all
 ||get-your-score.club$all
 ||getmoregirls.net$all
 ||gladmstreet.xyz$all
@@ -187,7 +185,6 @@
 ||healthmarlin.club$all
 ||healthneo.club$all
 ||healthomega.club$all
-||healthready.info$all
 ||healthreward.info$all
 ||healthscale.club$all
 ||healthschedule.club$all
@@ -313,6 +310,7 @@
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
+||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
@@ -334,7 +332,6 @@
 ||onlinewinnerluckyrewards.cyou$all
 ||operatecompletely-theprecisefile.best$all
 ||operatecompletely-thespeedyfile.best$all
-||operateextremely-therenewedfile.best$all
 ||operategreatly-therefinedfile.best$all
 ||operategreatly-theswiftfile.best$all
 ||operatehighly-thespeedyfile.best$all
@@ -346,7 +343,6 @@
 ||operateprogressive-theintenselyfile.best$all
 ||operatequick-themostfile.best$all
 ||operaterefined-thegreatlyfile.best$all
-||operaterenewed-theextremelyfile.best$all
 ||operatespeedy-thehighlyfile.best$all
 ||ouldthepat.fun$all
 ||patriothealth.today$all
@@ -597,6 +593,7 @@
 ||worldwide-prize-giveaway-free.cyou$all
 ||worldwideluckypromotionfree.cyou$all
 ||worldwidenationalclaimfree.cyou$all
+||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
 ||wowlifestyle.info$all

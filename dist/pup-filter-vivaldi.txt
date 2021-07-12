@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 11 Jul 2021 12:02:21 +0000
+! Updated: Mon, 12 Jul 2021 00:02:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@
 ||boot-upoverly-bestadvancedfile.best$document
 ||boot-uprefined-bestcompletelyfile.best$document
 ||boot-upuber-bestfreefile.best$document
+||breaking-news.digital$document
 ||browse-privately.net$document
 ||btcinvesting.info$document
 ||bulley.shop$document
@@ -61,7 +62,6 @@
 ||careerconnecthub.com$document
 ||celebseven.com$document
 ||centrodeartigos.com$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -103,7 +103,6 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
-||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
 ||eproute.info$document
@@ -155,7 +154,6 @@
 ||funsiteb.xyz$document
 ||fwsxqc.cn$document
 ||gainhealth.info$document
-||generouscare.info$document
 ||get-your-score.club$document
 ||getmoregirls.net$document
 ||gladmstreet.xyz$document
@@ -187,7 +185,6 @@
 ||healthmarlin.club$document
 ||healthneo.club$document
 ||healthomega.club$document
-||healthready.info$document
 ||healthreward.info$document
 ||healthscale.club$document
 ||healthschedule.club$document
@@ -313,6 +310,7 @@
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
+||money-hero.org$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
@@ -334,7 +332,6 @@
 ||onlinewinnerluckyrewards.cyou$document
 ||operatecompletely-theprecisefile.best$document
 ||operatecompletely-thespeedyfile.best$document
-||operateextremely-therenewedfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
 ||operatehighly-thespeedyfile.best$document
@@ -346,7 +343,6 @@
 ||operateprogressive-theintenselyfile.best$document
 ||operatequick-themostfile.best$document
 ||operaterefined-thegreatlyfile.best$document
-||operaterenewed-theextremelyfile.best$document
 ||operatespeedy-thehighlyfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
@@ -597,6 +593,7 @@
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideluckypromotionfree.cyou$document
 ||worldwidenationalclaimfree.cyou$document
+||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||wowlifestyle.info$document

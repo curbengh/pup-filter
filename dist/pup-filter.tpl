@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Jul 2021 12:02:21 +0000
+# Updated: Mon, 12 Jul 2021 00:02:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -55,6 +55,7 @@ msFilterList
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-upuber-bestfreefile.best
+-d breaking-news.digital
 -d browse-privately.net
 -d btcinvesting.info
 -d bulley.shop
@@ -64,7 +65,6 @@ msFilterList
 -d careerconnecthub.com
 -d celebseven.com
 -d centrodeartigos.com
--d chatverse.net
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -106,7 +106,6 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
--d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
 -d eproute.info
@@ -158,7 +157,6 @@ msFilterList
 -d funsiteb.xyz
 -d fwsxqc.cn
 -d gainhealth.info
--d generouscare.info
 -d get-your-score.club
 -d getmoregirls.net
 -d gladmstreet.xyz
@@ -190,7 +188,6 @@ msFilterList
 -d healthmarlin.club
 -d healthneo.club
 -d healthomega.club
--d healthready.info
 -d healthreward.info
 -d healthscale.club
 -d healthschedule.club
@@ -316,6 +313,7 @@ msFilterList
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
+-d money-hero.org
 -d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
@@ -337,7 +335,6 @@ msFilterList
 -d onlinewinnerluckyrewards.cyou
 -d operatecompletely-theprecisefile.best
 -d operatecompletely-thespeedyfile.best
--d operateextremely-therenewedfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
 -d operatehighly-thespeedyfile.best
@@ -349,7 +346,6 @@ msFilterList
 -d operateprogressive-theintenselyfile.best
 -d operatequick-themostfile.best
 -d operaterefined-thegreatlyfile.best
--d operaterenewed-theextremelyfile.best
 -d operatespeedy-thehighlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
@@ -600,6 +596,7 @@ msFilterList
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou
 -d worldwidenationalclaimfree.cyou
+-d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d wowlifestyle.info

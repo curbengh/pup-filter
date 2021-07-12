@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 11 Jul 2021 12:02:21 +0000
+# Updated: Mon, 12 Jul 2021 00:02:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@ boot-upfree-bestuberfile.best
 boot-upoverly-bestadvancedfile.best
 boot-uprefined-bestcompletelyfile.best
 boot-upuber-bestfreefile.best
+breaking-news.digital
 browse-privately.net
 btcinvesting.info
 bulley.shop
@@ -61,7 +62,6 @@ care-connection.info
 careerconnecthub.com
 celebseven.com
 centrodeartigos.com
-chatverse.net
 check-your-profitzone.life
 cloudmedia.casa
 cloudmedia.cyou
@@ -103,7 +103,6 @@ desixxx.cloud
 ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
-dollarsurvey366.org
 dragonballclub.com
 earlyprogress.info
 eproute.info
@@ -155,7 +154,6 @@ funmapd.xyz
 funsiteb.xyz
 fwsxqc.cn
 gainhealth.info
-generouscare.info
 get-your-score.club
 getmoregirls.net
 gladmstreet.xyz
@@ -187,7 +185,6 @@ healthmanic.info
 healthmarlin.club
 healthneo.club
 healthomega.club
-healthready.info
 healthreward.info
 healthscale.club
 healthschedule.club
@@ -313,6 +310,7 @@ mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
+money-hero.org
 monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
@@ -334,7 +332,6 @@ onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 operatecompletely-theprecisefile.best
 operatecompletely-thespeedyfile.best
-operateextremely-therenewedfile.best
 operategreatly-therefinedfile.best
 operategreatly-theswiftfile.best
 operatehighly-thespeedyfile.best
@@ -346,7 +343,6 @@ operateprecise-thecompletelyfile.best
 operateprogressive-theintenselyfile.best
 operatequick-themostfile.best
 operaterefined-thegreatlyfile.best
-operaterenewed-theextremelyfile.best
 operatespeedy-thehighlyfile.best
 ouldthepat.fun
 patriothealth.today
@@ -597,6 +593,7 @@ worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
 worldwidenationalclaimfree.cyou
+worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
 wowlifestyle.info
