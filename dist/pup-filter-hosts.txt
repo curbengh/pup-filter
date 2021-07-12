@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 12 Jul 2021 00:02:34 +0000
+# Updated: Mon, 12 Jul 2021 12:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,7 +57,6 @@
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 cabins-r-us.com
-0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
 0.0.0.0 celebseven.com
@@ -200,7 +199,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
@@ -322,7 +320,6 @@
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 oldharper.xyz
-0.0.0.0 olivedinflats.space
 0.0.0.0 onegowc.pw
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 online-survey.org
@@ -344,7 +341,6 @@
 0.0.0.0 operatequick-themostfile.best
 0.0.0.0 operaterefined-thegreatlyfile.best
 0.0.0.0 operatespeedy-thehighlyfile.best
-0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
@@ -458,7 +454,6 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
-0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
@@ -525,7 +520,6 @@
 0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
-0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
