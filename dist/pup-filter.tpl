@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Jul 2021 00:08:37 +0000
+# Updated: Tue, 13 Jul 2021 12:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,6 +28,7 @@ msFilterList
 -d ashtdi.cn
 -d assuredhealth.info
 -d asufij.xyz
+-d atprofessor.fun
 -d atwater.org
 -d auto-lawyer.site
 -d baseofmp3.com
@@ -61,6 +62,7 @@ msFilterList
 -d btcinvesting.info
 -d bulley.shop
 -d cabins-r-us.com
+-d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
 -d celebseven.com
@@ -105,7 +107,6 @@ msFilterList
 -d desixxx.cloud
 -d ditvl.com
 -d dollarsurvey365.online
--d dollarsurvey365.org
 -d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
@@ -316,6 +317,7 @@ msFilterList
 -d monitoring-credit.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
+-d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
@@ -323,6 +325,7 @@ msFilterList
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
 -d oldharper.xyz
+-d olivedinflats.space
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
@@ -454,6 +457,7 @@ msFilterList
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
+-d sorrectionki.space
 -d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
@@ -519,6 +523,7 @@ msFilterList
 -d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
+-d systemupdatit.club
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
