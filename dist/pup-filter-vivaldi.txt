@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Jul 2021 12:03:09 +0000
+! Updated: Tue, 13 Jul 2021 00:08:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@
 ||321movies.xyz$document
 ||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
+||adguard-vpn.com$document
 ||adrondespi.top$document
 ||adtrackingflow.pro$document
 ||akb48wrapup.com$document
@@ -102,6 +103,7 @@
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
 ||eproute.info$document
@@ -210,7 +212,6 @@
 ||iosrecommendedvpn.com$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
-||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
@@ -310,7 +311,6 @@
 ||modern-security.xyz$document
 ||money-hero.org$document
 ||monitoring-credit.xyz$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||naughtygirlsshowall.live$document
@@ -331,8 +331,6 @@
 ||operatecompletely-thespeedyfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
-||operatehighly-thespeedyfile.best$document
-||operatehighly-thestrongfile.best$document
 ||operateintensely-theprogressivefile.best$document
 ||operateintensely-thestrongfile.best$document
 ||operateoriginal-themostfile.best$document
@@ -340,7 +338,6 @@
 ||operateprogressive-theintenselyfile.best$document
 ||operatequick-themostfile.best$document
 ||operaterefined-thegreatlyfile.best$document
-||operatespeedy-thehighlyfile.best$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
@@ -465,7 +462,6 @@
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
-||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -590,7 +586,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||wowlifestyle.info$document
 ||yourbestlinkupgrade.info$document
 ||yourbestlinkupgrades.info$document
 ||yourbestlinkupgrading.info$document

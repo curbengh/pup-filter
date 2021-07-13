@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Jul 2021 12:03:09 +0000
+! Updated: Tue, 13 Jul 2021 00:08:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@
 ||321movies.xyz^
 ||4upgradingstablesafe.work^
 ||abeah-security.xyz^
+||adguard-vpn.com^
 ||adrondespi.top^
 ||adtrackingflow.pro^
 ||akb48wrapup.com^
@@ -102,6 +103,7 @@
 ||ditvl.com^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
+||dollarsurvey366.org^
 ||dragonballclub.com^
 ||earlyprogress.info^
 ||eproute.info^
@@ -210,7 +212,6 @@
 ||iosrecommendedvpn.com^
 ||isystemupdate.cloud^
 ||izipik.com^
-||java-forum.org^
 ||jointingifstrawberry.xyz^
 ||jsrenthouse.com^
 ||jtkszl.vip^
@@ -310,7 +311,6 @@
 ||modern-security.xyz^
 ||money-hero.org^
 ||monitoring-credit.xyz^
-||movievod.me^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||naughtygirlsshowall.live^
@@ -331,8 +331,6 @@
 ||operatecompletely-thespeedyfile.best^
 ||operategreatly-therefinedfile.best^
 ||operategreatly-theswiftfile.best^
-||operatehighly-thespeedyfile.best^
-||operatehighly-thestrongfile.best^
 ||operateintensely-theprogressivefile.best^
 ||operateintensely-thestrongfile.best^
 ||operateoriginal-themostfile.best^
@@ -340,7 +338,6 @@
 ||operateprogressive-theintenselyfile.best^
 ||operatequick-themostfile.best^
 ||operaterefined-thegreatlyfile.best^
-||operatespeedy-thehighlyfile.best^
 ||patriothealth.today^
 ||pcsecurity-live.xyz^
 ||performcompletely-thelatestfile.best^
@@ -465,7 +462,6 @@
 ||streamextremely-bestlatestfile.best^
 ||streamextremely-bestnewestfile.best^
 ||streamfree-bestmostfile.best^
-||streamingmadness.net^
 ||streamintensely-bestadvancedfile.best^
 ||streamintensely-bestcurrentfile.best^
 ||streamintensely-bestlatestfile.best^
@@ -590,7 +586,6 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
-||wowlifestyle.info^
 ||yourbestlinkupgrade.info^
 ||yourbestlinkupgrades.info^
 ||yourbestlinkupgrading.info^

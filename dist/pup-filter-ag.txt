@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 12 Jul 2021 12:03:09 +0000
+! Updated: Tue, 13 Jul 2021 00:08:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@
 ||321movies.xyz$all
 ||4upgradingstablesafe.work$all
 ||abeah-security.xyz$all
+||adguard-vpn.com$all
 ||adrondespi.top$all
 ||adtrackingflow.pro$all
 ||akb48wrapup.com$all
@@ -102,6 +103,7 @@
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
+||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||earlyprogress.info$all
 ||eproute.info$all
@@ -210,7 +212,6 @@
 ||iosrecommendedvpn.com$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
-||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
@@ -310,7 +311,6 @@
 ||modern-security.xyz$all
 ||money-hero.org$all
 ||monitoring-credit.xyz$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||naughtygirlsshowall.live$all
@@ -331,8 +331,6 @@
 ||operatecompletely-thespeedyfile.best$all
 ||operategreatly-therefinedfile.best$all
 ||operategreatly-theswiftfile.best$all
-||operatehighly-thespeedyfile.best$all
-||operatehighly-thestrongfile.best$all
 ||operateintensely-theprogressivefile.best$all
 ||operateintensely-thestrongfile.best$all
 ||operateoriginal-themostfile.best$all
@@ -340,7 +338,6 @@
 ||operateprogressive-theintenselyfile.best$all
 ||operatequick-themostfile.best$all
 ||operaterefined-thegreatlyfile.best$all
-||operatespeedy-thehighlyfile.best$all
 ||patriothealth.today$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
@@ -465,7 +462,6 @@
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
-||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -590,7 +586,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||wowlifestyle.info$all
 ||yourbestlinkupgrade.info$all
 ||yourbestlinkupgrades.info$all
 ||yourbestlinkupgrading.info$all

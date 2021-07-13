@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 12 Jul 2021 12:03:09 +0000
+# Updated: Tue, 13 Jul 2021 00:08:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@ msFilterList
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
+-d adguard-vpn.com
 -d adrondespi.top
 -d adtrackingflow.pro
 -d akb48wrapup.com
@@ -105,6 +106,7 @@ msFilterList
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
 -d eproute.info
@@ -213,7 +215,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d isystemupdate.cloud
 -d izipik.com
--d java-forum.org
 -d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
@@ -313,7 +314,6 @@ msFilterList
 -d modern-security.xyz
 -d money-hero.org
 -d monitoring-credit.xyz
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d naughtygirlsshowall.live
@@ -334,8 +334,6 @@ msFilterList
 -d operatecompletely-thespeedyfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
--d operatehighly-thespeedyfile.best
--d operatehighly-thestrongfile.best
 -d operateintensely-theprogressivefile.best
 -d operateintensely-thestrongfile.best
 -d operateoriginal-themostfile.best
@@ -343,7 +341,6 @@ msFilterList
 -d operateprogressive-theintenselyfile.best
 -d operatequick-themostfile.best
 -d operaterefined-thegreatlyfile.best
--d operatespeedy-thehighlyfile.best
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
@@ -468,7 +465,6 @@ msFilterList
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
--d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -593,7 +589,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d wowlifestyle.info
 -d yourbestlinkupgrade.info
 -d yourbestlinkupgrades.info
 -d yourbestlinkupgrading.info
