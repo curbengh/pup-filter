@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 13 Jul 2021 12:02:52 +0000
+! Updated: Wed, 14 Jul 2021 00:04:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
@@ -161,7 +160,6 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
-||gladvideo.site$document
 ||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
@@ -207,7 +205,6 @@
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||information.casa$document
-||instablog.club$document
 ||installcompletely-theoriginalfile.best$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
@@ -216,6 +213,7 @@
 ||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
+||junemedia.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
 ||ketodietrecipes.org$document
@@ -312,6 +310,7 @@
 ||modern-security.xyz$document
 ||money-hero.org$document
 ||monitoring-credit.xyz$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -336,7 +335,6 @@
 ||operategreatly-theswiftfile.best$document
 ||operateintensely-theprogressivefile.best$document
 ||operateintensely-thestrongfile.best$document
-||operateoriginal-themostfile.best$document
 ||operateprecise-thecompletelyfile.best$document
 ||operateprogressive-theintenselyfile.best$document
 ||operatequick-themostfile.best$document
@@ -438,7 +436,6 @@
 ||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
-||search-trends.co$document
 ||searchoffers.info$document
 ||seasoned.co$document
 ||sec-alert.xyz$document
@@ -459,13 +456,13 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
+||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document

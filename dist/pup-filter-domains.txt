@@ -1,11 +1,10 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Jul 2021 12:02:52 +0000
+# Updated: Wed, 14 Jul 2021 00:04:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 1browser.co
 20patogh.com
 2kddbl.club
@@ -161,7 +160,6 @@ getmoregirls.net
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
-gladvideo.site
 global-info.space
 go-x34n7wbcoes-ok.live
 goalmedia.bar
@@ -207,7 +205,6 @@ inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
 information.casa
-instablog.club
 installcompletely-theoriginalfile.best
 iosdfnc.com
 iosrecommendedvpn.com
@@ -216,6 +213,7 @@ izipik.com
 jointingifstrawberry.xyz
 jsrenthouse.com
 jtkszl.vip
+junemedia.xyz
 kad3md.cn
 keepithealthy.info
 ketodietrecipes.org
@@ -312,6 +310,7 @@ mobileluckywinner.site
 modern-security.xyz
 money-hero.org
 monitoring-credit.xyz
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -336,7 +335,6 @@ operategreatly-therefinedfile.best
 operategreatly-theswiftfile.best
 operateintensely-theprogressivefile.best
 operateintensely-thestrongfile.best
-operateoriginal-themostfile.best
 operateprecise-thecompletelyfile.best
 operateprogressive-theintenselyfile.best
 operatequick-themostfile.best
@@ -438,7 +436,6 @@ safest4placeupdates.info
 savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
-search-trends.co
 searchoffers.info
 seasoned.co
 sec-alert.xyz
@@ -459,13 +456,13 @@ spotmapd.xyz
 springplanetf.xyz
 start-page.one
 stay-notified.cc
-stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
+streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best

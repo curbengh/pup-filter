@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Jul 2021 12:02:52 +0000
+# Updated: Wed, 14 Jul 2021 00:04:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 1browser.co
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
@@ -161,7 +160,6 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
-0.0.0.0 gladvideo.site
 0.0.0.0 global-info.space
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
@@ -207,7 +205,6 @@
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
-0.0.0.0 instablog.club
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
@@ -216,6 +213,7 @@
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jsrenthouse.com
 0.0.0.0 jtkszl.vip
+0.0.0.0 junemedia.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
@@ -312,6 +310,7 @@
 0.0.0.0 modern-security.xyz
 0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -336,7 +335,6 @@
 0.0.0.0 operategreatly-theswiftfile.best
 0.0.0.0 operateintensely-theprogressivefile.best
 0.0.0.0 operateintensely-thestrongfile.best
-0.0.0.0 operateoriginal-themostfile.best
 0.0.0.0 operateprecise-thecompletelyfile.best
 0.0.0.0 operateprogressive-theintenselyfile.best
 0.0.0.0 operatequick-themostfile.best
@@ -438,7 +436,6 @@
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
-0.0.0.0 search-trends.co
 0.0.0.0 searchoffers.info
 0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
@@ -459,13 +456,13 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
-0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
+0.0.0.0 streamingmadness.net
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best

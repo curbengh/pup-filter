@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 13 Jul 2021 12:02:52 +0000
+# Updated: Wed, 14 Jul 2021 00:04:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
@@ -164,7 +163,6 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
--d gladvideo.site
 -d global-info.space
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
@@ -210,7 +208,6 @@ msFilterList
 -d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
--d instablog.club
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
@@ -219,6 +216,7 @@ msFilterList
 -d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
+-d junemedia.xyz
 -d kad3md.cn
 -d keepithealthy.info
 -d ketodietrecipes.org
@@ -315,6 +313,7 @@ msFilterList
 -d modern-security.xyz
 -d money-hero.org
 -d monitoring-credit.xyz
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -339,7 +338,6 @@ msFilterList
 -d operategreatly-theswiftfile.best
 -d operateintensely-theprogressivefile.best
 -d operateintensely-thestrongfile.best
--d operateoriginal-themostfile.best
 -d operateprecise-thecompletelyfile.best
 -d operateprogressive-theintenselyfile.best
 -d operatequick-themostfile.best
@@ -441,7 +439,6 @@ msFilterList
 -d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
--d search-trends.co
 -d searchoffers.info
 -d seasoned.co
 -d sec-alert.xyz
@@ -462,13 +459,13 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
+-d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best

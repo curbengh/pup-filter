@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 13 Jul 2021 12:02:52 +0000
+! Updated: Wed, 14 Jul 2021 00:04:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||1browser.co$all
 ||20patogh.com$all
 ||2kddbl.club$all
@@ -161,7 +160,6 @@
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
-||gladvideo.site$all
 ||global-info.space$all
 ||go-x34n7wbcoes-ok.live$all
 ||goalmedia.bar$all
@@ -207,7 +205,6 @@
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
-||instablog.club$all
 ||installcompletely-theoriginalfile.best$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
@@ -216,6 +213,7 @@
 ||jointingifstrawberry.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
+||junemedia.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
 ||ketodietrecipes.org$all
@@ -312,6 +310,7 @@
 ||modern-security.xyz$all
 ||money-hero.org$all
 ||monitoring-credit.xyz$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -336,7 +335,6 @@
 ||operategreatly-theswiftfile.best$all
 ||operateintensely-theprogressivefile.best$all
 ||operateintensely-thestrongfile.best$all
-||operateoriginal-themostfile.best$all
 ||operateprecise-thecompletelyfile.best$all
 ||operateprogressive-theintenselyfile.best$all
 ||operatequick-themostfile.best$all
@@ -438,7 +436,6 @@
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
-||search-trends.co$all
 ||searchoffers.info$all
 ||seasoned.co$all
 ||sec-alert.xyz$all
@@ -459,13 +456,13 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
+||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
