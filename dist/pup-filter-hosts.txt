@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Jul 2021 00:04:53 +0000
+# Updated: Wed, 14 Jul 2021 12:03:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -339,6 +339,7 @@
 0.0.0.0 operateprogressive-theintenselyfile.best
 0.0.0.0 operatequick-themostfile.best
 0.0.0.0 operaterefined-thegreatlyfile.best
+0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
