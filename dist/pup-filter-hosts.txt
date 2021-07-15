@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Jul 2021 12:03:43 +0000
+# Updated: Thu, 15 Jul 2021 00:04:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -80,6 +80,7 @@
 0.0.0.0 contentgate.uno
 0.0.0.0 cooing.top
 0.0.0.0 credit-monitor.xyz
+0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 cryptotradingcourses.net
 0.0.0.0 cryptounlimited.info
@@ -120,7 +121,6 @@
 0.0.0.0 filmesonlineturbo.net
 0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
-0.0.0.0 findforus.net
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
@@ -157,6 +157,7 @@
 0.0.0.0 gainhealth.info
 0.0.0.0 get-your-score.club
 0.0.0.0 getmoregirls.net
+0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -180,12 +181,10 @@
 0.0.0.0 healtheezy.info
 0.0.0.0 healthemerge.info
 0.0.0.0 healthmaintain.info
-0.0.0.0 healthmama.info
 0.0.0.0 healthmanic.info
 0.0.0.0 healthmarlin.club
 0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
-0.0.0.0 healthreward.info
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
 0.0.0.0 healthspark.today
@@ -200,7 +199,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -334,10 +332,8 @@
 0.0.0.0 operategreatly-therefinedfile.best
 0.0.0.0 operategreatly-theswiftfile.best
 0.0.0.0 operateintensely-theprogressivefile.best
-0.0.0.0 operateintensely-thestrongfile.best
 0.0.0.0 operateprecise-thecompletelyfile.best
 0.0.0.0 operateprogressive-theintenselyfile.best
-0.0.0.0 operatequick-themostfile.best
 0.0.0.0 operaterefined-thegreatlyfile.best
 0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
@@ -444,9 +440,7 @@
 0.0.0.0 securitevpn.me
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
-0.0.0.0 security-protection.xyz
 0.0.0.0 securityvpnpro.me
-0.0.0.0 seemlast.monster
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
@@ -457,6 +451,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Jul 2021 12:03:43 +0000
+# Updated: Thu, 15 Jul 2021 00:04:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -83,6 +83,7 @@ msFilterList
 -d contentgate.uno
 -d cooing.top
 -d credit-monitor.xyz
+-d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d cryptotradingcourses.net
 -d cryptounlimited.info
@@ -123,7 +124,6 @@ msFilterList
 -d filmesonlineturbo.net
 -d films-down.com
 -d financial-deals.xyz
--d findforus.net
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
@@ -160,6 +160,7 @@ msFilterList
 -d gainhealth.info
 -d get-your-score.club
 -d getmoregirls.net
+-d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
@@ -183,12 +184,10 @@ msFilterList
 -d healtheezy.info
 -d healthemerge.info
 -d healthmaintain.info
--d healthmama.info
 -d healthmanic.info
 -d healthmarlin.club
 -d healthneo.club
 -d healthomega.club
--d healthreward.info
 -d healthscale.club
 -d healthschedule.club
 -d healthspark.today
@@ -203,7 +202,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -337,10 +335,8 @@ msFilterList
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
 -d operateintensely-theprogressivefile.best
--d operateintensely-thestrongfile.best
 -d operateprecise-thecompletelyfile.best
 -d operateprogressive-theintenselyfile.best
--d operatequick-themostfile.best
 -d operaterefined-thegreatlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
@@ -447,9 +443,7 @@ msFilterList
 -d securitevpn.me
 -d security-made-easy.xyz
 -d security-pro.xyz
--d security-protection.xyz
 -d securityvpnpro.me
--d seemlast.monster
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
@@ -460,6 +454,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 14 Jul 2021 12:03:43 +0000
+! Updated: Thu, 15 Jul 2021 00:04:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -80,6 +80,7 @@
 ||contentgate.uno$all
 ||cooing.top$all
 ||credit-monitor.xyz$all
+||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||cryptotradingcourses.net$all
 ||cryptounlimited.info$all
@@ -120,7 +121,6 @@
 ||filmesonlineturbo.net$all
 ||films-down.com$all
 ||financial-deals.xyz$all
-||findforus.net$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
@@ -157,6 +157,7 @@
 ||gainhealth.info$all
 ||get-your-score.club$all
 ||getmoregirls.net$all
+||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
@@ -180,12 +181,10 @@
 ||healtheezy.info$all
 ||healthemerge.info$all
 ||healthmaintain.info$all
-||healthmama.info$all
 ||healthmanic.info$all
 ||healthmarlin.club$all
 ||healthneo.club$all
 ||healthomega.club$all
-||healthreward.info$all
 ||healthscale.club$all
 ||healthschedule.club$all
 ||healthspark.today$all
@@ -200,7 +199,6 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -334,10 +332,8 @@
 ||operategreatly-therefinedfile.best$all
 ||operategreatly-theswiftfile.best$all
 ||operateintensely-theprogressivefile.best$all
-||operateintensely-thestrongfile.best$all
 ||operateprecise-thecompletelyfile.best$all
 ||operateprogressive-theintenselyfile.best$all
-||operatequick-themostfile.best$all
 ||operaterefined-thegreatlyfile.best$all
 ||ouldthepat.fun$all
 ||patriothealth.today$all
@@ -444,9 +440,7 @@
 ||securitevpn.me$all
 ||security-made-easy.xyz$all
 ||security-pro.xyz$all
-||security-protection.xyz$all
 ||securityvpnpro.me$all
-||seemlast.monster$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
@@ -457,6 +451,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

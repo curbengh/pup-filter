@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 14 Jul 2021 12:03:43 +0000
+# Updated: Thu, 15 Jul 2021 00:04:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -80,6 +80,7 @@ contentgate.fun
 contentgate.uno
 cooing.top
 credit-monitor.xyz
+credit-monitoring-360.xyz
 cryptotilt.club
 cryptotradingcourses.net
 cryptounlimited.info
@@ -120,7 +121,6 @@ fastwebe.xyz
 filmesonlineturbo.net
 films-down.com
 financial-deals.xyz
-findforus.net
 findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
@@ -157,6 +157,7 @@ fwsxqc.cn
 gainhealth.info
 get-your-score.club
 getmoregirls.net
+girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
@@ -180,12 +181,10 @@ healthdome.info
 healtheezy.info
 healthemerge.info
 healthmaintain.info
-healthmama.info
 healthmanic.info
 healthmarlin.club
 healthneo.club
 healthomega.club
-healthreward.info
 healthscale.club
 healthschedule.club
 healthspark.today
@@ -200,7 +199,6 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
-iketo.diet
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -334,10 +332,8 @@ operatecompletely-thespeedyfile.best
 operategreatly-therefinedfile.best
 operategreatly-theswiftfile.best
 operateintensely-theprogressivefile.best
-operateintensely-thestrongfile.best
 operateprecise-thecompletelyfile.best
 operateprogressive-theintenselyfile.best
-operatequick-themostfile.best
 operaterefined-thegreatlyfile.best
 ouldthepat.fun
 patriothealth.today
@@ -444,9 +440,7 @@ sec-alerts.xyz
 securitevpn.me
 security-made-easy.xyz
 security-pro.xyz
-security-protection.xyz
 securityvpnpro.me
-seemlast.monster
 service-care.space
 settothereliableupgradingnew.work
 shopnsave.world
@@ -457,6 +451,7 @@ spotmapd.xyz
 springplanetf.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
