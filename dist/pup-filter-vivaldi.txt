@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Jul 2021 00:04:17 +0000
+! Updated: Thu, 15 Jul 2021 12:02:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@
 ||altcasino.info$document
 ||amateurxporn.com$document
 ||amobil.online$document
-||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -104,6 +103,7 @@
 ||desixxx.cloud$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
+||dollarsurvey365.org$document
 ||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
@@ -173,6 +173,7 @@
 ||gramp.xyz$document
 ||grandencryptions.me$document
 ||growthnetic.club$document
+||gx8uxvn13l.top$document
 ||hailso.xyz$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
@@ -199,6 +200,7 @@
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||ientsillness.fun$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -452,6 +454,7 @@
 ||start-page.one$document
 ||stay-notified.cc$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document

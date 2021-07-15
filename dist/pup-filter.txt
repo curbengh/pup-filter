@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Jul 2021 00:04:17 +0000
+! Updated: Thu, 15 Jul 2021 12:02:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ akb48wrapup.com
 altcasino.info
 amateurxporn.com
 amobil.online
-animenation.org
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -104,6 +103,7 @@ delightcmain.xyz
 desixxx.cloud
 ditvl.com
 dollarsurvey365.online
+dollarsurvey365.org
 dollarsurvey366.org
 dragonballclub.com
 earlyprogress.info
@@ -173,6 +173,7 @@ graburprize.net
 gramp.xyz
 grandencryptions.me
 growthnetic.club
+gx8uxvn13l.top
 hailso.xyz
 happyactive.today
 happymakesite.xyz
@@ -199,6 +200,7 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
+ientsillness.fun
 inappropriate.top
 incing-marganic.icu
 incrediblebuzz.info
@@ -452,6 +454,7 @@ springplanetf.xyz
 start-page.one
 stay-notified.cc
 stickr.co
+stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
