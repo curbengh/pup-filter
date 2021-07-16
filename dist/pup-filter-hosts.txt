@@ -1,17 +1,17 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 15 Jul 2021 12:02:58 +0000
+# Updated: Fri, 16 Jul 2021 00:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 123news.website
 0.0.0.0 1browser.co
 0.0.0.0 20patogh.com
 0.0.0.0 2kddbl.club
 0.0.0.0 321movies.xyz
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abeah-security.xyz
-0.0.0.0 adguard-vpn.com
 0.0.0.0 adrondespi.top
 0.0.0.0 adtrackingflow.pro
 0.0.0.0 akb48wrapup.com
@@ -100,7 +100,6 @@
 0.0.0.0 defensepro.me
 0.0.0.0 degreenm.top
 0.0.0.0 delightcmain.xyz
-0.0.0.0 desixxx.cloud
 0.0.0.0 ditvl.com
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
@@ -111,6 +110,7 @@
 0.0.0.0 eroanimeittyokusen.com
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
+0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 facebook-sex.com
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
@@ -133,7 +133,6 @@
 0.0.0.0 fithealthspark.info
 0.0.0.0 fithealthspot.club
 0.0.0.0 fitnessdial.club
-0.0.0.0 fitsure.info
 0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
@@ -150,7 +149,6 @@
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
-0.0.0.0 fuck-me-hard.club
 0.0.0.0 funmapd.xyz
 0.0.0.0 funsiteb.xyz
 0.0.0.0 fwsxqc.cn
@@ -289,7 +287,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -375,7 +372,6 @@
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 playplanete.xyz
 0.0.0.0 ppploanchoices.site
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
@@ -393,7 +389,6 @@
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
-0.0.0.0 readyhealth.info
 0.0.0.0 readyhealthgo.today
 0.0.0.0 recontent.casa
 0.0.0.0 recontent.cyou
@@ -401,7 +396,6 @@
 0.0.0.0 recontent.site
 0.0.0.0 recontent.space
 0.0.0.0 recontent.surf
-0.0.0.0 recontent.website
 0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 resignation.top
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -432,7 +426,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
@@ -443,6 +436,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 security-pro.xyz
 0.0.0.0 securityvpnpro.me
+0.0.0.0 seemlast.monster
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world

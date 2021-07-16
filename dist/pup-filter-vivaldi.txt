@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Jul 2021 12:02:58 +0000
+! Updated: Fri, 16 Jul 2021 00:03:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||1browser.co$document
 ||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
-||adguard-vpn.com$document
 ||adrondespi.top$document
 ||adtrackingflow.pro$document
 ||akb48wrapup.com$document
@@ -100,7 +100,6 @@
 ||defensepro.me$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
-||desixxx.cloud$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
@@ -111,6 +110,7 @@
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
 ||extrasafe.xyz$document
+||f7lwv2y0xb.top$document
 ||facebook-sex.com$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
@@ -133,7 +133,6 @@
 ||fithealthspark.info$document
 ||fithealthspot.club$document
 ||fitnessdial.club$document
-||fitsure.info$document
 ||flash-rewards.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
@@ -150,7 +149,6 @@
 ||freeperfectupgrading.work$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
-||fuck-me-hard.club$document
 ||funmapd.xyz$document
 ||funsiteb.xyz$document
 ||fwsxqc.cn$document
@@ -289,7 +287,6 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -375,7 +372,6 @@
 ||performuberquickapplication.icu$document
 ||playplanete.xyz$document
 ||ppploanchoices.site$document
-||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
@@ -393,7 +389,6 @@
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
-||readyhealth.info$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
 ||recontent.cyou$document
@@ -401,7 +396,6 @@
 ||recontent.site$document
 ||recontent.space$document
 ||recontent.surf$document
-||recontent.website$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
@@ -432,7 +426,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
@@ -443,6 +436,7 @@
 ||security-made-easy.xyz$document
 ||security-pro.xyz$document
 ||securityvpnpro.me$document
+||seemlast.monster$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document

@@ -1,20 +1,20 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 15 Jul 2021 12:02:58 +0000
+# Updated: Fri, 16 Jul 2021 00:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 1browser.co
 -d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
--d adguard-vpn.com
 -d adrondespi.top
 -d adtrackingflow.pro
 -d akb48wrapup.com
@@ -103,7 +103,6 @@ msFilterList
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
--d desixxx.cloud
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
@@ -114,6 +113,7 @@ msFilterList
 -d eroanimeittyokusen.com
 -d erotica.live
 -d extrasafe.xyz
+-d f7lwv2y0xb.top
 -d facebook-sex.com
 -d fastmapc.xyz
 -d fastspinc.xyz
@@ -136,7 +136,6 @@ msFilterList
 -d fithealthspark.info
 -d fithealthspot.club
 -d fitnessdial.club
--d fitsure.info
 -d flash-rewards.info
 -d flatbellylife.info
 -d flexroll.online
@@ -153,7 +152,6 @@ msFilterList
 -d freeperfectupgrading.work
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d fuck-me-hard.club
 -d funmapd.xyz
 -d funsiteb.xyz
 -d fwsxqc.cn
@@ -292,7 +290,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -378,7 +375,6 @@ msFilterList
 -d performuberquickapplication.icu
 -d playplanete.xyz
 -d ppploanchoices.site
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
@@ -396,7 +392,6 @@ msFilterList
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
--d readyhealth.info
 -d readyhealthgo.today
 -d recontent.casa
 -d recontent.cyou
@@ -404,7 +399,6 @@ msFilterList
 -d recontent.site
 -d recontent.space
 -d recontent.surf
--d recontent.website
 -d reliablesoftwarevideos.info
 -d resignation.top
 -d rewards-promotion-winner-super.cyou
@@ -435,7 +429,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -446,6 +439,7 @@ msFilterList
 -d security-made-easy.xyz
 -d security-pro.xyz
 -d securityvpnpro.me
+-d seemlast.monster
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world

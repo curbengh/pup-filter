@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 15 Jul 2021 12:02:58 +0000
+! Updated: Fri, 16 Jul 2021 00:03:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website^
 ||1browser.co^
 ||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
 ||4upgradingstablesafe.work^
 ||abeah-security.xyz^
-||adguard-vpn.com^
 ||adrondespi.top^
 ||adtrackingflow.pro^
 ||akb48wrapup.com^
@@ -100,7 +100,6 @@
 ||defensepro.me^
 ||degreenm.top^
 ||delightcmain.xyz^
-||desixxx.cloud^
 ||ditvl.com^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
@@ -111,6 +110,7 @@
 ||eroanimeittyokusen.com^
 ||erotica.live^
 ||extrasafe.xyz^
+||f7lwv2y0xb.top^
 ||facebook-sex.com^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
@@ -133,7 +133,6 @@
 ||fithealthspark.info^
 ||fithealthspot.club^
 ||fitnessdial.club^
-||fitsure.info^
 ||flash-rewards.info^
 ||flatbellylife.info^
 ||flexroll.online^
@@ -150,7 +149,6 @@
 ||freeperfectupgrading.work^
 ||freewareappsstreamfast-best.digital^
 ||freewareappsstreamfastall.digital^
-||fuck-me-hard.club^
 ||funmapd.xyz^
 ||funsiteb.xyz^
 ||fwsxqc.cn^
@@ -289,7 +287,6 @@
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
 ||matchyourgirl.online^
-||mathison.io^
 ||mediaevent.club^
 ||mediaevent.uno^
 ||mediagate.casa^
@@ -375,7 +372,6 @@
 ||performuberquickapplication.icu^
 ||playplanete.xyz^
 ||ppploanchoices.site^
-||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
 ||primecare.today^
 ||privacykeeper.net^
@@ -393,7 +389,6 @@
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
-||readyhealth.info^
 ||readyhealthgo.today^
 ||recontent.casa^
 ||recontent.cyou^
@@ -401,7 +396,6 @@
 ||recontent.site^
 ||recontent.space^
 ||recontent.surf^
-||recontent.website^
 ||reliablesoftwarevideos.info^
 ||resignation.top^
 ||rewards-promotion-winner-super.cyou^
@@ -432,7 +426,6 @@
 ||runrecent-besthighlyfile.best^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
-||savagegrowplus.net^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||searchoffers.info^
@@ -443,6 +436,7 @@
 ||security-made-easy.xyz^
 ||security-pro.xyz^
 ||securityvpnpro.me^
+||seemlast.monster^
 ||service-care.space^
 ||settothereliableupgradingnew.work^
 ||shopnsave.world^
