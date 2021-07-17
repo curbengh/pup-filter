@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Jul 2021 12:03:10 +0000
+! Updated: Sat, 17 Jul 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,16 +22,12 @@
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
-||assuredhealth.info$document
 ||asufij.xyz$document
 ||atprofessor.fun$document
 ||atwater.org$document
 ||auto-lawyer.site$document
 ||baseofmp3.com$document
 ||bestappland.me$document
-||bestlinkupgrade.info$document
-||bestlinkupgrades.info$document
-||bestlinkupgrading.info$document
 ||bestvideoplayerupgrades.work$document
 ||bettercleanplayer.info$document
 ||bettercleanplayers.info$document
@@ -101,10 +97,10 @@
 ||defensepro.me$document
 ||degreenm.top$document
 ||delightcmain.xyz$document
+||desixxx.cloud$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
-||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
 ||eproute.info$document
@@ -126,11 +122,9 @@
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
-||finreporter.net$document
 ||firststableplayer.work$document
 ||fisudauh.top$document
 ||fitandstable.club$document
-||fitcourage.info$document
 ||fithealthspark.info$document
 ||fithealthspot.club$document
 ||fitnessdial.club$document
@@ -207,11 +201,14 @@
 ||installcompletely-theoriginalfile.best$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
+||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||izipik.com$document
+||java-forum.org$document
 ||jointingifstrawberry.xyz$document
 ||jsrenthouse.com$document
 ||jtkszl.vip$document
+||junemedia.bar$document
 ||junemedia.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
@@ -288,6 +285,7 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -306,13 +304,13 @@
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||modern-security.xyz$document
-||money-hero.org$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
+||news-new19.net$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
@@ -323,7 +321,6 @@
 ||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
-||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
@@ -331,9 +328,7 @@
 ||operatecompletely-thespeedyfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
-||operateintensely-theprogressivefile.best$document
 ||operateprecise-thecompletelyfile.best$document
-||operateprogressive-theintenselyfile.best$document
 ||operaterefined-thegreatlyfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
@@ -374,6 +369,7 @@
 ||placespina.xyz$document
 ||playplanete.xyz$document
 ||ppploanchoices.site$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
@@ -396,7 +392,6 @@
 ||recontent.cyou$document
 ||recontent.fun$document
 ||recontent.site$document
-||recontent.space$document
 ||recontent.surf$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
@@ -428,6 +423,7 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
@@ -436,7 +432,6 @@
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
 ||security-made-easy.xyz$document
-||security-pro.xyz$document
 ||securityvpnpro.me$document
 ||seemlast.monster$document
 ||service-care.space$document
@@ -449,7 +444,6 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -516,7 +510,6 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tdstraffic.xyz$document
-||technologypartners.net$document
 ||theable.me$document
 ||thebettercleanplayer.info$document
 ||thebettercleanplayers.info$document
@@ -583,9 +576,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yourbestlinkupgrade.info$document
-||yourbestlinkupgrades.info$document
-||yourbestlinkupgrading.info$document
 ||yourbestvideoconnection.info$document
 ||yourbestvideoconnections.info$document
 ||yourbettercleanplayer.info$document

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Jul 2021 12:03:10 +0000
+! Updated: Sat, 17 Jul 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,16 +22,12 @@
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
-||assuredhealth.info$all
 ||asufij.xyz$all
 ||atprofessor.fun$all
 ||atwater.org$all
 ||auto-lawyer.site$all
 ||baseofmp3.com$all
 ||bestappland.me$all
-||bestlinkupgrade.info$all
-||bestlinkupgrades.info$all
-||bestlinkupgrading.info$all
 ||bestvideoplayerupgrades.work$all
 ||bettercleanplayer.info$all
 ||bettercleanplayers.info$all
@@ -101,10 +97,10 @@
 ||defensepro.me$all
 ||degreenm.top$all
 ||delightcmain.xyz$all
+||desixxx.cloud$all
 ||ditvl.com$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||earlyprogress.info$all
 ||eproute.info$all
@@ -126,11 +122,9 @@
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
-||finreporter.net$all
 ||firststableplayer.work$all
 ||fisudauh.top$all
 ||fitandstable.club$all
-||fitcourage.info$all
 ||fithealthspark.info$all
 ||fithealthspot.club$all
 ||fitnessdial.club$all
@@ -207,11 +201,14 @@
 ||installcompletely-theoriginalfile.best$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
+||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||izipik.com$all
+||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||jsrenthouse.com$all
 ||jtkszl.vip$all
+||junemedia.bar$all
 ||junemedia.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
@@ -288,6 +285,7 @@
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -306,13 +304,13 @@
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
-||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
+||news-new19.net$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -323,7 +321,6 @@
 ||onegowc.pw$all
 ||online-prize-super-promotion.cyou$all
 ||online-survey.org$all
-||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
@@ -331,9 +328,7 @@
 ||operatecompletely-thespeedyfile.best$all
 ||operategreatly-therefinedfile.best$all
 ||operategreatly-theswiftfile.best$all
-||operateintensely-theprogressivefile.best$all
 ||operateprecise-thecompletelyfile.best$all
-||operateprogressive-theintenselyfile.best$all
 ||operaterefined-thegreatlyfile.best$all
 ||ouldthepat.fun$all
 ||patriothealth.today$all
@@ -374,6 +369,7 @@
 ||placespina.xyz$all
 ||playplanete.xyz$all
 ||ppploanchoices.site$all
+||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primecare.today$all
 ||privacykeeper.net$all
@@ -396,7 +392,6 @@
 ||recontent.cyou$all
 ||recontent.fun$all
 ||recontent.site$all
-||recontent.space$all
 ||recontent.surf$all
 ||reliablesoftwarevideos.info$all
 ||resignation.top$all
@@ -428,6 +423,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||searchoffers.info$all
@@ -436,7 +432,6 @@
 ||sec-alerts.xyz$all
 ||securitevpn.me$all
 ||security-made-easy.xyz$all
-||security-pro.xyz$all
 ||securityvpnpro.me$all
 ||seemlast.monster$all
 ||service-care.space$all
@@ -449,7 +444,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
@@ -516,7 +510,6 @@
 ||tackis.xyz$all
 ||talskingest.top$all
 ||tdstraffic.xyz$all
-||technologypartners.net$all
 ||theable.me$all
 ||thebettercleanplayer.info$all
 ||thebettercleanplayers.info$all
@@ -583,9 +576,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yourbestlinkupgrade.info$all
-||yourbestlinkupgrades.info$all
-||yourbestlinkupgrading.info$all
 ||yourbestvideoconnection.info$all
 ||yourbestvideoconnections.info$all
 ||yourbettercleanplayer.info$all

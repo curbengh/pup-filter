@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 16 Jul 2021 12:03:10 +0000
+! Updated: Sat, 17 Jul 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,16 +22,12 @@
 ||apptool.me^
 ||armorprovpn.me^
 ||ashtdi.cn^
-||assuredhealth.info^
 ||asufij.xyz^
 ||atprofessor.fun^
 ||atwater.org^
 ||auto-lawyer.site^
 ||baseofmp3.com^
 ||bestappland.me^
-||bestlinkupgrade.info^
-||bestlinkupgrades.info^
-||bestlinkupgrading.info^
 ||bestvideoplayerupgrades.work^
 ||bettercleanplayer.info^
 ||bettercleanplayers.info^
@@ -101,10 +97,10 @@
 ||defensepro.me^
 ||degreenm.top^
 ||delightcmain.xyz^
+||desixxx.cloud^
 ||ditvl.com^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
-||dollarsurvey366.org^
 ||dragonballclub.com^
 ||earlyprogress.info^
 ||eproute.info^
@@ -126,11 +122,9 @@
 ||findperfectplaces2download.work^
 ||findperfectplaces4download.work^
 ||findyourultimateplayersfirst.best^
-||finreporter.net^
 ||firststableplayer.work^
 ||fisudauh.top^
 ||fitandstable.club^
-||fitcourage.info^
 ||fithealthspark.info^
 ||fithealthspot.club^
 ||fitnessdial.club^
@@ -207,11 +201,14 @@
 ||installcompletely-theoriginalfile.best^
 ||iosdfnc.com^
 ||iosrecommendedvpn.com^
+||ironprovpn.me^
 ||isystemupdate.cloud^
 ||izipik.com^
+||java-forum.org^
 ||jointingifstrawberry.xyz^
 ||jsrenthouse.com^
 ||jtkszl.vip^
+||junemedia.bar^
 ||junemedia.xyz^
 ||kad3md.cn^
 ||keepithealthy.info^
@@ -288,6 +285,7 @@
 ||manageuber-theswiftfile.best^
 ||mapopts.top^
 ||matchyourgirl.online^
+||mathison.io^
 ||mediaevent.club^
 ||mediaevent.uno^
 ||mediagate.casa^
@@ -306,13 +304,13 @@
 ||mistraffic.me^
 ||mobileluckywinner.site^
 ||modern-security.xyz^
-||money-hero.org^
 ||monitoring-credit.xyz^
 ||movievod.me^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
 ||naughtygirlsshowall.live^
+||news-new19.net^
 ||nutrahealth.info^
 ||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
@@ -323,7 +321,6 @@
 ||onegowc.pw^
 ||online-prize-super-promotion.cyou^
 ||online-survey.org^
-||onlinecinema.eu^
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
@@ -331,9 +328,7 @@
 ||operatecompletely-thespeedyfile.best^
 ||operategreatly-therefinedfile.best^
 ||operategreatly-theswiftfile.best^
-||operateintensely-theprogressivefile.best^
 ||operateprecise-thecompletelyfile.best^
-||operateprogressive-theintenselyfile.best^
 ||operaterefined-thegreatlyfile.best^
 ||ouldthepat.fun^
 ||patriothealth.today^
@@ -374,6 +369,7 @@
 ||placespina.xyz^
 ||playplanete.xyz^
 ||ppploanchoices.site^
+||premiernursingacademy.org^
 ||preparedforsafeupgrading.work^
 ||primecare.today^
 ||privacykeeper.net^
@@ -396,7 +392,6 @@
 ||recontent.cyou^
 ||recontent.fun^
 ||recontent.site^
-||recontent.space^
 ||recontent.surf^
 ||reliablesoftwarevideos.info^
 ||resignation.top^
@@ -428,6 +423,7 @@
 ||runrecent-besthighlyfile.best^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||searchoffers.info^
@@ -436,7 +432,6 @@
 ||sec-alerts.xyz^
 ||securitevpn.me^
 ||security-made-easy.xyz^
-||security-pro.xyz^
 ||securityvpnpro.me^
 ||seemlast.monster^
 ||service-care.space^
@@ -449,7 +444,6 @@
 ||springplanetf.xyz^
 ||start-page.one^
 ||stay-notified.cc^
-||stickr.co^
 ||stogether.fun^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
@@ -516,7 +510,6 @@
 ||tackis.xyz^
 ||talskingest.top^
 ||tdstraffic.xyz^
-||technologypartners.net^
 ||theable.me^
 ||thebettercleanplayer.info^
 ||thebettercleanplayers.info^
@@ -583,9 +576,6 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
-||yourbestlinkupgrade.info^
-||yourbestlinkupgrades.info^
-||yourbestlinkupgrading.info^
 ||yourbestvideoconnection.info^
 ||yourbestvideoconnections.info^
 ||yourbettercleanplayer.info^

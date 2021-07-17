@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 16 Jul 2021 12:03:10 +0000
+# Updated: Sat, 17 Jul 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,16 +25,12 @@ msFilterList
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
--d assuredhealth.info
 -d asufij.xyz
 -d atprofessor.fun
 -d atwater.org
 -d auto-lawyer.site
 -d baseofmp3.com
 -d bestappland.me
--d bestlinkupgrade.info
--d bestlinkupgrades.info
--d bestlinkupgrading.info
 -d bestvideoplayerupgrades.work
 -d bettercleanplayer.info
 -d bettercleanplayers.info
@@ -104,10 +100,10 @@ msFilterList
 -d defensepro.me
 -d degreenm.top
 -d delightcmain.xyz
+-d desixxx.cloud
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
--d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
 -d eproute.info
@@ -129,11 +125,9 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d firststableplayer.work
 -d fisudauh.top
 -d fitandstable.club
--d fitcourage.info
 -d fithealthspark.info
 -d fithealthspot.club
 -d fitnessdial.club
@@ -210,11 +204,14 @@ msFilterList
 -d installcompletely-theoriginalfile.best
 -d iosdfnc.com
 -d iosrecommendedvpn.com
+-d ironprovpn.me
 -d isystemupdate.cloud
 -d izipik.com
+-d java-forum.org
 -d jointingifstrawberry.xyz
 -d jsrenthouse.com
 -d jtkszl.vip
+-d junemedia.bar
 -d junemedia.xyz
 -d kad3md.cn
 -d keepithealthy.info
@@ -291,6 +288,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -309,13 +307,13 @@ msFilterList
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
--d money-hero.org
 -d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
+-d news-new19.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -326,7 +324,6 @@ msFilterList
 -d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
--d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
@@ -334,9 +331,7 @@ msFilterList
 -d operatecompletely-thespeedyfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
--d operateintensely-theprogressivefile.best
 -d operateprecise-thecompletelyfile.best
--d operateprogressive-theintenselyfile.best
 -d operaterefined-thegreatlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
@@ -377,6 +372,7 @@ msFilterList
 -d placespina.xyz
 -d playplanete.xyz
 -d ppploanchoices.site
+-d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
@@ -399,7 +395,6 @@ msFilterList
 -d recontent.cyou
 -d recontent.fun
 -d recontent.site
--d recontent.space
 -d recontent.surf
 -d reliablesoftwarevideos.info
 -d resignation.top
@@ -431,6 +426,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -439,7 +435,6 @@ msFilterList
 -d sec-alerts.xyz
 -d securitevpn.me
 -d security-made-easy.xyz
--d security-pro.xyz
 -d securityvpnpro.me
 -d seemlast.monster
 -d service-care.space
@@ -452,7 +447,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -519,7 +513,6 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
--d technologypartners.net
 -d theable.me
 -d thebettercleanplayer.info
 -d thebettercleanplayers.info
@@ -586,9 +579,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yourbestlinkupgrade.info
--d yourbestlinkupgrades.info
--d yourbestlinkupgrading.info
 -d yourbestvideoconnection.info
 -d yourbestvideoconnections.info
 -d yourbettercleanplayer.info
