@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Jul 2021 00:02:51 +0000
+! Updated: Sun, 18 Jul 2021 12:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -105,7 +105,6 @@ eproute.info
 eroanimeittyokusen.com
 erotica.live
 extrasafe.xyz
-f7lwv2y0xb.top
 facebook-sex.com
 fastmapc.xyz
 fastspinc.xyz
@@ -164,7 +163,6 @@ graburprize.net
 gramp.xyz
 grandencryptions.me
 growthnetic.club
-gx8uxvn13l.top
 hailso.xyz
 happyactive.today
 happymakesite.xyz
@@ -192,7 +190,6 @@ httqzq.vip
 hypezen.info
 ientsillness.fun
 inappropriate.top
-incing-marganic.icu
 incrediblebuzz.info
 information.casa
 installcompletely-theoriginalfile.best
@@ -307,7 +304,6 @@ my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
-news-new19.net
 nutrahealth.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -439,7 +435,6 @@ springplanetf.xyz
 start-page.one
 stay-notified.cc
 stickr.co
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best

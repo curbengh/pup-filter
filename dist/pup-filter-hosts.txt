@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 18 Jul 2021 00:02:51 +0000
+# Updated: Sun, 18 Jul 2021 12:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -105,7 +105,6 @@
 0.0.0.0 eroanimeittyokusen.com
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
-0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 facebook-sex.com
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
@@ -164,7 +163,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
-0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
@@ -192,7 +190,6 @@
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 inappropriate.top
-0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 installcompletely-theoriginalfile.best
@@ -307,7 +304,6 @@
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
-0.0.0.0 news-new19.net
 0.0.0.0 nutrahealth.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
@@ -439,7 +435,6 @@
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

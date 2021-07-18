@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Jul 2021 00:02:51 +0000
+! Updated: Sun, 18 Jul 2021 12:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -105,7 +105,6 @@
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
 ||extrasafe.xyz$document
-||f7lwv2y0xb.top$document
 ||facebook-sex.com$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
@@ -164,7 +163,6 @@
 ||gramp.xyz$document
 ||grandencryptions.me$document
 ||growthnetic.club$document
-||gx8uxvn13l.top$document
 ||hailso.xyz$document
 ||happyactive.today$document
 ||happymakesite.xyz$document
@@ -192,7 +190,6 @@
 ||hypezen.info$document
 ||ientsillness.fun$document
 ||inappropriate.top$document
-||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||installcompletely-theoriginalfile.best$document
@@ -307,7 +304,6 @@
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
-||news-new19.net$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
@@ -439,7 +435,6 @@
 ||start-page.one$document
 ||stay-notified.cc$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
