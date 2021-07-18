@@ -156,6 +156,21 @@ sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../dist/pup-filter-unbound.conf"
 
 
+## dnscrypt-proxy blocklists
+# name-based
+cat "pup-notop-domains.txt" | \
+sed '1 i\'"$COMMENT"'' | \
+sed "1s/Domains/Names/" > "../dist/pup-filter-dnscrypt-blocked-names.txt"
+
+## Currently there are no IP entries
+# # IPv4-based
+# cat "phishing-notop-domains.txt" | \
+# sort | \
+# grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
+# sed '1 i\'"$COMMENT"'' | \
+# sed "1s/Domains/IPs/" > "../dist/phishing-filter-dnscrypt-blocked-ips.txt"
+
+
 ## IE blocklist
 COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 

@@ -13,6 +13,7 @@ There are multiple formats available, refer to the appropriate section according
 - [Dnsmasq](#dnsmasq)
 - BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
 - [Unbound](#unbound)
+- [dnscrypt-proxy](#dnscrypt-proxy)
 - Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
 - [Snort2](#snort2)
 - [Snort3](#snort3)
@@ -272,6 +273,41 @@ printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc
 - https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-unbound.conf
 - https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-unbound.conf
 
+</details>
+
+## dnscrypt-proxy
+
+### Install
+
+```
+# Create a new folder to store the blocklist
+mkdir -p /etc/dnscrypt-proxy/
+
+# Create a new cron job for daily update
+printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/pup-filter
+
+# cron job requires execution permission
+chmod 755 /etc/cron.daily/pup-filter
+```
+
+Configure dnscrypt-proxy to use the blocklist:
+
+``` diff
+[blocked_names]
++  blocked_names_file = '/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt'
+```
+
+- https://curben.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-dnscrypt-blocked-names.txt
 </details>
 
 ## Tracking Protection List (IE)
