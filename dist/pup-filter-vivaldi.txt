@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 17 Jul 2021 12:02:32 +0000
+! Updated: Sun, 18 Jul 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,13 +12,11 @@
 ||321movies.xyz$document
 ||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
+||adguard-vpn.com$document
 ||adrondespi.top$document
-||adtrackingflow.pro$document
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
-||amobil.online$document
-||animenation.org$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
@@ -29,7 +27,6 @@
 ||baseofmp3.com$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
-||bettercleanplayer.info$document
 ||bettercleanplayers.info$document
 ||betterfreedownloadplayer.info$document
 ||betterfreedownloadplayers.info$document
@@ -95,14 +92,15 @@
 ||dealmedia.website$document
 ||dealmedia.xyz$document
 ||defensepro.me$document
-||degreenm.top$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
 ||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
+||elpelades.club$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
@@ -174,7 +172,6 @@
 ||healthdome.info$document
 ||healtheezy.info$document
 ||healthemerge.info$document
-||healthmaintain.info$document
 ||healthmanic.info$document
 ||healthmarlin.club$document
 ||healthneo.club$document
@@ -318,14 +315,13 @@
 ||officialprizenationalrandom.cyou$document
 ||oldharper.xyz$document
 ||olivedinflats.space$document
-||onegowc.pw$document
 ||online-prize-super-promotion.cyou$document
 ||online-survey.org$document
+||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||operatecompletely-theprecisefile.best$document
-||operatecompletely-thespeedyfile.best$document
 ||operategreatly-therefinedfile.best$document
 ||operategreatly-theswiftfile.best$document
 ||operateprecise-thecompletelyfile.best$document
@@ -422,7 +418,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
@@ -443,6 +438,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -509,9 +505,8 @@
 ||tackis.xyz$document
 ||talskingest.top$document
 ||tdstraffic.xyz$document
-||theable.me$document
+||technologypartners.net$document
 ||thebettercleanplayer.info$document
-||thebettercleanplayers.info$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
 ||thefatburner.info$document
@@ -547,7 +542,6 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||viralarticles.net$document
 ||vital-health.club$document
 ||vpn-pro.info$document
 ||vpn1aprotectplus.com$document

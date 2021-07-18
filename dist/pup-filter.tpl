@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 17 Jul 2021 12:02:32 +0000
+# Updated: Sun, 18 Jul 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,13 +15,11 @@ msFilterList
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
+-d adguard-vpn.com
 -d adrondespi.top
--d adtrackingflow.pro
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
--d amobil.online
--d animenation.org
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
@@ -32,7 +30,6 @@ msFilterList
 -d baseofmp3.com
 -d bestappland.me
 -d bestvideoplayerupgrades.work
--d bettercleanplayer.info
 -d bettercleanplayers.info
 -d betterfreedownloadplayer.info
 -d betterfreedownloadplayers.info
@@ -98,14 +95,15 @@ msFilterList
 -d dealmedia.website
 -d dealmedia.xyz
 -d defensepro.me
--d degreenm.top
 -d delightcmain.xyz
 -d desixxx.cloud
 -d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
+-d elpelades.club
 -d eproute.info
 -d eroanimeittyokusen.com
 -d erotica.live
@@ -177,7 +175,6 @@ msFilterList
 -d healthdome.info
 -d healtheezy.info
 -d healthemerge.info
--d healthmaintain.info
 -d healthmanic.info
 -d healthmarlin.club
 -d healthneo.club
@@ -321,14 +318,13 @@ msFilterList
 -d officialprizenationalrandom.cyou
 -d oldharper.xyz
 -d olivedinflats.space
--d onegowc.pw
 -d online-prize-super-promotion.cyou
 -d online-survey.org
+-d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d operatecompletely-theprecisefile.best
--d operatecompletely-thespeedyfile.best
 -d operategreatly-therefinedfile.best
 -d operategreatly-theswiftfile.best
 -d operateprecise-thecompletelyfile.best
@@ -425,7 +421,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -446,6 +441,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -512,9 +508,8 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
--d theable.me
+-d technologypartners.net
 -d thebettercleanplayer.info
--d thebettercleanplayers.info
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefatburner.info
@@ -550,7 +545,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d viralarticles.net
 -d vital-health.club
 -d vpn-pro.info
 -d vpn1aprotectplus.com

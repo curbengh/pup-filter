@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 17 Jul 2021 12:02:32 +0000
+# Updated: Sun, 18 Jul 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,13 +12,11 @@
 321movies.xyz
 4upgradingstablesafe.work
 abeah-security.xyz
+adguard-vpn.com
 adrondespi.top
-adtrackingflow.pro
 akb48wrapup.com
 altcasino.info
 amateurxporn.com
-amobil.online
-animenation.org
 apptool.me
 armorprovpn.me
 ashtdi.cn
@@ -29,7 +27,6 @@ auto-lawyer.site
 baseofmp3.com
 bestappland.me
 bestvideoplayerupgrades.work
-bettercleanplayer.info
 bettercleanplayers.info
 betterfreedownloadplayer.info
 betterfreedownloadplayers.info
@@ -95,14 +92,15 @@ dealmedia.club
 dealmedia.website
 dealmedia.xyz
 defensepro.me
-degreenm.top
 delightcmain.xyz
 desixxx.cloud
 ditvl.com
 dollarsurvey365.online
 dollarsurvey365.org
+dollarsurvey366.org
 dragonballclub.com
 earlyprogress.info
+elpelades.club
 eproute.info
 eroanimeittyokusen.com
 erotica.live
@@ -174,7 +172,6 @@ healandgrow.club
 healthdome.info
 healtheezy.info
 healthemerge.info
-healthmaintain.info
 healthmanic.info
 healthmarlin.club
 healthneo.club
@@ -318,14 +315,13 @@ officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
 oldharper.xyz
 olivedinflats.space
-onegowc.pw
 online-prize-super-promotion.cyou
 online-survey.org
+onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 operatecompletely-theprecisefile.best
-operatecompletely-thespeedyfile.best
 operategreatly-therefinedfile.best
 operategreatly-theswiftfile.best
 operateprecise-thecompletelyfile.best
@@ -422,7 +418,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
@@ -443,6 +438,7 @@ spotmapd.xyz
 springplanetf.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -509,9 +505,8 @@ systemupdatit.club
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
-theable.me
+technologypartners.net
 thebettercleanplayer.info
-thebettercleanplayers.info
 thecryptomoney.info
 thecryptozone.website
 thefatburner.info
@@ -547,7 +542,6 @@ updatefix.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
-viralarticles.net
 vital-health.club
 vpn-pro.info
 vpn1aprotectplus.com
