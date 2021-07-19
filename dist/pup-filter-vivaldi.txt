@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Jul 2021 12:02:41 +0000
+! Updated: Mon, 19 Jul 2021 00:02:50 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
 ||1browser.co$document
-||20patogh.com$document
 ||2kddbl.club$document
 ||321movies.xyz$document
 ||4upgradingstablesafe.work$document
@@ -17,13 +16,13 @@
 ||akb48wrapup.com$document
 ||altcasino.info$document
 ||amateurxporn.com$document
+||amobil.online$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
 ||asufij.xyz$document
 ||atprofessor.fun$document
 ||atwater.org$document
-||auto-lawyer.site$document
 ||baseofmp3.com$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -35,7 +34,6 @@
 ||bigwin-online-free-congrats.cyou$document
 ||bigwinonlinefreecongrats.cyou$document
 ||bitcoinjunction.club$document
-||bittrend.com$document
 ||blockchain-com.email$document
 ||bodyamaze.club$document
 ||bodyselfcare.info$document
@@ -55,7 +53,6 @@
 ||care-connection.info$document
 ||careerconnecthub.com$document
 ||celebseven.com$document
-||centrodeartigos.com$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -94,18 +91,15 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
-||ditvl.com$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||dollarsurvey366.org$document
 ||dragonballclub.com$document
 ||earlyprogress.info$document
-||elpelades.club$document
 ||eproute.info$document
 ||eroanimeittyokusen.com$document
 ||erotica.live$document
 ||extrasafe.xyz$document
-||facebook-sex.com$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
 ||fastspota.xyz$document
@@ -189,6 +183,7 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -200,9 +195,9 @@
 ||izipik.com$document
 ||java-forum.org$document
 ||jointingifstrawberry.xyz$document
-||jsrenthouse.com$document
 ||jtkszl.vip$document
 ||junemedia.bar$document
+||junemedia.club$document
 ||junemedia.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
@@ -312,15 +307,11 @@
 ||oldharper.xyz$document
 ||olivedinflats.space$document
 ||online-prize-super-promotion.cyou$document
-||online-survey.org$document
 ||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
-||operatecompletely-theprecisefile.best$document
 ||operategreatly-therefinedfile.best$document
-||operategreatly-theswiftfile.best$document
-||operateprecise-thecompletelyfile.best$document
 ||operaterefined-thegreatlyfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
@@ -383,14 +374,12 @@
 ||recontent.cyou$document
 ||recontent.fun$document
 ||recontent.site$document
-||recontent.surf$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
-||roadtoyourhealth.info$document
 ||robogarden.io$document
 ||rootessential.info$document
 ||runadvanced-bestextremelyfile.best$document
@@ -414,6 +403,7 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
@@ -552,7 +542,6 @@
 ||websiteforall.work$document
 ||websitetoget.work$document
 ||webtip.co$document
-||wellnessgram.info$document
 ||wellnessplum.info$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.site$document

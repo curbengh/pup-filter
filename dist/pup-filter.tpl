@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 18 Jul 2021 12:02:41 +0000
+# Updated: Mon, 19 Jul 2021 00:02:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 123news.website
 -d 1browser.co
--d 20patogh.com
 -d 2kddbl.club
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
@@ -20,13 +19,13 @@ msFilterList
 -d akb48wrapup.com
 -d altcasino.info
 -d amateurxporn.com
+-d amobil.online
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
 -d asufij.xyz
 -d atprofessor.fun
 -d atwater.org
--d auto-lawyer.site
 -d baseofmp3.com
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -38,7 +37,6 @@ msFilterList
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
 -d bitcoinjunction.club
--d bittrend.com
 -d blockchain-com.email
 -d bodyamaze.club
 -d bodyselfcare.info
@@ -58,7 +56,6 @@ msFilterList
 -d care-connection.info
 -d careerconnecthub.com
 -d celebseven.com
--d centrodeartigos.com
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -97,18 +94,15 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
--d ditvl.com
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
--d elpelades.club
 -d eproute.info
 -d eroanimeittyokusen.com
 -d erotica.live
 -d extrasafe.xyz
--d facebook-sex.com
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -192,6 +186,7 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d iketo.diet
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -203,9 +198,9 @@ msFilterList
 -d izipik.com
 -d java-forum.org
 -d jointingifstrawberry.xyz
--d jsrenthouse.com
 -d jtkszl.vip
 -d junemedia.bar
+-d junemedia.club
 -d junemedia.xyz
 -d kad3md.cn
 -d keepithealthy.info
@@ -315,15 +310,11 @@ msFilterList
 -d oldharper.xyz
 -d olivedinflats.space
 -d online-prize-super-promotion.cyou
--d online-survey.org
 -d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d operatecompletely-theprecisefile.best
 -d operategreatly-therefinedfile.best
--d operategreatly-theswiftfile.best
--d operateprecise-thecompletelyfile.best
 -d operaterefined-thegreatlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
@@ -386,14 +377,12 @@ msFilterList
 -d recontent.cyou
 -d recontent.fun
 -d recontent.site
--d recontent.surf
 -d reliablesoftwarevideos.info
 -d resignation.top
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
--d roadtoyourhealth.info
 -d robogarden.io
 -d rootessential.info
 -d runadvanced-bestextremelyfile.best
@@ -417,6 +406,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -555,7 +545,6 @@ msFilterList
 -d websiteforall.work
 -d websitetoget.work
 -d webtip.co
--d wellnessgram.info
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site

@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 18 Jul 2021 12:02:41 +0000
+! Updated: Mon, 19 Jul 2021 00:02:50 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website^
 ||1browser.co^
-||20patogh.com^
 ||2kddbl.club^
 ||321movies.xyz^
 ||4upgradingstablesafe.work^
@@ -17,13 +16,13 @@
 ||akb48wrapup.com^
 ||altcasino.info^
 ||amateurxporn.com^
+||amobil.online^
 ||apptool.me^
 ||armorprovpn.me^
 ||ashtdi.cn^
 ||asufij.xyz^
 ||atprofessor.fun^
 ||atwater.org^
-||auto-lawyer.site^
 ||baseofmp3.com^
 ||bestappland.me^
 ||bestvideoplayerupgrades.work^
@@ -35,7 +34,6 @@
 ||bigwin-online-free-congrats.cyou^
 ||bigwinonlinefreecongrats.cyou^
 ||bitcoinjunction.club^
-||bittrend.com^
 ||blockchain-com.email^
 ||bodyamaze.club^
 ||bodyselfcare.info^
@@ -55,7 +53,6 @@
 ||care-connection.info^
 ||careerconnecthub.com^
 ||celebseven.com^
-||centrodeartigos.com^
 ||check-your-profitzone.life^
 ||cloudmedia.casa^
 ||cloudmedia.cyou^
@@ -94,18 +91,15 @@
 ||defensepro.me^
 ||delightcmain.xyz^
 ||desixxx.cloud^
-||ditvl.com^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
 ||dollarsurvey366.org^
 ||dragonballclub.com^
 ||earlyprogress.info^
-||elpelades.club^
 ||eproute.info^
 ||eroanimeittyokusen.com^
 ||erotica.live^
 ||extrasafe.xyz^
-||facebook-sex.com^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
 ||fastspota.xyz^
@@ -189,6 +183,7 @@
 ||httqzq.vip^
 ||hypezen.info^
 ||ientsillness.fun^
+||iketo.diet^
 ||inappropriate.top^
 ||incrediblebuzz.info^
 ||information.casa^
@@ -200,9 +195,9 @@
 ||izipik.com^
 ||java-forum.org^
 ||jointingifstrawberry.xyz^
-||jsrenthouse.com^
 ||jtkszl.vip^
 ||junemedia.bar^
+||junemedia.club^
 ||junemedia.xyz^
 ||kad3md.cn^
 ||keepithealthy.info^
@@ -312,15 +307,11 @@
 ||oldharper.xyz^
 ||olivedinflats.space^
 ||online-prize-super-promotion.cyou^
-||online-survey.org^
 ||onlinecinema.eu^
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
-||operatecompletely-theprecisefile.best^
 ||operategreatly-therefinedfile.best^
-||operategreatly-theswiftfile.best^
-||operateprecise-thecompletelyfile.best^
 ||operaterefined-thegreatlyfile.best^
 ||ouldthepat.fun^
 ||patriothealth.today^
@@ -383,14 +374,12 @@
 ||recontent.cyou^
 ||recontent.fun^
 ||recontent.site^
-||recontent.surf^
 ||reliablesoftwarevideos.info^
 ||resignation.top^
 ||rewards-promotion-winner-super.cyou^
 ||rewardsluckygiveawayprize.cyou^
 ||rewardspromotionwinnersuper.cyou^
 ||ritaus.org^
-||roadtoyourhealth.info^
 ||robogarden.io^
 ||rootessential.info^
 ||runadvanced-bestextremelyfile.best^
@@ -414,6 +403,7 @@
 ||runrecent-besthighlyfile.best^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||searchoffers.info^
@@ -552,7 +542,6 @@
 ||websiteforall.work^
 ||websitetoget.work^
 ||webtip.co^
-||wellnessgram.info^
 ||wellnessplum.info^
 ||winnerbigwingiveawaysuper.cyou^
 ||winnerz.site^
