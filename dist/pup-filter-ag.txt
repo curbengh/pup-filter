@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 19 Jul 2021 12:03:00 +0000
+! Updated: Tue, 20 Jul 2021 00:03:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,11 +11,9 @@
 ||321movies.xyz$all
 ||4upgradingstablesafe.work$all
 ||abeah-security.xyz$all
-||adguard-vpn.com$all
 ||adrondespi.top$all
 ||akb48wrapup.com$all
 ||altcasino.info$all
-||amateurxporn.com$all
 ||amobil.online$all
 ||apptool.me$all
 ||armorprovpn.me$all
@@ -23,7 +21,6 @@
 ||asufij.xyz$all
 ||atprofessor.fun$all
 ||atwater.org$all
-||baseofmp3.com$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bettercleanplayers.info$all
@@ -73,7 +70,6 @@
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||cryptotradingcourses.net$all
-||cryptounlimited.info$all
 ||cselfconnect.com$all
 ||curesector.today$all
 ||dailymedia.casa$all
@@ -96,6 +92,7 @@
 ||dollarsurvey366.org$all
 ||dragonballclub.com$all
 ||earlyprogress.info$all
+||elpelades.club$all
 ||eproute.info$all
 ||eroanimeittyokusen.com$all
 ||erotica.live$all
@@ -107,12 +104,12 @@
 ||fastwebb.xyz$all
 ||fastwebe.xyz$all
 ||filmesonlineturbo.net$all
-||films-down.com$all
 ||financial-deals.xyz$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
+||finreporter.net$all
 ||firststableplayer.work$all
 ||fisudauh.top$all
 ||fitandstable.club$all
@@ -128,7 +125,6 @@
 ||flymedia.fun$all
 ||flymedia.online$all
 ||flymedia.uno$all
-||forsalecheap.net$all
 ||free-gifts.net$all
 ||freenationalsuperworldwide.cyou$all
 ||freeperfectupgrade.work$all
@@ -182,7 +178,6 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||iketo.diet$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
 ||information.casa$all
@@ -191,7 +186,6 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||izipik.com$all
 ||java-forum.org$all
 ||jointingifstrawberry.xyz$all
 ||jtkszl.vip$all
@@ -292,6 +286,7 @@
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
+||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
@@ -488,7 +483,6 @@
 ||talskingest.top$all
 ||tdstraffic.xyz$all
 ||technologypartners.net$all
-||thebettercleanplayer.info$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thefatburner.info$all
@@ -496,7 +490,6 @@
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehealthgo.info$all
-||thehealthystyle.info$all
 ||thehotshot.info$all
 ||thenewjourney.info$all
 ||thesafestplayerlinks.work$all

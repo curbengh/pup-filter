@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 19 Jul 2021 12:03:00 +0000
+# Updated: Tue, 20 Jul 2021 00:03:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,11 +11,9 @@
 321movies.xyz
 4upgradingstablesafe.work
 abeah-security.xyz
-adguard-vpn.com
 adrondespi.top
 akb48wrapup.com
 altcasino.info
-amateurxporn.com
 amobil.online
 apptool.me
 armorprovpn.me
@@ -23,7 +21,6 @@ ashtdi.cn
 asufij.xyz
 atprofessor.fun
 atwater.org
-baseofmp3.com
 bestappland.me
 bestvideoplayerupgrades.work
 bettercleanplayers.info
@@ -73,7 +70,6 @@ credit-monitor.xyz
 credit-monitoring-360.xyz
 cryptotilt.club
 cryptotradingcourses.net
-cryptounlimited.info
 cselfconnect.com
 curesector.today
 dailymedia.casa
@@ -96,6 +92,7 @@ dollarsurvey365.org
 dollarsurvey366.org
 dragonballclub.com
 earlyprogress.info
+elpelades.club
 eproute.info
 eroanimeittyokusen.com
 erotica.live
@@ -107,12 +104,12 @@ fastspotb.xyz
 fastwebb.xyz
 fastwebe.xyz
 filmesonlineturbo.net
-films-down.com
 financial-deals.xyz
 findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
+finreporter.net
 firststableplayer.work
 fisudauh.top
 fitandstable.club
@@ -128,7 +125,6 @@ flymedia.club
 flymedia.fun
 flymedia.online
 flymedia.uno
-forsalecheap.net
 free-gifts.net
 freenationalsuperworldwide.cyou
 freeperfectupgrade.work
@@ -182,7 +178,6 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
-iketo.diet
 inappropriate.top
 incrediblebuzz.info
 information.casa
@@ -191,7 +186,6 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
-izipik.com
 java-forum.org
 jointingifstrawberry.xyz
 jtkszl.vip
@@ -292,6 +286,7 @@ mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
+money-hero.org
 monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
@@ -488,7 +483,6 @@ tackis.xyz
 talskingest.top
 tdstraffic.xyz
 technologypartners.net
-thebettercleanplayer.info
 thecryptomoney.info
 thecryptozone.website
 thefatburner.info
@@ -496,7 +490,6 @@ thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
 thehealthgo.info
-thehealthystyle.info
 thehotshot.info
 thenewjourney.info
 thesafestplayerlinks.work

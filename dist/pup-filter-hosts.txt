@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 19 Jul 2021 12:03:00 +0000
+# Updated: Tue, 20 Jul 2021 00:03:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,11 +11,9 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abeah-security.xyz
-0.0.0.0 adguard-vpn.com
 0.0.0.0 adrondespi.top
 0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
-0.0.0.0 amateurxporn.com
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
@@ -23,7 +21,6 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
-0.0.0.0 baseofmp3.com
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bettercleanplayers.info
@@ -73,7 +70,6 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 cryptotradingcourses.net
-0.0.0.0 cryptounlimited.info
 0.0.0.0 cselfconnect.com
 0.0.0.0 curesector.today
 0.0.0.0 dailymedia.casa
@@ -96,6 +92,7 @@
 0.0.0.0 dollarsurvey366.org
 0.0.0.0 dragonballclub.com
 0.0.0.0 earlyprogress.info
+0.0.0.0 elpelades.club
 0.0.0.0 eproute.info
 0.0.0.0 eroanimeittyokusen.com
 0.0.0.0 erotica.live
@@ -107,12 +104,12 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 fastwebe.xyz
 0.0.0.0 filmesonlineturbo.net
-0.0.0.0 films-down.com
 0.0.0.0 financial-deals.xyz
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
+0.0.0.0 finreporter.net
 0.0.0.0 firststableplayer.work
 0.0.0.0 fisudauh.top
 0.0.0.0 fitandstable.club
@@ -128,7 +125,6 @@
 0.0.0.0 flymedia.fun
 0.0.0.0 flymedia.online
 0.0.0.0 flymedia.uno
-0.0.0.0 forsalecheap.net
 0.0.0.0 free-gifts.net
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freeperfectupgrade.work
@@ -182,7 +178,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -191,7 +186,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 izipik.com
 0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jtkszl.vip
@@ -292,6 +286,7 @@
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 modern-security.xyz
+0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
@@ -488,7 +483,6 @@
 0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
 0.0.0.0 technologypartners.net
-0.0.0.0 thebettercleanplayer.info
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
 0.0.0.0 thefatburner.info
@@ -496,7 +490,6 @@
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehealthgo.info
-0.0.0.0 thehealthystyle.info
 0.0.0.0 thehotshot.info
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestplayerlinks.work

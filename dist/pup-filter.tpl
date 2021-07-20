@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 19 Jul 2021 12:03:00 +0000
+# Updated: Tue, 20 Jul 2021 00:03:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,11 +14,9 @@ msFilterList
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
--d adguard-vpn.com
 -d adrondespi.top
 -d akb48wrapup.com
 -d altcasino.info
--d amateurxporn.com
 -d amobil.online
 -d apptool.me
 -d armorprovpn.me
@@ -26,7 +24,6 @@ msFilterList
 -d asufij.xyz
 -d atprofessor.fun
 -d atwater.org
--d baseofmp3.com
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bettercleanplayers.info
@@ -76,7 +73,6 @@ msFilterList
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d cryptotradingcourses.net
--d cryptounlimited.info
 -d cselfconnect.com
 -d curesector.today
 -d dailymedia.casa
@@ -99,6 +95,7 @@ msFilterList
 -d dollarsurvey366.org
 -d dragonballclub.com
 -d earlyprogress.info
+-d elpelades.club
 -d eproute.info
 -d eroanimeittyokusen.com
 -d erotica.live
@@ -110,12 +107,12 @@ msFilterList
 -d fastwebb.xyz
 -d fastwebe.xyz
 -d filmesonlineturbo.net
--d films-down.com
 -d financial-deals.xyz
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
+-d finreporter.net
 -d firststableplayer.work
 -d fisudauh.top
 -d fitandstable.club
@@ -131,7 +128,6 @@ msFilterList
 -d flymedia.fun
 -d flymedia.online
 -d flymedia.uno
--d forsalecheap.net
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
 -d freeperfectupgrade.work
@@ -185,7 +181,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d iketo.diet
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -194,7 +189,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d izipik.com
 -d java-forum.org
 -d jointingifstrawberry.xyz
 -d jtkszl.vip
@@ -295,6 +289,7 @@ msFilterList
 -d mistraffic.me
 -d mobileluckywinner.site
 -d modern-security.xyz
+-d money-hero.org
 -d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
@@ -491,7 +486,6 @@ msFilterList
 -d talskingest.top
 -d tdstraffic.xyz
 -d technologypartners.net
--d thebettercleanplayer.info
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefatburner.info
@@ -499,7 +493,6 @@ msFilterList
 -d thehealthcurve.info
 -d thehealthcycle.club
 -d thehealthgo.info
--d thehealthystyle.info
 -d thehotshot.info
 -d thenewjourney.info
 -d thesafestplayerlinks.work
