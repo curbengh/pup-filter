@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Jul 2021 00:03:35 +0000
+# Updated: Tue, 20 Jul 2021 12:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -100,6 +100,7 @@ msFilterList
 -d eroanimeittyokusen.com
 -d erotica.live
 -d extrasafe.xyz
+-d f7lwv2y0xb.top
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -156,6 +157,7 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
+-d gx8uxvn13l.top
 -d hailso.xyz
 -d happyactive.today
 -d happymakesite.xyz
@@ -181,7 +183,9 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d inappropriate.top
+-d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
 -d installcompletely-theoriginalfile.best
@@ -310,6 +314,7 @@ msFilterList
 -d onlinewinnerluckyrewards.cyou
 -d operategreatly-therefinedfile.best
 -d operaterefined-thegreatlyfile.best
+-d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
@@ -403,6 +408,7 @@ msFilterList
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -420,6 +426,7 @@ msFilterList
 -d start-page.one
 -d stay-notified.cc
 -d stickr.co
+-d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -485,7 +492,6 @@ msFilterList
 -d tackis.xyz
 -d talskingest.top
 -d tdstraffic.xyz
--d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefatburner.info
@@ -522,6 +528,7 @@ msFilterList
 -d usevpnpro.me
 -d vital-health.club
 -d vpn-pro.info
+-d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me

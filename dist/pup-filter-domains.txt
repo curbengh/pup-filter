@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Jul 2021 00:03:35 +0000
+# Updated: Tue, 20 Jul 2021 12:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -97,6 +97,7 @@ eproute.info
 eroanimeittyokusen.com
 erotica.live
 extrasafe.xyz
+f7lwv2y0xb.top
 fastmapc.xyz
 fastspinc.xyz
 fastspota.xyz
@@ -153,6 +154,7 @@ graburprize.net
 gramp.xyz
 grandencryptions.me
 growthnetic.club
+gx8uxvn13l.top
 hailso.xyz
 happyactive.today
 happymakesite.xyz
@@ -178,7 +180,9 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
+ientsillness.fun
 inappropriate.top
+incing-marganic.icu
 incrediblebuzz.info
 information.casa
 installcompletely-theoriginalfile.best
@@ -307,6 +311,7 @@ onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 operategreatly-therefinedfile.best
 operaterefined-thegreatlyfile.best
+ouldthepat.fun
 patriothealth.today
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
@@ -400,6 +405,7 @@ savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
+seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
@@ -417,6 +423,7 @@ springplanetf.xyz
 start-page.one
 stay-notified.cc
 stickr.co
+stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -482,7 +489,6 @@ systemupdatit.club
 tackis.xyz
 talskingest.top
 tdstraffic.xyz
-technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thefatburner.info
@@ -519,6 +525,7 @@ useprovpn.me
 usevpnpro.me
 vital-health.club
 vpn-pro.info
+vpn1aprotectplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me
