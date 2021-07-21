@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 20 Jul 2021 12:03:05 +0000
+! Updated: Wed, 21 Jul 2021 00:03:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 ||4upgradingstablesafe.work$all
 ||abeah-security.xyz$all
 ||adrondespi.top$all
-||akb48wrapup.com$all
 ||altcasino.info$all
 ||amobil.online$all
 ||apptool.me$all
@@ -23,7 +22,6 @@
 ||atwater.org$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
-||bettercleanplayers.info$all
 ||betterfreedownloadplayer.info$all
 ||betterfreedownloadplayers.info$all
 ||bigcbd.info$all
@@ -45,11 +43,9 @@
 ||browse-privately.net$all
 ||btcinvesting.info$all
 ||bulley.shop$all
-||cabins-r-us.com$all
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
-||celebseven.com$all
 ||check-your-profitzone.life$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
@@ -57,7 +53,6 @@
 ||cloudmedia.surf$all
 ||collectrewards.net$all
 ||comphp.xyz$all
-||conflaqpzc.info$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
@@ -86,15 +81,11 @@
 ||dealmedia.xyz$all
 ||defensepro.me$all
 ||delightcmain.xyz$all
-||desixxx.cloud$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
-||dragonballclub.com$all
 ||earlyprogress.info$all
 ||elpelades.club$all
 ||eproute.info$all
-||eroanimeittyokusen.com$all
 ||erotica.live$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
@@ -104,7 +95,6 @@
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
 ||fastwebe.xyz$all
-||filmesonlineturbo.net$all
 ||financial-deals.xyz$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
@@ -136,6 +126,7 @@
 ||funsiteb.xyz$all
 ||fwsxqc.cn$all
 ||gainhealth.info$all
+||genertellife.it$all
 ||get-your-score.club$all
 ||getmoregirls.net$all
 ||girlsnearyou.online$all
@@ -149,7 +140,6 @@
 ||goalmedia.club$all
 ||goalmedia.monster$all
 ||googsistem.live$all
-||govpshosting.com$all
 ||graburprize.net$all
 ||gramp.xyz$all
 ||grandencryptions.me$all
@@ -200,7 +190,6 @@
 ||keepithealthy.info$all
 ||ketodietrecipes.org$all
 ||ktpyzw.vip$all
-||leeching.net$all
 ||legendaryplaceupgrade.info$all
 ||legendaryplaceupgrades.info$all
 ||legendaryplaceupgrading.info$all
@@ -262,7 +251,6 @@
 ||luckymedia.fun$all
 ||luckymedia.space$all
 ||luckymedia.website$all
-||madpandatv.net$all
 ||makemesafeios.com$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
@@ -271,7 +259,6 @@
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -370,7 +357,6 @@
 ||readyhealthgo.today$all
 ||recontent.casa$all
 ||recontent.cyou$all
-||recontent.fun$all
 ||recontent.site$all
 ||reliablesoftwarevideos.info$all
 ||resignation.top$all
@@ -401,7 +387,6 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||searchoffers.info$all
@@ -495,7 +480,6 @@
 ||thefitproject.club$all
 ||thehealthcurve.info$all
 ||thehealthcycle.club$all
-||thehealthgo.info$all
 ||thehotshot.info$all
 ||thenewjourney.info$all
 ||thesafestplayerlinks.work$all
@@ -549,9 +533,9 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourbestvideoconnection.info$all
 ||yourbestvideoconnections.info$all
-||yourbettercleanplayer.info$all
 ||yourbettercleanplayers.info$all
 ||yourlegendaryplaceupgrade.info$all
 ||yourlegendaryplaceupgrades.info$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Jul 2021 12:03:05 +0000
+# Updated: Wed, 21 Jul 2021 00:03:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
 -d adrondespi.top
--d akb48wrapup.com
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -26,7 +25,6 @@ msFilterList
 -d atwater.org
 -d bestappland.me
 -d bestvideoplayerupgrades.work
--d bettercleanplayers.info
 -d betterfreedownloadplayer.info
 -d betterfreedownloadplayers.info
 -d bigcbd.info
@@ -48,11 +46,9 @@ msFilterList
 -d browse-privately.net
 -d btcinvesting.info
 -d bulley.shop
--d cabins-r-us.com
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
--d celebseven.com
 -d check-your-profitzone.life
 -d cloudmedia.casa
 -d cloudmedia.cyou
@@ -60,7 +56,6 @@ msFilterList
 -d cloudmedia.surf
 -d collectrewards.net
 -d comphp.xyz
--d conflaqpzc.info
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
@@ -89,15 +84,11 @@ msFilterList
 -d dealmedia.xyz
 -d defensepro.me
 -d delightcmain.xyz
--d desixxx.cloud
 -d dollarsurvey365.online
 -d dollarsurvey365.org
--d dollarsurvey366.org
--d dragonballclub.com
 -d earlyprogress.info
 -d elpelades.club
 -d eproute.info
--d eroanimeittyokusen.com
 -d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
@@ -107,7 +98,6 @@ msFilterList
 -d fastspotb.xyz
 -d fastwebb.xyz
 -d fastwebe.xyz
--d filmesonlineturbo.net
 -d financial-deals.xyz
 -d findoffers.co
 -d findperfectplaces2download.work
@@ -139,6 +129,7 @@ msFilterList
 -d funsiteb.xyz
 -d fwsxqc.cn
 -d gainhealth.info
+-d genertellife.it
 -d get-your-score.club
 -d getmoregirls.net
 -d girlsnearyou.online
@@ -152,7 +143,6 @@ msFilterList
 -d goalmedia.club
 -d goalmedia.monster
 -d googsistem.live
--d govpshosting.com
 -d graburprize.net
 -d gramp.xyz
 -d grandencryptions.me
@@ -203,7 +193,6 @@ msFilterList
 -d keepithealthy.info
 -d ketodietrecipes.org
 -d ktpyzw.vip
--d leeching.net
 -d legendaryplaceupgrade.info
 -d legendaryplaceupgrades.info
 -d legendaryplaceupgrading.info
@@ -265,7 +254,6 @@ msFilterList
 -d luckymedia.fun
 -d luckymedia.space
 -d luckymedia.website
--d madpandatv.net
 -d makemesafeios.com
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
@@ -274,7 +262,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -373,7 +360,6 @@ msFilterList
 -d readyhealthgo.today
 -d recontent.casa
 -d recontent.cyou
--d recontent.fun
 -d recontent.site
 -d reliablesoftwarevideos.info
 -d resignation.top
@@ -404,7 +390,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -498,7 +483,6 @@ msFilterList
 -d thefitproject.club
 -d thehealthcurve.info
 -d thehealthcycle.club
--d thehealthgo.info
 -d thehotshot.info
 -d thenewjourney.info
 -d thesafestplayerlinks.work
@@ -552,9 +536,9 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourbestvideoconnection.info
 -d yourbestvideoconnections.info
--d yourbettercleanplayer.info
 -d yourbettercleanplayers.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info

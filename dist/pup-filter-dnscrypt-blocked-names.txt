@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Jul 2021 12:03:05 +0000
+# Updated: Wed, 21 Jul 2021 00:03:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 4upgradingstablesafe.work
 abeah-security.xyz
 adrondespi.top
-akb48wrapup.com
 altcasino.info
 amobil.online
 apptool.me
@@ -23,7 +22,6 @@ atprofessor.fun
 atwater.org
 bestappland.me
 bestvideoplayerupgrades.work
-bettercleanplayers.info
 betterfreedownloadplayer.info
 betterfreedownloadplayers.info
 bigcbd.info
@@ -45,11 +43,9 @@ breaking-news.digital
 browse-privately.net
 btcinvesting.info
 bulley.shop
-cabins-r-us.com
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
-celebseven.com
 check-your-profitzone.life
 cloudmedia.casa
 cloudmedia.cyou
@@ -57,7 +53,6 @@ cloudmedia.fun
 cloudmedia.surf
 collectrewards.net
 comphp.xyz
-conflaqpzc.info
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
@@ -86,15 +81,11 @@ dealmedia.website
 dealmedia.xyz
 defensepro.me
 delightcmain.xyz
-desixxx.cloud
 dollarsurvey365.online
 dollarsurvey365.org
-dollarsurvey366.org
-dragonballclub.com
 earlyprogress.info
 elpelades.club
 eproute.info
-eroanimeittyokusen.com
 erotica.live
 extrasafe.xyz
 f7lwv2y0xb.top
@@ -104,7 +95,6 @@ fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
 fastwebe.xyz
-filmesonlineturbo.net
 financial-deals.xyz
 findoffers.co
 findperfectplaces2download.work
@@ -136,6 +126,7 @@ funmapd.xyz
 funsiteb.xyz
 fwsxqc.cn
 gainhealth.info
+genertellife.it
 get-your-score.club
 getmoregirls.net
 girlsnearyou.online
@@ -149,7 +140,6 @@ goalmedia.cam
 goalmedia.club
 goalmedia.monster
 googsistem.live
-govpshosting.com
 graburprize.net
 gramp.xyz
 grandencryptions.me
@@ -200,7 +190,6 @@ kad3md.cn
 keepithealthy.info
 ketodietrecipes.org
 ktpyzw.vip
-leeching.net
 legendaryplaceupgrade.info
 legendaryplaceupgrades.info
 legendaryplaceupgrading.info
@@ -262,7 +251,6 @@ luckymedia.cyou
 luckymedia.fun
 luckymedia.space
 luckymedia.website
-madpandatv.net
 makemesafeios.com
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
@@ -271,7 +259,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -370,7 +357,6 @@ randomprizebigwinofficial.cyou
 readyhealthgo.today
 recontent.casa
 recontent.cyou
-recontent.fun
 recontent.site
 reliablesoftwarevideos.info
 resignation.top
@@ -401,7 +387,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
@@ -495,7 +480,6 @@ thefatburner.info
 thefitproject.club
 thehealthcurve.info
 thehealthcycle.club
-thehealthgo.info
 thehotshot.info
 thenewjourney.info
 thesafestplayerlinks.work
@@ -549,9 +533,9 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourbestvideoconnection.info
 yourbestvideoconnections.info
-yourbettercleanplayer.info
 yourbettercleanplayers.info
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 20 Jul 2021 12:03:05 +0000
+! Updated: Wed, 21 Jul 2021 00:03:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 ||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
 ||adrondespi.top$document
-||akb48wrapup.com$document
 ||altcasino.info$document
 ||amobil.online$document
 ||apptool.me$document
@@ -23,7 +22,6 @@
 ||atwater.org$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
-||bettercleanplayers.info$document
 ||betterfreedownloadplayer.info$document
 ||betterfreedownloadplayers.info$document
 ||bigcbd.info$document
@@ -45,11 +43,9 @@
 ||browse-privately.net$document
 ||btcinvesting.info$document
 ||bulley.shop$document
-||cabins-r-us.com$document
 ||calledbellc.fun$document
 ||care-connection.info$document
 ||careerconnecthub.com$document
-||celebseven.com$document
 ||check-your-profitzone.life$document
 ||cloudmedia.casa$document
 ||cloudmedia.cyou$document
@@ -57,7 +53,6 @@
 ||cloudmedia.surf$document
 ||collectrewards.net$document
 ||comphp.xyz$document
-||conflaqpzc.info$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
@@ -86,15 +81,11 @@
 ||dealmedia.xyz$document
 ||defensepro.me$document
 ||delightcmain.xyz$document
-||desixxx.cloud$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
-||dollarsurvey366.org$document
-||dragonballclub.com$document
 ||earlyprogress.info$document
 ||elpelades.club$document
 ||eproute.info$document
-||eroanimeittyokusen.com$document
 ||erotica.live$document
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
@@ -104,7 +95,6 @@
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
 ||fastwebe.xyz$document
-||filmesonlineturbo.net$document
 ||financial-deals.xyz$document
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
@@ -136,6 +126,7 @@
 ||funsiteb.xyz$document
 ||fwsxqc.cn$document
 ||gainhealth.info$document
+||genertellife.it$document
 ||get-your-score.club$document
 ||getmoregirls.net$document
 ||girlsnearyou.online$document
@@ -149,7 +140,6 @@
 ||goalmedia.club$document
 ||goalmedia.monster$document
 ||googsistem.live$document
-||govpshosting.com$document
 ||graburprize.net$document
 ||gramp.xyz$document
 ||grandencryptions.me$document
@@ -200,7 +190,6 @@
 ||keepithealthy.info$document
 ||ketodietrecipes.org$document
 ||ktpyzw.vip$document
-||leeching.net$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
 ||legendaryplaceupgrading.info$document
@@ -262,7 +251,6 @@
 ||luckymedia.fun$document
 ||luckymedia.space$document
 ||luckymedia.website$document
-||madpandatv.net$document
 ||makemesafeios.com$document
 ||managestrong-theuberfile.best$document
 ||manageuber-thenewestfile.best$document
@@ -271,7 +259,6 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -370,7 +357,6 @@
 ||readyhealthgo.today$document
 ||recontent.casa$document
 ||recontent.cyou$document
-||recontent.fun$document
 ||recontent.site$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
@@ -401,7 +387,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
@@ -495,7 +480,6 @@
 ||thefitproject.club$document
 ||thehealthcurve.info$document
 ||thehealthcycle.club$document
-||thehealthgo.info$document
 ||thehotshot.info$document
 ||thenewjourney.info$document
 ||thesafestplayerlinks.work$document
@@ -549,9 +533,9 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourbestvideoconnection.info$document
 ||yourbestvideoconnections.info$document
-||yourbettercleanplayer.info$document
 ||yourbettercleanplayers.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document

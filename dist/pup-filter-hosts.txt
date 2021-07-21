@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 20 Jul 2021 12:03:05 +0000
+# Updated: Wed, 21 Jul 2021 00:03:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abeah-security.xyz
 0.0.0.0 adrondespi.top
-0.0.0.0 akb48wrapup.com
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -23,7 +22,6 @@
 0.0.0.0 atwater.org
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
-0.0.0.0 bettercleanplayers.info
 0.0.0.0 betterfreedownloadplayer.info
 0.0.0.0 betterfreedownloadplayers.info
 0.0.0.0 bigcbd.info
@@ -45,11 +43,9 @@
 0.0.0.0 browse-privately.net
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
-0.0.0.0 cabins-r-us.com
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
-0.0.0.0 celebseven.com
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
@@ -57,7 +53,6 @@
 0.0.0.0 cloudmedia.surf
 0.0.0.0 collectrewards.net
 0.0.0.0 comphp.xyz
-0.0.0.0 conflaqpzc.info
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
@@ -86,15 +81,11 @@
 0.0.0.0 dealmedia.xyz
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
-0.0.0.0 desixxx.cloud
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
-0.0.0.0 dollarsurvey366.org
-0.0.0.0 dragonballclub.com
 0.0.0.0 earlyprogress.info
 0.0.0.0 elpelades.club
 0.0.0.0 eproute.info
-0.0.0.0 eroanimeittyokusen.com
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
@@ -104,7 +95,6 @@
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
 0.0.0.0 fastwebe.xyz
-0.0.0.0 filmesonlineturbo.net
 0.0.0.0 financial-deals.xyz
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
@@ -136,6 +126,7 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 fwsxqc.cn
 0.0.0.0 gainhealth.info
+0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
 0.0.0.0 getmoregirls.net
 0.0.0.0 girlsnearyou.online
@@ -149,7 +140,6 @@
 0.0.0.0 goalmedia.club
 0.0.0.0 goalmedia.monster
 0.0.0.0 googsistem.live
-0.0.0.0 govpshosting.com
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
@@ -200,7 +190,6 @@
 0.0.0.0 keepithealthy.info
 0.0.0.0 ketodietrecipes.org
 0.0.0.0 ktpyzw.vip
-0.0.0.0 leeching.net
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
 0.0.0.0 legendaryplaceupgrading.info
@@ -262,7 +251,6 @@
 0.0.0.0 luckymedia.fun
 0.0.0.0 luckymedia.space
 0.0.0.0 luckymedia.website
-0.0.0.0 madpandatv.net
 0.0.0.0 makemesafeios.com
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
@@ -271,7 +259,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -370,7 +357,6 @@
 0.0.0.0 readyhealthgo.today
 0.0.0.0 recontent.casa
 0.0.0.0 recontent.cyou
-0.0.0.0 recontent.fun
 0.0.0.0 recontent.site
 0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 resignation.top
@@ -401,7 +387,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
@@ -495,7 +480,6 @@
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
-0.0.0.0 thehealthgo.info
 0.0.0.0 thehotshot.info
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestplayerlinks.work
@@ -549,9 +533,9 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourbestvideoconnection.info
 0.0.0.0 yourbestvideoconnections.info
-0.0.0.0 yourbettercleanplayer.info
 0.0.0.0 yourbettercleanplayers.info
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
