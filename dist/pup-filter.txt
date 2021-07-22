@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 22 Jul 2021 00:02:55 +0000
+! Updated: Thu, 22 Jul 2021 12:03:15 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -171,7 +171,6 @@ hypezen.info
 ientsillness.fun
 iketo.diet
 inappropriate.top
-incing-marganic.icu
 incrediblebuzz.info
 information.casa
 installcompletely-theoriginalfile.best
@@ -277,7 +276,6 @@ mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
 modern-security.xyz
-money-hero.org
 monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
@@ -470,6 +468,7 @@ syncuber-bestsophisticatedfile.best
 systemupdatit.club
 tackis.xyz
 tdstraffic.xyz
+technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thefatburner.info

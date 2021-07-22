@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 22 Jul 2021 00:02:55 +0000
+! Updated: Thu, 22 Jul 2021 12:03:15 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -171,7 +171,6 @@
 ||ientsillness.fun$all
 ||iketo.diet$all
 ||inappropriate.top$all
-||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
 ||installcompletely-theoriginalfile.best$all
@@ -277,7 +276,6 @@
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
 ||modern-security.xyz$all
-||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
@@ -470,6 +468,7 @@
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thefatburner.info$all
