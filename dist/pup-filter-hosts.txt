@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 21 Jul 2021 12:02:59 +0000
+# Updated: Thu, 22 Jul 2021 00:02:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 0.0.0.0 321movies.xyz
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abeah-security.xyz
-0.0.0.0 adrondespi.top
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -31,7 +30,6 @@
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 blockchain-com.email
 0.0.0.0 bodyamaze.club
-0.0.0.0 bodyselfcare.info
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
@@ -81,6 +79,7 @@
 0.0.0.0 dealmedia.xyz
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
+0.0.0.0 desixxx.cloud
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -152,7 +151,6 @@
 0.0.0.0 healthdome.info
 0.0.0.0 healtheezy.info
 0.0.0.0 healthemerge.info
-0.0.0.0 healthmanic.info
 0.0.0.0 healthmarlin.club
 0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
@@ -171,6 +169,7 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
+0.0.0.0 iketo.diet
 0.0.0.0 inappropriate.top
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -259,6 +258,7 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -296,8 +296,6 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 operategreatly-therefinedfile.best
-0.0.0.0 operaterefined-thegreatlyfile.best
 0.0.0.0 ouldthepat.fun
 0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
@@ -316,7 +314,6 @@
 0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
-0.0.0.0 performoriginal-theuberfile.best
 0.0.0.0 performoverly-theprogressivefile.best
 0.0.0.0 performprecise-theextremelyfile.best
 0.0.0.0 performprecise-thehighlyfile.best
@@ -334,7 +331,9 @@
 0.0.0.0 performuber-theoriginalfile.best
 0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
+0.0.0.0 placesiteb.xyz
 0.0.0.0 playplanete.xyz
+0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
@@ -350,7 +349,6 @@
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
 0.0.0.0 qh97dkzy20.top
-0.0.0.0 quantum.work
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -397,6 +395,7 @@
 0.0.0.0 security-made-easy.xyz
 0.0.0.0 securityvpnpro.me
 0.0.0.0 seemlast.monster
+0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
@@ -431,7 +430,6 @@
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
 0.0.0.0 subeamy.pw
-0.0.0.0 sudoo.net
 0.0.0.0 sugar-legal-about13.fun
 0.0.0.0 superplace4upgrade.work
 0.0.0.0 superplace4upgrading.work
@@ -471,7 +469,6 @@
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
-0.0.0.0 talskingest.top
 0.0.0.0 tdstraffic.xyz
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
@@ -500,6 +497,7 @@
 0.0.0.0 trkvpn.xyz
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -535,7 +533,6 @@
 0.0.0.0 yifymovies.cam
 0.0.0.0 yourbestvideoconnection.info
 0.0.0.0 yourbestvideoconnections.info
-0.0.0.0 yourbettercleanplayers.info
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
 0.0.0.0 yourlegendaryplaceupgrading.work

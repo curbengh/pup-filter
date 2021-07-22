@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 21 Jul 2021 12:02:59 +0000
+# Updated: Thu, 22 Jul 2021 00:02:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@ msFilterList
 -d 321movies.xyz
 -d 4upgradingstablesafe.work
 -d abeah-security.xyz
--d adrondespi.top
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -34,7 +33,6 @@ msFilterList
 -d bitcoinjunction.club
 -d blockchain-com.email
 -d bodyamaze.club
--d bodyselfcare.info
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
@@ -84,6 +82,7 @@ msFilterList
 -d dealmedia.xyz
 -d defensepro.me
 -d delightcmain.xyz
+-d desixxx.cloud
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -155,7 +154,6 @@ msFilterList
 -d healthdome.info
 -d healtheezy.info
 -d healthemerge.info
--d healthmanic.info
 -d healthmarlin.club
 -d healthneo.club
 -d healthomega.club
@@ -174,6 +172,7 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d iketo.diet
 -d inappropriate.top
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -262,6 +261,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -299,8 +299,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d operategreatly-therefinedfile.best
--d operaterefined-thegreatlyfile.best
 -d ouldthepat.fun
 -d patriothealth.today
 -d pcsecurity-live.xyz
@@ -319,7 +317,6 @@ msFilterList
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
--d performoriginal-theuberfile.best
 -d performoverly-theprogressivefile.best
 -d performprecise-theextremelyfile.best
 -d performprecise-thehighlyfile.best
@@ -337,7 +334,9 @@ msFilterList
 -d performuber-theoriginalfile.best
 -d performuber-therenewedfile.best
 -d performuberquickapplication.icu
+-d placesiteb.xyz
 -d playplanete.xyz
+-d playspind.xyz
 -d ppploanchoices.site
 -d premiernursingacademy.org
 -d preparedforsafeupgrading.work
@@ -353,7 +352,6 @@ msFilterList
 -d provpnservice.me
 -d prtctapp.me
 -d qh97dkzy20.top
--d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -400,6 +398,7 @@ msFilterList
 -d security-made-easy.xyz
 -d securityvpnpro.me
 -d seemlast.monster
+-d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
@@ -434,7 +433,6 @@ msFilterList
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
--d sudoo.net
 -d sugar-legal-about13.fun
 -d superplace4upgrade.work
 -d superplace4upgrading.work
@@ -474,7 +472,6 @@ msFilterList
 -d syncuber-bestsophisticatedfile.best
 -d systemupdatit.club
 -d tackis.xyz
--d talskingest.top
 -d tdstraffic.xyz
 -d thecryptomoney.info
 -d thecryptozone.website
@@ -503,6 +500,7 @@ msFilterList
 -d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -538,7 +536,6 @@ msFilterList
 -d yifymovies.cam
 -d yourbestvideoconnection.info
 -d yourbestvideoconnections.info
--d yourbettercleanplayers.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info
 -d yourlegendaryplaceupgrading.work

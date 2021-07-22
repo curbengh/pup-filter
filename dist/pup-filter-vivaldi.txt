@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 21 Jul 2021 12:02:59 +0000
+! Updated: Thu, 22 Jul 2021 00:02:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 ||321movies.xyz$document
 ||4upgradingstablesafe.work$document
 ||abeah-security.xyz$document
-||adrondespi.top$document
 ||altcasino.info$document
 ||amobil.online$document
 ||apptool.me$document
@@ -31,7 +30,6 @@
 ||bitcoinjunction.club$document
 ||blockchain-com.email$document
 ||bodyamaze.club$document
-||bodyselfcare.info$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
@@ -81,6 +79,7 @@
 ||dealmedia.xyz$document
 ||defensepro.me$document
 ||delightcmain.xyz$document
+||desixxx.cloud$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -152,7 +151,6 @@
 ||healthdome.info$document
 ||healtheezy.info$document
 ||healthemerge.info$document
-||healthmanic.info$document
 ||healthmarlin.club$document
 ||healthneo.club$document
 ||healthomega.club$document
@@ -171,6 +169,7 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
+||iketo.diet$document
 ||inappropriate.top$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -259,6 +258,7 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -296,8 +296,6 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
-||operategreatly-therefinedfile.best$document
-||operaterefined-thegreatlyfile.best$document
 ||ouldthepat.fun$document
 ||patriothealth.today$document
 ||pcsecurity-live.xyz$document
@@ -316,7 +314,6 @@
 ||performmost-thenewestfile.best$document
 ||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
-||performoriginal-theuberfile.best$document
 ||performoverly-theprogressivefile.best$document
 ||performprecise-theextremelyfile.best$document
 ||performprecise-thehighlyfile.best$document
@@ -334,7 +331,9 @@
 ||performuber-theoriginalfile.best$document
 ||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
+||placesiteb.xyz$document
 ||playplanete.xyz$document
+||playspind.xyz$document
 ||ppploanchoices.site$document
 ||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
@@ -350,7 +349,6 @@
 ||provpnservice.me$document
 ||prtctapp.me$document
 ||qh97dkzy20.top$document
-||quantum.work$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -397,6 +395,7 @@
 ||security-made-easy.xyz$document
 ||securityvpnpro.me$document
 ||seemlast.monster$document
+||sergey-tracks.xyz$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
@@ -431,7 +430,6 @@
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
 ||subeamy.pw$document
-||sudoo.net$document
 ||sugar-legal-about13.fun$document
 ||superplace4upgrade.work$document
 ||superplace4upgrading.work$document
@@ -471,7 +469,6 @@
 ||syncuber-bestsophisticatedfile.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
-||talskingest.top$document
 ||tdstraffic.xyz$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
@@ -500,6 +497,7 @@
 ||trkvpn.xyz$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -535,7 +533,6 @@
 ||yifymovies.cam$document
 ||yourbestvideoconnection.info$document
 ||yourbestvideoconnections.info$document
-||yourbettercleanplayers.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document
 ||yourlegendaryplaceupgrading.work$document
