@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 22 Jul 2021 12:03:15 +0000
+# Updated: Fri, 23 Jul 2021 00:04:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,9 +11,7 @@ msFilterList
 -d 123news.website
 -d 1browser.co
 -d 2kddbl.club
--d 321movies.xyz
 -d 4upgradingstablesafe.work
--d abeah-security.xyz
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -103,7 +101,6 @@ msFilterList
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
 -d finreporter.net
--d firststableplayer.work
 -d fisudauh.top
 -d fitandstable.club
 -d fithealthspark.info
@@ -127,7 +124,6 @@ msFilterList
 -d funmapd.xyz
 -d funsiteb.xyz
 -d fwsxqc.cn
--d gainhealth.info
 -d genertellife.it
 -d get-your-score.club
 -d getmoregirls.net
@@ -151,7 +147,6 @@ msFilterList
 -d happyactive.today
 -d happymakesite.xyz
 -d healandgrow.club
--d healthdome.info
 -d healtheezy.info
 -d healthemerge.info
 -d healthmarlin.club
@@ -167,7 +162,6 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
--d healthylives.today
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
@@ -350,6 +344,7 @@ msFilterList
 -d provpnservice.me
 -d prtctapp.me
 -d qh97dkzy20.top
+-d quantum.work
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -389,7 +384,6 @@ msFilterList
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -407,7 +401,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -431,7 +424,9 @@ msFilterList
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
+-d sudoo.net
 -d sugar-legal-about13.fun
+-d summermedia.club
 -d superplace4upgrade.work
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
@@ -471,7 +466,6 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d tdstraffic.xyz
--d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefatburner.info
@@ -490,7 +484,6 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d track4ast.icu
--d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
@@ -507,8 +500,6 @@ msFilterList
 -d useprovpn.me
 -d usevpnpro.me
 -d vital-health.club
--d vpn-pro.info
--d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
@@ -532,7 +523,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourbestvideoconnection.info
 -d yourbestvideoconnections.info
 -d yourlegendaryplaceupgrade.info

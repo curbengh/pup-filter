@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 22 Jul 2021 12:03:15 +0000
+! Updated: Fri, 23 Jul 2021 00:04:14 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,9 +8,7 @@
 ||123news.website^
 ||1browser.co^
 ||2kddbl.club^
-||321movies.xyz^
 ||4upgradingstablesafe.work^
-||abeah-security.xyz^
 ||altcasino.info^
 ||amobil.online^
 ||apptool.me^
@@ -100,7 +98,6 @@
 ||findperfectplaces4download.work^
 ||findyourultimateplayersfirst.best^
 ||finreporter.net^
-||firststableplayer.work^
 ||fisudauh.top^
 ||fitandstable.club^
 ||fithealthspark.info^
@@ -124,7 +121,6 @@
 ||funmapd.xyz^
 ||funsiteb.xyz^
 ||fwsxqc.cn^
-||gainhealth.info^
 ||genertellife.it^
 ||get-your-score.club^
 ||getmoregirls.net^
@@ -148,7 +144,6 @@
 ||happyactive.today^
 ||happymakesite.xyz^
 ||healandgrow.club^
-||healthdome.info^
 ||healtheezy.info^
 ||healthemerge.info^
 ||healthmarlin.club^
@@ -164,7 +159,6 @@
 ||healthvibe.live^
 ||healthwella.club^
 ||healthyideal.club^
-||healthylives.today^
 ||healthyspirit.info^
 ||httqzq.vip^
 ||hypezen.info^
@@ -347,6 +341,7 @@
 ||provpnservice.me^
 ||prtctapp.me^
 ||qh97dkzy20.top^
+||quantum.work^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -386,7 +381,6 @@
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||searchoffers.info^
-||seasoned.co^
 ||sec-alert.xyz^
 ||sec-alerts.xyz^
 ||securitevpn.me^
@@ -404,7 +398,6 @@
 ||springplanetf.xyz^
 ||start-page.one^
 ||stay-notified.cc^
-||stickr.co^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
@@ -428,7 +421,9 @@
 ||streamuber-bestspeedyfile.best^
 ||streamuber-bestswiftfile.best^
 ||subeamy.pw^
+||sudoo.net^
 ||sugar-legal-about13.fun^
+||summermedia.club^
 ||superplace4upgrade.work^
 ||superplace4upgrading.work^
 ||superplaceforupgrade.info^
@@ -468,7 +463,6 @@
 ||systemupdatit.club^
 ||tackis.xyz^
 ||tdstraffic.xyz^
-||technologypartners.net^
 ||thecryptomoney.info^
 ||thecryptozone.website^
 ||thefatburner.info^
@@ -487,7 +481,6 @@
 ||toovolution.club^
 ||topnotchsports.tips^
 ||track4ast.icu^
-||trafficbounce.net^
 ||trafficgate.cc^
 ||trafficmind.pro^
 ||trane.fun^
@@ -504,8 +497,6 @@
 ||useprovpn.me^
 ||usevpnpro.me^
 ||vital-health.club^
-||vpn-pro.info^
-||vpn1aprotectplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
 ||vpnservice.me^
@@ -529,7 +520,6 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
-||yifymovies.cam^
 ||yourbestvideoconnection.info^
 ||yourbestvideoconnections.info^
 ||yourlegendaryplaceupgrade.info^
