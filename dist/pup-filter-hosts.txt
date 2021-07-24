@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 23 Jul 2021 12:03:03 +0000
+# Updated: Sat, 24 Jul 2021 00:34:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -158,11 +158,12 @@
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
 0.0.0.0 healthyideal.club
+0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
-0.0.0.0 iketo.diet
+0.0.0.0 imagefind.org
 0.0.0.0 inappropriate.top
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -173,6 +174,7 @@
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
 0.0.0.0 jointingifstrawberry.xyz
+0.0.0.0 jojomamanbebe.ie
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
@@ -233,7 +235,6 @@
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
-0.0.0.0 loosefit.info
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
@@ -250,7 +251,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -258,7 +258,6 @@
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
-0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
@@ -319,8 +318,6 @@
 0.0.0.0 performsophisticated-thehighlyfile.best
 0.0.0.0 performspeedy-thegreatlyfile.best
 0.0.0.0 performstrong-thegreatlyfile.digital
-0.0.0.0 performuber-theoriginalfile.best
-0.0.0.0 performuber-therenewedfile.best
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 placesiteb.xyz
 0.0.0.0 playplanete.xyz
@@ -346,7 +343,6 @@
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 readyhealthgo.today
 0.0.0.0 recontent.casa
-0.0.0.0 recontent.cyou
 0.0.0.0 recontent.site
 0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 resignation.top
@@ -377,9 +373,11 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
@@ -438,7 +436,6 @@
 0.0.0.0 syncheavily-bestlatestfile.best
 0.0.0.0 synchighly-bestfreefile.best
 0.0.0.0 synchighly-bestoriginalfile.best
-0.0.0.0 synchighly-bestprogressivefile.best
 0.0.0.0 synchighly-bestrecentfile.best
 0.0.0.0 synchighly-bestsophisticatedfile.best
 0.0.0.0 synchighly-bestspeedyfile.best
@@ -456,17 +453,16 @@
 0.0.0.0 syncuber-bestlatestfile.best
 0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
-0.0.0.0 syncuber-bestprogressivefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 tdstraffic.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
 0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
-0.0.0.0 thehealthcurve.info
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehotshot.info
 0.0.0.0 thenewjourney.info
@@ -480,6 +476,7 @@
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 track4ast.icu
+0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
@@ -488,7 +485,6 @@
 0.0.0.0 trkvpn.xyz
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -496,6 +492,7 @@
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
 0.0.0.0 vital-health.club
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
@@ -519,8 +516,8 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourbestvideoconnection.info
-0.0.0.0 yourbestvideoconnections.info
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
 0.0.0.0 yourlegendaryplaceupgrading.work

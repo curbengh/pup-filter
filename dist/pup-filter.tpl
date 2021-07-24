@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 23 Jul 2021 12:03:03 +0000
+# Updated: Sat, 24 Jul 2021 00:34:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -161,11 +161,12 @@ msFilterList
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
+-d healthylives.today
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
--d iketo.diet
+-d imagefind.org
 -d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
@@ -176,6 +177,7 @@ msFilterList
 -d isystemupdate.cloud
 -d java-forum.org
 -d jointingifstrawberry.xyz
+-d jojomamanbebe.ie
 -d jtkszl.vip
 -d junemedia.bar
 -d junemedia.club
@@ -236,7 +238,6 @@ msFilterList
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
--d loosefit.info
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
@@ -253,7 +254,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -261,7 +261,6 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
--d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
@@ -322,8 +321,6 @@ msFilterList
 -d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
--d performuber-theoriginalfile.best
--d performuber-therenewedfile.best
 -d performuberquickapplication.icu
 -d placesiteb.xyz
 -d playplanete.xyz
@@ -349,7 +346,6 @@ msFilterList
 -d randomprizebigwinofficial.cyou
 -d readyhealthgo.today
 -d recontent.casa
--d recontent.cyou
 -d recontent.site
 -d reliablesoftwarevideos.info
 -d resignation.top
@@ -380,9 +376,11 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -441,7 +439,6 @@ msFilterList
 -d syncheavily-bestlatestfile.best
 -d synchighly-bestfreefile.best
 -d synchighly-bestoriginalfile.best
--d synchighly-bestprogressivefile.best
 -d synchighly-bestrecentfile.best
 -d synchighly-bestsophisticatedfile.best
 -d synchighly-bestspeedyfile.best
@@ -459,17 +456,16 @@ msFilterList
 -d syncuber-bestlatestfile.best
 -d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
--d syncuber-bestprogressivefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
 -d systemupdatit.club
 -d tackis.xyz
 -d tdstraffic.xyz
+-d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefatburner.info
 -d thefitproject.club
--d thehealthcurve.info
 -d thehealthcycle.club
 -d thehotshot.info
 -d thenewjourney.info
@@ -483,6 +479,7 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d track4ast.icu
+-d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
@@ -491,7 +488,6 @@ msFilterList
 -d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -499,6 +495,7 @@ msFilterList
 -d useprovpn.me
 -d usevpnpro.me
 -d vital-health.club
+-d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
@@ -522,8 +519,8 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourbestvideoconnection.info
--d yourbestvideoconnections.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info
 -d yourlegendaryplaceupgrading.work

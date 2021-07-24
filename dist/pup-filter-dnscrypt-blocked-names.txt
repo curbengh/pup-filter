@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 23 Jul 2021 12:03:03 +0000
+# Updated: Sat, 24 Jul 2021 00:34:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -158,11 +158,12 @@ healthvenue.club
 healthvibe.live
 healthwella.club
 healthyideal.club
+healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
 ientsillness.fun
-iketo.diet
+imagefind.org
 inappropriate.top
 incrediblebuzz.info
 information.casa
@@ -173,6 +174,7 @@ ironprovpn.me
 isystemupdate.cloud
 java-forum.org
 jointingifstrawberry.xyz
+jojomamanbebe.ie
 jtkszl.vip
 junemedia.bar
 junemedia.club
@@ -233,7 +235,6 @@ loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
-loosefit.info
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
@@ -250,7 +251,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -258,7 +258,6 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
-mediaplayer24.ml
 medicomatic.info
 medicreed.club
 medjournalketo.info
@@ -319,8 +318,6 @@ performrenewed-theoverlyfile.best
 performsophisticated-thehighlyfile.best
 performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
-performuber-theoriginalfile.best
-performuber-therenewedfile.best
 performuberquickapplication.icu
 placesiteb.xyz
 playplanete.xyz
@@ -346,7 +343,6 @@ random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
 readyhealthgo.today
 recontent.casa
-recontent.cyou
 recontent.site
 reliablesoftwarevideos.info
 resignation.top
@@ -377,9 +373,11 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
+seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
@@ -438,7 +436,6 @@ syncgreatly-bestrenewedfile.best
 syncheavily-bestlatestfile.best
 synchighly-bestfreefile.best
 synchighly-bestoriginalfile.best
-synchighly-bestprogressivefile.best
 synchighly-bestrecentfile.best
 synchighly-bestsophisticatedfile.best
 synchighly-bestspeedyfile.best
@@ -456,17 +453,16 @@ syncstrong-bestextremelyfile.best
 syncuber-bestlatestfile.best
 syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
-syncuber-bestprogressivefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
 systemupdatit.club
 tackis.xyz
 tdstraffic.xyz
+technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thefatburner.info
 thefitproject.club
-thehealthcurve.info
 thehealthcycle.club
 thehotshot.info
 thenewjourney.info
@@ -480,6 +476,7 @@ toolvpn.me
 toovolution.club
 topnotchsports.tips
 track4ast.icu
+trafficbounce.net
 trafficgate.cc
 trafficmind.pro
 trane.fun
@@ -488,7 +485,6 @@ trktraf.club
 trkvpn.xyz
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -496,6 +492,7 @@ usepro.me
 useprovpn.me
 usevpnpro.me
 vital-health.club
+vpn1aprotectplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me
@@ -519,8 +516,8 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourbestvideoconnection.info
-yourbestvideoconnections.info
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info
 yourlegendaryplaceupgrading.work

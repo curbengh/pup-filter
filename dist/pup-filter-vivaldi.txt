@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 23 Jul 2021 12:03:03 +0000
+! Updated: Sat, 24 Jul 2021 00:34:32 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -158,11 +158,12 @@
 ||healthvibe.live$document
 ||healthwella.club$document
 ||healthyideal.club$document
+||healthylives.today$document
 ||healthyspirit.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
-||iketo.diet$document
+||imagefind.org$document
 ||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -173,6 +174,7 @@
 ||isystemupdate.cloud$document
 ||java-forum.org$document
 ||jointingifstrawberry.xyz$document
+||jojomamanbebe.ie$document
 ||jtkszl.vip$document
 ||junemedia.bar$document
 ||junemedia.club$document
@@ -233,7 +235,6 @@
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
 ||locationtracker.services$document
-||loosefit.info$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
@@ -250,7 +251,6 @@
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -258,7 +258,6 @@
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
-||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
 ||medjournalketo.info$document
@@ -319,8 +318,6 @@
 ||performsophisticated-thehighlyfile.best$document
 ||performspeedy-thegreatlyfile.best$document
 ||performstrong-thegreatlyfile.digital$document
-||performuber-theoriginalfile.best$document
-||performuber-therenewedfile.best$document
 ||performuberquickapplication.icu$document
 ||placesiteb.xyz$document
 ||playplanete.xyz$document
@@ -346,7 +343,6 @@
 ||randomprizebigwinofficial.cyou$document
 ||readyhealthgo.today$document
 ||recontent.casa$document
-||recontent.cyou$document
 ||recontent.site$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
@@ -377,9 +373,11 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
@@ -438,7 +436,6 @@
 ||syncheavily-bestlatestfile.best$document
 ||synchighly-bestfreefile.best$document
 ||synchighly-bestoriginalfile.best$document
-||synchighly-bestprogressivefile.best$document
 ||synchighly-bestrecentfile.best$document
 ||synchighly-bestsophisticatedfile.best$document
 ||synchighly-bestspeedyfile.best$document
@@ -456,17 +453,16 @@
 ||syncuber-bestlatestfile.best$document
 ||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
-||syncuber-bestprogressivefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||tdstraffic.xyz$document
+||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
 ||thefatburner.info$document
 ||thefitproject.club$document
-||thehealthcurve.info$document
 ||thehealthcycle.club$document
 ||thehotshot.info$document
 ||thenewjourney.info$document
@@ -480,6 +476,7 @@
 ||toovolution.club$document
 ||topnotchsports.tips$document
 ||track4ast.icu$document
+||trafficbounce.net$document
 ||trafficgate.cc$document
 ||trafficmind.pro$document
 ||trane.fun$document
@@ -488,7 +485,6 @@
 ||trkvpn.xyz$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -496,6 +492,7 @@
 ||useprovpn.me$document
 ||usevpnpro.me$document
 ||vital-health.club$document
+||vpn1aprotectplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
@@ -519,8 +516,8 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourbestvideoconnection.info$document
-||yourbestvideoconnections.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document
 ||yourlegendaryplaceupgrading.work$document

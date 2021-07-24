@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 23 Jul 2021 12:03:03 +0000
+! Updated: Sat, 24 Jul 2021 00:34:32 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -158,11 +158,12 @@
 ||healthvibe.live$all
 ||healthwella.club$all
 ||healthyideal.club$all
+||healthylives.today$all
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
-||iketo.diet$all
+||imagefind.org$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
 ||information.casa$all
@@ -173,6 +174,7 @@
 ||isystemupdate.cloud$all
 ||java-forum.org$all
 ||jointingifstrawberry.xyz$all
+||jojomamanbebe.ie$all
 ||jtkszl.vip$all
 ||junemedia.bar$all
 ||junemedia.club$all
@@ -233,7 +235,6 @@
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
-||loosefit.info$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
@@ -250,7 +251,6 @@
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -258,7 +258,6 @@
 ||mediagate.cyou$all
 ||mediagate.fun$all
 ||mediagate.surf$all
-||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
 ||medjournalketo.info$all
@@ -319,8 +318,6 @@
 ||performsophisticated-thehighlyfile.best$all
 ||performspeedy-thegreatlyfile.best$all
 ||performstrong-thegreatlyfile.digital$all
-||performuber-theoriginalfile.best$all
-||performuber-therenewedfile.best$all
 ||performuberquickapplication.icu$all
 ||placesiteb.xyz$all
 ||playplanete.xyz$all
@@ -346,7 +343,6 @@
 ||randomprizebigwinofficial.cyou$all
 ||readyhealthgo.today$all
 ||recontent.casa$all
-||recontent.cyou$all
 ||recontent.site$all
 ||reliablesoftwarevideos.info$all
 ||resignation.top$all
@@ -377,9 +373,11 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||searchoffers.info$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||securitevpn.me$all
@@ -438,7 +436,6 @@
 ||syncheavily-bestlatestfile.best$all
 ||synchighly-bestfreefile.best$all
 ||synchighly-bestoriginalfile.best$all
-||synchighly-bestprogressivefile.best$all
 ||synchighly-bestrecentfile.best$all
 ||synchighly-bestsophisticatedfile.best$all
 ||synchighly-bestspeedyfile.best$all
@@ -456,17 +453,16 @@
 ||syncuber-bestlatestfile.best$all
 ||syncuber-bestoriginalfile.best$all
 ||syncuber-bestprecisefile.best$all
-||syncuber-bestprogressivefile.best$all
 ||syncuber-bestrefinedfile.best$all
 ||syncuber-bestsophisticatedfile.best$all
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thefatburner.info$all
 ||thefitproject.club$all
-||thehealthcurve.info$all
 ||thehealthcycle.club$all
 ||thehotshot.info$all
 ||thenewjourney.info$all
@@ -480,6 +476,7 @@
 ||toovolution.club$all
 ||topnotchsports.tips$all
 ||track4ast.icu$all
+||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trafficmind.pro$all
 ||trane.fun$all
@@ -488,7 +485,6 @@
 ||trkvpn.xyz$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -496,6 +492,7 @@
 ||useprovpn.me$all
 ||usevpnpro.me$all
 ||vital-health.club$all
+||vpn1aprotectplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
@@ -519,8 +516,8 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourbestvideoconnection.info$all
-||yourbestvideoconnections.info$all
 ||yourlegendaryplaceupgrade.info$all
 ||yourlegendaryplaceupgrades.info$all
 ||yourlegendaryplaceupgrading.work$all
