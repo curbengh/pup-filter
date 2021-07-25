@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 25 Jul 2021 00:03:02 +0000
+# Updated: Sun, 25 Jul 2021 12:02:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 123news.website
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 adguard-vpn.com
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -100,6 +101,7 @@
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
+0.0.0.0 finreporter.net
 0.0.0.0 fisudauh.top
 0.0.0.0 fitandstable.club
 0.0.0.0 fithealthspark.info
@@ -386,7 +388,6 @@
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
-0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
@@ -492,7 +493,6 @@
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
 0.0.0.0 vital-health.club
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
