@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 24 Jul 2021 12:02:29 +0000
+! Updated: Sun, 25 Jul 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 ||asufij.xyz$all
 ||atprofessor.fun$all
 ||atwater.org$all
+||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||betterfreedownloadplayer.info$all
@@ -42,6 +43,7 @@
 ||care-connection.info$all
 ||careerconnecthub.com$all
 ||check-your-profitzone.life$all
+||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
 ||cloudmedia.cyou$all
 ||cloudmedia.fun$all
@@ -80,6 +82,7 @@
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
+||efladn.club$all
 ||elpelades.club$all
 ||eproute.info$all
 ||erotica.live$all
@@ -92,6 +95,7 @@
 ||fastwebb.xyz$all
 ||fastwebe.xyz$all
 ||financial-deals.xyz$all
+||finditquick.online$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
 ||findperfectplaces4download.work$all
@@ -153,7 +157,6 @@
 ||healthsupreme.club$all
 ||healthtag.club$all
 ||healthupper.club$all
-||healthvenue.club$all
 ||healthvibe.live$all
 ||healthwella.club$all
 ||healthyideal.club$all
@@ -250,6 +253,7 @@
 ||manageuber-theswiftfile.best$all
 ||mapopts.top$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -286,7 +290,6 @@
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
-||patriothealth.today$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -303,12 +306,10 @@
 ||performmost-thenewestfile.best$all
 ||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
-||performoverly-theprogressivefile.best$all
 ||performprecise-theextremelyfile.best$all
 ||performprecise-thehighlyfile.best$all
 ||performprecise-theuberfile.best$all
 ||performprogressive-theintenselyfile.best$all
-||performprogressive-theoverlyfile.best$all
 ||performquick-thecompletelyfile.best$all
 ||performrecent-themostfile.best$all
 ||performrefined-theextremelyfile.best$all
@@ -372,11 +373,9 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||searchoffers.info$all
-||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||securitevpn.me$all
@@ -394,6 +393,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -475,6 +475,7 @@
 ||toovolution.club$all
 ||topnotchsports.tips$all
 ||track4ast.icu$all
+||tracking-landers.xyz$all
 ||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trafficmind.pro$all
@@ -527,6 +528,7 @@
 ||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
+||yoursafestgreatplaceupdates.work$all
 ||yoursafesystemsupdating.work$all
 ||yourstablegreatupdate.work$all
 ||yourstablegreatupdates.work$all

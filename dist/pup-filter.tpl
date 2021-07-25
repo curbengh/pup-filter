@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Jul 2021 12:02:29 +0000
+# Updated: Sun, 25 Jul 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@ msFilterList
 -d asufij.xyz
 -d atprofessor.fun
 -d atwater.org
+-d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d betterfreedownloadplayer.info
@@ -45,6 +46,7 @@ msFilterList
 -d care-connection.info
 -d careerconnecthub.com
 -d check-your-profitzone.life
+-d checkstableaupdatinglinks.work
 -d cloudmedia.casa
 -d cloudmedia.cyou
 -d cloudmedia.fun
@@ -83,6 +85,7 @@ msFilterList
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
+-d efladn.club
 -d elpelades.club
 -d eproute.info
 -d erotica.live
@@ -95,6 +98,7 @@ msFilterList
 -d fastwebb.xyz
 -d fastwebe.xyz
 -d financial-deals.xyz
+-d finditquick.online
 -d findoffers.co
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
@@ -156,7 +160,6 @@ msFilterList
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
--d healthvenue.club
 -d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
@@ -253,6 +256,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d mapopts.top
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -289,7 +293,6 @@ msFilterList
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
--d patriothealth.today
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -306,12 +309,10 @@ msFilterList
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
--d performoverly-theprogressivefile.best
 -d performprecise-theextremelyfile.best
 -d performprecise-thehighlyfile.best
 -d performprecise-theuberfile.best
 -d performprogressive-theintenselyfile.best
--d performprogressive-theoverlyfile.best
 -d performquick-thecompletelyfile.best
 -d performrecent-themostfile.best
 -d performrefined-theextremelyfile.best
@@ -375,11 +376,9 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -397,6 +396,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -478,6 +478,7 @@ msFilterList
 -d toovolution.club
 -d topnotchsports.tips
 -d track4ast.icu
+-d tracking-landers.xyz
 -d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
@@ -530,6 +531,7 @@ msFilterList
 -d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
+-d yoursafestgreatplaceupdates.work
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work

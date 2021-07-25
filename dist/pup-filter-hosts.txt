@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Jul 2021 12:02:29 +0000
+# Updated: Sun, 25 Jul 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
+0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 betterfreedownloadplayer.info
@@ -42,6 +43,7 @@
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
 0.0.0.0 check-your-profitzone.life
+0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.cyou
 0.0.0.0 cloudmedia.fun
@@ -80,6 +82,7 @@
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
+0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 eproute.info
 0.0.0.0 erotica.live
@@ -92,6 +95,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 fastwebe.xyz
 0.0.0.0 financial-deals.xyz
+0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
@@ -153,7 +157,6 @@
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
-0.0.0.0 healthvenue.club
 0.0.0.0 healthvibe.live
 0.0.0.0 healthwella.club
 0.0.0.0 healthyideal.club
@@ -250,6 +253,7 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -286,7 +290,6 @@
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 ouldthepat.fun
-0.0.0.0 patriothealth.today
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
@@ -303,12 +306,10 @@
 0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
-0.0.0.0 performoverly-theprogressivefile.best
 0.0.0.0 performprecise-theextremelyfile.best
 0.0.0.0 performprecise-thehighlyfile.best
 0.0.0.0 performprecise-theuberfile.best
 0.0.0.0 performprogressive-theintenselyfile.best
-0.0.0.0 performprogressive-theoverlyfile.best
 0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrecent-themostfile.best
 0.0.0.0 performrefined-theextremelyfile.best
@@ -372,11 +373,9 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
@@ -394,6 +393,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -475,6 +475,7 @@
 0.0.0.0 toovolution.club
 0.0.0.0 topnotchsports.tips
 0.0.0.0 track4ast.icu
+0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficbounce.net
 0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
@@ -527,6 +528,7 @@
 0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
+0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work

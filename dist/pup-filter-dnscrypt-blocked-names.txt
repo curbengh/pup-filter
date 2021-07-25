@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 24 Jul 2021 12:02:29 +0000
+# Updated: Sun, 25 Jul 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@ ashtdi.cn
 asufij.xyz
 atprofessor.fun
 atwater.org
+beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 betterfreedownloadplayer.info
@@ -42,6 +43,7 @@ calledbellc.fun
 care-connection.info
 careerconnecthub.com
 check-your-profitzone.life
+checkstableaupdatinglinks.work
 cloudmedia.casa
 cloudmedia.cyou
 cloudmedia.fun
@@ -80,6 +82,7 @@ desixxx.cloud
 dollarsurvey365.online
 dollarsurvey365.org
 earlyprogress.info
+efladn.club
 elpelades.club
 eproute.info
 erotica.live
@@ -92,6 +95,7 @@ fastspotb.xyz
 fastwebb.xyz
 fastwebe.xyz
 financial-deals.xyz
+finditquick.online
 findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
@@ -153,7 +157,6 @@ healthspark.today
 healthsupreme.club
 healthtag.club
 healthupper.club
-healthvenue.club
 healthvibe.live
 healthwella.club
 healthyideal.club
@@ -250,6 +253,7 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
 matchyourgirl.online
+mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -286,7 +290,6 @@ onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
-patriothealth.today
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
@@ -303,12 +306,10 @@ performlatestoverlyapplication.icu
 performmost-thenewestfile.best
 performmost-therecentfile.best
 performoriginal-theheavilyfile.best
-performoverly-theprogressivefile.best
 performprecise-theextremelyfile.best
 performprecise-thehighlyfile.best
 performprecise-theuberfile.best
 performprogressive-theintenselyfile.best
-performprogressive-theoverlyfile.best
 performquick-thecompletelyfile.best
 performrecent-themostfile.best
 performrefined-theextremelyfile.best
@@ -372,11 +373,9 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
-seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
@@ -394,6 +393,7 @@ spotmapd.xyz
 springplanetf.xyz
 start-page.one
 stay-notified.cc
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -475,6 +475,7 @@ toolvpn.me
 toovolution.club
 topnotchsports.tips
 track4ast.icu
+tracking-landers.xyz
 trafficbounce.net
 trafficgate.cc
 trafficmind.pro
@@ -527,6 +528,7 @@ yourlegendaryvideoupgrades.info
 yourlegendaryvideoupgrading.info
 yourlinkplaceupdatingfree.work
 yourluckytoday.club
+yoursafestgreatplaceupdates.work
 yoursafesystemsupdating.work
 yourstablegreatupdate.work
 yourstablegreatupdates.work
