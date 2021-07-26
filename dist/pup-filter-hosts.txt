@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Jul 2021 00:03:33 +0000
+# Updated: Mon, 26 Jul 2021 12:03:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 asufij.xyz
-0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
@@ -40,7 +39,6 @@
 0.0.0.0 browse-privately.net
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
-0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
 0.0.0.0 check-your-profitzone.life
@@ -88,7 +86,6 @@
 0.0.0.0 eproute.info
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
-0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspota.xyz
@@ -165,7 +162,6 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 inappropriate.top
 0.0.0.0 incrediblebuzz.info
@@ -292,7 +288,6 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
@@ -385,6 +380,7 @@
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
+0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz

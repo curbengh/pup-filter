@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Jul 2021 00:03:33 +0000
+# Updated: Mon, 26 Jul 2021 12:03:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ msFilterList
 -d armorprovpn.me
 -d ashtdi.cn
 -d asufij.xyz
--d atprofessor.fun
 -d atwater.org
 -d beinspired.global
 -d bestappland.me
@@ -43,7 +42,6 @@ msFilterList
 -d browse-privately.net
 -d btcinvesting.info
 -d bulley.shop
--d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
 -d check-your-profitzone.life
@@ -91,7 +89,6 @@ msFilterList
 -d eproute.info
 -d erotica.live
 -d extrasafe.xyz
--d f7lwv2y0xb.top
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -168,7 +165,6 @@ msFilterList
 -d healthyspirit.info
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d inappropriate.top
 -d incrediblebuzz.info
@@ -295,7 +291,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -388,6 +383,7 @@ msFilterList
 -d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
+-d signupandturnyourscreenoffsafepowernow.date
 -d smartys.link
 -d sorrectionki.space
 -d spotmapd.xyz

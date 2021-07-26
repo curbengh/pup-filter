@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Jul 2021 00:03:33 +0000
+! Updated: Mon, 26 Jul 2021 12:03:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 ||armorprovpn.me$all
 ||ashtdi.cn$all
 ||asufij.xyz$all
-||atprofessor.fun$all
 ||atwater.org$all
 ||beinspired.global$all
 ||bestappland.me$all
@@ -40,7 +39,6 @@
 ||browse-privately.net$all
 ||btcinvesting.info$all
 ||bulley.shop$all
-||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
 ||check-your-profitzone.life$all
@@ -88,7 +86,6 @@
 ||eproute.info$all
 ||erotica.live$all
 ||extrasafe.xyz$all
-||f7lwv2y0xb.top$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspota.xyz$all
@@ -165,7 +162,6 @@
 ||healthyspirit.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||ientsillness.fun$all
 ||imagefind.org$all
 ||inappropriate.top$all
 ||incrediblebuzz.info$all
@@ -292,7 +288,6 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -385,6 +380,7 @@
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
+||signupandturnyourscreenoffsafepowernow.date$all
 ||smartys.link$all
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
