@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 25 Jul 2021 12:02:37 +0000
+! Updated: Mon, 26 Jul 2021 00:03:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,7 @@
 123news.website
 2kddbl.club
 4upgradingstablesafe.work
-adguard-vpn.com
+adslauchgo.xyz
 altcasino.info
 amobil.online
 apptool.me
@@ -159,7 +159,6 @@ healthspark.today
 healthsupreme.club
 healthtag.club
 healthupper.club
-healthvibe.live
 healthwella.club
 healthyideal.club
 healthylives.today
@@ -177,6 +176,7 @@ iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
 java-forum.org
+jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
 jtkszl.vip
@@ -263,6 +263,7 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
+mediaplayer24.ml
 medicomatic.info
 medicreed.club
 medjournalketo.info
@@ -301,7 +302,6 @@ performgreatly-thespeedyfile.best
 performheavily-theoriginalfile.best
 performhighly-thefreefile.best
 performhighly-theprecisefile.best
-performhighly-therecentfile.best
 performintensely-thedevelopedfile.best
 performlatest-thecompletelyfile.best
 performlatestoverlyapplication.icu
@@ -316,7 +316,6 @@ performquick-thecompletelyfile.best
 performrecent-themostfile.best
 performrefined-theextremelyfile.best
 performrefineduberapplication.icu
-performrenewed-theoverlyfile.best
 performsophisticated-thehighlyfile.best
 performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
@@ -325,7 +324,6 @@ placesiteb.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
-premiernursingacademy.org
 preparedforsafeupgrading.work
 primecare.today
 privacykeeper.net
@@ -343,8 +341,6 @@ quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
-readyhealthgo.today
-recontent.casa
 recontent.site
 reliablesoftwarevideos.info
 resignation.top
@@ -375,6 +371,7 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
@@ -393,6 +390,7 @@ sorrectionki.space
 spotmapd.xyz
 springplanetf.xyz
 start-page.one
+startos.win
 stay-notified.cc
 stickr.co
 streamadvanced-bestcompletelyfile.best
@@ -419,7 +417,6 @@ streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
 subeamy.pw
 sudoo.net
-sugar-legal-about13.fun
 summermedia.club
 superplace4upgrade.work
 superplace4upgrading.work
@@ -437,7 +434,6 @@ syncheavily-bestlatestfile.best
 synchighly-bestfreefile.best
 synchighly-bestoriginalfile.best
 synchighly-bestrecentfile.best
-synchighly-bestsophisticatedfile.best
 synchighly-bestspeedyfile.best
 syncintensely-bestprogressivefile.best
 synclatest-bestuberfile.best
@@ -486,6 +482,7 @@ trktraf.club
 trkvpn.xyz
 trustappstreamsall.digital
 tryoneshot-keto.net
+ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -502,8 +499,11 @@ watchgreatly-bestcurrentfile.best
 watchgreatly-bestlatestfile.best
 watchlatest-bestgreatlyfile.best
 watchprogressive-bestmostfile.best
+watchquick-bestheavilyfile.best
+watchrefined-bestextremelyfile.best
 websiteforall.work
 websitetoget.work
+webtactics.ca
 webtip.co
 wellnessplum.info
 winnerbigwingiveawaysuper.cyou

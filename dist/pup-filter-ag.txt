@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 25 Jul 2021 12:02:37 +0000
+! Updated: Mon, 26 Jul 2021 00:03:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,7 @@
 ||123news.website$all
 ||2kddbl.club$all
 ||4upgradingstablesafe.work$all
-||adguard-vpn.com$all
+||adslauchgo.xyz$all
 ||altcasino.info$all
 ||amobil.online$all
 ||apptool.me$all
@@ -159,7 +159,6 @@
 ||healthsupreme.club$all
 ||healthtag.club$all
 ||healthupper.club$all
-||healthvibe.live$all
 ||healthwella.club$all
 ||healthyideal.club$all
 ||healthylives.today$all
@@ -177,6 +176,7 @@
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
+||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||jtkszl.vip$all
@@ -263,6 +263,7 @@
 ||mediagate.cyou$all
 ||mediagate.fun$all
 ||mediagate.surf$all
+||mediaplayer24.ml$all
 ||medicomatic.info$all
 ||medicreed.club$all
 ||medjournalketo.info$all
@@ -301,7 +302,6 @@
 ||performheavily-theoriginalfile.best$all
 ||performhighly-thefreefile.best$all
 ||performhighly-theprecisefile.best$all
-||performhighly-therecentfile.best$all
 ||performintensely-thedevelopedfile.best$all
 ||performlatest-thecompletelyfile.best$all
 ||performlatestoverlyapplication.icu$all
@@ -316,7 +316,6 @@
 ||performrecent-themostfile.best$all
 ||performrefined-theextremelyfile.best$all
 ||performrefineduberapplication.icu$all
-||performrenewed-theoverlyfile.best$all
 ||performsophisticated-thehighlyfile.best$all
 ||performspeedy-thegreatlyfile.best$all
 ||performstrong-thegreatlyfile.digital$all
@@ -325,7 +324,6 @@
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
-||premiernursingacademy.org$all
 ||preparedforsafeupgrading.work$all
 ||primecare.today$all
 ||privacykeeper.net$all
@@ -343,8 +341,6 @@
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
-||readyhealthgo.today$all
-||recontent.casa$all
 ||recontent.site$all
 ||reliablesoftwarevideos.info$all
 ||resignation.top$all
@@ -375,6 +371,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||searchoffers.info$all
@@ -393,6 +390,7 @@
 ||spotmapd.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
+||startos.win$all
 ||stay-notified.cc$all
 ||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
@@ -419,7 +417,6 @@
 ||streamuber-bestswiftfile.best$all
 ||subeamy.pw$all
 ||sudoo.net$all
-||sugar-legal-about13.fun$all
 ||summermedia.club$all
 ||superplace4upgrade.work$all
 ||superplace4upgrading.work$all
@@ -437,7 +434,6 @@
 ||synchighly-bestfreefile.best$all
 ||synchighly-bestoriginalfile.best$all
 ||synchighly-bestrecentfile.best$all
-||synchighly-bestsophisticatedfile.best$all
 ||synchighly-bestspeedyfile.best$all
 ||syncintensely-bestprogressivefile.best$all
 ||synclatest-bestuberfile.best$all
@@ -486,6 +482,7 @@
 ||trkvpn.xyz$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -502,8 +499,11 @@
 ||watchgreatly-bestlatestfile.best$all
 ||watchlatest-bestgreatlyfile.best$all
 ||watchprogressive-bestmostfile.best$all
+||watchquick-bestheavilyfile.best$all
+||watchrefined-bestextremelyfile.best$all
 ||websiteforall.work$all
 ||websitetoget.work$all
+||webtactics.ca$all
 ||webtip.co$all
 ||wellnessplum.info$all
 ||winnerbigwingiveawaysuper.cyou$all

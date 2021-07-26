@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 25 Jul 2021 12:02:37 +0000
+# Updated: Mon, 26 Jul 2021 00:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,7 @@ msFilterList
 -d 123news.website
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
--d adguard-vpn.com
+-d adslauchgo.xyz
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -162,7 +162,6 @@ msFilterList
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
--d healthvibe.live
 -d healthwella.club
 -d healthyideal.club
 -d healthylives.today
@@ -180,6 +179,7 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
+-d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d jtkszl.vip
@@ -266,6 +266,7 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
+-d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
@@ -304,7 +305,6 @@ msFilterList
 -d performheavily-theoriginalfile.best
 -d performhighly-thefreefile.best
 -d performhighly-theprecisefile.best
--d performhighly-therecentfile.best
 -d performintensely-thedevelopedfile.best
 -d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
@@ -319,7 +319,6 @@ msFilterList
 -d performrecent-themostfile.best
 -d performrefined-theextremelyfile.best
 -d performrefineduberapplication.icu
--d performrenewed-theoverlyfile.best
 -d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
@@ -328,7 +327,6 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
@@ -346,8 +344,6 @@ msFilterList
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
--d readyhealthgo.today
--d recontent.casa
 -d recontent.site
 -d reliablesoftwarevideos.info
 -d resignation.top
@@ -378,6 +374,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
@@ -396,6 +393,7 @@ msFilterList
 -d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
+-d startos.win
 -d stay-notified.cc
 -d stickr.co
 -d streamadvanced-bestcompletelyfile.best
@@ -422,7 +420,6 @@ msFilterList
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
 -d sudoo.net
--d sugar-legal-about13.fun
 -d summermedia.club
 -d superplace4upgrade.work
 -d superplace4upgrading.work
@@ -440,7 +437,6 @@ msFilterList
 -d synchighly-bestfreefile.best
 -d synchighly-bestoriginalfile.best
 -d synchighly-bestrecentfile.best
--d synchighly-bestsophisticatedfile.best
 -d synchighly-bestspeedyfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatest-bestuberfile.best
@@ -489,6 +485,7 @@ msFilterList
 -d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -505,8 +502,11 @@ msFilterList
 -d watchgreatly-bestlatestfile.best
 -d watchlatest-bestgreatlyfile.best
 -d watchprogressive-bestmostfile.best
+-d watchquick-bestheavilyfile.best
+-d watchrefined-bestextremelyfile.best
 -d websiteforall.work
 -d websitetoget.work
+-d webtactics.ca
 -d webtip.co
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
