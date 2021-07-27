@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 26 Jul 2021 12:03:31 +0000
+! Updated: Tue, 27 Jul 2021 00:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -34,6 +34,7 @@
 ||boot-upfree-bestuberfile.best$document
 ||boot-upoverly-bestadvancedfile.best$document
 ||boot-uprefined-bestcompletelyfile.best$document
+||boot-uprenewed-bestuberfile.best$document
 ||boot-upuber-bestfreefile.best$document
 ||breaking-news.digital$document
 ||browse-privately.net$document
@@ -62,7 +63,6 @@
 ||cryptotilt.club$document
 ||cryptotradingcourses.net$document
 ||cselfconnect.com$document
-||curesector.today$document
 ||dailymedia.casa$document
 ||dailymedia.cyou$document
 ||dailymedia.monster$document
@@ -171,7 +171,6 @@
 ||iosrecommendedvpn.com$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
-||java-forum.org$document
 ||jetsummer.xyz$document
 ||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
@@ -319,6 +318,7 @@
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
+||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
@@ -370,6 +370,7 @@
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
+||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
@@ -485,7 +486,6 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||vital-health.club$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
@@ -524,6 +524,7 @@
 ||yourlegendaryvideoupgrading.info$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
+||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
 ||yoursafesystemsupdating.work$document
 ||yourstablegreatupdate.work$document

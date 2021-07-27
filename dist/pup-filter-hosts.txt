@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Jul 2021 12:03:31 +0000
+# Updated: Tue, 27 Jul 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -34,6 +34,7 @@
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprefined-bestcompletelyfile.best
+0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
 0.0.0.0 browse-privately.net
@@ -62,7 +63,6 @@
 0.0.0.0 cryptotilt.club
 0.0.0.0 cryptotradingcourses.net
 0.0.0.0 cselfconnect.com
-0.0.0.0 curesector.today
 0.0.0.0 dailymedia.casa
 0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.monster
@@ -171,7 +171,6 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -319,6 +318,7 @@
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
+0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
@@ -370,6 +370,7 @@
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
@@ -485,7 +486,6 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 vital-health.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
@@ -524,6 +524,7 @@
 0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
+0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdate.work

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 26 Jul 2021 12:03:31 +0000
+# Updated: Tue, 27 Jul 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -37,6 +37,7 @@ msFilterList
 -d boot-upfree-bestuberfile.best
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
+-d boot-uprenewed-bestuberfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
 -d browse-privately.net
@@ -65,7 +66,6 @@ msFilterList
 -d cryptotilt.club
 -d cryptotradingcourses.net
 -d cselfconnect.com
--d curesector.today
 -d dailymedia.casa
 -d dailymedia.cyou
 -d dailymedia.monster
@@ -174,7 +174,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -322,6 +321,7 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
+-d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
@@ -373,6 +373,7 @@ msFilterList
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -488,7 +489,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vital-health.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
@@ -527,6 +527,7 @@ msFilterList
 -d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
+-d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d yoursafesystemsupdating.work
 -d yourstablegreatupdate.work
