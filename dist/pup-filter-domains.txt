@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Jul 2021 00:03:17 +0000
+# Updated: Tue, 27 Jul 2021 12:03:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -40,6 +40,7 @@ breaking-news.digital
 browse-privately.net
 btcinvesting.info
 bulley.shop
+calledbellc.fun
 care-connection.info
 careerconnecthub.com
 check-your-profitzone.life
@@ -86,6 +87,7 @@ elpelades.club
 eproute.info
 erotica.live
 extrasafe.xyz
+f7lwv2y0xb.top
 fastmapc.xyz
 fastspinc.xyz
 fastspota.xyz
@@ -162,6 +164,7 @@ healthylives.today
 healthyspirit.info
 httqzq.vip
 hypezen.info
+ientsillness.fun
 imagefind.org
 inappropriate.top
 incrediblebuzz.info
