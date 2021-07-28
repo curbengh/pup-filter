@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 27 Jul 2021 12:03:40 +0000
+! Updated: Wed, 28 Jul 2021 00:03:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||adslauchgo.xyz$document
+||affiliateland.io$document
 ||altcasino.info$document
 ||amobil.online$document
 ||apptool.me$document
@@ -100,7 +101,6 @@
 ||findperfectplaces2download.work$document
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
-||finreporter.net$document
 ||fisudauh.top$document
 ||fitandstable.club$document
 ||fithealthspark.info$document
@@ -154,7 +154,6 @@
 ||healthomega.club$document
 ||healthscale.club$document
 ||healthschedule.club$document
-||healthspark.today$document
 ||healthsupreme.club$document
 ||healthtag.club$document
 ||healthupper.club$document
@@ -252,6 +251,7 @@
 ||manageuber-thestrongfile.best$document
 ||manageuber-theswiftfile.best$document
 ||mapopts.top$document
+||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
 ||mediaevent.club$document
@@ -261,7 +261,6 @@
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
-||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
 ||medjournalketo.info$document
@@ -293,11 +292,9 @@
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
-||performextremely-theprecisefile.best$document
 ||performfree-thehighlyfile.best$document
 ||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
-||performhighly-thefreefile.best$document
 ||performhighly-theprecisefile.best$document
 ||performintensely-thedevelopedfile.best$document
 ||performlatest-thecompletelyfile.best$document
@@ -305,7 +302,6 @@
 ||performmost-thenewestfile.best$document
 ||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
-||performprecise-theextremelyfile.best$document
 ||performprecise-thehighlyfile.best$document
 ||performprecise-theuberfile.best$document
 ||performprogressive-theintenselyfile.best$document
@@ -321,7 +317,6 @@
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
-||premiernursingacademy.org$document
 ||preparedforsafeupgrading.work$document
 ||primecare.today$document
 ||privacykeeper.net$document
@@ -339,7 +334,6 @@
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
-||recontent.site$document
 ||reliablesoftwarevideos.info$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document

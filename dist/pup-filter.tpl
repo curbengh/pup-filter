@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Jul 2021 12:03:40 +0000
+# Updated: Wed, 28 Jul 2021 00:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d adslauchgo.xyz
+-d affiliateland.io
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -103,7 +104,6 @@ msFilterList
 -d findperfectplaces2download.work
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
--d finreporter.net
 -d fisudauh.top
 -d fitandstable.club
 -d fithealthspark.info
@@ -157,7 +157,6 @@ msFilterList
 -d healthomega.club
 -d healthscale.club
 -d healthschedule.club
--d healthspark.today
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
@@ -255,6 +254,7 @@ msFilterList
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d mapopts.top
+-d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
 -d mediaevent.club
@@ -264,7 +264,6 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
--d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
@@ -296,11 +295,9 @@ msFilterList
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
--d performextremely-theprecisefile.best
 -d performfree-thehighlyfile.best
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
--d performhighly-thefreefile.best
 -d performhighly-theprecisefile.best
 -d performintensely-thedevelopedfile.best
 -d performlatest-thecompletelyfile.best
@@ -308,7 +305,6 @@ msFilterList
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
--d performprecise-theextremelyfile.best
 -d performprecise-thehighlyfile.best
 -d performprecise-theuberfile.best
 -d performprogressive-theintenselyfile.best
@@ -324,7 +320,6 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
--d premiernursingacademy.org
 -d preparedforsafeupgrading.work
 -d primecare.today
 -d privacykeeper.net
@@ -342,7 +337,6 @@ msFilterList
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
--d recontent.site
 -d reliablesoftwarevideos.info
 -d resignation.top
 -d rewards-promotion-winner-super.cyou

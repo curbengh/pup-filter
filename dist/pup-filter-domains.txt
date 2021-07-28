@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Jul 2021 12:03:40 +0000
+# Updated: Wed, 28 Jul 2021 00:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 2kddbl.club
 4upgradingstablesafe.work
 adslauchgo.xyz
+affiliateland.io
 altcasino.info
 amobil.online
 apptool.me
@@ -100,7 +101,6 @@ findoffers.co
 findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
-finreporter.net
 fisudauh.top
 fitandstable.club
 fithealthspark.info
@@ -154,7 +154,6 @@ healthneo.club
 healthomega.club
 healthscale.club
 healthschedule.club
-healthspark.today
 healthsupreme.club
 healthtag.club
 healthupper.club
@@ -252,6 +251,7 @@ manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 mapopts.top
+marketloans.net
 matchyourgirl.online
 mathison.io
 mediaevent.club
@@ -261,7 +261,6 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
-mediaplayer24.ml
 medicomatic.info
 medicreed.club
 medjournalketo.info
@@ -293,11 +292,9 @@ onlinewinnerluckyrewards.cyou
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
-performextremely-theprecisefile.best
 performfree-thehighlyfile.best
 performgreatly-thespeedyfile.best
 performheavily-theoriginalfile.best
-performhighly-thefreefile.best
 performhighly-theprecisefile.best
 performintensely-thedevelopedfile.best
 performlatest-thecompletelyfile.best
@@ -305,7 +302,6 @@ performlatestoverlyapplication.icu
 performmost-thenewestfile.best
 performmost-therecentfile.best
 performoriginal-theheavilyfile.best
-performprecise-theextremelyfile.best
 performprecise-thehighlyfile.best
 performprecise-theuberfile.best
 performprogressive-theintenselyfile.best
@@ -321,7 +317,6 @@ placesiteb.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
-premiernursingacademy.org
 preparedforsafeupgrading.work
 primecare.today
 privacykeeper.net
@@ -339,7 +334,6 @@ quantum.work
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
-recontent.site
 reliablesoftwarevideos.info
 resignation.top
 rewards-promotion-winner-super.cyou

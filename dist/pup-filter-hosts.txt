@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 27 Jul 2021 12:03:40 +0000
+# Updated: Wed, 28 Jul 2021 00:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
+0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -100,7 +101,6 @@
 0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
-0.0.0.0 finreporter.net
 0.0.0.0 fisudauh.top
 0.0.0.0 fitandstable.club
 0.0.0.0 fithealthspark.info
@@ -154,7 +154,6 @@
 0.0.0.0 healthomega.club
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
-0.0.0.0 healthspark.today
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
@@ -252,6 +251,7 @@
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 mapopts.top
+0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
@@ -261,7 +261,6 @@
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
-0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
@@ -293,11 +292,9 @@
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
-0.0.0.0 performextremely-theprecisefile.best
 0.0.0.0 performfree-thehighlyfile.best
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
-0.0.0.0 performhighly-thefreefile.best
 0.0.0.0 performhighly-theprecisefile.best
 0.0.0.0 performintensely-thedevelopedfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
@@ -305,7 +302,6 @@
 0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
-0.0.0.0 performprecise-theextremelyfile.best
 0.0.0.0 performprecise-thehighlyfile.best
 0.0.0.0 performprecise-theuberfile.best
 0.0.0.0 performprogressive-theintenselyfile.best
@@ -321,7 +317,6 @@
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
-0.0.0.0 premiernursingacademy.org
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 primecare.today
 0.0.0.0 privacykeeper.net
@@ -339,7 +334,6 @@
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
-0.0.0.0 recontent.site
 0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 resignation.top
 0.0.0.0 rewards-promotion-winner-super.cyou
