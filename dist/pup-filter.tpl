@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 28 Jul 2021 00:03:33 +0000
+# Updated: Wed, 28 Jul 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@ msFilterList
 -d armorprovpn.me
 -d ashtdi.cn
 -d asufij.xyz
+-d atprofessor.fun
 -d atwater.org
 -d beinspired.global
 -d bestappland.me
@@ -134,7 +135,6 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
--d global-info.space
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
 -d goalmedia.cam
@@ -292,6 +292,7 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
@@ -317,6 +318,7 @@ msFilterList
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -390,6 +392,7 @@ msFilterList
 -d startos.win
 -d stay-notified.cc
 -d stickr.co
+-d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -483,9 +486,11 @@ msFilterList
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
+-d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me

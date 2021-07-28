@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 28 Jul 2021 00:03:33 +0000
+# Updated: Wed, 28 Jul 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@ apptool.me
 armorprovpn.me
 ashtdi.cn
 asufij.xyz
+atprofessor.fun
 atwater.org
 beinspired.global
 bestappland.me
@@ -131,7 +132,6 @@ girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
-global-info.space
 go-x34n7wbcoes-ok.live
 goalmedia.bar
 goalmedia.cam
@@ -289,6 +289,7 @@ onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
+ouldthepat.fun
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
@@ -314,6 +315,7 @@ performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 placesiteb.xyz
+placespina.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
@@ -387,6 +389,7 @@ start-page.one
 startos.win
 stay-notified.cc
 stickr.co
+stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -480,9 +483,11 @@ ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
+upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+vpn1aprotectplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

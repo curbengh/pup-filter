@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 28 Jul 2021 00:03:33 +0000
+! Updated: Wed, 28 Jul 2021 12:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 ||armorprovpn.me$document
 ||ashtdi.cn$document
 ||asufij.xyz$document
+||atprofessor.fun$document
 ||atwater.org$document
 ||beinspired.global$document
 ||bestappland.me$document
@@ -131,7 +132,6 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
-||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
 ||goalmedia.cam$document
@@ -289,6 +289,7 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
+||ouldthepat.fun$document
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
@@ -314,6 +315,7 @@
 ||performstrong-thegreatlyfile.digital$document
 ||performuberquickapplication.icu$document
 ||placesiteb.xyz$document
+||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
@@ -387,6 +389,7 @@
 ||startos.win$document
 ||stay-notified.cc$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -480,9 +483,11 @@
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
+||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||vpn1aprotectplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
