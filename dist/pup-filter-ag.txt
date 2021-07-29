@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 29 Jul 2021 00:03:19 +0000
+! Updated: Thu, 29 Jul 2021 12:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -79,7 +79,6 @@
 ||dealmedia.website$all
 ||dealmedia.xyz$all
 ||defensepro.me$all
-||delightcmain.xyz$all
 ||desixxx.cloud$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
@@ -379,7 +378,6 @@
 ||startos.win$all
 ||stay-notified.cc$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
