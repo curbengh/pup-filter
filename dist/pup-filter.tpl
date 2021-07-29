@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 28 Jul 2021 12:03:03 +0000
+# Updated: Thu, 29 Jul 2021 00:03:19 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -106,7 +106,6 @@ msFilterList
 -d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
 -d fisudauh.top
--d fitandstable.club
 -d fithealthspark.info
 -d fithealthspot.club
 -d fitnessdial.club
@@ -130,6 +129,7 @@ msFilterList
 -d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -147,7 +147,6 @@ msFilterList
 -d growthnetic.club
 -d gx8uxvn13l.top
 -d hailso.xyz
--d happyactive.today
 -d happymakesite.xyz
 -d healandgrow.club
 -d healtheezy.info
@@ -161,7 +160,6 @@ msFilterList
 -d healthtag.club
 -d healthupper.club
 -d healthwella.club
--d healthyideal.club
 -d healthylives.today
 -d healthyspirit.info
 -d httqzq.vip
@@ -185,7 +183,6 @@ msFilterList
 -d junemedia.xyz
 -d kad3md.cn
 -d keepithealthy.info
--d ketodietrecipes.org
 -d ktpyzw.vip
 -d legendaryplaceupgrade.info
 -d legendaryplaceupgrades.info
@@ -247,7 +244,6 @@ msFilterList
 -d luckymedia.fun
 -d luckymedia.space
 -d luckymedia.website
--d makemesafeios.com
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
 -d manageuber-therecentfile.best
@@ -256,7 +252,6 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -264,6 +259,7 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
+-d mediaplayer24.ml
 -d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
@@ -273,9 +269,8 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d modern-security.xyz
+-d money-hero.org
 -d monitoring-credit.xyz
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -296,7 +291,6 @@ msFilterList
 -d pcsecurity-live.xyz
 -d performcompletely-thelatestfile.best
 -d performcompletely-thequickfile.best
--d performfree-thehighlyfile.best
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
 -d performhighly-theprecisefile.best
@@ -311,7 +305,6 @@ msFilterList
 -d performprogressive-theintenselyfile.best
 -d performquick-thecompletelyfile.best
 -d performrecent-themostfile.best
--d performrefined-theextremelyfile.best
 -d performrefineduberapplication.icu
 -d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
@@ -344,7 +337,6 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
--d ritaus.org
 -d robogarden.io
 -d rootessential.info
 -d runadvanced-bestextremelyfile.best
@@ -368,11 +360,9 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d searchoffers.info
--d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -434,7 +424,6 @@ msFilterList
 -d synchighly-bestfreefile.best
 -d synchighly-bestoriginalfile.best
 -d synchighly-bestrecentfile.best
--d synchighly-bestspeedyfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatest-bestuberfile.best
 -d synclatestintenselythefile.vip
@@ -454,10 +443,8 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d tdstraffic.xyz
--d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
--d thefatburner.info
 -d thefitproject.club
 -d thehealthcycle.club
 -d thehotshot.info
@@ -470,7 +457,6 @@ msFilterList
 -d thestablegreatupgrades.best
 -d toolvpn.me
 -d toovolution.club
--d topnotchsports.tips
 -d track4ast.icu
 -d tracking-landers.xyz
 -d trafficbounce.net
@@ -479,7 +465,6 @@ msFilterList
 -d trane.fun
 -d tripleprofit-zone.life
 -d trktraf.club
--d trkvpn.xyz
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d ubertech.shop
@@ -517,7 +502,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourbestvideoconnection.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info

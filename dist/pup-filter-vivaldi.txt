@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 28 Jul 2021 12:03:03 +0000
+! Updated: Thu, 29 Jul 2021 00:03:19 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -103,7 +103,6 @@
 ||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
 ||fisudauh.top$document
-||fitandstable.club$document
 ||fithealthspark.info$document
 ||fithealthspot.club$document
 ||fitnessdial.club$document
@@ -127,6 +126,7 @@
 ||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
@@ -144,7 +144,6 @@
 ||growthnetic.club$document
 ||gx8uxvn13l.top$document
 ||hailso.xyz$document
-||happyactive.today$document
 ||happymakesite.xyz$document
 ||healandgrow.club$document
 ||healtheezy.info$document
@@ -158,7 +157,6 @@
 ||healthtag.club$document
 ||healthupper.club$document
 ||healthwella.club$document
-||healthyideal.club$document
 ||healthylives.today$document
 ||healthyspirit.info$document
 ||httqzq.vip$document
@@ -182,7 +180,6 @@
 ||junemedia.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
-||ketodietrecipes.org$document
 ||ktpyzw.vip$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
@@ -244,7 +241,6 @@
 ||luckymedia.fun$document
 ||luckymedia.space$document
 ||luckymedia.website$document
-||makemesafeios.com$document
 ||managestrong-theuberfile.best$document
 ||manageuber-thenewestfile.best$document
 ||manageuber-therecentfile.best$document
@@ -253,7 +249,6 @@
 ||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -261,6 +256,7 @@
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
+||mediaplayer24.ml$document
 ||medicomatic.info$document
 ||medicreed.club$document
 ||medjournalketo.info$document
@@ -270,9 +266,8 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||modern-security.xyz$document
+||money-hero.org$document
 ||monitoring-credit.xyz$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -293,7 +288,6 @@
 ||pcsecurity-live.xyz$document
 ||performcompletely-thelatestfile.best$document
 ||performcompletely-thequickfile.best$document
-||performfree-thehighlyfile.best$document
 ||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
 ||performhighly-theprecisefile.best$document
@@ -308,7 +302,6 @@
 ||performprogressive-theintenselyfile.best$document
 ||performquick-thecompletelyfile.best$document
 ||performrecent-themostfile.best$document
-||performrefined-theextremelyfile.best$document
 ||performrefineduberapplication.icu$document
 ||performsophisticated-thehighlyfile.best$document
 ||performspeedy-thegreatlyfile.best$document
@@ -341,7 +334,6 @@
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
-||ritaus.org$document
 ||robogarden.io$document
 ||rootessential.info$document
 ||runadvanced-bestextremelyfile.best$document
@@ -365,11 +357,9 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||searchoffers.info$document
-||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
@@ -431,7 +421,6 @@
 ||synchighly-bestfreefile.best$document
 ||synchighly-bestoriginalfile.best$document
 ||synchighly-bestrecentfile.best$document
-||synchighly-bestspeedyfile.best$document
 ||syncintensely-bestprogressivefile.best$document
 ||synclatest-bestuberfile.best$document
 ||synclatestintenselythefile.vip$document
@@ -451,10 +440,8 @@
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||tdstraffic.xyz$document
-||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
-||thefatburner.info$document
 ||thefitproject.club$document
 ||thehealthcycle.club$document
 ||thehotshot.info$document
@@ -467,7 +454,6 @@
 ||thestablegreatupgrades.best$document
 ||toolvpn.me$document
 ||toovolution.club$document
-||topnotchsports.tips$document
 ||track4ast.icu$document
 ||tracking-landers.xyz$document
 ||trafficbounce.net$document
@@ -476,7 +462,6 @@
 ||trane.fun$document
 ||tripleprofit-zone.life$document
 ||trktraf.club$document
-||trkvpn.xyz$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
@@ -514,7 +499,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourbestvideoconnection.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document

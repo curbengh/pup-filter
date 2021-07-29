@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 28 Jul 2021 12:03:03 +0000
+! Updated: Thu, 29 Jul 2021 00:03:19 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -103,7 +103,6 @@ findperfectplaces2download.work
 findperfectplaces4download.work
 findyourultimateplayersfirst.best
 fisudauh.top
-fitandstable.club
 fithealthspark.info
 fithealthspot.club
 fitnessdial.club
@@ -127,6 +126,7 @@ funsiteb.xyz
 fwsxqc.cn
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
 girlsnearyou.online
 gladmstreet.xyz
@@ -144,7 +144,6 @@ grandencryptions.me
 growthnetic.club
 gx8uxvn13l.top
 hailso.xyz
-happyactive.today
 happymakesite.xyz
 healandgrow.club
 healtheezy.info
@@ -158,7 +157,6 @@ healthsupreme.club
 healthtag.club
 healthupper.club
 healthwella.club
-healthyideal.club
 healthylives.today
 healthyspirit.info
 httqzq.vip
@@ -182,7 +180,6 @@ junemedia.club
 junemedia.xyz
 kad3md.cn
 keepithealthy.info
-ketodietrecipes.org
 ktpyzw.vip
 legendaryplaceupgrade.info
 legendaryplaceupgrades.info
@@ -244,7 +241,6 @@ luckymedia.cyou
 luckymedia.fun
 luckymedia.space
 luckymedia.website
-makemesafeios.com
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
 manageuber-therecentfile.best
@@ -253,7 +249,6 @@ manageuber-theswiftfile.best
 mapopts.top
 marketloans.net
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -261,6 +256,7 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
+mediaplayer24.ml
 medicomatic.info
 medicreed.club
 medjournalketo.info
@@ -270,9 +266,8 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-modern-security.xyz
+money-hero.org
 monitoring-credit.xyz
-movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -293,7 +288,6 @@ ouldthepat.fun
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
-performfree-thehighlyfile.best
 performgreatly-thespeedyfile.best
 performheavily-theoriginalfile.best
 performhighly-theprecisefile.best
@@ -308,7 +302,6 @@ performprecise-theuberfile.best
 performprogressive-theintenselyfile.best
 performquick-thecompletelyfile.best
 performrecent-themostfile.best
-performrefined-theextremelyfile.best
 performrefineduberapplication.icu
 performsophisticated-thehighlyfile.best
 performspeedy-thegreatlyfile.best
@@ -341,7 +334,6 @@ resignation.top
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
-ritaus.org
 robogarden.io
 rootessential.info
 runadvanced-bestextremelyfile.best
@@ -365,11 +357,9 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 searchoffers.info
-seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
@@ -431,7 +421,6 @@ syncheavily-bestlatestfile.best
 synchighly-bestfreefile.best
 synchighly-bestoriginalfile.best
 synchighly-bestrecentfile.best
-synchighly-bestspeedyfile.best
 syncintensely-bestprogressivefile.best
 synclatest-bestuberfile.best
 synclatestintenselythefile.vip
@@ -451,10 +440,8 @@ syncuber-bestsophisticatedfile.best
 systemupdatit.club
 tackis.xyz
 tdstraffic.xyz
-technologypartners.net
 thecryptomoney.info
 thecryptozone.website
-thefatburner.info
 thefitproject.club
 thehealthcycle.club
 thehotshot.info
@@ -467,7 +454,6 @@ thestablegreatupdates.work
 thestablegreatupgrades.best
 toolvpn.me
 toovolution.club
-topnotchsports.tips
 track4ast.icu
 tracking-landers.xyz
 trafficbounce.net
@@ -476,7 +462,6 @@ trafficmind.pro
 trane.fun
 tripleprofit-zone.life
 trktraf.club
-trkvpn.xyz
 trustappstreamsall.digital
 tryoneshot-keto.net
 ubertech.shop
@@ -514,7 +499,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourbestvideoconnection.info
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info

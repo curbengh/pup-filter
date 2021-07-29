@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 28 Jul 2021 12:03:03 +0000
+# Updated: Thu, 29 Jul 2021 00:03:19 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -103,7 +103,6 @@
 0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
-0.0.0.0 fitandstable.club
 0.0.0.0 fithealthspark.info
 0.0.0.0 fithealthspot.club
 0.0.0.0 fitnessdial.club
@@ -127,6 +126,7 @@
 0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
@@ -144,7 +144,6 @@
 0.0.0.0 growthnetic.club
 0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
-0.0.0.0 happyactive.today
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
 0.0.0.0 healtheezy.info
@@ -158,7 +157,6 @@
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
 0.0.0.0 healthwella.club
-0.0.0.0 healthyideal.club
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 httqzq.vip
@@ -182,7 +180,6 @@
 0.0.0.0 junemedia.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
-0.0.0.0 ketodietrecipes.org
 0.0.0.0 ktpyzw.vip
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
@@ -244,7 +241,6 @@
 0.0.0.0 luckymedia.fun
 0.0.0.0 luckymedia.space
 0.0.0.0 luckymedia.website
-0.0.0.0 makemesafeios.com
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
 0.0.0.0 manageuber-therecentfile.best
@@ -253,7 +249,6 @@
 0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -261,6 +256,7 @@
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
+0.0.0.0 mediaplayer24.ml
 0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
@@ -270,9 +266,8 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 modern-security.xyz
+0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
-0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -293,7 +288,6 @@
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performcompletely-thelatestfile.best
 0.0.0.0 performcompletely-thequickfile.best
-0.0.0.0 performfree-thehighlyfile.best
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
 0.0.0.0 performhighly-theprecisefile.best
@@ -308,7 +302,6 @@
 0.0.0.0 performprogressive-theintenselyfile.best
 0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrecent-themostfile.best
-0.0.0.0 performrefined-theextremelyfile.best
 0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performsophisticated-thehighlyfile.best
 0.0.0.0 performspeedy-thegreatlyfile.best
@@ -341,7 +334,6 @@
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
-0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
 0.0.0.0 runadvanced-bestextremelyfile.best
@@ -365,11 +357,9 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
@@ -431,7 +421,6 @@
 0.0.0.0 synchighly-bestfreefile.best
 0.0.0.0 synchighly-bestoriginalfile.best
 0.0.0.0 synchighly-bestrecentfile.best
-0.0.0.0 synchighly-bestspeedyfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatest-bestuberfile.best
 0.0.0.0 synclatestintenselythefile.vip
@@ -451,10 +440,8 @@
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 tdstraffic.xyz
-0.0.0.0 technologypartners.net
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
-0.0.0.0 thefatburner.info
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehotshot.info
@@ -467,7 +454,6 @@
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
-0.0.0.0 topnotchsports.tips
 0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficbounce.net
@@ -476,7 +462,6 @@
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trktraf.club
-0.0.0.0 trkvpn.xyz
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 ubertech.shop
@@ -514,7 +499,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourbestvideoconnection.info
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
