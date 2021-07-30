@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 30 Jul 2021 00:02:52 +0000
+# Updated: Fri, 30 Jul 2021 12:03:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
-0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -131,6 +130,7 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
+0.0.0.0 global-info.space
 0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
 0.0.0.0 goalmedia.cam
@@ -141,7 +141,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
-0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
@@ -306,7 +305,6 @@
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 placesiteb.xyz
-0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
@@ -465,7 +463,6 @@
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
-0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me

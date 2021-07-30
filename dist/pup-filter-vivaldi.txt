@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 30 Jul 2021 00:02:52 +0000
+! Updated: Fri, 30 Jul 2021 12:03:40 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||adslauchgo.xyz$document
-||affiliateland.io$document
 ||altcasino.info$document
 ||amobil.online$document
 ||apptool.me$document
@@ -131,6 +130,7 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
+||global-info.space$document
 ||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
 ||goalmedia.cam$document
@@ -141,7 +141,6 @@
 ||gramp.xyz$document
 ||grandencryptions.me$document
 ||growthnetic.club$document
-||gx8uxvn13l.top$document
 ||hailso.xyz$document
 ||happymakesite.xyz$document
 ||healandgrow.club$document
@@ -306,7 +305,6 @@
 ||performstrong-thegreatlyfile.digital$document
 ||performuberquickapplication.icu$document
 ||placesiteb.xyz$document
-||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
@@ -465,7 +463,6 @@
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
-||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
