@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 29 Jul 2021 12:02:46 +0000
+! Updated: Fri, 30 Jul 2021 00:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -147,7 +147,6 @@
 ||healandgrow.club$all
 ||healtheezy.info$all
 ||healthemerge.info$all
-||healthmarlin.club$all
 ||healthneo.club$all
 ||healthomega.club$all
 ||healthscale.club$all
@@ -158,6 +157,7 @@
 ||healthwella.club$all
 ||healthylives.today$all
 ||healthyspirit.info$all
+||heatwavereporter.org$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -248,6 +248,7 @@
 ||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -265,7 +266,6 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -296,7 +296,6 @@
 ||performmost-thenewestfile.best$all
 ||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
-||performprecise-thehighlyfile.best$all
 ||performprecise-theuberfile.best$all
 ||performprogressive-theintenselyfile.best$all
 ||performquick-thecompletelyfile.best$all
@@ -312,7 +311,6 @@
 ||playspind.xyz$all
 ||ppploanchoices.site$all
 ||preparedforsafeupgrading.work$all
-||primecare.today$all
 ||privacykeeper.net$all
 ||profitsurvey365.org$all
 ||proprotect.me$all
@@ -333,6 +331,7 @@
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
+||ritaus.org$all
 ||robogarden.io$all
 ||rootessential.info$all
 ||runadvanced-bestextremelyfile.best$all
@@ -358,7 +357,9 @@
 ||safest4placeupdates.info$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
+||search4theupdatefree.work$all
 ||searchoffers.info$all
+||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||securitevpn.me$all
@@ -377,7 +378,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -416,7 +416,6 @@
 ||synccurrentmostthefile.vip$all
 ||syncgreatly-bestrenewedfile.best$all
 ||syncheavily-bestlatestfile.best$all
-||synchighly-bestfreefile.best$all
 ||synchighly-bestoriginalfile.best$all
 ||synchighly-bestrecentfile.best$all
 ||syncintensely-bestprogressivefile.best$all
@@ -438,6 +437,7 @@
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||tdstraffic.xyz$all
+||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thefitproject.club$all
@@ -462,7 +462,6 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -497,6 +496,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourbestvideoconnection.info$all
 ||yourlegendaryplaceupgrade.info$all
 ||yourlegendaryplaceupgrades.info$all

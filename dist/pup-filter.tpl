@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 29 Jul 2021 12:02:46 +0000
+# Updated: Fri, 30 Jul 2021 00:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -150,7 +150,6 @@ msFilterList
 -d healandgrow.club
 -d healtheezy.info
 -d healthemerge.info
--d healthmarlin.club
 -d healthneo.club
 -d healthomega.club
 -d healthscale.club
@@ -161,6 +160,7 @@ msFilterList
 -d healthwella.club
 -d healthylives.today
 -d healthyspirit.info
+-d heatwavereporter.org
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -251,6 +251,7 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -268,7 +269,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
 -d monitoring-credit.xyz
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -299,7 +299,6 @@ msFilterList
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
--d performprecise-thehighlyfile.best
 -d performprecise-theuberfile.best
 -d performprogressive-theintenselyfile.best
 -d performquick-thecompletelyfile.best
@@ -315,7 +314,6 @@ msFilterList
 -d playspind.xyz
 -d ppploanchoices.site
 -d preparedforsafeupgrading.work
--d primecare.today
 -d privacykeeper.net
 -d profitsurvey365.org
 -d proprotect.me
@@ -336,6 +334,7 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
+-d ritaus.org
 -d robogarden.io
 -d rootessential.info
 -d runadvanced-bestextremelyfile.best
@@ -361,7 +360,9 @@ msFilterList
 -d safest4placeupdates.info
 -d scoopswoop.info
 -d score-monitoring.xyz
+-d search4theupdatefree.work
 -d searchoffers.info
+-d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
@@ -380,7 +381,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -419,7 +419,6 @@ msFilterList
 -d synccurrentmostthefile.vip
 -d syncgreatly-bestrenewedfile.best
 -d syncheavily-bestlatestfile.best
--d synchighly-bestfreefile.best
 -d synchighly-bestoriginalfile.best
 -d synchighly-bestrecentfile.best
 -d syncintensely-bestprogressivefile.best
@@ -441,6 +440,7 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d tdstraffic.xyz
+-d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefitproject.club
@@ -465,7 +465,6 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -500,6 +499,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourbestvideoconnection.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info

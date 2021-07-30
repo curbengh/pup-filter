@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 29 Jul 2021 12:02:46 +0000
+# Updated: Fri, 30 Jul 2021 00:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -147,7 +147,6 @@ happymakesite.xyz
 healandgrow.club
 healtheezy.info
 healthemerge.info
-healthmarlin.club
 healthneo.club
 healthomega.club
 healthscale.club
@@ -158,6 +157,7 @@ healthupper.club
 healthwella.club
 healthylives.today
 healthyspirit.info
+heatwavereporter.org
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -248,6 +248,7 @@ manageuber-theswiftfile.best
 mapopts.top
 marketloans.net
 matchyourgirl.online
+mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -265,7 +266,6 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-money-hero.org
 monitoring-credit.xyz
 my-credit-score.xyz
 mynutriplan.co
@@ -296,7 +296,6 @@ performlatestoverlyapplication.icu
 performmost-thenewestfile.best
 performmost-therecentfile.best
 performoriginal-theheavilyfile.best
-performprecise-thehighlyfile.best
 performprecise-theuberfile.best
 performprogressive-theintenselyfile.best
 performquick-thecompletelyfile.best
@@ -312,7 +311,6 @@ playplanete.xyz
 playspind.xyz
 ppploanchoices.site
 preparedforsafeupgrading.work
-primecare.today
 privacykeeper.net
 profitsurvey365.org
 proprotect.me
@@ -333,6 +331,7 @@ resignation.top
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
+ritaus.org
 robogarden.io
 rootessential.info
 runadvanced-bestextremelyfile.best
@@ -358,7 +357,9 @@ safest4placeupdate.info
 safest4placeupdates.info
 scoopswoop.info
 score-monitoring.xyz
+search4theupdatefree.work
 searchoffers.info
+seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
@@ -377,7 +378,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stay-notified.cc
-stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -416,7 +416,6 @@ synccompletely-bestrecentfile.best
 synccurrentmostthefile.vip
 syncgreatly-bestrenewedfile.best
 syncheavily-bestlatestfile.best
-synchighly-bestfreefile.best
 synchighly-bestoriginalfile.best
 synchighly-bestrecentfile.best
 syncintensely-bestprogressivefile.best
@@ -438,6 +437,7 @@ syncuber-bestsophisticatedfile.best
 systemupdatit.club
 tackis.xyz
 tdstraffic.xyz
+technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thefitproject.club
@@ -462,7 +462,6 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -497,6 +496,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourbestvideoconnection.info
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info
