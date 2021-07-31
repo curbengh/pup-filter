@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 30 Jul 2021 12:03:40 +0000
+# Updated: Sat, 31 Jul 2021 00:02:56 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -62,11 +62,9 @@ msFilterList
 -d contentgate.club
 -d contentgate.fun
 -d contentgate.uno
--d cooing.top
 -d credit-monitor.xyz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
--d cryptotradingcourses.net
 -d cselfconnect.com
 -d dailymedia.casa
 -d dailymedia.cyou
@@ -83,7 +81,6 @@ msFilterList
 -d defensepro.me
 -d desixxx.cloud
 -d dollarsurvey365.online
--d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -127,7 +124,6 @@ msFilterList
 -d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -156,7 +152,6 @@ msFilterList
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
--d healthwella.club
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
@@ -164,7 +159,6 @@ msFilterList
 -d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
--d inappropriate.top
 -d incrediblebuzz.info
 -d information.casa
 -d installcompletely-theoriginalfile.best
@@ -191,9 +185,7 @@ msFilterList
 -d legendaryvideoupgrades.info
 -d legendaryvideoupgrading.info
 -d ligamedia.art
--d ligamedia.casa
 -d ligamedia.club
--d livehealthcare.today
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
@@ -268,7 +260,9 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d money-hero.org
 -d monitoring-credit.xyz
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -291,7 +285,6 @@ msFilterList
 -d performcompletely-thequickfile.best
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
--d performhighly-theprecisefile.best
 -d performintensely-thedevelopedfile.best
 -d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
@@ -303,7 +296,6 @@ msFilterList
 -d performquick-thecompletelyfile.best
 -d performrecent-themostfile.best
 -d performrefineduberapplication.icu
--d performsophisticated-thehighlyfile.best
 -d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
@@ -312,11 +304,9 @@ msFilterList
 -d playspind.xyz
 -d ppploanchoices.site
 -d preparedforsafeupgrading.work
--d privacykeeper.net
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
--d protect-connection.com
 -d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
@@ -324,6 +314,7 @@ msFilterList
 -d prtctapp.me
 -d qh97dkzy20.top
 -d quantum.work
+-d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -356,6 +347,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search4theupdatefree.work
@@ -379,6 +371,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -483,7 +476,6 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d websiteforall.work
 -d websitetoget.work
--d webtactics.ca
 -d webtip.co
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
@@ -497,7 +489,6 @@ msFilterList
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d yifymovies.cam
--d yourbestvideoconnection.info
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info
 -d yourlegendaryplaceupgrading.work

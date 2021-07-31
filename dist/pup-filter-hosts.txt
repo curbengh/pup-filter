@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 30 Jul 2021 12:03:40 +0000
+# Updated: Sat, 31 Jul 2021 00:02:56 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -59,11 +59,9 @@
 0.0.0.0 contentgate.club
 0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
-0.0.0.0 cooing.top
 0.0.0.0 credit-monitor.xyz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
-0.0.0.0 cryptotradingcourses.net
 0.0.0.0 cselfconnect.com
 0.0.0.0 dailymedia.casa
 0.0.0.0 dailymedia.cyou
@@ -80,7 +78,6 @@
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
 0.0.0.0 dollarsurvey365.online
-0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -124,7 +121,6 @@
 0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
@@ -153,7 +149,6 @@
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
-0.0.0.0 healthwella.club
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
@@ -161,7 +156,6 @@
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
-0.0.0.0 inappropriate.top
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 installcompletely-theoriginalfile.best
@@ -188,9 +182,7 @@
 0.0.0.0 legendaryvideoupgrades.info
 0.0.0.0 legendaryvideoupgrading.info
 0.0.0.0 ligamedia.art
-0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
-0.0.0.0 livehealthcare.today
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
@@ -265,7 +257,9 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -288,7 +282,6 @@
 0.0.0.0 performcompletely-thequickfile.best
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
-0.0.0.0 performhighly-theprecisefile.best
 0.0.0.0 performintensely-thedevelopedfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
 0.0.0.0 performlatestoverlyapplication.icu
@@ -300,7 +293,6 @@
 0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrecent-themostfile.best
 0.0.0.0 performrefineduberapplication.icu
-0.0.0.0 performsophisticated-thehighlyfile.best
 0.0.0.0 performspeedy-thegreatlyfile.best
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuberquickapplication.icu
@@ -309,11 +301,9 @@
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 preparedforsafeupgrading.work
-0.0.0.0 privacykeeper.net
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
-0.0.0.0 protect-connection.com
 0.0.0.0 protecttool.me
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
@@ -321,6 +311,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
+0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -353,6 +344,7 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search4theupdatefree.work
@@ -376,6 +368,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -480,7 +473,6 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 websiteforall.work
 0.0.0.0 websitetoget.work
-0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
 0.0.0.0 wellnessplum.info
 0.0.0.0 winnerbigwingiveawaysuper.cyou
@@ -494,7 +486,6 @@
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 yifymovies.cam
-0.0.0.0 yourbestvideoconnection.info
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
 0.0.0.0 yourlegendaryplaceupgrading.work

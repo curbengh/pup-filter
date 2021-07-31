@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 30 Jul 2021 12:03:40 +0000
+! Updated: Sat, 31 Jul 2021 00:02:56 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,11 +59,9 @@
 ||contentgate.club$document
 ||contentgate.fun$document
 ||contentgate.uno$document
-||cooing.top$document
 ||credit-monitor.xyz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
-||cryptotradingcourses.net$document
 ||cselfconnect.com$document
 ||dailymedia.casa$document
 ||dailymedia.cyou$document
@@ -80,7 +78,6 @@
 ||defensepro.me$document
 ||desixxx.cloud$document
 ||dollarsurvey365.online$document
-||dollarsurvey365.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -124,7 +121,6 @@
 ||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||getbril.io$document
 ||getmoregirls.net$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
@@ -153,7 +149,6 @@
 ||healthsupreme.club$document
 ||healthtag.club$document
 ||healthupper.club$document
-||healthwella.club$document
 ||healthylives.today$document
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
@@ -161,7 +156,6 @@
 ||hypezen.info$document
 ||ientsillness.fun$document
 ||imagefind.org$document
-||inappropriate.top$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||installcompletely-theoriginalfile.best$document
@@ -188,9 +182,7 @@
 ||legendaryvideoupgrades.info$document
 ||legendaryvideoupgrading.info$document
 ||ligamedia.art$document
-||ligamedia.casa$document
 ||ligamedia.club$document
-||livehealthcare.today$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
@@ -265,7 +257,9 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
+||money-hero.org$document
 ||monitoring-credit.xyz$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -288,7 +282,6 @@
 ||performcompletely-thequickfile.best$document
 ||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
-||performhighly-theprecisefile.best$document
 ||performintensely-thedevelopedfile.best$document
 ||performlatest-thecompletelyfile.best$document
 ||performlatestoverlyapplication.icu$document
@@ -300,7 +293,6 @@
 ||performquick-thecompletelyfile.best$document
 ||performrecent-themostfile.best$document
 ||performrefineduberapplication.icu$document
-||performsophisticated-thehighlyfile.best$document
 ||performspeedy-thegreatlyfile.best$document
 ||performstrong-thegreatlyfile.digital$document
 ||performuberquickapplication.icu$document
@@ -309,11 +301,9 @@
 ||playspind.xyz$document
 ||ppploanchoices.site$document
 ||preparedforsafeupgrading.work$document
-||privacykeeper.net$document
 ||profitsurvey365.org$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
-||protect-connection.com$document
 ||protecttool.me$document
 ||provpn.me$document
 ||provpnsecurity.me$document
@@ -321,6 +311,7 @@
 ||prtctapp.me$document
 ||qh97dkzy20.top$document
 ||quantum.work$document
+||quatrefeuillepolonaise.xyz$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -353,6 +344,7 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search4theupdatefree.work$document
@@ -376,6 +368,7 @@
 ||start-page.one$document
 ||startos.win$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -480,7 +473,6 @@
 ||watchrefined-bestextremelyfile.best$document
 ||websiteforall.work$document
 ||websitetoget.work$document
-||webtactics.ca$document
 ||webtip.co$document
 ||wellnessplum.info$document
 ||winnerbigwingiveawaysuper.cyou$document
@@ -494,7 +486,6 @@
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||yifymovies.cam$document
-||yourbestvideoconnection.info$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document
 ||yourlegendaryplaceupgrading.work$document
