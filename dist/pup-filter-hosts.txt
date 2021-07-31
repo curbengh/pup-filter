@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 31 Jul 2021 00:02:56 +0000
+# Updated: Sat, 31 Jul 2021 12:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -321,7 +321,6 @@
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
-0.0.0.0 robogarden.io
 0.0.0.0 rootessential.info
 0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
@@ -369,6 +368,7 @@
 0.0.0.0 startos.win
 0.0.0.0 stay-notified.cc
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
