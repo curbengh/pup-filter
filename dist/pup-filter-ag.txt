@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 01 Aug 2021 00:03:30 +0000
+! Updated: Sun, 01 Aug 2021 12:02:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 ||123news.website$all
 ||2kddbl.club$all
 ||4upgradingstablesafe.work$all
-||adslauchgo.xyz$all
 ||altcasino.info$all
 ||amobil.online$all
 ||apptool.me$all
@@ -269,7 +268,6 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
 ||performcompletely-thelatestfile.best$all
 ||performcompletely-thequickfile.best$all
@@ -340,6 +338,7 @@
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search4theupdatefree.work$all
+||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchoffers.info$all
 ||seasoned.co$all
@@ -353,13 +352,11 @@
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
-||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
 ||stay-notified.cc$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

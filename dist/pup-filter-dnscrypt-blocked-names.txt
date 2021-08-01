@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 01 Aug 2021 00:03:30 +0000
+# Updated: Sun, 01 Aug 2021 12:02:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 123news.website
 2kddbl.club
 4upgradingstablesafe.work
-adslauchgo.xyz
 altcasino.info
 amobil.online
 apptool.me
@@ -269,7 +268,6 @@ onlinecinema.eu
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
-ouldthepat.fun
 pcsecurity-live.xyz
 performcompletely-thelatestfile.best
 performcompletely-thequickfile.best
@@ -340,6 +338,7 @@ savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search4theupdatefree.work
+search4theupgradeset.info
 search4upgradingset.info
 searchoffers.info
 seasoned.co
@@ -353,13 +352,11 @@ service-care.space
 settothereliableupgradingnew.work
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
-sorrectionki.space
 spotmapd.xyz
 springplanetf.xyz
 start-page.one
 startos.win
 stay-notified.cc
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
