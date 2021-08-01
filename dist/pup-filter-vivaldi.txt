@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 31 Jul 2021 12:03:04 +0000
+! Updated: Sun, 01 Aug 2021 00:03:30 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,8 +20,6 @@
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
-||betterfreedownloadplayer.info$document
-||betterfreedownloadplayers.info$document
 ||bigcbd.info$document
 ||bigdaycasino.info$document
 ||bigwin-online-free-congrats.cyou$document
@@ -78,6 +76,7 @@
 ||defensepro.me$document
 ||desixxx.cloud$document
 ||dollarsurvey365.online$document
+||dollarsurvey365.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -99,7 +98,6 @@
 ||findyourultimateplayersfirst.best$document
 ||fisudauh.top$document
 ||fithealthspark.info$document
-||fithealthspot.club$document
 ||fitnessdial.club$document
 ||flash-rewards.info$document
 ||flatbellylife.info$document
@@ -112,7 +110,6 @@
 ||flymedia.uno$document
 ||free-gifts.net$document
 ||freenationalsuperworldwide.cyou$document
-||freeperfectupgrade.work$document
 ||freeperfectupgrading.work$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
@@ -121,6 +118,7 @@
 ||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
@@ -178,10 +176,8 @@
 ||legendaryplaceupgrading.info$document
 ||legendaryplayerupdates.work$document
 ||legendarysiteupgrading.work$document
-||legendaryvideoupgrade.info$document
-||legendaryvideoupgrades.info$document
-||legendaryvideoupgrading.info$document
 ||ligamedia.art$document
+||ligamedia.casa$document
 ||ligamedia.club$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
@@ -228,8 +224,6 @@
 ||lubbockeda.org$document
 ||luckymedia.casa$document
 ||luckymedia.cyou$document
-||luckymedia.fun$document
-||luckymedia.space$document
 ||luckymedia.website$document
 ||managestrong-theuberfile.best$document
 ||manageuber-thenewestfile.best$document
@@ -239,7 +233,6 @@
 ||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -347,12 +340,12 @@
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search4theupdatefree.work$document
+||search4upgradingset.info$document
 ||searchoffers.info$document
 ||seasoned.co$document
 ||sec-alert.xyz$document
 ||sec-alerts.xyz$document
 ||securitevpn.me$document
-||security-made-easy.xyz$document
 ||securityvpnpro.me$document
 ||seemlast.monster$document
 ||sergey-tracks.xyz$document
@@ -360,14 +353,12 @@
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
-||smartys.link$document
 ||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
 ||stay-notified.cc$document
-||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -472,7 +463,7 @@
 ||watchquick-bestheavilyfile.best$document
 ||watchrefined-bestextremelyfile.best$document
 ||websiteforall.work$document
-||websitetoget.work$document
+||webtactics.ca$document
 ||webtip.co$document
 ||wellnessplum.info$document
 ||winnerbigwingiveawaysuper.cyou$document
@@ -485,15 +476,12 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrade.info$document
 ||yourlegendaryplaceupgrades.info$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendaryplayerupdate.work$document
 ||yourlegendaryplayerupdating.work$document
 ||yourlegendarysystemsupgrade.work$document
-||yourlegendaryvideoupgrades.info$document
-||yourlegendaryvideoupgrading.info$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document

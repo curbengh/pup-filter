@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 31 Jul 2021 12:03:04 +0000
+! Updated: Sun, 01 Aug 2021 00:03:30 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,8 +20,6 @@ atwater.org
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
-betterfreedownloadplayer.info
-betterfreedownloadplayers.info
 bigcbd.info
 bigdaycasino.info
 bigwin-online-free-congrats.cyou
@@ -78,6 +76,7 @@ dealmedia.xyz
 defensepro.me
 desixxx.cloud
 dollarsurvey365.online
+dollarsurvey365.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -99,7 +98,6 @@ findperfectplaces4download.work
 findyourultimateplayersfirst.best
 fisudauh.top
 fithealthspark.info
-fithealthspot.club
 fitnessdial.club
 flash-rewards.info
 flatbellylife.info
@@ -112,7 +110,6 @@ flymedia.online
 flymedia.uno
 free-gifts.net
 freenationalsuperworldwide.cyou
-freeperfectupgrade.work
 freeperfectupgrading.work
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
@@ -121,6 +118,7 @@ funsiteb.xyz
 fwsxqc.cn
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
 girlsnearyou.online
 gladmstreet.xyz
@@ -178,10 +176,8 @@ legendaryplaceupgrades.info
 legendaryplaceupgrading.info
 legendaryplayerupdates.work
 legendarysiteupgrading.work
-legendaryvideoupgrade.info
-legendaryvideoupgrades.info
-legendaryvideoupgrading.info
 ligamedia.art
+ligamedia.casa
 ligamedia.club
 livingmighty.club
 loadadvancedextremelythefile.vip
@@ -228,8 +224,6 @@ loveorfun.cc
 lubbockeda.org
 luckymedia.casa
 luckymedia.cyou
-luckymedia.fun
-luckymedia.space
 luckymedia.website
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
@@ -239,7 +233,6 @@ manageuber-theswiftfile.best
 mapopts.top
 marketloans.net
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -347,12 +340,12 @@ savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search4theupdatefree.work
+search4upgradingset.info
 searchoffers.info
 seasoned.co
 sec-alert.xyz
 sec-alerts.xyz
 securitevpn.me
-security-made-easy.xyz
 securityvpnpro.me
 seemlast.monster
 sergey-tracks.xyz
@@ -360,14 +353,12 @@ service-care.space
 settothereliableupgradingnew.work
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
-smartys.link
 sorrectionki.space
 spotmapd.xyz
 springplanetf.xyz
 start-page.one
 startos.win
 stay-notified.cc
-stickr.co
 stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -472,7 +463,7 @@ watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 websiteforall.work
-websitetoget.work
+webtactics.ca
 webtip.co
 wellnessplum.info
 winnerbigwingiveawaysuper.cyou
@@ -485,15 +476,12 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrade.info
 yourlegendaryplaceupgrades.info
 yourlegendaryplaceupgrading.work
 yourlegendaryplayerupdate.work
 yourlegendaryplayerupdating.work
 yourlegendarysystemsupgrade.work
-yourlegendaryvideoupgrades.info
-yourlegendaryvideoupgrading.info
 yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 31 Jul 2021 12:03:04 +0000
+# Updated: Sun, 01 Aug 2021 00:03:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,8 +23,6 @@ msFilterList
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
--d betterfreedownloadplayer.info
--d betterfreedownloadplayers.info
 -d bigcbd.info
 -d bigdaycasino.info
 -d bigwin-online-free-congrats.cyou
@@ -81,6 +79,7 @@ msFilterList
 -d defensepro.me
 -d desixxx.cloud
 -d dollarsurvey365.online
+-d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -102,7 +101,6 @@ msFilterList
 -d findyourultimateplayersfirst.best
 -d fisudauh.top
 -d fithealthspark.info
--d fithealthspot.club
 -d fitnessdial.club
 -d flash-rewards.info
 -d flatbellylife.info
@@ -115,7 +113,6 @@ msFilterList
 -d flymedia.uno
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
--d freeperfectupgrade.work
 -d freeperfectupgrading.work
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
@@ -124,6 +121,7 @@ msFilterList
 -d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -181,10 +179,8 @@ msFilterList
 -d legendaryplaceupgrading.info
 -d legendaryplayerupdates.work
 -d legendarysiteupgrading.work
--d legendaryvideoupgrade.info
--d legendaryvideoupgrades.info
--d legendaryvideoupgrading.info
 -d ligamedia.art
+-d ligamedia.casa
 -d ligamedia.club
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
@@ -231,8 +227,6 @@ msFilterList
 -d lubbockeda.org
 -d luckymedia.casa
 -d luckymedia.cyou
--d luckymedia.fun
--d luckymedia.space
 -d luckymedia.website
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
@@ -242,7 +236,6 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -350,12 +343,12 @@ msFilterList
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search4theupdatefree.work
+-d search4upgradingset.info
 -d searchoffers.info
 -d seasoned.co
 -d sec-alert.xyz
 -d sec-alerts.xyz
 -d securitevpn.me
--d security-made-easy.xyz
 -d securityvpnpro.me
 -d seemlast.monster
 -d sergey-tracks.xyz
@@ -363,14 +356,12 @@ msFilterList
 -d settothereliableupgradingnew.work
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
--d smartys.link
 -d sorrectionki.space
 -d spotmapd.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
 -d stay-notified.cc
--d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -475,7 +466,7 @@ msFilterList
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
 -d websiteforall.work
--d websitetoget.work
+-d webtactics.ca
 -d webtip.co
 -d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
@@ -488,15 +479,12 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrade.info
 -d yourlegendaryplaceupgrades.info
 -d yourlegendaryplaceupgrading.work
 -d yourlegendaryplayerupdate.work
 -d yourlegendaryplayerupdating.work
 -d yourlegendarysystemsupgrade.work
--d yourlegendaryvideoupgrades.info
--d yourlegendaryvideoupgrading.info
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
 -d yourmoneymachine.cc

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 31 Jul 2021 12:03:04 +0000
+! Updated: Sun, 01 Aug 2021 00:03:30 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,8 +20,6 @@
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
-||betterfreedownloadplayer.info$all
-||betterfreedownloadplayers.info$all
 ||bigcbd.info$all
 ||bigdaycasino.info$all
 ||bigwin-online-free-congrats.cyou$all
@@ -78,6 +76,7 @@
 ||defensepro.me$all
 ||desixxx.cloud$all
 ||dollarsurvey365.online$all
+||dollarsurvey365.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -99,7 +98,6 @@
 ||findyourultimateplayersfirst.best$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
-||fithealthspot.club$all
 ||fitnessdial.club$all
 ||flash-rewards.info$all
 ||flatbellylife.info$all
@@ -112,7 +110,6 @@
 ||flymedia.uno$all
 ||free-gifts.net$all
 ||freenationalsuperworldwide.cyou$all
-||freeperfectupgrade.work$all
 ||freeperfectupgrading.work$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
@@ -121,6 +118,7 @@
 ||fwsxqc.cn$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
@@ -178,10 +176,8 @@
 ||legendaryplaceupgrading.info$all
 ||legendaryplayerupdates.work$all
 ||legendarysiteupgrading.work$all
-||legendaryvideoupgrade.info$all
-||legendaryvideoupgrades.info$all
-||legendaryvideoupgrading.info$all
 ||ligamedia.art$all
+||ligamedia.casa$all
 ||ligamedia.club$all
 ||livingmighty.club$all
 ||loadadvancedextremelythefile.vip$all
@@ -228,8 +224,6 @@
 ||lubbockeda.org$all
 ||luckymedia.casa$all
 ||luckymedia.cyou$all
-||luckymedia.fun$all
-||luckymedia.space$all
 ||luckymedia.website$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
@@ -239,7 +233,6 @@
 ||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -347,12 +340,12 @@
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search4theupdatefree.work$all
+||search4upgradingset.info$all
 ||searchoffers.info$all
 ||seasoned.co$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
 ||securitevpn.me$all
-||security-made-easy.xyz$all
 ||securityvpnpro.me$all
 ||seemlast.monster$all
 ||sergey-tracks.xyz$all
@@ -360,14 +353,12 @@
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
-||smartys.link$all
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
 ||stay-notified.cc$all
-||stickr.co$all
 ||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
@@ -472,7 +463,7 @@
 ||watchquick-bestheavilyfile.best$all
 ||watchrefined-bestextremelyfile.best$all
 ||websiteforall.work$all
-||websitetoget.work$all
+||webtactics.ca$all
 ||webtip.co$all
 ||wellnessplum.info$all
 ||winnerbigwingiveawaysuper.cyou$all
@@ -485,15 +476,12 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrade.info$all
 ||yourlegendaryplaceupgrades.info$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendaryplayerupdate.work$all
 ||yourlegendaryplayerupdating.work$all
 ||yourlegendarysystemsupgrade.work$all
-||yourlegendaryvideoupgrades.info$all
-||yourlegendaryvideoupgrading.info$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all

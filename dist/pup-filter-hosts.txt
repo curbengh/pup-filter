@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 31 Jul 2021 12:03:04 +0000
+# Updated: Sun, 01 Aug 2021 00:03:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,8 +20,6 @@
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
-0.0.0.0 betterfreedownloadplayer.info
-0.0.0.0 betterfreedownloadplayers.info
 0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
 0.0.0.0 bigwin-online-free-congrats.cyou
@@ -78,6 +76,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
 0.0.0.0 dollarsurvey365.online
+0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -99,7 +98,6 @@
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
-0.0.0.0 fithealthspot.club
 0.0.0.0 fitnessdial.club
 0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
@@ -112,7 +110,6 @@
 0.0.0.0 flymedia.uno
 0.0.0.0 free-gifts.net
 0.0.0.0 freenationalsuperworldwide.cyou
-0.0.0.0 freeperfectupgrade.work
 0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
@@ -121,6 +118,7 @@
 0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
@@ -178,10 +176,8 @@
 0.0.0.0 legendaryplaceupgrading.info
 0.0.0.0 legendaryplayerupdates.work
 0.0.0.0 legendarysiteupgrading.work
-0.0.0.0 legendaryvideoupgrade.info
-0.0.0.0 legendaryvideoupgrades.info
-0.0.0.0 legendaryvideoupgrading.info
 0.0.0.0 ligamedia.art
+0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
@@ -228,8 +224,6 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 luckymedia.casa
 0.0.0.0 luckymedia.cyou
-0.0.0.0 luckymedia.fun
-0.0.0.0 luckymedia.space
 0.0.0.0 luckymedia.website
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
@@ -239,7 +233,6 @@
 0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -347,12 +340,12 @@
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search4theupdatefree.work
+0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
 0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
-0.0.0.0 security-made-easy.xyz
 0.0.0.0 securityvpnpro.me
 0.0.0.0 seemlast.monster
 0.0.0.0 sergey-tracks.xyz
@@ -360,14 +353,12 @@
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
-0.0.0.0 smartys.link
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stay-notified.cc
-0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
@@ -472,7 +463,7 @@
 0.0.0.0 watchquick-bestheavilyfile.best
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 websiteforall.work
-0.0.0.0 websitetoget.work
+0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
 0.0.0.0 wellnessplum.info
 0.0.0.0 winnerbigwingiveawaysuper.cyou
@@ -485,15 +476,12 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrade.info
 0.0.0.0 yourlegendaryplaceupgrades.info
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendaryplayerupdate.work
 0.0.0.0 yourlegendaryplayerupdating.work
 0.0.0.0 yourlegendarysystemsupgrade.work
-0.0.0.0 yourlegendaryvideoupgrades.info
-0.0.0.0 yourlegendaryvideoupgrading.info
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
