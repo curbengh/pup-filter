@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 01 Aug 2021 12:02:33 +0000
+! Updated: Mon, 02 Aug 2021 00:03:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -89,7 +89,7 @@
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
 ||fastwebe.xyz$all
-||financial-deals.xyz$all
+||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
@@ -119,6 +119,7 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -172,9 +173,7 @@
 ||ktpyzw.vip$all
 ||legendaryplaceupgrade.info$all
 ||legendaryplaceupgrades.info$all
-||legendaryplaceupgrading.info$all
 ||legendaryplayerupdates.work$all
-||legendarysiteupgrading.work$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -273,14 +272,12 @@
 ||performcompletely-thequickfile.best$all
 ||performgreatly-thespeedyfile.best$all
 ||performheavily-theoriginalfile.best$all
-||performintensely-thedevelopedfile.best$all
 ||performlatest-thecompletelyfile.best$all
 ||performlatestoverlyapplication.icu$all
 ||performmost-thenewestfile.best$all
 ||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
-||performprogressive-theintenselyfile.best$all
 ||performquick-thecompletelyfile.best$all
 ||performrecent-themostfile.best$all
 ||performrefineduberapplication.icu$all
@@ -306,7 +303,6 @@
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
-||reliablesoftwarevideos.info$all
 ||resignation.top$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -337,9 +333,9 @@
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
+||search-tool.net$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
-||search4upgradingset.info$all
 ||searchoffers.info$all
 ||seasoned.co$all
 ||sec-alert.xyz$all
@@ -357,6 +353,7 @@
 ||start-page.one$all
 ||startos.win$all
 ||stay-notified.cc$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -441,6 +438,7 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -473,8 +471,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yourlegendaryplaceupgrade.info$all
-||yourlegendaryplaceupgrades.info$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendaryplayerupdate.work$all
 ||yourlegendaryplayerupdating.work$all
@@ -483,9 +480,7 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||yoursafesystemsupdating.work$all
 ||yourstablegreatupdate.work$all
 ||yourstablegreatupdates.work$all
 ||yourtechplaceforupgrades.info$all
-||yourultimateperfectupgrades.work$all
 ||youthewinner.net$all

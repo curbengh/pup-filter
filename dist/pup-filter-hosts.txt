@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 01 Aug 2021 12:02:33 +0000
+# Updated: Mon, 02 Aug 2021 00:03:58 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -89,7 +89,7 @@
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
 0.0.0.0 fastwebe.xyz
-0.0.0.0 financial-deals.xyz
+0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
@@ -119,6 +119,7 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -172,9 +173,7 @@
 0.0.0.0 ktpyzw.vip
 0.0.0.0 legendaryplaceupgrade.info
 0.0.0.0 legendaryplaceupgrades.info
-0.0.0.0 legendaryplaceupgrading.info
 0.0.0.0 legendaryplayerupdates.work
-0.0.0.0 legendarysiteupgrading.work
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
@@ -273,14 +272,12 @@
 0.0.0.0 performcompletely-thequickfile.best
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
-0.0.0.0 performintensely-thedevelopedfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
 0.0.0.0 performprecise-theuberfile.best
-0.0.0.0 performprogressive-theintenselyfile.best
 0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrecent-themostfile.best
 0.0.0.0 performrefineduberapplication.icu
@@ -306,7 +303,6 @@
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
-0.0.0.0 reliablesoftwarevideos.info
 0.0.0.0 resignation.top
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
@@ -337,9 +333,9 @@
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
+0.0.0.0 search-tool.net
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
-0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
 0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
@@ -357,6 +353,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stay-notified.cc
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -441,6 +438,7 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -473,8 +471,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yourlegendaryplaceupgrade.info
-0.0.0.0 yourlegendaryplaceupgrades.info
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendaryplayerupdate.work
 0.0.0.0 yourlegendaryplayerupdating.work
@@ -483,9 +480,7 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 yoursafesystemsupdating.work
 0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work
 0.0.0.0 yourtechplaceforupgrades.info
-0.0.0.0 yourultimateperfectupgrades.work
 0.0.0.0 youthewinner.net

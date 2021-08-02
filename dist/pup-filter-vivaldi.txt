@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 01 Aug 2021 12:02:33 +0000
+! Updated: Mon, 02 Aug 2021 00:03:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -89,7 +89,7 @@
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
 ||fastwebe.xyz$document
-||financial-deals.xyz$document
+||findaupgradingurls.work$document
 ||finditquick.online$document
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
@@ -119,6 +119,7 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -172,9 +173,7 @@
 ||ktpyzw.vip$document
 ||legendaryplaceupgrade.info$document
 ||legendaryplaceupgrades.info$document
-||legendaryplaceupgrading.info$document
 ||legendaryplayerupdates.work$document
-||legendarysiteupgrading.work$document
 ||ligamedia.art$document
 ||ligamedia.casa$document
 ||ligamedia.club$document
@@ -273,14 +272,12 @@
 ||performcompletely-thequickfile.best$document
 ||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
-||performintensely-thedevelopedfile.best$document
 ||performlatest-thecompletelyfile.best$document
 ||performlatestoverlyapplication.icu$document
 ||performmost-thenewestfile.best$document
 ||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
-||performprogressive-theintenselyfile.best$document
 ||performquick-thecompletelyfile.best$document
 ||performrecent-themostfile.best$document
 ||performrefineduberapplication.icu$document
@@ -306,7 +303,6 @@
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
-||reliablesoftwarevideos.info$document
 ||resignation.top$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
@@ -337,9 +333,9 @@
 ||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
+||search-tool.net$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
-||search4upgradingset.info$document
 ||searchoffers.info$document
 ||seasoned.co$document
 ||sec-alert.xyz$document
@@ -357,6 +353,7 @@
 ||start-page.one$document
 ||startos.win$document
 ||stay-notified.cc$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -441,6 +438,7 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -473,8 +471,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yourlegendaryplaceupgrade.info$document
-||yourlegendaryplaceupgrades.info$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendaryplayerupdate.work$document
 ||yourlegendaryplayerupdating.work$document
@@ -483,9 +480,7 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||yoursafesystemsupdating.work$document
 ||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document
 ||yourtechplaceforupgrades.info$document
-||yourultimateperfectupgrades.work$document
 ||youthewinner.net$document

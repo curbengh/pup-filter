@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 01 Aug 2021 12:02:33 +0000
+# Updated: Mon, 02 Aug 2021 00:03:58 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -92,7 +92,7 @@ msFilterList
 -d fastspotb.xyz
 -d fastwebb.xyz
 -d fastwebe.xyz
--d financial-deals.xyz
+-d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
 -d findperfectplaces2download.work
@@ -122,6 +122,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -175,9 +176,7 @@ msFilterList
 -d ktpyzw.vip
 -d legendaryplaceupgrade.info
 -d legendaryplaceupgrades.info
--d legendaryplaceupgrading.info
 -d legendaryplayerupdates.work
--d legendarysiteupgrading.work
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -276,14 +275,12 @@ msFilterList
 -d performcompletely-thequickfile.best
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
--d performintensely-thedevelopedfile.best
 -d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
 -d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
--d performprogressive-theintenselyfile.best
 -d performquick-thecompletelyfile.best
 -d performrecent-themostfile.best
 -d performrefineduberapplication.icu
@@ -309,7 +306,6 @@ msFilterList
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
--d reliablesoftwarevideos.info
 -d resignation.top
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
@@ -340,9 +336,9 @@ msFilterList
 -d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
+-d search-tool.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
--d search4upgradingset.info
 -d searchoffers.info
 -d seasoned.co
 -d sec-alert.xyz
@@ -360,6 +356,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stay-notified.cc
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -444,6 +441,7 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -476,8 +474,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yourlegendaryplaceupgrade.info
--d yourlegendaryplaceupgrades.info
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendaryplayerupdate.work
 -d yourlegendaryplayerupdating.work
@@ -486,9 +483,7 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d yoursafesystemsupdating.work
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
 -d yourtechplaceforupgrades.info
--d yourultimateperfectupgrades.work
 -d youthewinner.net
