@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 02 Aug 2021 00:03:58 +0000
+! Updated: Mon, 02 Aug 2021 12:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@
 ||armorprovpn.me^
 ||ashtdi.cn^
 ||asufij.xyz^
-||atprofessor.fun^
 ||atwater.org^
 ||beinspired.global^
 ||bestappland.me^
@@ -73,6 +72,7 @@
 ||dealmedia.website^
 ||dealmedia.xyz^
 ||defensepro.me^
+||delightcmain.xyz^
 ||desixxx.cloud^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
@@ -152,7 +152,6 @@
 ||heatwavereporter.org^
 ||httqzq.vip^
 ||hypezen.info^
-||ientsillness.fun^
 ||imagefind.org^
 ||incrediblebuzz.info^
 ||information.casa^
@@ -337,7 +336,6 @@
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||searchoffers.info^
-||seasoned.co^
 ||sec-alert.xyz^
 ||sec-alerts.xyz^
 ||securitevpn.me^
