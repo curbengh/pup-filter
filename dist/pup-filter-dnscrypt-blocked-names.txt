@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 02 Aug 2021 12:03:04 +0000
+# Updated: Tue, 03 Aug 2021 00:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -130,6 +130,7 @@ goalmedia.bar
 goalmedia.cam
 goalmedia.club
 goalmedia.monster
+gonesteeldouble.top
 googsistem.live
 graburprize.net
 gramp.xyz
@@ -147,7 +148,6 @@ healthschedule.club
 healthsupreme.club
 healthtag.club
 healthupper.club
-healthylives.today
 healthyspirit.info
 heatwavereporter.org
 httqzq.vip
@@ -156,6 +156,7 @@ imagefind.org
 incrediblebuzz.info
 information.casa
 installcompletely-theoriginalfile.best
+investinfo.net
 iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
@@ -167,12 +168,10 @@ jtkszl.vip
 junemedia.bar
 junemedia.club
 junemedia.xyz
+junesmile.xyz
 kad3md.cn
 keepithealthy.info
 ktpyzw.vip
-legendaryplaceupgrade.info
-legendaryplaceupgrades.info
-legendaryplayerupdates.work
 ligamedia.art
 ligamedia.casa
 ligamedia.club
@@ -230,6 +229,7 @@ manageuber-theswiftfile.best
 mapopts.top
 marketloans.net
 matchyourgirl.online
+mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -288,6 +288,7 @@ playplanete.xyz
 playspind.xyz
 ppploanchoices.site
 preparedforsafeupgrading.work
+prize-messsages.casa
 profitsurvey365.org
 proprotect.me
 prosecurityvpn.me
@@ -298,7 +299,6 @@ provpnservice.me
 prtctapp.me
 qh97dkzy20.top
 quantum.work
-quatrefeuillepolonaise.xyz
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -335,6 +335,7 @@ score-monitoring.xyz
 search-tool.net
 search4theupdatefree.work
 search4theupgradeset.info
+search4upgradingset.info
 searchoffers.info
 sec-alert.xyz
 sec-alerts.xyz
@@ -347,6 +348,7 @@ settothereliableupgradingnew.work
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 spotmapd.xyz
+spotmapf.xyz
 springplanetf.xyz
 start-page.one
 startos.win
@@ -358,7 +360,6 @@ streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
-streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -418,7 +419,6 @@ thefitproject.club
 thehealthcycle.club
 thehotshot.info
 thenewjourney.info
-thesafestplayerlinks.work
 thesafestreliablelink.work
 theslotomania.info
 thestablealwayssafeupdates.work
@@ -428,7 +428,6 @@ toolvpn.me
 toovolution.club
 track4ast.icu
 tracking-landers.xyz
-trafficbounce.net
 trafficgate.cc
 trafficmind.pro
 trane.fun
@@ -436,7 +435,6 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -471,8 +469,6 @@ worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
 yifymovies.cam
 yourlegendaryplaceupgrading.work
-yourlegendaryplayerupdate.work
-yourlegendaryplayerupdating.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
 yourluckytoday.club

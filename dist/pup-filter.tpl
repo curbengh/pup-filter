@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 02 Aug 2021 12:03:04 +0000
+# Updated: Tue, 03 Aug 2021 00:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -133,6 +133,7 @@ msFilterList
 -d goalmedia.cam
 -d goalmedia.club
 -d goalmedia.monster
+-d gonesteeldouble.top
 -d googsistem.live
 -d graburprize.net
 -d gramp.xyz
@@ -150,7 +151,6 @@ msFilterList
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
--d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
 -d httqzq.vip
@@ -159,6 +159,7 @@ msFilterList
 -d incrediblebuzz.info
 -d information.casa
 -d installcompletely-theoriginalfile.best
+-d investinfo.net
 -d iosdfnc.com
 -d iosrecommendedvpn.com
 -d ironprovpn.me
@@ -170,12 +171,10 @@ msFilterList
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
+-d junesmile.xyz
 -d kad3md.cn
 -d keepithealthy.info
 -d ktpyzw.vip
--d legendaryplaceupgrade.info
--d legendaryplaceupgrades.info
--d legendaryplayerupdates.work
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -233,6 +232,7 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -291,6 +291,7 @@ msFilterList
 -d playspind.xyz
 -d ppploanchoices.site
 -d preparedforsafeupgrading.work
+-d prize-messsages.casa
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
@@ -301,7 +302,6 @@ msFilterList
 -d prtctapp.me
 -d qh97dkzy20.top
 -d quantum.work
--d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -338,6 +338,7 @@ msFilterList
 -d search-tool.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
+-d search4upgradingset.info
 -d searchoffers.info
 -d sec-alert.xyz
 -d sec-alerts.xyz
@@ -350,6 +351,7 @@ msFilterList
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d spotmapd.xyz
+-d spotmapf.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
@@ -361,7 +363,6 @@ msFilterList
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
--d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -421,7 +422,6 @@ msFilterList
 -d thehealthcycle.club
 -d thehotshot.info
 -d thenewjourney.info
--d thesafestplayerlinks.work
 -d thesafestreliablelink.work
 -d theslotomania.info
 -d thestablealwayssafeupdates.work
@@ -431,7 +431,6 @@ msFilterList
 -d toovolution.club
 -d track4ast.icu
 -d tracking-landers.xyz
--d trafficbounce.net
 -d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
@@ -439,7 +438,6 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -474,8 +472,6 @@ msFilterList
 -d worldwideprizegiveawayfree.cyou
 -d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
--d yourlegendaryplayerupdate.work
--d yourlegendaryplayerupdating.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club

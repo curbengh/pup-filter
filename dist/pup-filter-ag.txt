@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 02 Aug 2021 12:03:04 +0000
+! Updated: Tue, 03 Aug 2021 00:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -130,6 +130,7 @@
 ||goalmedia.cam$all
 ||goalmedia.club$all
 ||goalmedia.monster$all
+||gonesteeldouble.top$all
 ||googsistem.live$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -147,7 +148,6 @@
 ||healthsupreme.club$all
 ||healthtag.club$all
 ||healthupper.club$all
-||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||httqzq.vip$all
@@ -156,6 +156,7 @@
 ||incrediblebuzz.info$all
 ||information.casa$all
 ||installcompletely-theoriginalfile.best$all
+||investinfo.net$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
@@ -167,12 +168,10 @@
 ||junemedia.bar$all
 ||junemedia.club$all
 ||junemedia.xyz$all
+||junesmile.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
 ||ktpyzw.vip$all
-||legendaryplaceupgrade.info$all
-||legendaryplaceupgrades.info$all
-||legendaryplayerupdates.work$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -230,6 +229,7 @@
 ||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -288,6 +288,7 @@
 ||playspind.xyz$all
 ||ppploanchoices.site$all
 ||preparedforsafeupgrading.work$all
+||prize-messsages.casa$all
 ||profitsurvey365.org$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -298,7 +299,6 @@
 ||prtctapp.me$all
 ||qh97dkzy20.top$all
 ||quantum.work$all
-||quatrefeuillepolonaise.xyz$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -335,6 +335,7 @@
 ||search-tool.net$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
+||search4upgradingset.info$all
 ||searchoffers.info$all
 ||sec-alert.xyz$all
 ||sec-alerts.xyz$all
@@ -347,6 +348,7 @@
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||spotmapd.xyz$all
+||spotmapf.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
@@ -358,7 +360,6 @@
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
-||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -418,7 +419,6 @@
 ||thehealthcycle.club$all
 ||thehotshot.info$all
 ||thenewjourney.info$all
-||thesafestplayerlinks.work$all
 ||thesafestreliablelink.work$all
 ||theslotomania.info$all
 ||thestablealwayssafeupdates.work$all
@@ -428,7 +428,6 @@
 ||toovolution.club$all
 ||track4ast.icu$all
 ||tracking-landers.xyz$all
-||trafficbounce.net$all
 ||trafficgate.cc$all
 ||trafficmind.pro$all
 ||trane.fun$all
@@ -436,7 +435,6 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -471,8 +469,6 @@
 ||worldwideprizegiveawayfree.cyou$all
 ||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
-||yourlegendaryplayerupdate.work$all
-||yourlegendaryplayerupdating.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
