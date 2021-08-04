@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 04 Aug 2021 00:03:36 +0000
+# Updated: Wed, 04 Aug 2021 12:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,12 +9,14 @@
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
+0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
@@ -154,6 +156,7 @@
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
+0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 installcompletely-theoriginalfile.best
@@ -350,7 +353,6 @@
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
-0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 springplanetf.xyz
