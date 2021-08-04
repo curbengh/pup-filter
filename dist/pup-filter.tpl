@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 03 Aug 2021 12:03:02 +0000
+# Updated: Wed, 04 Aug 2021 00:03:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -71,7 +71,6 @@ msFilterList
 -d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
--d darkview.org
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -123,7 +122,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -134,7 +132,6 @@ msFilterList
 -d goalmedia.cam
 -d goalmedia.club
 -d goalmedia.monster
--d gonesteeldouble.top
 -d googsistem.live
 -d graburprize.net
 -d gramp.xyz
@@ -152,8 +149,10 @@ msFilterList
 -d healthsupreme.club
 -d healthtag.club
 -d healthupper.club
+-d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
+-d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -222,7 +221,6 @@ msFilterList
 -d locationtracker.services
 -d louisvillegigs.net
 -d loveorfun.cc
--d lubbockeda.org
 -d luckymedia.casa
 -d luckymedia.cyou
 -d luckymedia.website
@@ -248,6 +246,7 @@ msFilterList
 -d medjournalketo.info
 -d medsjournal.info
 -d meeryslotspin.xyz
+-d melanthios-ana.com
 -d mindbank.ai
 -d mindmatch.ai
 -d mistraffic.me
@@ -279,7 +278,6 @@ msFilterList
 -d performheavily-theoriginalfile.best
 -d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
--d performmost-thenewestfile.best
 -d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
@@ -305,7 +303,9 @@ msFilterList
 -d prtctapp.me
 -d qh97dkzy20.top
 -d quantum.work
+-d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
+-d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d resignation.top
@@ -345,7 +345,6 @@ msFilterList
 -d search4upgradingset.info
 -d searchoffers.info
 -d sec-alert.xyz
--d sec-alerts.xyz
 -d securitevpn.me
 -d securityvpnpro.me
 -d seemlast.monster
@@ -426,11 +425,11 @@ msFilterList
 -d thefitproject.club
 -d thehealthcycle.club
 -d thehotshot.info
+-d theirproviderock.top
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
 -d thestablealwayssafeupdates.work
--d thestablegreatupdates.work
 -d thestablegreatupgrades.best
 -d toolvpn.me
 -d toovolution.club
@@ -443,6 +442,7 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz

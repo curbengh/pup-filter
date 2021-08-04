@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 03 Aug 2021 12:03:02 +0000
+! Updated: Wed, 04 Aug 2021 00:03:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -68,7 +68,6 @@
 ||dailymedia.surf$document
 ||dailymedia.work$document
 ||dailyrep.net$document
-||darkview.org$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
@@ -120,7 +119,6 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -131,7 +129,6 @@
 ||goalmedia.cam$document
 ||goalmedia.club$document
 ||goalmedia.monster$document
-||gonesteeldouble.top$document
 ||googsistem.live$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -149,8 +146,10 @@
 ||healthsupreme.club$document
 ||healthtag.club$document
 ||healthupper.club$document
+||healthylives.today$document
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
+||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -219,7 +218,6 @@
 ||locationtracker.services$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
-||lubbockeda.org$document
 ||luckymedia.casa$document
 ||luckymedia.cyou$document
 ||luckymedia.website$document
@@ -245,6 +243,7 @@
 ||medjournalketo.info$document
 ||medsjournal.info$document
 ||meeryslotspin.xyz$document
+||melanthios-ana.com$document
 ||mindbank.ai$document
 ||mindmatch.ai$document
 ||mistraffic.me$document
@@ -276,7 +275,6 @@
 ||performheavily-theoriginalfile.best$document
 ||performlatest-thecompletelyfile.best$document
 ||performlatestoverlyapplication.icu$document
-||performmost-thenewestfile.best$document
 ||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
@@ -302,7 +300,9 @@
 ||prtctapp.me$document
 ||qh97dkzy20.top$document
 ||quantum.work$document
+||quatrefeuillepolonaise.xyz$document
 ||rainlonginsect23.life$document
+||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||resignation.top$document
@@ -342,7 +342,6 @@
 ||search4upgradingset.info$document
 ||searchoffers.info$document
 ||sec-alert.xyz$document
-||sec-alerts.xyz$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||seemlast.monster$document
@@ -423,11 +422,11 @@
 ||thefitproject.club$document
 ||thehealthcycle.club$document
 ||thehotshot.info$document
+||theirproviderock.top$document
 ||thenewjourney.info$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
 ||thestablealwayssafeupdates.work$document
-||thestablegreatupdates.work$document
 ||thestablegreatupgrades.best$document
 ||toolvpn.me$document
 ||toovolution.club$document
@@ -440,6 +439,7 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document

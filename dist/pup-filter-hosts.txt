@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 03 Aug 2021 12:03:02 +0000
+# Updated: Wed, 04 Aug 2021 00:03:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -68,7 +68,6 @@
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
-0.0.0.0 darkview.org
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
@@ -120,7 +119,6 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -131,7 +129,6 @@
 0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.club
 0.0.0.0 goalmedia.monster
-0.0.0.0 gonesteeldouble.top
 0.0.0.0 googsistem.live
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -149,8 +146,10 @@
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
 0.0.0.0 healthupper.club
+0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
+0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -219,7 +218,6 @@
 0.0.0.0 locationtracker.services
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
-0.0.0.0 lubbockeda.org
 0.0.0.0 luckymedia.casa
 0.0.0.0 luckymedia.cyou
 0.0.0.0 luckymedia.website
@@ -245,6 +243,7 @@
 0.0.0.0 medjournalketo.info
 0.0.0.0 medsjournal.info
 0.0.0.0 meeryslotspin.xyz
+0.0.0.0 melanthios-ana.com
 0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
@@ -276,7 +275,6 @@
 0.0.0.0 performheavily-theoriginalfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
 0.0.0.0 performlatestoverlyapplication.icu
-0.0.0.0 performmost-thenewestfile.best
 0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
 0.0.0.0 performprecise-theuberfile.best
@@ -302,7 +300,9 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
+0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
+0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 resignation.top
@@ -342,7 +342,6 @@
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
 0.0.0.0 sec-alert.xyz
-0.0.0.0 sec-alerts.xyz
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 seemlast.monster
@@ -423,11 +422,11 @@
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehotshot.info
+0.0.0.0 theirproviderock.top
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
 0.0.0.0 thestablealwayssafeupdates.work
-0.0.0.0 thestablegreatupdates.work
 0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
@@ -440,6 +439,7 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 03 Aug 2021 12:03:02 +0000
+! Updated: Wed, 04 Aug 2021 00:03:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -68,7 +68,6 @@
 ||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
-||darkview.org$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
@@ -120,7 +119,6 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -131,7 +129,6 @@
 ||goalmedia.cam$all
 ||goalmedia.club$all
 ||goalmedia.monster$all
-||gonesteeldouble.top$all
 ||googsistem.live$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -149,8 +146,10 @@
 ||healthsupreme.club$all
 ||healthtag.club$all
 ||healthupper.club$all
+||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
+||hotladieshere.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -219,7 +218,6 @@
 ||locationtracker.services$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
-||lubbockeda.org$all
 ||luckymedia.casa$all
 ||luckymedia.cyou$all
 ||luckymedia.website$all
@@ -245,6 +243,7 @@
 ||medjournalketo.info$all
 ||medsjournal.info$all
 ||meeryslotspin.xyz$all
+||melanthios-ana.com$all
 ||mindbank.ai$all
 ||mindmatch.ai$all
 ||mistraffic.me$all
@@ -276,7 +275,6 @@
 ||performheavily-theoriginalfile.best$all
 ||performlatest-thecompletelyfile.best$all
 ||performlatestoverlyapplication.icu$all
-||performmost-thenewestfile.best$all
 ||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
@@ -302,7 +300,9 @@
 ||prtctapp.me$all
 ||qh97dkzy20.top$all
 ||quantum.work$all
+||quatrefeuillepolonaise.xyz$all
 ||rainlonginsect23.life$all
+||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||resignation.top$all
@@ -342,7 +342,6 @@
 ||search4upgradingset.info$all
 ||searchoffers.info$all
 ||sec-alert.xyz$all
-||sec-alerts.xyz$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||seemlast.monster$all
@@ -423,11 +422,11 @@
 ||thefitproject.club$all
 ||thehealthcycle.club$all
 ||thehotshot.info$all
+||theirproviderock.top$all
 ||thenewjourney.info$all
 ||thesafestreliablelink.work$all
 ||theslotomania.info$all
 ||thestablealwayssafeupdates.work$all
-||thestablegreatupdates.work$all
 ||thestablegreatupgrades.best$all
 ||toolvpn.me$all
 ||toovolution.club$all
@@ -440,6 +439,7 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all

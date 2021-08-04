@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 03 Aug 2021 12:03:02 +0000
+! Updated: Wed, 04 Aug 2021 00:03:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -68,7 +68,6 @@
 ||dailymedia.surf^
 ||dailymedia.work^
 ||dailyrep.net^
-||darkview.org^
 ||dealmedia.club^
 ||dealmedia.website^
 ||dealmedia.xyz^
@@ -120,7 +119,6 @@
 ||get-your-score.club^
 ||getbril.io^
 ||getmoregirls.net^
-||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
@@ -131,7 +129,6 @@
 ||goalmedia.cam^
 ||goalmedia.club^
 ||goalmedia.monster^
-||gonesteeldouble.top^
 ||googsistem.live^
 ||graburprize.net^
 ||gramp.xyz^
@@ -149,8 +146,10 @@
 ||healthsupreme.club^
 ||healthtag.club^
 ||healthupper.club^
+||healthylives.today^
 ||healthyspirit.info^
 ||heatwavereporter.org^
+||hotladieshere.net^
 ||httqzq.vip^
 ||hypezen.info^
 ||ientsillness.fun^
@@ -219,7 +218,6 @@
 ||locationtracker.services^
 ||louisvillegigs.net^
 ||loveorfun.cc^
-||lubbockeda.org^
 ||luckymedia.casa^
 ||luckymedia.cyou^
 ||luckymedia.website^
@@ -245,6 +243,7 @@
 ||medjournalketo.info^
 ||medsjournal.info^
 ||meeryslotspin.xyz^
+||melanthios-ana.com^
 ||mindbank.ai^
 ||mindmatch.ai^
 ||mistraffic.me^
@@ -276,7 +275,6 @@
 ||performheavily-theoriginalfile.best^
 ||performlatest-thecompletelyfile.best^
 ||performlatestoverlyapplication.icu^
-||performmost-thenewestfile.best^
 ||performmost-therecentfile.best^
 ||performoriginal-theheavilyfile.best^
 ||performprecise-theuberfile.best^
@@ -302,7 +300,9 @@
 ||prtctapp.me^
 ||qh97dkzy20.top^
 ||quantum.work^
+||quatrefeuillepolonaise.xyz^
 ||rainlonginsect23.life^
+||rancy.xyz^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
 ||resignation.top^
@@ -342,7 +342,6 @@
 ||search4upgradingset.info^
 ||searchoffers.info^
 ||sec-alert.xyz^
-||sec-alerts.xyz^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||seemlast.monster^
@@ -423,11 +422,11 @@
 ||thefitproject.club^
 ||thehealthcycle.club^
 ||thehotshot.info^
+||theirproviderock.top^
 ||thenewjourney.info^
 ||thesafestreliablelink.work^
 ||theslotomania.info^
 ||thestablealwayssafeupdates.work^
-||thestablegreatupdates.work^
 ||thestablegreatupgrades.best^
 ||toolvpn.me^
 ||toovolution.club^
@@ -440,6 +439,7 @@
 ||trktraf.club^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||uclaimrewards.net^
 ||unitehealth.club^
 ||updatefix.xyz^
