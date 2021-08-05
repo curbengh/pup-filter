@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 04 Aug 2021 12:03:07 +0000
+! Updated: Thu, 05 Aug 2021 00:03:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -95,11 +95,9 @@
 ||finditquick.online$document
 ||findoffers.co$document
 ||findperfectplaces2download.work$document
-||findperfectplaces4download.work$document
 ||findyourultimateplayersfirst.best$document
 ||fisudauh.top$document
 ||fithealthspark.info$document
-||fitnessdial.club$document
 ||flash-rewards.info$document
 ||flatbellylife.info$document
 ||flexroll.online$document
@@ -119,7 +117,6 @@
 ||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||getbril.io$document
 ||getmoregirls.net$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
@@ -131,6 +128,7 @@
 ||goalmedia.cam$document
 ||goalmedia.club$document
 ||goalmedia.monster$document
+||gonesteeldouble.top$document
 ||googsistem.live$document
 ||graburprize.net$document
 ||gramp.xyz$document
@@ -140,7 +138,6 @@
 ||happymakesite.xyz$document
 ||healandgrow.club$document
 ||healtheezy.info$document
-||healthemerge.info$document
 ||healthneo.club$document
 ||healthomega.club$document
 ||healthscale.club$document
@@ -166,7 +163,6 @@
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||jetsummer.xyz$document
-||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||jtkszl.vip$document
 ||junemedia.bar$document
@@ -221,7 +217,7 @@
 ||locationtracker.services$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
-||luckymedia.casa$document
+||lubbockeda.org$document
 ||luckymedia.cyou$document
 ||luckymedia.website$document
 ||managestrong-theuberfile.best$document
@@ -278,11 +274,9 @@
 ||performheavily-theoriginalfile.best$document
 ||performlatest-thecompletelyfile.best$document
 ||performlatestoverlyapplication.icu$document
-||performmost-therecentfile.best$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
 ||performquick-thecompletelyfile.best$document
-||performrecent-themostfile.best$document
 ||performrefineduberapplication.icu$document
 ||performspeedy-thegreatlyfile.best$document
 ||performstrong-thegreatlyfile.digital$document
@@ -293,6 +287,7 @@
 ||ppploanchoices.site$document
 ||preparedforsafeupgrading.work$document
 ||prize-messsages.casa$document
+||profitsurvey365.online$document
 ||profitsurvey365.org$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
@@ -366,6 +361,7 @@
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
+||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -424,7 +420,6 @@
 ||thefitproject.club$document
 ||thehealthcycle.club$document
 ||thehotshot.info$document
-||theirproviderock.top$document
 ||thenewjourney.info$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
@@ -441,7 +436,6 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -454,6 +448,7 @@
 ||vpnservice.me$document
 ||vpnupdatesnow.com$document
 ||watchadvanced-bestgreatlyfile.best$document
+||watchextremely-bestsophisticatedfile.best$document
 ||watchgreatly-bestcurrentfile.best$document
 ||watchgreatly-bestlatestfile.best$document
 ||watchlatest-bestgreatlyfile.best$document

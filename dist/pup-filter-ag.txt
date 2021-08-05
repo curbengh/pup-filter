@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 04 Aug 2021 12:03:07 +0000
+! Updated: Thu, 05 Aug 2021 00:03:34 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -95,11 +95,9 @@
 ||finditquick.online$all
 ||findoffers.co$all
 ||findperfectplaces2download.work$all
-||findperfectplaces4download.work$all
 ||findyourultimateplayersfirst.best$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
-||fitnessdial.club$all
 ||flash-rewards.info$all
 ||flatbellylife.info$all
 ||flexroll.online$all
@@ -119,7 +117,6 @@
 ||fwsxqc.cn$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||getbril.io$all
 ||getmoregirls.net$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
@@ -131,6 +128,7 @@
 ||goalmedia.cam$all
 ||goalmedia.club$all
 ||goalmedia.monster$all
+||gonesteeldouble.top$all
 ||googsistem.live$all
 ||graburprize.net$all
 ||gramp.xyz$all
@@ -140,7 +138,6 @@
 ||happymakesite.xyz$all
 ||healandgrow.club$all
 ||healtheezy.info$all
-||healthemerge.info$all
 ||healthneo.club$all
 ||healthomega.club$all
 ||healthscale.club$all
@@ -166,7 +163,6 @@
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
-||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||jtkszl.vip$all
 ||junemedia.bar$all
@@ -221,7 +217,7 @@
 ||locationtracker.services$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
-||luckymedia.casa$all
+||lubbockeda.org$all
 ||luckymedia.cyou$all
 ||luckymedia.website$all
 ||managestrong-theuberfile.best$all
@@ -278,11 +274,9 @@
 ||performheavily-theoriginalfile.best$all
 ||performlatest-thecompletelyfile.best$all
 ||performlatestoverlyapplication.icu$all
-||performmost-therecentfile.best$all
 ||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
 ||performquick-thecompletelyfile.best$all
-||performrecent-themostfile.best$all
 ||performrefineduberapplication.icu$all
 ||performspeedy-thegreatlyfile.best$all
 ||performstrong-thegreatlyfile.digital$all
@@ -293,6 +287,7 @@
 ||ppploanchoices.site$all
 ||preparedforsafeupgrading.work$all
 ||prize-messsages.casa$all
+||profitsurvey365.online$all
 ||profitsurvey365.org$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -366,6 +361,7 @@
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
+||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -424,7 +420,6 @@
 ||thefitproject.club$all
 ||thehealthcycle.club$all
 ||thehotshot.info$all
-||theirproviderock.top$all
 ||thenewjourney.info$all
 ||thesafestreliablelink.work$all
 ||theslotomania.info$all
@@ -441,7 +436,6 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -454,6 +448,7 @@
 ||vpnservice.me$all
 ||vpnupdatesnow.com$all
 ||watchadvanced-bestgreatlyfile.best$all
+||watchextremely-bestsophisticatedfile.best$all
 ||watchgreatly-bestcurrentfile.best$all
 ||watchgreatly-bestlatestfile.best$all
 ||watchlatest-bestgreatlyfile.best$all

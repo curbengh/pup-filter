@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 04 Aug 2021 12:03:07 +0000
+# Updated: Thu, 05 Aug 2021 00:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -95,11 +95,9 @@ findaupgradingurls.work
 finditquick.online
 findoffers.co
 findperfectplaces2download.work
-findperfectplaces4download.work
 findyourultimateplayersfirst.best
 fisudauh.top
 fithealthspark.info
-fitnessdial.club
 flash-rewards.info
 flatbellylife.info
 flexroll.online
@@ -119,7 +117,6 @@ funsiteb.xyz
 fwsxqc.cn
 genertellife.it
 get-your-score.club
-getbril.io
 getmoregirls.net
 girlsnearyou.online
 gladmstreet.xyz
@@ -131,6 +128,7 @@ goalmedia.bar
 goalmedia.cam
 goalmedia.club
 goalmedia.monster
+gonesteeldouble.top
 googsistem.live
 graburprize.net
 gramp.xyz
@@ -140,7 +138,6 @@ hailso.xyz
 happymakesite.xyz
 healandgrow.club
 healtheezy.info
-healthemerge.info
 healthneo.club
 healthomega.club
 healthscale.club
@@ -166,7 +163,6 @@ iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 jtkszl.vip
 junemedia.bar
@@ -221,7 +217,7 @@ loaduberspeedyfile.digital
 locationtracker.services
 louisvillegigs.net
 loveorfun.cc
-luckymedia.casa
+lubbockeda.org
 luckymedia.cyou
 luckymedia.website
 managestrong-theuberfile.best
@@ -278,11 +274,9 @@ performgreatly-thespeedyfile.best
 performheavily-theoriginalfile.best
 performlatest-thecompletelyfile.best
 performlatestoverlyapplication.icu
-performmost-therecentfile.best
 performoriginal-theheavilyfile.best
 performprecise-theuberfile.best
 performquick-thecompletelyfile.best
-performrecent-themostfile.best
 performrefineduberapplication.icu
 performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
@@ -293,6 +287,7 @@ playspind.xyz
 ppploanchoices.site
 preparedforsafeupgrading.work
 prize-messsages.casa
+profitsurvey365.online
 profitsurvey365.org
 proprotect.me
 prosecurityvpn.me
@@ -366,6 +361,7 @@ streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
+streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -424,7 +420,6 @@ thecryptozone.website
 thefitproject.club
 thehealthcycle.club
 thehotshot.info
-theirproviderock.top
 thenewjourney.info
 thesafestreliablelink.work
 theslotomania.info
@@ -441,7 +436,6 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -454,6 +448,7 @@ vpnsecurity.me
 vpnservice.me
 vpnupdatesnow.com
 watchadvanced-bestgreatlyfile.best
+watchextremely-bestsophisticatedfile.best
 watchgreatly-bestcurrentfile.best
 watchgreatly-bestlatestfile.best
 watchlatest-bestgreatlyfile.best

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 04 Aug 2021 12:03:07 +0000
+# Updated: Thu, 05 Aug 2021 00:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -95,11 +95,9 @@
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
 0.0.0.0 findperfectplaces2download.work
-0.0.0.0 findperfectplaces4download.work
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
-0.0.0.0 fitnessdial.club
 0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
 0.0.0.0 flexroll.online
@@ -119,7 +117,6 @@
 0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
@@ -131,6 +128,7 @@
 0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.club
 0.0.0.0 goalmedia.monster
+0.0.0.0 gonesteeldouble.top
 0.0.0.0 googsistem.live
 0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
@@ -140,7 +138,6 @@
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
 0.0.0.0 healtheezy.info
-0.0.0.0 healthemerge.info
 0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
 0.0.0.0 healthscale.club
@@ -166,7 +163,6 @@
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
@@ -221,7 +217,7 @@
 0.0.0.0 locationtracker.services
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
-0.0.0.0 luckymedia.casa
+0.0.0.0 lubbockeda.org
 0.0.0.0 luckymedia.cyou
 0.0.0.0 luckymedia.website
 0.0.0.0 managestrong-theuberfile.best
@@ -278,11 +274,9 @@
 0.0.0.0 performheavily-theoriginalfile.best
 0.0.0.0 performlatest-thecompletelyfile.best
 0.0.0.0 performlatestoverlyapplication.icu
-0.0.0.0 performmost-therecentfile.best
 0.0.0.0 performoriginal-theheavilyfile.best
 0.0.0.0 performprecise-theuberfile.best
 0.0.0.0 performquick-thecompletelyfile.best
-0.0.0.0 performrecent-themostfile.best
 0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performspeedy-thegreatlyfile.best
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -293,6 +287,7 @@
 0.0.0.0 ppploanchoices.site
 0.0.0.0 preparedforsafeupgrading.work
 0.0.0.0 prize-messsages.casa
+0.0.0.0 profitsurvey365.online
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -366,6 +361,7 @@
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
+0.0.0.0 streamingmadness.net
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best
@@ -424,7 +420,6 @@
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehotshot.info
-0.0.0.0 theirproviderock.top
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
@@ -441,7 +436,6 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -454,6 +448,7 @@
 0.0.0.0 vpnservice.me
 0.0.0.0 vpnupdatesnow.com
 0.0.0.0 watchadvanced-bestgreatlyfile.best
+0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchgreatly-bestcurrentfile.best
 0.0.0.0 watchgreatly-bestlatestfile.best
 0.0.0.0 watchlatest-bestgreatlyfile.best

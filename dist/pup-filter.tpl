@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 04 Aug 2021 12:03:07 +0000
+# Updated: Thu, 05 Aug 2021 00:03:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -98,11 +98,9 @@ msFilterList
 -d finditquick.online
 -d findoffers.co
 -d findperfectplaces2download.work
--d findperfectplaces4download.work
 -d findyourultimateplayersfirst.best
 -d fisudauh.top
 -d fithealthspark.info
--d fitnessdial.club
 -d flash-rewards.info
 -d flatbellylife.info
 -d flexroll.online
@@ -122,7 +120,6 @@ msFilterList
 -d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -134,6 +131,7 @@ msFilterList
 -d goalmedia.cam
 -d goalmedia.club
 -d goalmedia.monster
+-d gonesteeldouble.top
 -d googsistem.live
 -d graburprize.net
 -d gramp.xyz
@@ -143,7 +141,6 @@ msFilterList
 -d happymakesite.xyz
 -d healandgrow.club
 -d healtheezy.info
--d healthemerge.info
 -d healthneo.club
 -d healthomega.club
 -d healthscale.club
@@ -169,7 +166,6 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d jtkszl.vip
 -d junemedia.bar
@@ -224,7 +220,7 @@ msFilterList
 -d locationtracker.services
 -d louisvillegigs.net
 -d loveorfun.cc
--d luckymedia.casa
+-d lubbockeda.org
 -d luckymedia.cyou
 -d luckymedia.website
 -d managestrong-theuberfile.best
@@ -281,11 +277,9 @@ msFilterList
 -d performheavily-theoriginalfile.best
 -d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
--d performmost-therecentfile.best
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
 -d performquick-thecompletelyfile.best
--d performrecent-themostfile.best
 -d performrefineduberapplication.icu
 -d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
@@ -296,6 +290,7 @@ msFilterList
 -d ppploanchoices.site
 -d preparedforsafeupgrading.work
 -d prize-messsages.casa
+-d profitsurvey365.online
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
@@ -369,6 +364,7 @@ msFilterList
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
+-d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -427,7 +423,6 @@ msFilterList
 -d thefitproject.club
 -d thehealthcycle.club
 -d thehotshot.info
--d theirproviderock.top
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
@@ -444,7 +439,6 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -457,6 +451,7 @@ msFilterList
 -d vpnservice.me
 -d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
+-d watchextremely-bestsophisticatedfile.best
 -d watchgreatly-bestcurrentfile.best
 -d watchgreatly-bestlatestfile.best
 -d watchlatest-bestgreatlyfile.best
