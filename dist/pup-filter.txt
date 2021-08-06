@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 05 Aug 2021 12:03:24 +0000
+! Updated: Fri, 06 Aug 2021 00:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
+2021travel.net
 2kddbl.club
 4upgradingstablesafe.work
 adslauchgo.xyz
@@ -87,6 +88,7 @@ extrasafe.xyz
 f7lwv2y0xb.top
 fastmapc.xyz
 fastspinc.xyz
+fastspinf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
@@ -109,7 +111,6 @@ flymedia.online
 flymedia.uno
 free-gifts.net
 freenationalsuperworldwide.cyou
-freeperfectupgrading.work
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 funmapd.xyz
@@ -139,16 +140,13 @@ hailso.xyz
 happymakesite.xyz
 healandgrow.club
 healtheezy.info
-healthneo.club
 healthomega.club
 healthscale.club
 healthschedule.club
 healthsupreme.club
 healthtag.club
-healthupper.club
 healthylives.today
 healthyspirit.info
-heatwavereporter.org
 hotladieshere.net
 httqzq.vip
 hypezen.info
@@ -156,6 +154,7 @@ ientsillness.fun
 imagefind.org
 incrediblebuzz.info
 information.casa
+inspirationfor.me
 installcompletely-theoriginalfile.best
 investinfo.net
 iosdfnc.com
@@ -163,6 +162,7 @@ iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
+jointingifstrawberry.xyz
 jojomamanbebe.ie
 jtkszl.vip
 junemedia.bar
@@ -236,8 +236,6 @@ mediagate.club
 mediagate.cyou
 mediagate.fun
 mediagate.surf
-mediaplayer24.ml
-medicomatic.info
 medicreed.club
 medjournalketo.info
 medsjournal.info
@@ -341,7 +339,6 @@ searchoffers.info
 sec-alert.xyz
 securitevpn.me
 securityvpnpro.me
-seemlast.monster
 sergey-tracks.xyz
 service-care.space
 settothereliableupgradingnew.work
@@ -373,6 +370,7 @@ streamoverly-bestrenewedfile.best
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
+streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
@@ -396,7 +394,6 @@ syncheavily-bestlatestfile.best
 synchighly-bestoriginalfile.best
 synchighly-bestrecentfile.best
 syncintensely-bestprogressivefile.best
-synclatest-bestuberfile.best
 synclatestintenselythefile.vip
 syncnewestmostthefile.vip
 syncnewestuberthefile.vip
@@ -411,6 +408,7 @@ syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
+syncubercurrentfiles.best
 systemupdatit.club
 tackis.xyz
 tdstraffic.xyz
@@ -420,11 +418,12 @@ thecryptozone.website
 thefitproject.club
 thehealthcycle.club
 thehotshot.info
+theirproviderock.top
 thenewjourney.info
 thesafestreliablelink.work
 theslotomania.info
-thestablealwayssafeupdates.work
 thestablegreatupgrades.best
+timeoffers.net
 toolvpn.me
 toovolution.club
 track4ast.icu

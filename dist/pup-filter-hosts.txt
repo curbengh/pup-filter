@@ -1,11 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 05 Aug 2021 12:03:24 +0000
+# Updated: Fri, 06 Aug 2021 00:03:12 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 123news.website
+0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
@@ -87,6 +88,7 @@
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
+0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
@@ -109,7 +111,6 @@
 0.0.0.0 flymedia.uno
 0.0.0.0 free-gifts.net
 0.0.0.0 freenationalsuperworldwide.cyou
-0.0.0.0 freeperfectupgrading.work
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 funmapd.xyz
@@ -139,16 +140,13 @@
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
 0.0.0.0 healtheezy.info
-0.0.0.0 healthneo.club
 0.0.0.0 healthomega.club
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
-0.0.0.0 healthupper.club
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
-0.0.0.0 heatwavereporter.org
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -156,6 +154,7 @@
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
+0.0.0.0 inspirationfor.me
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
@@ -163,6 +162,7 @@
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
+0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
@@ -236,8 +236,6 @@
 0.0.0.0 mediagate.cyou
 0.0.0.0 mediagate.fun
 0.0.0.0 mediagate.surf
-0.0.0.0 mediaplayer24.ml
-0.0.0.0 medicomatic.info
 0.0.0.0 medicreed.club
 0.0.0.0 medjournalketo.info
 0.0.0.0 medsjournal.info
@@ -341,7 +339,6 @@
 0.0.0.0 sec-alert.xyz
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
-0.0.0.0 seemlast.monster
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
@@ -373,6 +370,7 @@
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
+0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
 0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best
@@ -396,7 +394,6 @@
 0.0.0.0 synchighly-bestoriginalfile.best
 0.0.0.0 synchighly-bestrecentfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
-0.0.0.0 synclatest-bestuberfile.best
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
@@ -411,6 +408,7 @@
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
+0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 tdstraffic.xyz
@@ -420,11 +418,12 @@
 0.0.0.0 thefitproject.club
 0.0.0.0 thehealthcycle.club
 0.0.0.0 thehotshot.info
+0.0.0.0 theirproviderock.top
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
-0.0.0.0 thestablealwayssafeupdates.work
 0.0.0.0 thestablegreatupgrades.best
+0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
 0.0.0.0 track4ast.icu

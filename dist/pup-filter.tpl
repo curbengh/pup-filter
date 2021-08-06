@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 05 Aug 2021 12:03:24 +0000
+# Updated: Fri, 06 Aug 2021 00:03:12 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
+-d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d adslauchgo.xyz
@@ -90,6 +91,7 @@ msFilterList
 -d f7lwv2y0xb.top
 -d fastmapc.xyz
 -d fastspinc.xyz
+-d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
@@ -112,7 +114,6 @@ msFilterList
 -d flymedia.uno
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
--d freeperfectupgrading.work
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d funmapd.xyz
@@ -142,16 +143,13 @@ msFilterList
 -d happymakesite.xyz
 -d healandgrow.club
 -d healtheezy.info
--d healthneo.club
 -d healthomega.club
 -d healthscale.club
 -d healthschedule.club
 -d healthsupreme.club
 -d healthtag.club
--d healthupper.club
 -d healthylives.today
 -d healthyspirit.info
--d heatwavereporter.org
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
@@ -159,6 +157,7 @@ msFilterList
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
+-d inspirationfor.me
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
 -d iosdfnc.com
@@ -166,6 +165,7 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d jtkszl.vip
 -d junemedia.bar
@@ -239,8 +239,6 @@ msFilterList
 -d mediagate.cyou
 -d mediagate.fun
 -d mediagate.surf
--d mediaplayer24.ml
--d medicomatic.info
 -d medicreed.club
 -d medjournalketo.info
 -d medsjournal.info
@@ -344,7 +342,6 @@ msFilterList
 -d sec-alert.xyz
 -d securitevpn.me
 -d securityvpnpro.me
--d seemlast.monster
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
@@ -376,6 +373,7 @@ msFilterList
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
+-d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
@@ -399,7 +397,6 @@ msFilterList
 -d synchighly-bestoriginalfile.best
 -d synchighly-bestrecentfile.best
 -d syncintensely-bestprogressivefile.best
--d synclatest-bestuberfile.best
 -d synclatestintenselythefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
@@ -414,6 +411,7 @@ msFilterList
 -d syncuber-bestprecisefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
+-d syncubercurrentfiles.best
 -d systemupdatit.club
 -d tackis.xyz
 -d tdstraffic.xyz
@@ -423,11 +421,12 @@ msFilterList
 -d thefitproject.club
 -d thehealthcycle.club
 -d thehotshot.info
+-d theirproviderock.top
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
--d thestablealwayssafeupdates.work
 -d thestablegreatupgrades.best
+-d timeoffers.net
 -d toolvpn.me
 -d toovolution.club
 -d track4ast.icu

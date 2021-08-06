@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 05 Aug 2021 12:03:24 +0000
+! Updated: Fri, 06 Aug 2021 00:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
+||2021travel.net$document
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||adslauchgo.xyz$document
@@ -87,6 +88,7 @@
 ||f7lwv2y0xb.top$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
+||fastspinf.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
@@ -109,7 +111,6 @@
 ||flymedia.uno$document
 ||free-gifts.net$document
 ||freenationalsuperworldwide.cyou$document
-||freeperfectupgrading.work$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
 ||funmapd.xyz$document
@@ -139,16 +140,13 @@
 ||happymakesite.xyz$document
 ||healandgrow.club$document
 ||healtheezy.info$document
-||healthneo.club$document
 ||healthomega.club$document
 ||healthscale.club$document
 ||healthschedule.club$document
 ||healthsupreme.club$document
 ||healthtag.club$document
-||healthupper.club$document
 ||healthylives.today$document
 ||healthyspirit.info$document
-||heatwavereporter.org$document
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -156,6 +154,7 @@
 ||imagefind.org$document
 ||incrediblebuzz.info$document
 ||information.casa$document
+||inspirationfor.me$document
 ||installcompletely-theoriginalfile.best$document
 ||investinfo.net$document
 ||iosdfnc.com$document
@@ -163,6 +162,7 @@
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||jetsummer.xyz$document
+||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||jtkszl.vip$document
 ||junemedia.bar$document
@@ -236,8 +236,6 @@
 ||mediagate.cyou$document
 ||mediagate.fun$document
 ||mediagate.surf$document
-||mediaplayer24.ml$document
-||medicomatic.info$document
 ||medicreed.club$document
 ||medjournalketo.info$document
 ||medsjournal.info$document
@@ -341,7 +339,6 @@
 ||sec-alert.xyz$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
-||seemlast.monster$document
 ||sergey-tracks.xyz$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
@@ -373,6 +370,7 @@
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
+||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
@@ -396,7 +394,6 @@
 ||synchighly-bestoriginalfile.best$document
 ||synchighly-bestrecentfile.best$document
 ||syncintensely-bestprogressivefile.best$document
-||synclatest-bestuberfile.best$document
 ||synclatestintenselythefile.vip$document
 ||syncnewestmostthefile.vip$document
 ||syncnewestuberthefile.vip$document
@@ -411,6 +408,7 @@
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
+||syncubercurrentfiles.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||tdstraffic.xyz$document
@@ -420,11 +418,12 @@
 ||thefitproject.club$document
 ||thehealthcycle.club$document
 ||thehotshot.info$document
+||theirproviderock.top$document
 ||thenewjourney.info$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
-||thestablealwayssafeupdates.work$document
 ||thestablegreatupgrades.best$document
+||timeoffers.net$document
 ||toolvpn.me$document
 ||toovolution.club$document
 ||track4ast.icu$document
