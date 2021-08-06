@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 06 Aug 2021 00:03:12 +0000
+# Updated: Fri, 06 Aug 2021 12:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,8 +9,6 @@
 0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 adslauchgo.xyz
-0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -242,7 +240,6 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mindbank.ai
-0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
@@ -336,6 +333,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 sec-alert.xyz
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
@@ -351,7 +349,6 @@
 0.0.0.0 startos.win
 0.0.0.0 stay-notified.cc
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -428,7 +425,6 @@
 0.0.0.0 toovolution.club
 0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
-0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
@@ -441,7 +437,6 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
