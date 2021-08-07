@@ -1,26 +1,24 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 06 Aug 2021 12:03:17 +0000
+! Updated: Sat, 07 Aug 2021 00:24:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$all
-||2021travel.net$all
 ||2kddbl.club$all
 ||4upgradingstablesafe.work$all
 ||altcasino.info$all
-||amobil.online$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||ashtdi.cn$all
 ||asufij.xyz$all
 ||atprofessor.fun$all
 ||atwater.org$all
+||be-5hdo32xes-ok.live$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
-||bigcbd.info$all
 ||bigdaycasino.info$all
 ||bigwin-online-free-congrats.cyou$all
 ||bigwinonlinefreecongrats.cyou$all
@@ -116,7 +114,9 @@
 ||fwsxqc.cn$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -145,6 +145,7 @@
 ||healthtag.club$all
 ||healthylives.today$all
 ||healthyspirit.info$all
+||heatwavereporter.org$all
 ||hotladieshere.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
@@ -169,10 +170,12 @@
 ||junesmile.xyz$all
 ||kad3md.cn$all
 ||keepithealthy.info$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
+||listenthisso.top$all
 ||livingmighty.club$all
 ||loadadvancedextremelythefile.vip$all
 ||loaddevelopeduberfile.digital$all
@@ -217,7 +220,6 @@
 ||loveorfun.cc$all
 ||lubbockeda.org$all
 ||luckymedia.cyou$all
-||luckymedia.website$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
 ||manageuber-therecentfile.best$all
@@ -257,17 +259,13 @@
 ||oldharper.xyz$all
 ||olivedinflats.space$all
 ||online-prize-super-promotion.cyou$all
-||onlinecinema.eu$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
-||performcompletely-thelatestfile.best$all
-||performcompletely-thequickfile.best$all
 ||performgreatly-thespeedyfile.best$all
 ||performheavily-theoriginalfile.best$all
-||performlatest-thecompletelyfile.best$all
 ||performlatestoverlyapplication.icu$all
 ||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
@@ -303,7 +301,6 @@
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
 ||robogarden.io$all
-||rootessential.info$all
 ||runadvanced-bestextremelyfile.best$all
 ||runcurrent-bestextremelyfile.best$all
 ||rundeveloped-bestoverlyfile.best$all
@@ -333,8 +330,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchoffers.info$all
-||seasoned.co$all
-||sec-alert.xyz$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -423,6 +418,7 @@
 ||timeoffers.net$all
 ||toolvpn.me$all
 ||toovolution.club$all
+||top-offers2.club$all
 ||track4ast.icu$all
 ||tracking-landers.xyz$all
 ||trafficmind.pro$all
@@ -431,6 +427,7 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
@@ -463,7 +460,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

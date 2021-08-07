@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 06 Aug 2021 12:03:17 +0000
+# Updated: Sat, 07 Aug 2021 00:24:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,21 +9,19 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
--d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d altcasino.info
--d amobil.online
 -d apptool.me
 -d armorprovpn.me
 -d ashtdi.cn
 -d asufij.xyz
 -d atprofessor.fun
 -d atwater.org
+-d be-5hdo32xes-ok.live
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
--d bigcbd.info
 -d bigdaycasino.info
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
@@ -119,7 +117,9 @@ msFilterList
 -d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -148,6 +148,7 @@ msFilterList
 -d healthtag.club
 -d healthylives.today
 -d healthyspirit.info
+-d heatwavereporter.org
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
@@ -172,10 +173,12 @@ msFilterList
 -d junesmile.xyz
 -d kad3md.cn
 -d keepithealthy.info
+-d kompsos.uk
 -d ktpyzw.vip
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
+-d listenthisso.top
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
@@ -220,7 +223,6 @@ msFilterList
 -d loveorfun.cc
 -d lubbockeda.org
 -d luckymedia.cyou
--d luckymedia.website
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
 -d manageuber-therecentfile.best
@@ -260,17 +262,13 @@ msFilterList
 -d oldharper.xyz
 -d olivedinflats.space
 -d online-prize-super-promotion.cyou
--d onlinecinema.eu
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
 -d pcsecurity-live.xyz
--d performcompletely-thelatestfile.best
--d performcompletely-thequickfile.best
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
--d performlatest-thecompletelyfile.best
 -d performlatestoverlyapplication.icu
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
@@ -306,7 +304,6 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d robogarden.io
--d rootessential.info
 -d runadvanced-bestextremelyfile.best
 -d runcurrent-bestextremelyfile.best
 -d rundeveloped-bestoverlyfile.best
@@ -336,8 +333,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchoffers.info
--d seasoned.co
--d sec-alert.xyz
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -426,6 +421,7 @@ msFilterList
 -d timeoffers.net
 -d toolvpn.me
 -d toovolution.club
+-d top-offers2.club
 -d track4ast.icu
 -d tracking-landers.xyz
 -d trafficmind.pro
@@ -434,6 +430,7 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -466,7 +463,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

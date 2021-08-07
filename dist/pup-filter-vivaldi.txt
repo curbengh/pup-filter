@@ -1,26 +1,24 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 06 Aug 2021 12:03:17 +0000
+! Updated: Sat, 07 Aug 2021 00:24:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
-||2021travel.net$document
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||altcasino.info$document
-||amobil.online$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||ashtdi.cn$document
 ||asufij.xyz$document
 ||atprofessor.fun$document
 ||atwater.org$document
+||be-5hdo32xes-ok.live$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
-||bigcbd.info$document
 ||bigdaycasino.info$document
 ||bigwin-online-free-congrats.cyou$document
 ||bigwinonlinefreecongrats.cyou$document
@@ -116,7 +114,9 @@
 ||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -145,6 +145,7 @@
 ||healthtag.club$document
 ||healthylives.today$document
 ||healthyspirit.info$document
+||heatwavereporter.org$document
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -169,10 +170,12 @@
 ||junesmile.xyz$document
 ||kad3md.cn$document
 ||keepithealthy.info$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||ligamedia.art$document
 ||ligamedia.casa$document
 ||ligamedia.club$document
+||listenthisso.top$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
@@ -217,7 +220,6 @@
 ||loveorfun.cc$document
 ||lubbockeda.org$document
 ||luckymedia.cyou$document
-||luckymedia.website$document
 ||managestrong-theuberfile.best$document
 ||manageuber-thenewestfile.best$document
 ||manageuber-therecentfile.best$document
@@ -257,17 +259,13 @@
 ||oldharper.xyz$document
 ||olivedinflats.space$document
 ||online-prize-super-promotion.cyou$document
-||onlinecinema.eu$document
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
 ||pcsecurity-live.xyz$document
-||performcompletely-thelatestfile.best$document
-||performcompletely-thequickfile.best$document
 ||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
-||performlatest-thecompletelyfile.best$document
 ||performlatestoverlyapplication.icu$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
@@ -303,7 +301,6 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||robogarden.io$document
-||rootessential.info$document
 ||runadvanced-bestextremelyfile.best$document
 ||runcurrent-bestextremelyfile.best$document
 ||rundeveloped-bestoverlyfile.best$document
@@ -333,8 +330,6 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchoffers.info$document
-||seasoned.co$document
-||sec-alert.xyz$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -423,6 +418,7 @@
 ||timeoffers.net$document
 ||toolvpn.me$document
 ||toovolution.club$document
+||top-offers2.club$document
 ||track4ast.icu$document
 ||tracking-landers.xyz$document
 ||trafficmind.pro$document
@@ -431,6 +427,7 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -463,7 +460,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

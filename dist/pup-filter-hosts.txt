@@ -1,26 +1,24 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 06 Aug 2021 12:03:17 +0000
+# Updated: Sat, 07 Aug 2021 00:24:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 123news.website
-0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 altcasino.info
-0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
+0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
-0.0.0.0 bigcbd.info
 0.0.0.0 bigdaycasino.info
 0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bigwinonlinefreecongrats.cyou
@@ -116,7 +114,9 @@
 0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -145,6 +145,7 @@
 0.0.0.0 healthtag.club
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
+0.0.0.0 heatwavereporter.org
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -169,10 +170,12 @@
 0.0.0.0 junesmile.xyz
 0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
+0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
+0.0.0.0 listenthisso.top
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
@@ -217,7 +220,6 @@
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
 0.0.0.0 luckymedia.cyou
-0.0.0.0 luckymedia.website
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
 0.0.0.0 manageuber-therecentfile.best
@@ -257,17 +259,13 @@
 0.0.0.0 oldharper.xyz
 0.0.0.0 olivedinflats.space
 0.0.0.0 online-prize-super-promotion.cyou
-0.0.0.0 onlinecinema.eu
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
-0.0.0.0 performcompletely-thelatestfile.best
-0.0.0.0 performcompletely-thequickfile.best
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
-0.0.0.0 performlatest-thecompletelyfile.best
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performoriginal-theheavilyfile.best
 0.0.0.0 performprecise-theuberfile.best
@@ -303,7 +301,6 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
-0.0.0.0 rootessential.info
 0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
 0.0.0.0 rundeveloped-bestoverlyfile.best
@@ -333,8 +330,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
-0.0.0.0 sec-alert.xyz
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -423,6 +418,7 @@
 0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 toovolution.club
+0.0.0.0 top-offers2.club
 0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficmind.pro
@@ -431,6 +427,7 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -463,7 +460,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
