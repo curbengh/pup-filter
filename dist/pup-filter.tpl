@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 07 Aug 2021 00:24:51 +0000
+# Updated: Sat, 07 Aug 2021 12:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ msFilterList
 -d armorprovpn.me
 -d ashtdi.cn
 -d asufij.xyz
--d atprofessor.fun
 -d atwater.org
 -d be-5hdo32xes-ok.live
 -d beinspired.global
@@ -136,7 +135,6 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
--d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
@@ -154,11 +152,10 @@ msFilterList
 -d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
+-d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
--d inspirationfor.me
 -d installcompletely-theoriginalfile.best
--d investinfo.net
 -d iosdfnc.com
 -d iosrecommendedvpn.com
 -d ironprovpn.me
@@ -228,7 +225,6 @@ msFilterList
 -d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -303,7 +299,6 @@ msFilterList
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
--d robogarden.io
 -d runadvanced-bestextremelyfile.best
 -d runcurrent-bestextremelyfile.best
 -d rundeveloped-bestoverlyfile.best
@@ -340,6 +335,7 @@ msFilterList
 -d settothereliableupgradingnew.work
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
+-d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d springplanetf.xyz

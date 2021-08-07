@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 07 Aug 2021 00:24:51 +0000
+# Updated: Sat, 07 Aug 2021 12:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 0.0.0.0 armorprovpn.me
 0.0.0.0 ashtdi.cn
 0.0.0.0 asufij.xyz
-0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 beinspired.global
@@ -133,7 +132,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
-0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
@@ -151,11 +149,10 @@
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
+0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
-0.0.0.0 inspirationfor.me
 0.0.0.0 installcompletely-theoriginalfile.best
-0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
@@ -225,7 +222,6 @@
 0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
-0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
@@ -300,7 +296,6 @@
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
-0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
 0.0.0.0 rundeveloped-bestoverlyfile.best
@@ -337,6 +332,7 @@
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
+0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 springplanetf.xyz

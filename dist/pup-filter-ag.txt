@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 07 Aug 2021 00:24:51 +0000
+! Updated: Sat, 07 Aug 2021 12:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 ||armorprovpn.me$all
 ||ashtdi.cn$all
 ||asufij.xyz$all
-||atprofessor.fun$all
 ||atwater.org$all
 ||be-5hdo32xes-ok.live$all
 ||beinspired.global$all
@@ -133,7 +132,6 @@
 ||gramp.xyz$all
 ||grandencryptions.me$all
 ||growthnetic.club$all
-||gx8uxvn13l.top$all
 ||hailso.xyz$all
 ||happymakesite.xyz$all
 ||healandgrow.club$all
@@ -151,11 +149,10 @@
 ||hypezen.info$all
 ||ientsillness.fun$all
 ||imagefind.org$all
+||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
-||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
-||investinfo.net$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
@@ -225,7 +222,6 @@
 ||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
-||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -300,7 +296,6 @@
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
-||robogarden.io$all
 ||runadvanced-bestextremelyfile.best$all
 ||runcurrent-bestextremelyfile.best$all
 ||rundeveloped-bestoverlyfile.best$all
@@ -337,6 +332,7 @@
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
+||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||springplanetf.xyz$all
