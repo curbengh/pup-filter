@@ -1,17 +1,18 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 07 Aug 2021 12:02:41 +0000
+# Updated: Sun, 08 Aug 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 123news.website
+0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 altcasino.info
+0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
-0.0.0.0 ashtdi.cn
 0.0.0.0 asufij.xyz
 0.0.0.0 atwater.org
 0.0.0.0 be-5hdo32xes-ok.live
@@ -91,7 +92,6 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
-0.0.0.0 findperfectplaces2download.work
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
@@ -110,10 +110,8 @@
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 funmapd.xyz
 0.0.0.0 funsiteb.xyz
-0.0.0.0 fwsxqc.cn
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -158,21 +156,17 @@
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
-0.0.0.0 kad3md.cn
 0.0.0.0 keepithealthy.info
-0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
-0.0.0.0 listenthisso.top
 0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
@@ -265,7 +259,6 @@
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performoriginal-theheavilyfile.best
 0.0.0.0 performprecise-theuberfile.best
-0.0.0.0 performquick-thecompletelyfile.best
 0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performspeedy-thegreatlyfile.best
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -317,7 +310,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search-tool.net
@@ -325,6 +317,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -392,7 +385,6 @@
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
 0.0.0.0 syncuber-bestlatestfile.best
-0.0.0.0 syncuber-bestoriginalfile.best
 0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
@@ -423,7 +415,6 @@
 0.0.0.0 trktraf.club
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
@@ -456,6 +447,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

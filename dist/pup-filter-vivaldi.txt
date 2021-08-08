@@ -1,17 +1,18 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 07 Aug 2021 12:02:41 +0000
+! Updated: Sun, 08 Aug 2021 00:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
+||2021travel.net$document
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||altcasino.info$document
+||amobil.online$document
 ||apptool.me$document
 ||armorprovpn.me$document
-||ashtdi.cn$document
 ||asufij.xyz$document
 ||atwater.org$document
 ||be-5hdo32xes-ok.live$document
@@ -91,7 +92,6 @@
 ||findaupgradingurls.work$document
 ||finditquick.online$document
 ||findoffers.co$document
-||findperfectplaces2download.work$document
 ||findyourultimateplayersfirst.best$document
 ||fisudauh.top$document
 ||fithealthspark.info$document
@@ -110,10 +110,8 @@
 ||freewareappsstreamfastall.digital$document
 ||funmapd.xyz$document
 ||funsiteb.xyz$document
-||fwsxqc.cn$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||getbril.io$document
 ||getmoregirls.net$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
@@ -158,21 +156,17 @@
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||jetsummer.xyz$document
-||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||jtkszl.vip$document
 ||junemedia.bar$document
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
-||kad3md.cn$document
 ||keepithealthy.info$document
-||kompsos.uk$document
 ||ktpyzw.vip$document
 ||ligamedia.art$document
 ||ligamedia.casa$document
 ||ligamedia.club$document
-||listenthisso.top$document
 ||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
@@ -265,7 +259,6 @@
 ||performlatestoverlyapplication.icu$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
-||performquick-thecompletelyfile.best$document
 ||performrefineduberapplication.icu$document
 ||performspeedy-thegreatlyfile.best$document
 ||performstrong-thegreatlyfile.digital$document
@@ -317,7 +310,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search-tool.net$document
@@ -325,6 +317,7 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchoffers.info$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -392,7 +385,6 @@
 ||syncrenewed-bestcompletelyfile.best$document
 ||syncstrong-bestextremelyfile.best$document
 ||syncuber-bestlatestfile.best$document
-||syncuber-bestoriginalfile.best$document
 ||syncuber-bestprecisefile.best$document
 ||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
@@ -423,7 +415,6 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
@@ -456,6 +447,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

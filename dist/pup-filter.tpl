@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 07 Aug 2021 12:02:41 +0000
+# Updated: Sun, 08 Aug 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,12 +9,13 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
+-d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d altcasino.info
+-d amobil.online
 -d apptool.me
 -d armorprovpn.me
--d ashtdi.cn
 -d asufij.xyz
 -d atwater.org
 -d be-5hdo32xes-ok.live
@@ -94,7 +95,6 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
--d findperfectplaces2download.work
 -d findyourultimateplayersfirst.best
 -d fisudauh.top
 -d fithealthspark.info
@@ -113,10 +113,8 @@ msFilterList
 -d freewareappsstreamfastall.digital
 -d funmapd.xyz
 -d funsiteb.xyz
--d fwsxqc.cn
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -161,21 +159,17 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d jtkszl.vip
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d kad3md.cn
 -d keepithealthy.info
--d kompsos.uk
 -d ktpyzw.vip
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
--d listenthisso.top
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
@@ -268,7 +262,6 @@ msFilterList
 -d performlatestoverlyapplication.icu
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
--d performquick-thecompletelyfile.best
 -d performrefineduberapplication.icu
 -d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
@@ -320,7 +313,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -328,6 +320,7 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchoffers.info
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -395,7 +388,6 @@ msFilterList
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
 -d syncuber-bestlatestfile.best
--d syncuber-bestoriginalfile.best
 -d syncuber-bestprecisefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
@@ -426,7 +418,6 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
@@ -459,6 +450,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

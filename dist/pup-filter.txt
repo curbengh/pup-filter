@@ -1,17 +1,18 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 07 Aug 2021 12:02:41 +0000
+! Updated: Sun, 08 Aug 2021 00:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
+2021travel.net
 2kddbl.club
 4upgradingstablesafe.work
 altcasino.info
+amobil.online
 apptool.me
 armorprovpn.me
-ashtdi.cn
 asufij.xyz
 atwater.org
 be-5hdo32xes-ok.live
@@ -91,7 +92,6 @@ fastwebe.xyz
 findaupgradingurls.work
 finditquick.online
 findoffers.co
-findperfectplaces2download.work
 findyourultimateplayersfirst.best
 fisudauh.top
 fithealthspark.info
@@ -110,10 +110,8 @@ freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 funmapd.xyz
 funsiteb.xyz
-fwsxqc.cn
 genertellife.it
 get-your-score.club
-getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -158,21 +156,17 @@ iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 jtkszl.vip
 junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-kad3md.cn
 keepithealthy.info
-kompsos.uk
 ktpyzw.vip
 ligamedia.art
 ligamedia.casa
 ligamedia.club
-listenthisso.top
 livingmighty.club
 loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
@@ -265,7 +259,6 @@ performheavily-theoriginalfile.best
 performlatestoverlyapplication.icu
 performoriginal-theheavilyfile.best
 performprecise-theuberfile.best
-performquick-thecompletelyfile.best
 performrefineduberapplication.icu
 performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
@@ -317,7 +310,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-tool.net
@@ -325,6 +317,7 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchoffers.info
+seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -392,7 +385,6 @@ syncrecentintenselythefile.vip
 syncrenewed-bestcompletelyfile.best
 syncstrong-bestextremelyfile.best
 syncuber-bestlatestfile.best
-syncuber-bestoriginalfile.best
 syncuber-bestprecisefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
@@ -423,7 +415,6 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
@@ -456,6 +447,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
