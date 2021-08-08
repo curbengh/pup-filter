@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 08 Aug 2021 00:02:49 +0000
+# Updated: Sun, 08 Aug 2021 12:02:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -84,11 +84,9 @@
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
-0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
-0.0.0.0 fastwebe.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
@@ -97,7 +95,6 @@
 0.0.0.0 fithealthspark.info
 0.0.0.0 flash-rewards.info
 0.0.0.0 flatbellylife.info
-0.0.0.0 flexroll.online
 0.0.0.0 flyfreecostas.live
 0.0.0.0 flymedia.cam
 0.0.0.0 flymedia.club
@@ -252,7 +249,6 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performgreatly-thespeedyfile.best
 0.0.0.0 performheavily-theoriginalfile.best
@@ -289,6 +285,7 @@
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
+0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
 0.0.0.0 rundeveloped-bestoverlyfile.best
@@ -317,7 +314,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz

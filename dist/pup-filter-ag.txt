@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 08 Aug 2021 00:02:49 +0000
+! Updated: Sun, 08 Aug 2021 12:02:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -84,11 +84,9 @@
 ||f7lwv2y0xb.top$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
-||fastspinf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
-||fastwebe.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
@@ -97,7 +95,6 @@
 ||fithealthspark.info$all
 ||flash-rewards.info$all
 ||flatbellylife.info$all
-||flexroll.online$all
 ||flyfreecostas.live$all
 ||flymedia.cam$all
 ||flymedia.club$all
@@ -252,7 +249,6 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
 ||performgreatly-thespeedyfile.best$all
 ||performheavily-theoriginalfile.best$all
@@ -289,6 +285,7 @@
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
+||robogarden.io$all
 ||runadvanced-bestextremelyfile.best$all
 ||runcurrent-bestextremelyfile.best$all
 ||rundeveloped-bestoverlyfile.best$all
@@ -317,7 +314,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchoffers.info$all
-||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all

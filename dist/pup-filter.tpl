@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 08 Aug 2021 00:02:49 +0000
+# Updated: Sun, 08 Aug 2021 12:02:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -87,11 +87,9 @@ msFilterList
 -d f7lwv2y0xb.top
 -d fastmapc.xyz
 -d fastspinc.xyz
--d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
--d fastwebe.xyz
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
@@ -100,7 +98,6 @@ msFilterList
 -d fithealthspark.info
 -d flash-rewards.info
 -d flatbellylife.info
--d flexroll.online
 -d flyfreecostas.live
 -d flymedia.cam
 -d flymedia.club
@@ -255,7 +252,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
@@ -292,6 +288,7 @@ msFilterList
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
+-d robogarden.io
 -d runadvanced-bestextremelyfile.best
 -d runcurrent-bestextremelyfile.best
 -d rundeveloped-bestoverlyfile.best
@@ -320,7 +317,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchoffers.info
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
