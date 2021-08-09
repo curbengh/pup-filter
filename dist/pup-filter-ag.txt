@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 08 Aug 2021 12:02:39 +0000
+! Updated: Mon, 09 Aug 2021 00:04:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -109,6 +109,7 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -153,6 +154,7 @@
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
+||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||jtkszl.vip$all
 ||junemedia.bar$all
@@ -160,10 +162,13 @@
 ||junemedia.xyz$all
 ||junesmile.xyz$all
 ||keepithealthy.info$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
+||lackystack.net$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
+||listenthisso.top$all
 ||livingmighty.club$all
 ||loadadvancedextremelythefile.vip$all
 ||loaddevelopeduberfile.digital$all
@@ -207,7 +212,6 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||luckymedia.cyou$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
 ||manageuber-therecentfile.best$all
@@ -238,6 +242,7 @@
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
+||newsinformer.net$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -307,6 +312,7 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search-tool.net$all
@@ -327,8 +333,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
-||stay-notified.cc$all
-||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -411,6 +415,7 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 08 Aug 2021 12:02:39 +0000
+# Updated: Mon, 09 Aug 2021 00:04:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -112,6 +112,7 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -156,6 +157,7 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d jtkszl.vip
 -d junemedia.bar
@@ -163,10 +165,13 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepithealthy.info
+-d kompsos.uk
 -d ktpyzw.vip
+-d lackystack.net
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
+-d listenthisso.top
 -d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
@@ -210,7 +215,6 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d luckymedia.cyou
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
 -d manageuber-therecentfile.best
@@ -241,6 +245,7 @@ msFilterList
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
+-d newsinformer.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -310,6 +315,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search-tool.net
@@ -330,8 +336,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stay-notified.cc
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -414,6 +418,7 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz

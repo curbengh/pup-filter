@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 08 Aug 2021 12:02:39 +0000
+# Updated: Mon, 09 Aug 2021 00:04:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -109,6 +109,7 @@ funmapd.xyz
 funsiteb.xyz
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -153,6 +154,7 @@ iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
+jointingifstrawberry.xyz
 jojomamanbebe.ie
 jtkszl.vip
 junemedia.bar
@@ -160,10 +162,13 @@ junemedia.club
 junemedia.xyz
 junesmile.xyz
 keepithealthy.info
+kompsos.uk
 ktpyzw.vip
+lackystack.net
 ligamedia.art
 ligamedia.casa
 ligamedia.club
+listenthisso.top
 livingmighty.club
 loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
@@ -207,7 +212,6 @@ locationtracker.services
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-luckymedia.cyou
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
 manageuber-therecentfile.best
@@ -238,6 +242,7 @@ my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
+newsinformer.net
 nutrahealth.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -307,6 +312,7 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
+savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search-tool.net
@@ -327,8 +333,6 @@ spotmapf.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stay-notified.cc
-stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -411,6 +415,7 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
+ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
