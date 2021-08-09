@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 09 Aug 2021 00:04:46 +0000
+# Updated: Mon, 09 Aug 2021 12:03:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -37,7 +37,6 @@
 0.0.0.0 browse-privately.net
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
-0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
 0.0.0.0 check-your-profitzone.life
@@ -143,12 +142,11 @@
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
-0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
 0.0.0.0 installcompletely-theoriginalfile.best
+0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
@@ -290,7 +288,6 @@
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
-0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
 0.0.0.0 rundeveloped-bestoverlyfile.best
@@ -320,6 +317,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 09 Aug 2021 00:04:46 +0000
+! Updated: Mon, 09 Aug 2021 12:03:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -37,7 +37,6 @@
 ||browse-privately.net$document
 ||btcinvesting.info$document
 ||bulley.shop$document
-||calledbellc.fun$document
 ||care-connection.info$document
 ||careerconnecthub.com$document
 ||check-your-profitzone.life$document
@@ -143,12 +142,11 @@
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||imagefind.org$document
-||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||installcompletely-theoriginalfile.best$document
+||investinfo.net$document
 ||iosdfnc.com$document
 ||iosrecommendedvpn.com$document
 ||ironprovpn.me$document
@@ -290,7 +288,6 @@
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
-||robogarden.io$document
 ||runadvanced-bestextremelyfile.best$document
 ||runcurrent-bestextremelyfile.best$document
 ||rundeveloped-bestoverlyfile.best$document
@@ -320,6 +317,7 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchoffers.info$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
