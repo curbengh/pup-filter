@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 10 Aug 2021 00:03:17 +0000
+! Updated: Tue, 10 Aug 2021 12:03:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||2021travel.net^
 ||2kddbl.club^
 ||4upgradingstablesafe.work^
+||affiliateland.io^
 ||altcasino.info^
 ||amobil.online^
 ||apptool.me^
@@ -37,6 +38,7 @@
 ||browse-privately.net^
 ||btcinvesting.info^
 ||bulley.shop^
+||calledbellc.fun^
 ||care-connection.info^
 ||careerconnecthub.com^
 ||check-your-profitzone.life^
@@ -85,6 +87,7 @@
 ||fastspota.xyz^
 ||fastspotb.xyz^
 ||fastwebb.xyz^
+||fastwebe.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
 ||findoffers.co^
@@ -141,6 +144,7 @@
 ||hotladieshere.net^
 ||httqzq.vip^
 ||hypezen.info^
+||ientsillness.fun^
 ||imagefind.org^
 ||incrediblebuzz.info^
 ||information.casa^
@@ -161,7 +165,6 @@
 ||keepithealthy.info^
 ||kompsos.uk^
 ||ktpyzw.vip^
-||lackystack.net^
 ||ligamedia.art^
 ||ligamedia.casa^
 ||ligamedia.club^
@@ -230,6 +233,7 @@
 ||meeryslotspin.xyz^
 ||melanthios-ana.com^
 ||mindbank.ai^
+||mindmatch.ai^
 ||mistraffic.me^
 ||mobileluckywinner.site^
 ||money-hero.org^
@@ -251,6 +255,7 @@
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
+||ouldthepat.fun^
 ||pcsecurity-live.xyz^
 ||performgreatly-thespeedyfile.best^
 ||performheavily-theoriginalfile.best^
@@ -314,7 +319,6 @@
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
-||searchoffers.info^
 ||seasoned.co^
 ||securitevpn.me^
 ||securityvpnpro.me^

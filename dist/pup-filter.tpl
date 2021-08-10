@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 10 Aug 2021 00:03:17 +0000
+# Updated: Tue, 10 Aug 2021 12:03:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
+-d affiliateland.io
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -40,6 +41,7 @@ msFilterList
 -d browse-privately.net
 -d btcinvesting.info
 -d bulley.shop
+-d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
 -d check-your-profitzone.life
@@ -88,6 +90,7 @@ msFilterList
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
+-d fastwebe.xyz
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
@@ -144,6 +147,7 @@ msFilterList
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
@@ -164,7 +168,6 @@ msFilterList
 -d keepithealthy.info
 -d kompsos.uk
 -d ktpyzw.vip
--d lackystack.net
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -233,6 +236,7 @@ msFilterList
 -d meeryslotspin.xyz
 -d melanthios-ana.com
 -d mindbank.ai
+-d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
 -d money-hero.org
@@ -254,6 +258,7 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
@@ -317,7 +322,6 @@ msFilterList
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
--d searchoffers.info
 -d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
