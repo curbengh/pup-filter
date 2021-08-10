@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 09 Aug 2021 12:03:55 +0000
+# Updated: Tue, 10 Aug 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -58,7 +58,6 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 cselfconnect.com
-0.0.0.0 dailymedia.casa
 0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.monster
 0.0.0.0 dailymedia.site
@@ -105,6 +104,7 @@
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 funmapd.xyz
+0.0.0.0 funny-media.ru
 0.0.0.0 funsiteb.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
@@ -130,7 +130,6 @@
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
-0.0.0.0 healtheezy.info
 0.0.0.0 healthomega.club
 0.0.0.0 healthscale.club
 0.0.0.0 healthschedule.club
@@ -312,7 +311,6 @@
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
-0.0.0.0 search-tool.net
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -331,6 +329,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
+0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -400,10 +399,8 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
-0.0.0.0 thestablegreatupgrades.best
 0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
-0.0.0.0 toovolution.club
 0.0.0.0 top-offers2.club
 0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
@@ -446,7 +443,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

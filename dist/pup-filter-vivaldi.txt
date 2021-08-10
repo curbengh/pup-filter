@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 09 Aug 2021 12:03:55 +0000
+! Updated: Tue, 10 Aug 2021 00:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,7 +58,6 @@
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||cselfconnect.com$document
-||dailymedia.casa$document
 ||dailymedia.cyou$document
 ||dailymedia.monster$document
 ||dailymedia.site$document
@@ -105,6 +104,7 @@
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
 ||funmapd.xyz$document
+||funny-media.ru$document
 ||funsiteb.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
@@ -130,7 +130,6 @@
 ||hailso.xyz$document
 ||happymakesite.xyz$document
 ||healandgrow.club$document
-||healtheezy.info$document
 ||healthomega.club$document
 ||healthscale.club$document
 ||healthschedule.club$document
@@ -312,7 +311,6 @@
 ||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
-||search-tool.net$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -331,6 +329,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -400,10 +399,8 @@
 ||thenewjourney.info$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
-||thestablegreatupgrades.best$document
 ||timeoffers.net$document
 ||toolvpn.me$document
-||toovolution.club$document
 ||top-offers2.club$document
 ||track4ast.icu$document
 ||tracking-landers.xyz$document
@@ -446,7 +443,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

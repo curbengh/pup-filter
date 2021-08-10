@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 09 Aug 2021 12:03:55 +0000
+! Updated: Tue, 10 Aug 2021 00:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,7 +58,6 @@ credit-monitor.xyz
 credit-monitoring-360.xyz
 cryptotilt.club
 cselfconnect.com
-dailymedia.casa
 dailymedia.cyou
 dailymedia.monster
 dailymedia.site
@@ -105,6 +104,7 @@ freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 funmapd.xyz
+funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
@@ -130,7 +130,6 @@ growthnetic.club
 hailso.xyz
 happymakesite.xyz
 healandgrow.club
-healtheezy.info
 healthomega.club
 healthscale.club
 healthschedule.club
@@ -312,7 +311,6 @@ safest4placeupdates.info
 savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
-search-tool.net
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -331,6 +329,7 @@ spotmapf.xyz
 springplanetf.xyz
 start-page.one
 startos.win
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -400,10 +399,8 @@ theirproviderock.top
 thenewjourney.info
 thesafestreliablelink.work
 theslotomania.info
-thestablegreatupgrades.best
 timeoffers.net
 toolvpn.me
-toovolution.club
 top-offers2.club
 track4ast.icu
 tracking-landers.xyz
@@ -446,7 +443,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

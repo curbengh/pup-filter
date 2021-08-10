@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 09 Aug 2021 12:03:55 +0000
+! Updated: Tue, 10 Aug 2021 00:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -58,7 +58,6 @@
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||cselfconnect.com$all
-||dailymedia.casa$all
 ||dailymedia.cyou$all
 ||dailymedia.monster$all
 ||dailymedia.site$all
@@ -105,6 +104,7 @@
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
 ||funmapd.xyz$all
+||funny-media.ru$all
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
@@ -130,7 +130,6 @@
 ||hailso.xyz$all
 ||happymakesite.xyz$all
 ||healandgrow.club$all
-||healtheezy.info$all
 ||healthomega.club$all
 ||healthscale.club$all
 ||healthschedule.club$all
@@ -312,7 +311,6 @@
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
-||search-tool.net$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
@@ -331,6 +329,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -400,10 +399,8 @@
 ||thenewjourney.info$all
 ||thesafestreliablelink.work$all
 ||theslotomania.info$all
-||thestablegreatupgrades.best$all
 ||timeoffers.net$all
 ||toolvpn.me$all
-||toovolution.club$all
 ||top-offers2.club$all
 ||track4ast.icu$all
 ||tracking-landers.xyz$all
@@ -446,7 +443,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

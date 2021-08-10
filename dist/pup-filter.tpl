@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 09 Aug 2021 12:03:55 +0000
+# Updated: Tue, 10 Aug 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -61,7 +61,6 @@ msFilterList
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d cselfconnect.com
--d dailymedia.casa
 -d dailymedia.cyou
 -d dailymedia.monster
 -d dailymedia.site
@@ -108,6 +107,7 @@ msFilterList
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d funmapd.xyz
+-d funny-media.ru
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
@@ -133,7 +133,6 @@ msFilterList
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
--d healtheezy.info
 -d healthomega.club
 -d healthscale.club
 -d healthschedule.club
@@ -315,7 +314,6 @@ msFilterList
 -d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
--d search-tool.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -334,6 +332,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -403,10 +402,8 @@ msFilterList
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
--d thestablegreatupgrades.best
 -d timeoffers.net
 -d toolvpn.me
--d toovolution.club
 -d top-offers2.club
 -d track4ast.icu
 -d tracking-landers.xyz
@@ -449,7 +446,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
