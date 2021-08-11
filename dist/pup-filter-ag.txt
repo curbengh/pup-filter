@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 11 Aug 2021 00:03:07 +0000
+! Updated: Wed, 11 Aug 2021 12:03:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 ||apptool.me$all
 ||armorprovpn.me$all
 ||asufij.xyz$all
+||atprofessor.fun$all
 ||atwater.org$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -92,6 +93,7 @@
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
+||findwith.me$all
 ||findyourultimateplayersfirst.best$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
@@ -130,6 +132,7 @@
 ||gramp.xyz$all
 ||grandencryptions.me$all
 ||growthnetic.club$all
+||gx8uxvn13l.top$all
 ||hailso.xyz$all
 ||happymakesite.xyz$all
 ||healandgrow.club$all
@@ -146,6 +149,7 @@
 ||imagefind.org$all
 ||incrediblebuzz.info$all
 ||information.casa$all
+||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
 ||iosdfnc.com$all
@@ -163,6 +167,7 @@
 ||keepithealthy.info$all
 ||kompsos.uk$all
 ||ktpyzw.vip$all
+||lackystack.net$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -280,6 +285,7 @@
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||rainlonginsect23.life$all
+||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||resignation.top$all
@@ -400,6 +406,7 @@
 ||top-offers2.club$all
 ||track4ast.icu$all
 ||tracking-landers.xyz$all
+||trafficgate.cc$all
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all

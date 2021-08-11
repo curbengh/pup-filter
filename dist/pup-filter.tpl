@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 11 Aug 2021 00:03:07 +0000
+# Updated: Wed, 11 Aug 2021 12:03:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ msFilterList
 -d apptool.me
 -d armorprovpn.me
 -d asufij.xyz
+-d atprofessor.fun
 -d atwater.org
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -95,6 +96,7 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
+-d findwith.me
 -d findyourultimateplayersfirst.best
 -d fisudauh.top
 -d fithealthspark.info
@@ -133,6 +135,7 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
+-d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
@@ -149,6 +152,7 @@ msFilterList
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
+-d inspirationfor.me
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
 -d iosdfnc.com
@@ -166,6 +170,7 @@ msFilterList
 -d keepithealthy.info
 -d kompsos.uk
 -d ktpyzw.vip
+-d lackystack.net
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
@@ -283,6 +288,7 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
+-d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d resignation.top
@@ -403,6 +409,7 @@ msFilterList
 -d top-offers2.club
 -d track4ast.icu
 -d tracking-landers.xyz
+-d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life

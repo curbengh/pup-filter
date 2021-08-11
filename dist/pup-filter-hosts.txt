@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 11 Aug 2021 00:03:07 +0000
+# Updated: Wed, 11 Aug 2021 12:03:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -92,6 +93,7 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
+0.0.0.0 findwith.me
 0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
@@ -130,6 +132,7 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
+0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
@@ -146,6 +149,7 @@
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
+0.0.0.0 inspirationfor.me
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
@@ -163,6 +167,7 @@
 0.0.0.0 keepithealthy.info
 0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
+0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
@@ -280,6 +285,7 @@
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
+0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 resignation.top
@@ -400,6 +406,7 @@
 0.0.0.0 top-offers2.club
 0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
+0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
