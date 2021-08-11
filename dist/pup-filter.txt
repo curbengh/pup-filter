@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 10 Aug 2021 12:03:37 +0000
+! Updated: Wed, 11 Aug 2021 00:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,12 @@
 4upgradingstablesafe.work
 affiliateland.io
 altcasino.info
-amobil.online
 apptool.me
 armorprovpn.me
 asufij.xyz
 atwater.org
 be-5hdo32xes-ok.live
+be-n9lnns3n-ok.live
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
@@ -41,6 +41,7 @@ bulley.shop
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
+chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
@@ -56,7 +57,6 @@ contentgate.cam
 contentgate.club
 contentgate.fun
 contentgate.uno
-credit-monitor.xyz
 credit-monitoring-360.xyz
 cryptotilt.club
 cselfconnect.com
@@ -82,6 +82,7 @@ eproute.info
 erotica.live
 extrasafe.xyz
 f7lwv2y0xb.top
+fast-app.xyz
 fastmapc.xyz
 fastspinc.xyz
 fastspota.xyz
@@ -113,7 +114,6 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -138,9 +138,7 @@ healthscale.club
 healthschedule.club
 healthsupreme.club
 healthtag.club
-healthylives.today
 healthyspirit.info
-heatwavereporter.org
 hotladieshere.net
 httqzq.vip
 hypezen.info
@@ -219,7 +217,6 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 marketloans.net
 matchyourgirl.online
-mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -236,7 +233,6 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-money-hero.org
 monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
@@ -281,7 +277,6 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
-qh97dkzy20.top
 quantum.work
 quatrefeuillepolonaise.xyz
 rainlonginsect23.life
@@ -319,7 +314,6 @@ score-monitoring.xyz
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -333,14 +327,12 @@ spotmapf.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
-streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -418,6 +410,7 @@ ubertech.shop
 uclaimrewards.net
 unitehealth.club
 updatefix.xyz
+upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
@@ -447,6 +440,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

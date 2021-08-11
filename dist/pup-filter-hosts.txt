@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 10 Aug 2021 12:03:37 +0000
+# Updated: Wed, 11 Aug 2021 00:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,12 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
-0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 asufij.xyz
 0.0.0.0 atwater.org
 0.0.0.0 be-5hdo32xes-ok.live
+0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
@@ -41,6 +41,7 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 cloudmedia.casa
@@ -56,7 +57,6 @@
 0.0.0.0 contentgate.club
 0.0.0.0 contentgate.fun
 0.0.0.0 contentgate.uno
-0.0.0.0 credit-monitor.xyz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 cselfconnect.com
@@ -82,6 +82,7 @@
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
+0.0.0.0 fast-app.xyz
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspota.xyz
@@ -113,7 +114,6 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -138,9 +138,7 @@
 0.0.0.0 healthschedule.club
 0.0.0.0 healthsupreme.club
 0.0.0.0 healthtag.club
-0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
-0.0.0.0 heatwavereporter.org
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -219,7 +217,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
 0.0.0.0 mediagate.casa
@@ -236,7 +233,6 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
 0.0.0.0 monitoring-credit.xyz
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
@@ -281,7 +277,6 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qh97dkzy20.top
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
@@ -319,7 +314,6 @@
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -333,14 +327,12 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
-0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
-0.0.0.0 streamingmadness.net
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best
@@ -418,6 +410,7 @@
 0.0.0.0 uclaimrewards.net
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
+0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
@@ -447,6 +440,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

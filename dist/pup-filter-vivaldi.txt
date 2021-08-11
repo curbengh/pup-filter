@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 10 Aug 2021 12:03:37 +0000
+! Updated: Wed, 11 Aug 2021 00:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,12 +11,12 @@
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
 ||altcasino.info$document
-||amobil.online$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||asufij.xyz$document
 ||atwater.org$document
 ||be-5hdo32xes-ok.live$document
+||be-n9lnns3n-ok.live$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -41,6 +41,7 @@
 ||calledbellc.fun$document
 ||care-connection.info$document
 ||careerconnecthub.com$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||checkstableaupdatinglinks.work$document
 ||cloudmedia.casa$document
@@ -56,7 +57,6 @@
 ||contentgate.club$document
 ||contentgate.fun$document
 ||contentgate.uno$document
-||credit-monitor.xyz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||cselfconnect.com$document
@@ -82,6 +82,7 @@
 ||erotica.live$document
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
+||fast-app.xyz$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
 ||fastspota.xyz$document
@@ -113,7 +114,6 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -138,9 +138,7 @@
 ||healthschedule.club$document
 ||healthsupreme.club$document
 ||healthtag.club$document
-||healthylives.today$document
 ||healthyspirit.info$document
-||heatwavereporter.org$document
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -219,7 +217,6 @@
 ||manageuber-theswiftfile.best$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -236,7 +233,6 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
@@ -281,7 +277,6 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
-||qh97dkzy20.top$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
 ||rainlonginsect23.life$document
@@ -319,7 +314,6 @@
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
-||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -333,14 +327,12 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
-||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
-||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -418,6 +410,7 @@
 ||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
+||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
@@ -447,6 +440,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

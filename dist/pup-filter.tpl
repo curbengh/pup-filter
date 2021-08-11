@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 10 Aug 2021 12:03:37 +0000
+# Updated: Wed, 11 Aug 2021 00:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,12 +14,12 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d altcasino.info
--d amobil.online
 -d apptool.me
 -d armorprovpn.me
 -d asufij.xyz
 -d atwater.org
 -d be-5hdo32xes-ok.live
+-d be-n9lnns3n-ok.live
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -44,6 +44,7 @@ msFilterList
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
@@ -59,7 +60,6 @@ msFilterList
 -d contentgate.club
 -d contentgate.fun
 -d contentgate.uno
--d credit-monitor.xyz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d cselfconnect.com
@@ -85,6 +85,7 @@ msFilterList
 -d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
+-d fast-app.xyz
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -116,7 +117,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -141,9 +141,7 @@ msFilterList
 -d healthschedule.club
 -d healthsupreme.club
 -d healthtag.club
--d healthylives.today
 -d healthyspirit.info
--d heatwavereporter.org
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
@@ -222,7 +220,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -239,7 +236,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
 -d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
@@ -284,7 +280,6 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
--d qh97dkzy20.top
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
@@ -322,7 +317,6 @@ msFilterList
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -336,14 +330,12 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
--d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -421,6 +413,7 @@ msFilterList
 -d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
+-d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
@@ -450,6 +443,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
