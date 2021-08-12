@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 11 Aug 2021 12:03:25 +0000
+! Updated: Thu, 12 Aug 2021 00:03:29 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,17 +11,15 @@
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
 ||altcasino.info$document
+||amobil.online$document
 ||apptool.me$document
 ||armorprovpn.me$document
 ||asufij.xyz$document
 ||atprofessor.fun$document
-||atwater.org$document
 ||be-5hdo32xes-ok.live$document
-||be-n9lnns3n-ok.live$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
-||bigdaycasino.info$document
 ||bigwin-online-free-congrats.cyou$document
 ||bigwinonlinefreecongrats.cyou$document
 ||bitcoinjunction.club$document
@@ -62,7 +60,6 @@
 ||cryptotilt.club$document
 ||cselfconnect.com$document
 ||dailymedia.cyou$document
-||dailymedia.monster$document
 ||dailymedia.site$document
 ||dailymedia.space$document
 ||dailymedia.surf$document
@@ -83,7 +80,6 @@
 ||erotica.live$document
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
-||fast-app.xyz$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
 ||fastspota.xyz$document
@@ -116,6 +112,7 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -141,12 +138,13 @@
 ||healthschedule.club$document
 ||healthsupreme.club$document
 ||healthtag.club$document
+||healthylives.today$document
 ||healthyspirit.info$document
+||heatwavereporter.org$document
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
-||imagefind.org$document
 ||incrediblebuzz.info$document
 ||information.casa$document
 ||inspirationfor.me$document
@@ -180,7 +178,6 @@
 ||loadextremelyrecentthefile.vip$document
 ||loadfree-bestheavilyfile.best$document
 ||loadfreeextremelyfile.digital$document
-||loadgreatly-bestadvancedfile.best$document
 ||loadgreatly-bestrenewedfile.best$document
 ||loadgreatlynewestthefile.vip$document
 ||loadgreatlyoriginalthefile.vip$document
@@ -222,6 +219,7 @@
 ||manageuber-theswiftfile.best$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
 ||mediagate.casa$document
@@ -238,12 +236,14 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
+||money-hero.org$document
 ||monitoring-credit.xyz$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
+||newbuy.xyz$document
 ||newsinformer.net$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
@@ -258,13 +258,11 @@
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
 ||pcsecurity-live.xyz$document
-||performgreatly-thespeedyfile.best$document
 ||performheavily-theoriginalfile.best$document
 ||performlatestoverlyapplication.icu$document
 ||performoriginal-theheavilyfile.best$document
 ||performprecise-theuberfile.best$document
 ||performrefineduberapplication.icu$document
-||performspeedy-thegreatlyfile.best$document
 ||performstrong-thegreatlyfile.digital$document
 ||performuberquickapplication.icu$document
 ||placesiteb.xyz$document
@@ -314,7 +312,6 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search4theupdatefree.work$document
@@ -333,12 +330,14 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
+||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -390,7 +389,6 @@
 ||syncubercurrentfiles.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
-||tdstraffic.xyz$document
 ||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
@@ -413,8 +411,6 @@
 ||trktraf.club$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
-||uclaimrewards.net$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document

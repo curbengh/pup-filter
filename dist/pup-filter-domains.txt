@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 11 Aug 2021 12:03:25 +0000
+# Updated: Thu, 12 Aug 2021 00:03:29 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,17 +11,15 @@
 4upgradingstablesafe.work
 affiliateland.io
 altcasino.info
+amobil.online
 apptool.me
 armorprovpn.me
 asufij.xyz
 atprofessor.fun
-atwater.org
 be-5hdo32xes-ok.live
-be-n9lnns3n-ok.live
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
-bigdaycasino.info
 bigwin-online-free-congrats.cyou
 bigwinonlinefreecongrats.cyou
 bitcoinjunction.club
@@ -62,7 +60,6 @@ credit-monitoring-360.xyz
 cryptotilt.club
 cselfconnect.com
 dailymedia.cyou
-dailymedia.monster
 dailymedia.site
 dailymedia.space
 dailymedia.surf
@@ -83,7 +80,6 @@ eproute.info
 erotica.live
 extrasafe.xyz
 f7lwv2y0xb.top
-fast-app.xyz
 fastmapc.xyz
 fastspinc.xyz
 fastspota.xyz
@@ -116,6 +112,7 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -141,12 +138,13 @@ healthscale.club
 healthschedule.club
 healthsupreme.club
 healthtag.club
+healthylives.today
 healthyspirit.info
+heatwavereporter.org
 hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
-imagefind.org
 incrediblebuzz.info
 information.casa
 inspirationfor.me
@@ -180,7 +178,6 @@ loadextremelyquickfile.digital
 loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
 loadfreeextremelyfile.digital
-loadgreatly-bestadvancedfile.best
 loadgreatly-bestrenewedfile.best
 loadgreatlynewestthefile.vip
 loadgreatlyoriginalthefile.vip
@@ -222,6 +219,7 @@ manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 marketloans.net
 matchyourgirl.online
+mathison.io
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -238,12 +236,14 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
+money-hero.org
 monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
+newbuy.xyz
 newsinformer.net
 nutrahealth.info
 official-bigwin-national-free.cyou
@@ -258,13 +258,11 @@ onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pcsecurity-live.xyz
-performgreatly-thespeedyfile.best
 performheavily-theoriginalfile.best
 performlatestoverlyapplication.icu
 performoriginal-theheavilyfile.best
 performprecise-theuberfile.best
 performrefineduberapplication.icu
-performspeedy-thegreatlyfile.best
 performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 placesiteb.xyz
@@ -314,7 +312,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 safest4placeupdate.info
 safest4placeupdates.info
-savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
 search4theupdatefree.work
@@ -333,12 +330,14 @@ spotmapf.xyz
 springplanetf.xyz
 start-page.one
 startos.win
+stickr.co
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
+streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -390,7 +389,6 @@ syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
 systemupdatit.club
 tackis.xyz
-tdstraffic.xyz
 technologypartners.net
 thecryptomoney.info
 thecryptozone.website
@@ -413,8 +411,6 @@ tripleprofit-zone.life
 trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
-uclaimrewards.net
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz

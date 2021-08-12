@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 11 Aug 2021 12:03:25 +0000
+# Updated: Thu, 12 Aug 2021 00:03:29 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,17 +14,15 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d altcasino.info
+-d amobil.online
 -d apptool.me
 -d armorprovpn.me
 -d asufij.xyz
 -d atprofessor.fun
--d atwater.org
 -d be-5hdo32xes-ok.live
--d be-n9lnns3n-ok.live
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
--d bigdaycasino.info
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
 -d bitcoinjunction.club
@@ -65,7 +63,6 @@ msFilterList
 -d cryptotilt.club
 -d cselfconnect.com
 -d dailymedia.cyou
--d dailymedia.monster
 -d dailymedia.site
 -d dailymedia.space
 -d dailymedia.surf
@@ -86,7 +83,6 @@ msFilterList
 -d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
--d fast-app.xyz
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -119,6 +115,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -144,12 +141,13 @@ msFilterList
 -d healthschedule.club
 -d healthsupreme.club
 -d healthtag.club
+-d healthylives.today
 -d healthyspirit.info
+-d heatwavereporter.org
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
--d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
 -d inspirationfor.me
@@ -183,7 +181,6 @@ msFilterList
 -d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
 -d loadfreeextremelyfile.digital
--d loadgreatly-bestadvancedfile.best
 -d loadgreatly-bestrenewedfile.best
 -d loadgreatlynewestthefile.vip
 -d loadgreatlyoriginalthefile.vip
@@ -225,6 +222,7 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -241,12 +239,14 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d money-hero.org
 -d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
+-d newbuy.xyz
 -d newsinformer.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
@@ -261,13 +261,11 @@ msFilterList
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
 -d pcsecurity-live.xyz
--d performgreatly-thespeedyfile.best
 -d performheavily-theoriginalfile.best
 -d performlatestoverlyapplication.icu
 -d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
 -d performrefineduberapplication.icu
--d performspeedy-thegreatlyfile.best
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
 -d placesiteb.xyz
@@ -317,7 +315,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
--d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search4theupdatefree.work
@@ -336,12 +333,14 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
+-d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -393,7 +392,6 @@ msFilterList
 -d syncubercurrentfiles.best
 -d systemupdatit.club
 -d tackis.xyz
--d tdstraffic.xyz
 -d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
@@ -416,8 +414,6 @@ msFilterList
 -d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
--d uclaimrewards.net
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 11 Aug 2021 12:03:25 +0000
+! Updated: Thu, 12 Aug 2021 00:03:29 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,17 +11,15 @@
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||altcasino.info$all
+||amobil.online$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||asufij.xyz$all
 ||atprofessor.fun$all
-||atwater.org$all
 ||be-5hdo32xes-ok.live$all
-||be-n9lnns3n-ok.live$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
-||bigdaycasino.info$all
 ||bigwin-online-free-congrats.cyou$all
 ||bigwinonlinefreecongrats.cyou$all
 ||bitcoinjunction.club$all
@@ -62,7 +60,6 @@
 ||cryptotilt.club$all
 ||cselfconnect.com$all
 ||dailymedia.cyou$all
-||dailymedia.monster$all
 ||dailymedia.site$all
 ||dailymedia.space$all
 ||dailymedia.surf$all
@@ -83,7 +80,6 @@
 ||erotica.live$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
-||fast-app.xyz$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspota.xyz$all
@@ -116,6 +112,7 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -141,12 +138,13 @@
 ||healthschedule.club$all
 ||healthsupreme.club$all
 ||healthtag.club$all
+||healthylives.today$all
 ||healthyspirit.info$all
+||heatwavereporter.org$all
 ||hotladieshere.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
-||imagefind.org$all
 ||incrediblebuzz.info$all
 ||information.casa$all
 ||inspirationfor.me$all
@@ -180,7 +178,6 @@
 ||loadextremelyrecentthefile.vip$all
 ||loadfree-bestheavilyfile.best$all
 ||loadfreeextremelyfile.digital$all
-||loadgreatly-bestadvancedfile.best$all
 ||loadgreatly-bestrenewedfile.best$all
 ||loadgreatlynewestthefile.vip$all
 ||loadgreatlyoriginalthefile.vip$all
@@ -222,6 +219,7 @@
 ||manageuber-theswiftfile.best$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -238,12 +236,14 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
+||money-hero.org$all
 ||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
+||newbuy.xyz$all
 ||newsinformer.net$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
@@ -258,13 +258,11 @@
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
-||performgreatly-thespeedyfile.best$all
 ||performheavily-theoriginalfile.best$all
 ||performlatestoverlyapplication.icu$all
 ||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
 ||performrefineduberapplication.icu$all
-||performspeedy-thegreatlyfile.best$all
 ||performstrong-thegreatlyfile.digital$all
 ||performuberquickapplication.icu$all
 ||placesiteb.xyz$all
@@ -314,7 +312,6 @@
 ||runrecent-besthighlyfile.best$all
 ||safest4placeupdate.info$all
 ||safest4placeupdates.info$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
 ||search4theupdatefree.work$all
@@ -333,12 +330,14 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
+||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
+||streamingmadness.net$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
 ||streamintensely-bestlatestfile.best$all
@@ -390,7 +389,6 @@
 ||syncubercurrentfiles.best$all
 ||systemupdatit.club$all
 ||tackis.xyz$all
-||tdstraffic.xyz$all
 ||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
@@ -413,8 +411,6 @@
 ||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
-||uclaimrewards.net$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
