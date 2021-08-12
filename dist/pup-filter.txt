@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 12 Aug 2021 00:03:29 +0000
+! Updated: Thu, 12 Aug 2021 12:03:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -145,6 +145,7 @@ hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
+incing-marganic.icu
 incrediblebuzz.info
 information.casa
 inspirationfor.me
@@ -291,6 +292,7 @@ rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
+robogarden.io
 runadvanced-bestextremelyfile.best
 runcurrent-bestextremelyfile.best
 rundeveloped-bestoverlyfile.best
@@ -317,6 +319,7 @@ score-monitoring.xyz
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
+searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -447,7 +450,6 @@ yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
-yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 yourstablegreatupdate.work
