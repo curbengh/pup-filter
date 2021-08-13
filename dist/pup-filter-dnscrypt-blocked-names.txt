@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 13 Aug 2021 00:02:55 +0000
+# Updated: Fri, 13 Aug 2021 12:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -145,10 +145,8 @@ httqzq.vip
 hypezen.info
 ientsillness.fun
 imagefind.org
-incing-marganic.icu
 incrediblebuzz.info
 information.casa
-inspirationfor.me
 installcompletely-theoriginalfile.best
 investinfo.net
 iosdfnc.com
@@ -325,11 +323,11 @@ signupandturnyourscreenoffsafepowernow.date
 sorrectionki.space
 spotmapd.xyz
 spotmapf.xyz
-spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
+stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best

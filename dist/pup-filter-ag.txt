@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 13 Aug 2021 00:02:55 +0000
+! Updated: Fri, 13 Aug 2021 12:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -145,10 +145,8 @@
 ||hypezen.info$all
 ||ientsillness.fun$all
 ||imagefind.org$all
-||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
-||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
 ||iosdfnc.com$all
@@ -325,11 +323,11 @@
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
-||spotplanetc.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
+||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
