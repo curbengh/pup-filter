@@ -1,12 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 12 Aug 2021 12:03:27 +0000
+! Updated: Fri, 13 Aug 2021 00:02:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$all
-||2021travel.net$all
 ||2kddbl.club$all
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
@@ -80,6 +79,7 @@
 ||erotica.live$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
+||fast-app.xyz$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspota.xyz$all
@@ -135,7 +135,6 @@
 ||healandgrow.club$all
 ||healthomega.club$all
 ||healthscale.club$all
-||healthschedule.club$all
 ||healthsupreme.club$all
 ||healthtag.club$all
 ||healthylives.today$all
@@ -145,6 +144,7 @@
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
+||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||information.casa$all
@@ -155,6 +155,7 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -164,7 +165,6 @@
 ||junemedia.xyz$all
 ||junesmile.xyz$all
 ||keepithealthy.info$all
-||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -221,6 +221,7 @@
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
+||media-cloud.ru$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
@@ -237,8 +238,6 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
-||monitoring-credit.xyz$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -259,9 +258,7 @@
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
 ||pcsecurity-live.xyz$all
-||performheavily-theoriginalfile.best$all
 ||performlatestoverlyapplication.icu$all
-||performoriginal-theheavilyfile.best$all
 ||performprecise-theuberfile.best$all
 ||performrefineduberapplication.icu$all
 ||performstrong-thegreatlyfile.digital$all
@@ -270,7 +267,6 @@
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
-||preparedforsafeupgrading.work$all
 ||prize-messsages.casa$all
 ||profitsurvey365.online$all
 ||profitsurvey365.org$all
@@ -325,11 +321,11 @@
 ||sergey-tracks.xyz$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
-||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
+||spotplanetc.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
@@ -392,11 +388,9 @@
 ||syncubercurrentfiles.best$all
 ||systemupdatit.club$all
 ||tackis.xyz$all
-||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thefitproject.club$all
-||thehealthcycle.club$all
 ||thehotshot.info$all
 ||theirproviderock.top$all
 ||thenewjourney.info$all
@@ -411,7 +405,6 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
-||trktraf.club$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
 ||unitehealth.club$all
@@ -432,7 +425,6 @@
 ||watchprogressive-bestmostfile.best$all
 ||watchquick-bestheavilyfile.best$all
 ||watchrefined-bestextremelyfile.best$all
-||websiteforall.work$all
 ||webtactics.ca$all
 ||webtip.co$all
 ||wellnessplum.info$all

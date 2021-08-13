@@ -1,12 +1,11 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 12 Aug 2021 12:03:27 +0000
+! Updated: Fri, 13 Aug 2021 00:02:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
-2021travel.net
 2kddbl.club
 4upgradingstablesafe.work
 affiliateland.io
@@ -80,6 +79,7 @@ eproute.info
 erotica.live
 extrasafe.xyz
 f7lwv2y0xb.top
+fast-app.xyz
 fastmapc.xyz
 fastspinc.xyz
 fastspota.xyz
@@ -135,7 +135,6 @@ happymakesite.xyz
 healandgrow.club
 healthomega.club
 healthscale.club
-healthschedule.club
 healthsupreme.club
 healthtag.club
 healthylives.today
@@ -145,6 +144,7 @@ hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
+imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
 information.casa
@@ -155,6 +155,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -164,7 +165,6 @@ junemedia.club
 junemedia.xyz
 junesmile.xyz
 keepithealthy.info
-kompsos.uk
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -221,6 +221,7 @@ manageuber-theswiftfile.best
 marketloans.net
 matchyourgirl.online
 mathison.io
+media-cloud.ru
 mediaevent.club
 mediaevent.uno
 mediagate.casa
@@ -237,8 +238,6 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-money-hero.org
-monitoring-credit.xyz
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
@@ -259,9 +258,7 @@ onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pcsecurity-live.xyz
-performheavily-theoriginalfile.best
 performlatestoverlyapplication.icu
-performoriginal-theheavilyfile.best
 performprecise-theuberfile.best
 performrefineduberapplication.icu
 performstrong-thegreatlyfile.digital
@@ -270,7 +267,6 @@ placesiteb.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
-preparedforsafeupgrading.work
 prize-messsages.casa
 profitsurvey365.online
 profitsurvey365.org
@@ -325,11 +321,11 @@ securityvpnpro.me
 sergey-tracks.xyz
 service-care.space
 settothereliableupgradingnew.work
-shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 sorrectionki.space
 spotmapd.xyz
 spotmapf.xyz
+spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
@@ -392,11 +388,9 @@ syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
 systemupdatit.club
 tackis.xyz
-technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thefitproject.club
-thehealthcycle.club
 thehotshot.info
 theirproviderock.top
 thenewjourney.info
@@ -411,7 +405,6 @@ trafficgate.cc
 trafficmind.pro
 trane.fun
 tripleprofit-zone.life
-trktraf.club
 trustappstreamsall.digital
 tryoneshot-keto.net
 unitehealth.club
@@ -432,7 +425,6 @@ watchlatest-bestgreatlyfile.best
 watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
-websiteforall.work
 webtactics.ca
 webtip.co
 wellnessplum.info

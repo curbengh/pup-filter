@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 12 Aug 2021 12:03:27 +0000
+# Updated: Fri, 13 Aug 2021 00:02:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
--d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d affiliateland.io
@@ -83,6 +82,7 @@ msFilterList
 -d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
+-d fast-app.xyz
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspota.xyz
@@ -138,7 +138,6 @@ msFilterList
 -d healandgrow.club
 -d healthomega.club
 -d healthscale.club
--d healthschedule.club
 -d healthsupreme.club
 -d healthtag.club
 -d healthylives.today
@@ -148,6 +147,7 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
 -d information.casa
@@ -158,6 +158,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -167,7 +168,6 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepithealthy.info
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -224,6 +224,7 @@ msFilterList
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
+-d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -240,8 +241,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
--d monitoring-credit.xyz
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -262,9 +261,7 @@ msFilterList
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
 -d pcsecurity-live.xyz
--d performheavily-theoriginalfile.best
 -d performlatestoverlyapplication.icu
--d performoriginal-theheavilyfile.best
 -d performprecise-theuberfile.best
 -d performrefineduberapplication.icu
 -d performstrong-thegreatlyfile.digital
@@ -273,7 +270,6 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
--d preparedforsafeupgrading.work
 -d prize-messsages.casa
 -d profitsurvey365.online
 -d profitsurvey365.org
@@ -328,11 +324,11 @@ msFilterList
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
--d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
+-d spotplanetc.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
@@ -395,11 +391,9 @@ msFilterList
 -d syncubercurrentfiles.best
 -d systemupdatit.club
 -d tackis.xyz
--d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thefitproject.club
--d thehealthcycle.club
 -d thehotshot.info
 -d theirproviderock.top
 -d thenewjourney.info
@@ -414,7 +408,6 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
--d trktraf.club
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d unitehealth.club
@@ -435,7 +428,6 @@ msFilterList
 -d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
--d websiteforall.work
 -d webtactics.ca
 -d webtip.co
 -d wellnessplum.info
