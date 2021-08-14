@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 14 Aug 2021 00:20:35 +0000
+# Updated: Sat, 14 Aug 2021 12:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -84,6 +83,7 @@
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
+0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
@@ -257,7 +257,6 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performprecise-theuberfile.best
@@ -278,7 +277,6 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
@@ -330,6 +328,7 @@
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
+0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
