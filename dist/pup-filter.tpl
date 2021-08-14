@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 13 Aug 2021 12:03:07 +0000
+# Updated: Sat, 14 Aug 2021 00:20:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@ msFilterList
 : Expires=1
 #
 -d 123news.website
+-d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d affiliateland.io
@@ -19,6 +20,7 @@ msFilterList
 -d asufij.xyz
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
+-d be-n9lnns3n-ok.live
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -63,7 +65,6 @@ msFilterList
 -d cselfconnect.com
 -d dailymedia.cyou
 -d dailymedia.site
--d dailymedia.space
 -d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
@@ -73,6 +74,7 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
+-d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -143,6 +145,7 @@ msFilterList
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
+-d help4.info
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
@@ -166,6 +169,7 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepithealthy.info
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -221,7 +225,6 @@ msFilterList
 -d manageuber-theswiftfile.best
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -236,11 +239,11 @@ msFilterList
 -d meeryslotspin.xyz
 -d melanthios-ana.com
 -d mindbank.ai
--d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
 -d movievod.me
 -d my-credit-score.xyz
+-d mybesthealthplan.org
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
@@ -278,6 +281,7 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d rainlonginsect23.life
@@ -311,6 +315,7 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d safest4placeupdate.info
 -d safest4placeupdates.info
+-d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
 -d search4theupdatefree.work
@@ -322,7 +327,9 @@ msFilterList
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
+-d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
+-d smartideas.pro
 -d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
@@ -369,7 +376,6 @@ msFilterList
 -d synccompletely-bestrecentfile.best
 -d synccurrentmostthefile.vip
 -d syncgreatly-bestrenewedfile.best
--d syncheavily-bestlatestfile.best
 -d synchighly-bestoriginalfile.best
 -d synchighly-bestrecentfile.best
 -d syncintensely-bestprogressivefile.best
@@ -389,15 +395,14 @@ msFilterList
 -d syncubercurrentfiles.best
 -d systemupdatit.club
 -d tackis.xyz
+-d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
--d thefitproject.club
 -d thehotshot.info
 -d theirproviderock.top
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
--d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d track4ast.icu
@@ -408,6 +413,7 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -439,7 +445,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

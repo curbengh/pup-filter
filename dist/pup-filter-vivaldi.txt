@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 13 Aug 2021 12:03:07 +0000
+! Updated: Sat, 14 Aug 2021 00:20:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$document
+||2021travel.net$document
 ||2kddbl.club$document
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
@@ -16,6 +17,7 @@
 ||asufij.xyz$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
+||be-n9lnns3n-ok.live$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -60,7 +62,6 @@
 ||cselfconnect.com$document
 ||dailymedia.cyou$document
 ||dailymedia.site$document
-||dailymedia.space$document
 ||dailymedia.surf$document
 ||dailymedia.work$document
 ||dailyrep.net$document
@@ -70,6 +71,7 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
+||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -140,6 +142,7 @@
 ||healthylives.today$document
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
+||help4.info$document
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -163,6 +166,7 @@
 ||junemedia.xyz$document
 ||junesmile.xyz$document
 ||keepithealthy.info$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -218,7 +222,6 @@
 ||manageuber-theswiftfile.best$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||media-cloud.ru$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -233,11 +236,11 @@
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
 ||mindbank.ai$document
-||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
+||mybesthealthplan.org$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
@@ -275,6 +278,7 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
 ||rainlonginsect23.life$document
@@ -308,6 +312,7 @@
 ||runrecent-besthighlyfile.best$document
 ||safest4placeupdate.info$document
 ||safest4placeupdates.info$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||score-monitoring.xyz$document
 ||search4theupdatefree.work$document
@@ -319,7 +324,9 @@
 ||sergey-tracks.xyz$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
+||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
+||smartideas.pro$document
 ||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
@@ -366,7 +373,6 @@
 ||synccompletely-bestrecentfile.best$document
 ||synccurrentmostthefile.vip$document
 ||syncgreatly-bestrenewedfile.best$document
-||syncheavily-bestlatestfile.best$document
 ||synchighly-bestoriginalfile.best$document
 ||synchighly-bestrecentfile.best$document
 ||syncintensely-bestprogressivefile.best$document
@@ -386,15 +392,14 @@
 ||syncubercurrentfiles.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
+||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
-||thefitproject.club$document
 ||thehotshot.info$document
 ||theirproviderock.top$document
 ||thenewjourney.info$document
 ||thesafestreliablelink.work$document
 ||theslotomania.info$document
-||timeoffers.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||track4ast.icu$document
@@ -405,6 +410,7 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -436,7 +442,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

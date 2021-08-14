@@ -1,11 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 13 Aug 2021 12:03:07 +0000
+# Updated: Sat, 14 Aug 2021 00:20:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 123news.website
+0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
@@ -16,6 +17,7 @@
 0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
+0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
@@ -60,7 +62,6 @@
 0.0.0.0 cselfconnect.com
 0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.site
-0.0.0.0 dailymedia.space
 0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
@@ -70,6 +71,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -140,6 +142,7 @@
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
+0.0.0.0 help4.info
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -163,6 +166,7 @@
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
 0.0.0.0 keepithealthy.info
+0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -218,7 +222,6 @@
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -233,11 +236,11 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mindbank.ai
-0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
+0.0.0.0 mybesthealthplan.org
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
@@ -275,6 +278,7 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
+0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rainlonginsect23.life
@@ -308,6 +312,7 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 safest4placeupdate.info
 0.0.0.0 safest4placeupdates.info
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
 0.0.0.0 search4theupdatefree.work
@@ -319,7 +324,9 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
+0.0.0.0 smartideas.pro
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
@@ -366,7 +373,6 @@
 0.0.0.0 synccompletely-bestrecentfile.best
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 syncgreatly-bestrenewedfile.best
-0.0.0.0 syncheavily-bestlatestfile.best
 0.0.0.0 synchighly-bestoriginalfile.best
 0.0.0.0 synchighly-bestrecentfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
@@ -386,15 +392,14 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
+0.0.0.0 technologypartners.net
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
-0.0.0.0 thefitproject.club
 0.0.0.0 thehotshot.info
 0.0.0.0 theirproviderock.top
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
-0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 track4ast.icu
@@ -405,6 +410,7 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -436,7 +442,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

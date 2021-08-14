@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 13 Aug 2021 12:03:07 +0000
+! Updated: Sat, 14 Aug 2021 00:20:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website^
+||2021travel.net^
 ||2kddbl.club^
 ||4upgradingstablesafe.work^
 ||affiliateland.io^
@@ -16,6 +17,7 @@
 ||asufij.xyz^
 ||atprofessor.fun^
 ||be-5hdo32xes-ok.live^
+||be-n9lnns3n-ok.live^
 ||beinspired.global^
 ||bestappland.me^
 ||bestvideoplayerupgrades.work^
@@ -60,7 +62,6 @@
 ||cselfconnect.com^
 ||dailymedia.cyou^
 ||dailymedia.site^
-||dailymedia.space^
 ||dailymedia.surf^
 ||dailymedia.work^
 ||dailyrep.net^
@@ -70,6 +71,7 @@
 ||defensepro.me^
 ||delightcmain.xyz^
 ||desixxx.cloud^
+||discoveryfeed.org^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
 ||earlyprogress.info^
@@ -140,6 +142,7 @@
 ||healthylives.today^
 ||healthyspirit.info^
 ||heatwavereporter.org^
+||help4.info^
 ||hotladieshere.net^
 ||httqzq.vip^
 ||hypezen.info^
@@ -163,6 +166,7 @@
 ||junemedia.xyz^
 ||junesmile.xyz^
 ||keepithealthy.info^
+||kompsos.uk^
 ||ktpyzw.vip^
 ||lackystack.net^
 ||ligamedia.art^
@@ -218,7 +222,6 @@
 ||manageuber-theswiftfile.best^
 ||marketloans.net^
 ||matchyourgirl.online^
-||mathison.io^
 ||media-cloud.ru^
 ||mediaevent.club^
 ||mediaevent.uno^
@@ -233,11 +236,11 @@
 ||meeryslotspin.xyz^
 ||melanthios-ana.com^
 ||mindbank.ai^
-||mindmatch.ai^
 ||mistraffic.me^
 ||mobileluckywinner.site^
 ||movievod.me^
 ||my-credit-score.xyz^
+||mybesthealthplan.org^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
 ||naughtygirlsshowall.live^
@@ -275,6 +278,7 @@
 ||provpnsecurity.me^
 ||provpnservice.me^
 ||prtctapp.me^
+||qfind.net^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
 ||rainlonginsect23.life^
@@ -308,6 +312,7 @@
 ||runrecent-besthighlyfile.best^
 ||safest4placeupdate.info^
 ||safest4placeupdates.info^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||score-monitoring.xyz^
 ||search4theupdatefree.work^
@@ -319,7 +324,9 @@
 ||sergey-tracks.xyz^
 ||service-care.space^
 ||settothereliableupgradingnew.work^
+||shopnsave.world^
 ||signupandturnyourscreenoffsafepowernow.date^
+||smartideas.pro^
 ||sorrectionki.space^
 ||spotmapd.xyz^
 ||spotmapf.xyz^
@@ -366,7 +373,6 @@
 ||synccompletely-bestrecentfile.best^
 ||synccurrentmostthefile.vip^
 ||syncgreatly-bestrenewedfile.best^
-||syncheavily-bestlatestfile.best^
 ||synchighly-bestoriginalfile.best^
 ||synchighly-bestrecentfile.best^
 ||syncintensely-bestprogressivefile.best^
@@ -386,15 +392,14 @@
 ||syncubercurrentfiles.best^
 ||systemupdatit.club^
 ||tackis.xyz^
+||technologypartners.net^
 ||thecryptomoney.info^
 ||thecryptozone.website^
-||thefitproject.club^
 ||thehotshot.info^
 ||theirproviderock.top^
 ||thenewjourney.info^
 ||thesafestreliablelink.work^
 ||theslotomania.info^
-||timeoffers.net^
 ||toolvpn.me^
 ||top-offers2.club^
 ||track4ast.icu^
@@ -405,6 +410,7 @@
 ||tripleprofit-zone.life^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^
@@ -436,7 +442,6 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
-||yifymovies.cam^
 ||yourlegendaryplaceupgrading.work^
 ||yourlegendarysystemsupgrade.work^
 ||yourlinkplaceupdatingfree.work^
