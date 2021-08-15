@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 15 Aug 2021 00:03:14 +0000
+# Updated: Sun, 15 Aug 2021 12:02:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -82,11 +83,9 @@
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
-0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
-0.0.0.0 fastwebe.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
@@ -128,7 +127,6 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
-0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
@@ -142,7 +140,6 @@
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -155,7 +152,6 @@
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
-0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
@@ -278,7 +274,6 @@
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
-0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 resignation.top
@@ -329,7 +324,6 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

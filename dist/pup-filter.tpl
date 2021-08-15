@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 15 Aug 2021 00:03:14 +0000
+# Updated: Sun, 15 Aug 2021 12:02:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 2021travel.net
 -d 2kddbl.club
 -d 4upgradingstablesafe.work
+-d affiliateland.io
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -85,11 +86,9 @@ msFilterList
 -d fast-app.xyz
 -d fastmapc.xyz
 -d fastspinc.xyz
--d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
--d fastwebe.xyz
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
@@ -131,7 +130,6 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
--d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
@@ -145,7 +143,6 @@ msFilterList
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
@@ -158,7 +155,6 @@ msFilterList
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
--d joyspotmap.xyz
 -d jtkszl.vip
 -d junemedia.bar
 -d junemedia.club
@@ -281,7 +277,6 @@ msFilterList
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
 -d rainlonginsect23.life
--d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d resignation.top
@@ -332,7 +327,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
