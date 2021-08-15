@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 14 Aug 2021 12:02:44 +0000
+# Updated: Sun, 15 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -61,7 +61,6 @@ cryptotilt.club
 cselfconnect.com
 dailymedia.cyou
 dailymedia.site
-dailymedia.surf
 dailymedia.work
 dailyrep.net
 dealmedia.club
@@ -92,7 +91,6 @@ findaupgradingurls.work
 finditquick.online
 findoffers.co
 findwith.me
-findyourultimateplayersfirst.best
 fisudauh.top
 fithealthspark.info
 flash-rewards.info
@@ -112,7 +110,6 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
-getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -138,7 +135,6 @@ healandgrow.club
 healthomega.club
 healthscale.club
 healthsupreme.club
-healthtag.club
 healthylives.today
 healthyspirit.info
 heatwavereporter.org
@@ -156,10 +152,10 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
+joyspotmap.xyz
 jtkszl.vip
 junemedia.bar
 junemedia.club
@@ -181,7 +177,6 @@ loadextremelyquickfile.digital
 loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
 loadfreeextremelyfile.digital
-loadgreatly-bestrenewedfile.best
 loadgreatlynewestthefile.vip
 loadgreatlyoriginalthefile.vip
 loadgreatlyprogressivethefile.vip
@@ -212,16 +207,15 @@ loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
-louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
 managestrong-theuberfile.best
 manageuber-thenewestfile.best
-manageuber-therecentfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 marketloans.net
 matchyourgirl.online
+mathison.io
 media-cloud.ru
 mediaevent.club
 mediaevent.uno
@@ -236,8 +230,10 @@ medsjournal.info
 meeryslotspin.xyz
 melanthios-ana.com
 mindbank.ai
+mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
+money-hero.org
 movievod.me
 my-credit-score.xyz
 mybesthealthplan.org
@@ -264,6 +260,7 @@ performrefineduberapplication.icu
 performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 placesiteb.xyz
+placespina.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
@@ -279,6 +276,7 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
+quickdeals.online
 rainlonginsect23.life
 rancy.xyz
 random-prize-bigwin-official.cyou
@@ -308,8 +306,6 @@ runoverly-bestsophisticatedfile.best
 runprogressive-bestmostfile.best
 runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
-safest4placeupdate.info
-safest4placeupdates.info
 savagegrowplus.net
 scoopswoop.info
 score-monitoring.xyz
@@ -399,6 +395,7 @@ theirproviderock.top
 thenewjourney.info
 thesafestreliablelink.work
 theslotomania.info
+timeoffers.net
 toolvpn.me
 top-offers2.club
 track4ast.icu

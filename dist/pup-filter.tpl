@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 14 Aug 2021 12:02:44 +0000
+# Updated: Sun, 15 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -64,7 +64,6 @@ msFilterList
 -d cselfconnect.com
 -d dailymedia.cyou
 -d dailymedia.site
--d dailymedia.surf
 -d dailymedia.work
 -d dailyrep.net
 -d dealmedia.club
@@ -95,7 +94,6 @@ msFilterList
 -d finditquick.online
 -d findoffers.co
 -d findwith.me
--d findyourultimateplayersfirst.best
 -d fisudauh.top
 -d fithealthspark.info
 -d flash-rewards.info
@@ -115,7 +113,6 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -141,7 +138,6 @@ msFilterList
 -d healthomega.club
 -d healthscale.club
 -d healthsupreme.club
--d healthtag.club
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
@@ -159,10 +155,10 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
+-d joyspotmap.xyz
 -d jtkszl.vip
 -d junemedia.bar
 -d junemedia.club
@@ -184,7 +180,6 @@ msFilterList
 -d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
 -d loadfreeextremelyfile.digital
--d loadgreatly-bestrenewedfile.best
 -d loadgreatlynewestthefile.vip
 -d loadgreatlyoriginalthefile.vip
 -d loadgreatlyprogressivethefile.vip
@@ -215,16 +210,15 @@ msFilterList
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
--d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
 -d managestrong-theuberfile.best
 -d manageuber-thenewestfile.best
--d manageuber-therecentfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -239,8 +233,10 @@ msFilterList
 -d meeryslotspin.xyz
 -d melanthios-ana.com
 -d mindbank.ai
+-d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mybesthealthplan.org
@@ -267,6 +263,7 @@ msFilterList
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -282,6 +279,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d rainlonginsect23.life
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
@@ -311,8 +309,6 @@ msFilterList
 -d runprogressive-bestmostfile.best
 -d runrecent-bestextremelyfile.best
 -d runrecent-besthighlyfile.best
--d safest4placeupdate.info
--d safest4placeupdates.info
 -d savagegrowplus.net
 -d scoopswoop.info
 -d score-monitoring.xyz
@@ -402,6 +398,7 @@ msFilterList
 -d thenewjourney.info
 -d thesafestreliablelink.work
 -d theslotomania.info
+-d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d track4ast.icu

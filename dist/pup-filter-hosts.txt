@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 14 Aug 2021 12:02:44 +0000
+# Updated: Sun, 15 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -61,7 +61,6 @@
 0.0.0.0 cselfconnect.com
 0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.site
-0.0.0.0 dailymedia.surf
 0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
@@ -92,7 +91,6 @@
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
 0.0.0.0 findwith.me
-0.0.0.0 findyourultimateplayersfirst.best
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
 0.0.0.0 flash-rewards.info
@@ -112,7 +110,6 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -138,7 +135,6 @@
 0.0.0.0 healthomega.club
 0.0.0.0 healthscale.club
 0.0.0.0 healthsupreme.club
-0.0.0.0 healthtag.club
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
@@ -156,10 +152,10 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
+0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
@@ -181,7 +177,6 @@
 0.0.0.0 loadextremelyrecentthefile.vip
 0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadfreeextremelyfile.digital
-0.0.0.0 loadgreatly-bestrenewedfile.best
 0.0.0.0 loadgreatlynewestthefile.vip
 0.0.0.0 loadgreatlyoriginalthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
@@ -212,16 +207,15 @@
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
-0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thenewestfile.best
-0.0.0.0 manageuber-therecentfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -236,8 +230,10 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mindbank.ai
+0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mybesthealthplan.org
@@ -264,6 +260,7 @@
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 placesiteb.xyz
+0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
@@ -279,6 +276,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -308,8 +306,6 @@
 0.0.0.0 runprogressive-bestmostfile.best
 0.0.0.0 runrecent-bestextremelyfile.best
 0.0.0.0 runrecent-besthighlyfile.best
-0.0.0.0 safest4placeupdate.info
-0.0.0.0 safest4placeupdates.info
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 score-monitoring.xyz
@@ -399,6 +395,7 @@
 0.0.0.0 thenewjourney.info
 0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
+0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 track4ast.icu

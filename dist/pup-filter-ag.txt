@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 14 Aug 2021 12:02:44 +0000
+! Updated: Sun, 15 Aug 2021 00:03:14 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -61,7 +61,6 @@
 ||cselfconnect.com$all
 ||dailymedia.cyou$all
 ||dailymedia.site$all
-||dailymedia.surf$all
 ||dailymedia.work$all
 ||dailyrep.net$all
 ||dealmedia.club$all
@@ -92,7 +91,6 @@
 ||finditquick.online$all
 ||findoffers.co$all
 ||findwith.me$all
-||findyourultimateplayersfirst.best$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
 ||flash-rewards.info$all
@@ -112,7 +110,6 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -138,7 +135,6 @@
 ||healthomega.club$all
 ||healthscale.club$all
 ||healthsupreme.club$all
-||healthtag.club$all
 ||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
@@ -156,10 +152,10 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
+||joyspotmap.xyz$all
 ||jtkszl.vip$all
 ||junemedia.bar$all
 ||junemedia.club$all
@@ -181,7 +177,6 @@
 ||loadextremelyrecentthefile.vip$all
 ||loadfree-bestheavilyfile.best$all
 ||loadfreeextremelyfile.digital$all
-||loadgreatly-bestrenewedfile.best$all
 ||loadgreatlynewestthefile.vip$all
 ||loadgreatlyoriginalthefile.vip$all
 ||loadgreatlyprogressivethefile.vip$all
@@ -212,16 +207,15 @@
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
-||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thenewestfile.best$all
-||manageuber-therecentfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||media-cloud.ru$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -236,8 +230,10 @@
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
 ||mindbank.ai$all
+||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
+||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mybesthealthplan.org$all
@@ -264,6 +260,7 @@
 ||performstrong-thegreatlyfile.digital$all
 ||performuberquickapplication.icu$all
 ||placesiteb.xyz$all
+||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
@@ -279,6 +276,7 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
+||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
@@ -308,8 +306,6 @@
 ||runprogressive-bestmostfile.best$all
 ||runrecent-bestextremelyfile.best$all
 ||runrecent-besthighlyfile.best$all
-||safest4placeupdate.info$all
-||safest4placeupdates.info$all
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||score-monitoring.xyz$all
@@ -399,6 +395,7 @@
 ||thenewjourney.info$all
 ||thesafestreliablelink.work$all
 ||theslotomania.info$all
+||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||track4ast.icu$all
