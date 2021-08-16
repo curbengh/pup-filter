@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 15 Aug 2021 12:02:27 +0000
+# Updated: Mon, 16 Aug 2021 00:03:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 123news.website
 0.0.0.0 2021travel.net
-0.0.0.0 2kddbl.club
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
 0.0.0.0 altcasino.info
@@ -41,7 +40,6 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 cloudmedia.casa
@@ -109,6 +107,7 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -123,7 +122,6 @@
 0.0.0.0 goalmedia.monster
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 googsistem.live
-0.0.0.0 graburprize.net
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
@@ -149,6 +147,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -177,7 +176,6 @@
 0.0.0.0 loadgreatlyoriginalthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
 0.0.0.0 loadgreatlyrenewedthefile.vip
-0.0.0.0 loadheavily-bestfreefile.best
 0.0.0.0 loadhighlyadvancedthefile.vip
 0.0.0.0 loadintenselyquickthefile.vip
 0.0.0.0 loadintenselyspeedythefile.vip
@@ -203,10 +201,10 @@
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 locationtracker.services
+0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
 0.0.0.0 managestrong-theuberfile.best
-0.0.0.0 manageuber-thenewestfile.best
 0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 marketloans.net
@@ -303,7 +301,6 @@
 0.0.0.0 runrecent-besthighlyfile.best
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
-0.0.0.0 score-monitoring.xyz
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -313,7 +310,6 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
 0.0.0.0 sorrectionki.space
@@ -374,8 +370,6 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncrenewed-bestcompletelyfile.best
 0.0.0.0 syncstrong-bestextremelyfile.best
-0.0.0.0 syncuber-bestlatestfile.best
-0.0.0.0 syncuber-bestprecisefile.best
 0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 syncubercurrentfiles.best
@@ -421,7 +415,6 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
-0.0.0.0 wellnessplum.info
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
@@ -432,6 +425,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 15 Aug 2021 12:02:27 +0000
+! Updated: Mon, 16 Aug 2021 00:03:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||123news.website$all
 ||2021travel.net$all
-||2kddbl.club$all
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||altcasino.info$all
@@ -41,7 +40,6 @@
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
@@ -109,6 +107,7 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -123,7 +122,6 @@
 ||goalmedia.monster$all
 ||gonesteeldouble.top$all
 ||googsistem.live$all
-||graburprize.net$all
 ||gramp.xyz$all
 ||grandencryptions.me$all
 ||growthnetic.club$all
@@ -149,6 +147,7 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -177,7 +176,6 @@
 ||loadgreatlyoriginalthefile.vip$all
 ||loadgreatlyprogressivethefile.vip$all
 ||loadgreatlyrenewedthefile.vip$all
-||loadheavily-bestfreefile.best$all
 ||loadhighlyadvancedthefile.vip$all
 ||loadintenselyquickthefile.vip$all
 ||loadintenselyspeedythefile.vip$all
@@ -203,10 +201,10 @@
 ||loaduberprecisefile.digital$all
 ||loaduberspeedyfile.digital$all
 ||locationtracker.services$all
+||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
 ||managestrong-theuberfile.best$all
-||manageuber-thenewestfile.best$all
 ||manageuber-thestrongfile.best$all
 ||manageuber-theswiftfile.best$all
 ||marketloans.net$all
@@ -303,7 +301,6 @@
 ||runrecent-besthighlyfile.best$all
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
-||score-monitoring.xyz$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
@@ -313,7 +310,6 @@
 ||sergey-tracks.xyz$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
-||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
 ||sorrectionki.space$all
@@ -374,8 +370,6 @@
 ||syncrecentintenselythefile.vip$all
 ||syncrenewed-bestcompletelyfile.best$all
 ||syncstrong-bestextremelyfile.best$all
-||syncuber-bestlatestfile.best$all
-||syncuber-bestprecisefile.best$all
 ||syncuber-bestrefinedfile.best$all
 ||syncuber-bestsophisticatedfile.best$all
 ||syncubercurrentfiles.best$all
@@ -421,7 +415,6 @@
 ||watchrefined-bestextremelyfile.best$all
 ||webtactics.ca$all
 ||webtip.co$all
-||wellnessplum.info$all
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.site$all
 ||worivo.info$all
@@ -432,6 +425,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

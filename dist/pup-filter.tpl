@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 15 Aug 2021 12:02:27 +0000
+# Updated: Mon, 16 Aug 2021 00:03:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 123news.website
 -d 2021travel.net
--d 2kddbl.club
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d altcasino.info
@@ -44,7 +43,6 @@ msFilterList
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
--d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
@@ -112,6 +110,7 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -126,7 +125,6 @@ msFilterList
 -d goalmedia.monster
 -d gonesteeldouble.top
 -d googsistem.live
--d graburprize.net
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
@@ -152,6 +150,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -180,7 +179,6 @@ msFilterList
 -d loadgreatlyoriginalthefile.vip
 -d loadgreatlyprogressivethefile.vip
 -d loadgreatlyrenewedthefile.vip
--d loadheavily-bestfreefile.best
 -d loadhighlyadvancedthefile.vip
 -d loadintenselyquickthefile.vip
 -d loadintenselyspeedythefile.vip
@@ -206,10 +204,10 @@ msFilterList
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
 -d locationtracker.services
+-d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
 -d managestrong-theuberfile.best
--d manageuber-thenewestfile.best
 -d manageuber-thestrongfile.best
 -d manageuber-theswiftfile.best
 -d marketloans.net
@@ -306,7 +304,6 @@ msFilterList
 -d runrecent-besthighlyfile.best
 -d savagegrowplus.net
 -d scoopswoop.info
--d score-monitoring.xyz
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -316,7 +313,6 @@ msFilterList
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
--d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d sorrectionki.space
@@ -377,8 +373,6 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syncrenewed-bestcompletelyfile.best
 -d syncstrong-bestextremelyfile.best
--d syncuber-bestlatestfile.best
--d syncuber-bestprecisefile.best
 -d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
@@ -424,7 +418,6 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d webtactics.ca
 -d webtip.co
--d wellnessplum.info
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
 -d worivo.info
@@ -435,6 +428,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

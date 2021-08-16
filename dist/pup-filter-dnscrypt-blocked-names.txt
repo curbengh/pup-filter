@@ -1,13 +1,12 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 15 Aug 2021 12:02:27 +0000
+# Updated: Mon, 16 Aug 2021 00:03:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 123news.website
 2021travel.net
-2kddbl.club
 4upgradingstablesafe.work
 affiliateland.io
 altcasino.info
@@ -41,7 +40,6 @@ bulley.shop
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
-chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
@@ -109,6 +107,7 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -123,7 +122,6 @@ goalmedia.club
 goalmedia.monster
 gonesteeldouble.top
 googsistem.live
-graburprize.net
 gramp.xyz
 grandencryptions.me
 growthnetic.club
@@ -149,6 +147,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -177,7 +176,6 @@ loadgreatlynewestthefile.vip
 loadgreatlyoriginalthefile.vip
 loadgreatlyprogressivethefile.vip
 loadgreatlyrenewedthefile.vip
-loadheavily-bestfreefile.best
 loadhighlyadvancedthefile.vip
 loadintenselyquickthefile.vip
 loadintenselyspeedythefile.vip
@@ -203,10 +201,10 @@ loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
 locationtracker.services
+louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
 managestrong-theuberfile.best
-manageuber-thenewestfile.best
 manageuber-thestrongfile.best
 manageuber-theswiftfile.best
 marketloans.net
@@ -303,7 +301,6 @@ runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
 savagegrowplus.net
 scoopswoop.info
-score-monitoring.xyz
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -313,7 +310,6 @@ securityvpnpro.me
 sergey-tracks.xyz
 service-care.space
 settothereliableupgradingnew.work
-shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 sorrectionki.space
@@ -374,8 +370,6 @@ syncprogressive-besthighlyfile.best
 syncrecentintenselythefile.vip
 syncrenewed-bestcompletelyfile.best
 syncstrong-bestextremelyfile.best
-syncuber-bestlatestfile.best
-syncuber-bestprecisefile.best
 syncuber-bestrefinedfile.best
 syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
@@ -421,7 +415,6 @@ watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 webtactics.ca
 webtip.co
-wellnessplum.info
 winnerbigwingiveawaysuper.cyou
 winnerz.site
 worivo.info
@@ -432,6 +425,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
