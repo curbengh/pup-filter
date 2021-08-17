@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 16 Aug 2021 12:02:59 +0000
+! Updated: Tue, 17 Aug 2021 00:04:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 ||cselfconnect.com^
 ||dailymedia.cyou^
 ||dailymedia.site^
-||dailymedia.work^
 ||dailyrep.net^
 ||dealmedia.club^
 ||dealmedia.website^
@@ -136,6 +135,7 @@
 ||hotladieshere.net^
 ||httqzq.vip^
 ||hypezen.info^
+||iketo.diet^
 ||imagefind.org^
 ||incrediblebuzz.info^
 ||information.casa^
@@ -225,7 +225,6 @@
 ||mindmatch.ai^
 ||mistraffic.me^
 ||mobileluckywinner.site^
-||money-hero.org^
 ||movievod.me^
 ||my-credit-score.xyz^
 ||mybesthealthplan.org^
@@ -290,7 +289,6 @@
 ||runnewest-bestextremelyfile.best^
 ||runoriginal-bestextremelyfile.best^
 ||runoriginal-bestintenselyfile.best^
-||runoverly-bestdevelopedfile.best^
 ||runoverly-bestquickfile.best^
 ||runoverly-bestsophisticatedfile.best^
 ||runprogressive-bestmostfile.best^
@@ -307,6 +305,7 @@
 ||sergey-tracks.xyz^
 ||service-care.space^
 ||settothereliableupgradingnew.work^
+||shopnsave.world^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||smartideas.pro^
 ||sorrectionki.space^
@@ -350,24 +349,16 @@
 ||support-notify.space^
 ||survey-review.club^
 ||syncadvanced-bestuberfile.best^
-||synccompletely-bestoriginalfile.best^
-||synccompletely-bestprogressivefile.best^
 ||synccompletely-bestrecentfile.best^
 ||synccurrentmostthefile.vip^
 ||syncgreatly-bestrenewedfile.best^
 ||synchighly-bestoriginalfile.best^
-||synchighly-bestrecentfile.best^
 ||syncintensely-bestprogressivefile.best^
 ||synclatestintenselythefile.vip^
 ||syncnewestmostthefile.vip^
 ||syncnewestuberthefile.vip^
-||syncoriginal-bestcompletelyfile.best^
-||syncprogressive-bestcompletelyfile.best^
 ||syncprogressive-besthighlyfile.best^
 ||syncrecentintenselythefile.vip^
-||syncrenewed-bestcompletelyfile.best^
-||syncstrong-bestextremelyfile.best^
-||syncuber-bestrefinedfile.best^
 ||syncuber-bestsophisticatedfile.best^
 ||syncubercurrentfiles.best^
 ||systemupdatit.club^
@@ -383,7 +374,6 @@
 ||timeoffers.net^
 ||toolvpn.me^
 ||top-offers2.club^
-||track4ast.icu^
 ||tracking-landers.xyz^
 ||trafficgate.cc^
 ||trafficmind.pro^

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 16 Aug 2021 12:02:59 +0000
+# Updated: Tue, 17 Aug 2021 00:04:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -62,7 +62,6 @@ msFilterList
 -d cselfconnect.com
 -d dailymedia.cyou
 -d dailymedia.site
--d dailymedia.work
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -139,6 +138,7 @@ msFilterList
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
+-d iketo.diet
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
@@ -228,7 +228,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mybesthealthplan.org
@@ -293,7 +292,6 @@ msFilterList
 -d runnewest-bestextremelyfile.best
 -d runoriginal-bestextremelyfile.best
 -d runoriginal-bestintenselyfile.best
--d runoverly-bestdevelopedfile.best
 -d runoverly-bestquickfile.best
 -d runoverly-bestsophisticatedfile.best
 -d runprogressive-bestmostfile.best
@@ -310,6 +308,7 @@ msFilterList
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
+-d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d sorrectionki.space
@@ -353,24 +352,16 @@ msFilterList
 -d support-notify.space
 -d survey-review.club
 -d syncadvanced-bestuberfile.best
--d synccompletely-bestoriginalfile.best
--d synccompletely-bestprogressivefile.best
 -d synccompletely-bestrecentfile.best
 -d synccurrentmostthefile.vip
 -d syncgreatly-bestrenewedfile.best
 -d synchighly-bestoriginalfile.best
--d synchighly-bestrecentfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatestintenselythefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
--d syncoriginal-bestcompletelyfile.best
--d syncprogressive-bestcompletelyfile.best
 -d syncprogressive-besthighlyfile.best
 -d syncrecentintenselythefile.vip
--d syncrenewed-bestcompletelyfile.best
--d syncstrong-bestextremelyfile.best
--d syncuber-bestrefinedfile.best
 -d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
 -d systemupdatit.club
@@ -386,7 +377,6 @@ msFilterList
 -d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
--d track4ast.icu
 -d tracking-landers.xyz
 -d trafficgate.cc
 -d trafficmind.pro

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 16 Aug 2021 12:02:59 +0000
+# Updated: Tue, 17 Aug 2021 00:04:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 0.0.0.0 cselfconnect.com
 0.0.0.0 dailymedia.cyou
 0.0.0.0 dailymedia.site
-0.0.0.0 dailymedia.work
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -136,6 +135,7 @@
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 iketo.diet
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -225,7 +225,6 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mybesthealthplan.org
@@ -290,7 +289,6 @@
 0.0.0.0 runnewest-bestextremelyfile.best
 0.0.0.0 runoriginal-bestextremelyfile.best
 0.0.0.0 runoriginal-bestintenselyfile.best
-0.0.0.0 runoverly-bestdevelopedfile.best
 0.0.0.0 runoverly-bestquickfile.best
 0.0.0.0 runoverly-bestsophisticatedfile.best
 0.0.0.0 runprogressive-bestmostfile.best
@@ -307,6 +305,7 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
 0.0.0.0 sorrectionki.space
@@ -350,24 +349,16 @@
 0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
 0.0.0.0 syncadvanced-bestuberfile.best
-0.0.0.0 synccompletely-bestoriginalfile.best
-0.0.0.0 synccompletely-bestprogressivefile.best
 0.0.0.0 synccompletely-bestrecentfile.best
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 syncgreatly-bestrenewedfile.best
 0.0.0.0 synchighly-bestoriginalfile.best
-0.0.0.0 synchighly-bestrecentfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
-0.0.0.0 syncoriginal-bestcompletelyfile.best
-0.0.0.0 syncprogressive-bestcompletelyfile.best
 0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrecentintenselythefile.vip
-0.0.0.0 syncrenewed-bestcompletelyfile.best
-0.0.0.0 syncstrong-bestextremelyfile.best
-0.0.0.0 syncuber-bestrefinedfile.best
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdatit.club
@@ -383,7 +374,6 @@
 0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
-0.0.0.0 track4ast.icu
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficgate.cc
 0.0.0.0 trafficmind.pro

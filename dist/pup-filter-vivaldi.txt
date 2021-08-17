@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 16 Aug 2021 12:02:59 +0000
+! Updated: Tue, 17 Aug 2021 00:04:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 ||cselfconnect.com$document
 ||dailymedia.cyou$document
 ||dailymedia.site$document
-||dailymedia.work$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -136,6 +135,7 @@
 ||hotladieshere.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||iketo.diet$document
 ||imagefind.org$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -225,7 +225,6 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
 ||mybesthealthplan.org$document
@@ -290,7 +289,6 @@
 ||runnewest-bestextremelyfile.best$document
 ||runoriginal-bestextremelyfile.best$document
 ||runoriginal-bestintenselyfile.best$document
-||runoverly-bestdevelopedfile.best$document
 ||runoverly-bestquickfile.best$document
 ||runoverly-bestsophisticatedfile.best$document
 ||runprogressive-bestmostfile.best$document
@@ -307,6 +305,7 @@
 ||sergey-tracks.xyz$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
+||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
 ||sorrectionki.space$document
@@ -350,24 +349,16 @@
 ||support-notify.space$document
 ||survey-review.club$document
 ||syncadvanced-bestuberfile.best$document
-||synccompletely-bestoriginalfile.best$document
-||synccompletely-bestprogressivefile.best$document
 ||synccompletely-bestrecentfile.best$document
 ||synccurrentmostthefile.vip$document
 ||syncgreatly-bestrenewedfile.best$document
 ||synchighly-bestoriginalfile.best$document
-||synchighly-bestrecentfile.best$document
 ||syncintensely-bestprogressivefile.best$document
 ||synclatestintenselythefile.vip$document
 ||syncnewestmostthefile.vip$document
 ||syncnewestuberthefile.vip$document
-||syncoriginal-bestcompletelyfile.best$document
-||syncprogressive-bestcompletelyfile.best$document
 ||syncprogressive-besthighlyfile.best$document
 ||syncrecentintenselythefile.vip$document
-||syncrenewed-bestcompletelyfile.best$document
-||syncstrong-bestextremelyfile.best$document
-||syncuber-bestrefinedfile.best$document
 ||syncuber-bestsophisticatedfile.best$document
 ||syncubercurrentfiles.best$document
 ||systemupdatit.club$document
@@ -383,7 +374,6 @@
 ||timeoffers.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
-||track4ast.icu$document
 ||tracking-landers.xyz$document
 ||trafficgate.cc$document
 ||trafficmind.pro$document
