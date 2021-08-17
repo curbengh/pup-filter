@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 17 Aug 2021 00:04:13 +0000
+# Updated: Tue, 17 Aug 2021 12:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
 0.0.0.0 asufij.xyz
+0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 beinspired.global
@@ -66,6 +67,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -78,6 +80,7 @@
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
+0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
@@ -122,6 +125,7 @@
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 growthnetic.club
+0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
 0.0.0.0 healandgrow.club
@@ -135,6 +139,7 @@
 0.0.0.0 hotladieshere.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 iketo.diet
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
@@ -149,6 +154,7 @@
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
+0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
@@ -244,6 +250,7 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
+0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performprecise-theuberfile.best
@@ -251,6 +258,7 @@
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 placesiteb.xyz
+0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
@@ -259,6 +267,7 @@
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
+0.0.0.0 protect-ios.com
 0.0.0.0 protecttool.me
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me

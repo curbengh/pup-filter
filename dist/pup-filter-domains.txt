@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 17 Aug 2021 00:04:13 +0000
+# Updated: Tue, 17 Aug 2021 12:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@ amobil.online
 apptool.me
 armorprovpn.me
 asufij.xyz
+atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 beinspired.global
@@ -66,6 +67,7 @@ dealmedia.xyz
 defensepro.me
 delightcmain.xyz
 desixxx.cloud
+discoveryfeed.org
 dollarsurvey365.online
 dollarsurvey365.org
 earlyprogress.info
@@ -78,6 +80,7 @@ f7lwv2y0xb.top
 fast-app.xyz
 fastmapc.xyz
 fastspinc.xyz
+fastspinf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
@@ -122,6 +125,7 @@ googsistem.live
 gramp.xyz
 grandencryptions.me
 growthnetic.club
+gx8uxvn13l.top
 hailso.xyz
 happymakesite.xyz
 healandgrow.club
@@ -135,6 +139,7 @@ help4.info
 hotladieshere.net
 httqzq.vip
 hypezen.info
+ientsillness.fun
 iketo.diet
 imagefind.org
 incrediblebuzz.info
@@ -149,6 +154,7 @@ java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
+joyspotmap.xyz
 jtkszl.vip
 junemedia.bar
 junemedia.club
@@ -244,6 +250,7 @@ online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
+ouldthepat.fun
 pcsecurity-live.xyz
 performlatestoverlyapplication.icu
 performprecise-theuberfile.best
@@ -251,6 +258,7 @@ performrefineduberapplication.icu
 performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 placesiteb.xyz
+placespina.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
@@ -259,6 +267,7 @@ profitsurvey365.online
 profitsurvey365.org
 proprotect.me
 prosecurityvpn.me
+protect-ios.com
 protecttool.me
 provpn.me
 provpnsecurity.me

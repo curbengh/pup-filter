@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 17 Aug 2021 00:04:13 +0000
+# Updated: Tue, 17 Aug 2021 12:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ msFilterList
 -d apptool.me
 -d armorprovpn.me
 -d asufij.xyz
+-d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d beinspired.global
@@ -69,6 +70,7 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
+-d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -81,6 +83,7 @@ msFilterList
 -d fast-app.xyz
 -d fastmapc.xyz
 -d fastspinc.xyz
+-d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
@@ -125,6 +128,7 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d growthnetic.club
+-d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
@@ -138,6 +142,7 @@ msFilterList
 -d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d iketo.diet
 -d imagefind.org
 -d incrediblebuzz.info
@@ -152,6 +157,7 @@ msFilterList
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
+-d joyspotmap.xyz
 -d jtkszl.vip
 -d junemedia.bar
 -d junemedia.club
@@ -247,6 +253,7 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
 -d performprecise-theuberfile.best
@@ -254,6 +261,7 @@ msFilterList
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -262,6 +270,7 @@ msFilterList
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
+-d protect-ios.com
 -d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
