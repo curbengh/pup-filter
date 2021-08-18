@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 18 Aug 2021 00:03:10 +0000
+# Updated: Wed, 18 Aug 2021 12:04:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -84,6 +84,7 @@ fastspinf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
+fastwebe.xyz
 findaupgradingurls.work
 finditquick.online
 findoffers.co
@@ -210,6 +211,7 @@ loveorfun.cc
 lubbockeda.org
 managestrong-theuberfile.best
 manageuber-thestrongfile.best
+mapopts.top
 marketloans.net
 matchyourgirl.online
 media-cloud.ru
@@ -307,6 +309,7 @@ smartideas.pro
 sorrectionki.space
 spotmapd.xyz
 spotmapf.xyz
+spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win

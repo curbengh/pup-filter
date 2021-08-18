@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 18 Aug 2021 00:03:10 +0000
+# Updated: Wed, 18 Aug 2021 12:04:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -84,6 +84,7 @@
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
+0.0.0.0 fastwebe.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
@@ -210,6 +211,7 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thestrongfile.best
+0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 media-cloud.ru
@@ -307,6 +309,7 @@
 0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
+0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
