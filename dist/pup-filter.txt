@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 17 Aug 2021 12:03:18 +0000
+! Updated: Wed, 18 Aug 2021 00:03:10 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@ altcasino.info
 amobil.online
 apptool.me
 armorprovpn.me
-asufij.xyz
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
@@ -40,6 +39,7 @@ bulley.shop
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
+chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
@@ -47,7 +47,6 @@ cloudmedia.cyou
 cloudmedia.fun
 cloudmedia.surf
 collectrewards.net
-comphp.xyz
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
@@ -78,6 +77,7 @@ erotica.live
 extrasafe.xyz
 f7lwv2y0xb.top
 fast-app.xyz
+fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
 fastspinf.xyz
@@ -144,13 +144,13 @@ iketo.diet
 imagefind.org
 incrediblebuzz.info
 information.casa
+inspirationfor.me
 installcompletely-theoriginalfile.best
 investinfo.net
 iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -210,10 +210,8 @@ loveorfun.cc
 lubbockeda.org
 managestrong-theuberfile.best
 manageuber-thestrongfile.best
-manageuber-theswiftfile.best
 marketloans.net
 matchyourgirl.online
-mathison.io
 media-cloud.ru
 mediaevent.club
 mediaevent.uno
@@ -238,7 +236,6 @@ mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
-newsinformer.net
 nutrahealth.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -275,7 +272,6 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
-quickdeals.online
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -285,25 +281,16 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 robogarden.io
-runadvanced-bestextremelyfile.best
 runcurrent-bestextremelyfile.best
-rundeveloped-bestoverlyfile.best
-runextremely-bestadvancedfile.best
 runextremely-bestcurrentfile.best
-runextremely-bestlatestfile.best
 runextremely-bestrecentfile.best
-runfree-bestoverlyfile.best
 runintensely-bestrenewedfile.best
 runlatest-besthighlyfile.best
 runnewest-bestextremelyfile.best
-runoriginal-bestextremelyfile.best
 runoriginal-bestintenselyfile.best
-runoverly-bestquickfile.best
-runoverly-bestsophisticatedfile.best
 runprogressive-bestmostfile.best
 runrecent-bestextremelyfile.best
 runrecent-besthighlyfile.best
-savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -357,16 +344,12 @@ superplaceforupgrade.info
 superpromotion.cyou
 support-notify.space
 survey-review.club
-syncadvanced-bestuberfile.best
-synccompletely-bestrecentfile.best
 synccurrentmostthefile.vip
 syncgreatly-bestrenewedfile.best
-synchighly-bestoriginalfile.best
 syncintensely-bestprogressivefile.best
 synclatestintenselythefile.vip
 syncnewestmostthefile.vip
 syncnewestuberthefile.vip
-syncprogressive-besthighlyfile.best
 syncrecentintenselythefile.vip
 syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
@@ -378,7 +361,6 @@ thecryptozone.website
 thehotshot.info
 theirproviderock.top
 thenewjourney.info
-thesafestreliablelink.work
 theslotomania.info
 timeoffers.net
 toolvpn.me
@@ -390,7 +372,6 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -421,7 +402,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

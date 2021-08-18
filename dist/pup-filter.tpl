@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 17 Aug 2021 12:03:18 +0000
+# Updated: Wed, 18 Aug 2021 00:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ msFilterList
 -d amobil.online
 -d apptool.me
 -d armorprovpn.me
--d asufij.xyz
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -43,6 +42,7 @@ msFilterList
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
@@ -50,7 +50,6 @@ msFilterList
 -d cloudmedia.fun
 -d cloudmedia.surf
 -d collectrewards.net
--d comphp.xyz
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
@@ -81,6 +80,7 @@ msFilterList
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -147,13 +147,13 @@ msFilterList
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
+-d inspirationfor.me
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
 -d iosdfnc.com
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -213,10 +213,8 @@ msFilterList
 -d lubbockeda.org
 -d managestrong-theuberfile.best
 -d manageuber-thestrongfile.best
--d manageuber-theswiftfile.best
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -241,7 +239,6 @@ msFilterList
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
--d newsinformer.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -278,7 +275,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -288,25 +284,16 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d robogarden.io
--d runadvanced-bestextremelyfile.best
 -d runcurrent-bestextremelyfile.best
--d rundeveloped-bestoverlyfile.best
--d runextremely-bestadvancedfile.best
 -d runextremely-bestcurrentfile.best
--d runextremely-bestlatestfile.best
 -d runextremely-bestrecentfile.best
--d runfree-bestoverlyfile.best
 -d runintensely-bestrenewedfile.best
 -d runlatest-besthighlyfile.best
 -d runnewest-bestextremelyfile.best
--d runoriginal-bestextremelyfile.best
 -d runoriginal-bestintenselyfile.best
--d runoverly-bestquickfile.best
--d runoverly-bestsophisticatedfile.best
 -d runprogressive-bestmostfile.best
 -d runrecent-bestextremelyfile.best
 -d runrecent-besthighlyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -360,16 +347,12 @@ msFilterList
 -d superpromotion.cyou
 -d support-notify.space
 -d survey-review.club
--d syncadvanced-bestuberfile.best
--d synccompletely-bestrecentfile.best
 -d synccurrentmostthefile.vip
 -d syncgreatly-bestrenewedfile.best
--d synchighly-bestoriginalfile.best
 -d syncintensely-bestprogressivefile.best
 -d synclatestintenselythefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
--d syncprogressive-besthighlyfile.best
 -d syncrecentintenselythefile.vip
 -d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
@@ -381,7 +364,6 @@ msFilterList
 -d thehotshot.info
 -d theirproviderock.top
 -d thenewjourney.info
--d thesafestreliablelink.work
 -d theslotomania.info
 -d timeoffers.net
 -d toolvpn.me
@@ -393,7 +375,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -424,7 +405,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

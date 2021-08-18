@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 17 Aug 2021 12:03:18 +0000
+! Updated: Wed, 18 Aug 2021 00:03:10 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 ||amobil.online$all
 ||apptool.me$all
 ||armorprovpn.me$all
-||asufij.xyz$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -40,6 +39,7 @@
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
@@ -47,7 +47,6 @@
 ||cloudmedia.fun$all
 ||cloudmedia.surf$all
 ||collectrewards.net$all
-||comphp.xyz$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
@@ -78,6 +77,7 @@
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
+||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
@@ -144,13 +144,13 @@
 ||imagefind.org$all
 ||incrediblebuzz.info$all
 ||information.casa$all
+||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -210,10 +210,8 @@
 ||lubbockeda.org$all
 ||managestrong-theuberfile.best$all
 ||manageuber-thestrongfile.best$all
-||manageuber-theswiftfile.best$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||media-cloud.ru$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -238,7 +236,6 @@
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -275,7 +272,6 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -285,25 +281,16 @@
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
 ||robogarden.io$all
-||runadvanced-bestextremelyfile.best$all
 ||runcurrent-bestextremelyfile.best$all
-||rundeveloped-bestoverlyfile.best$all
-||runextremely-bestadvancedfile.best$all
 ||runextremely-bestcurrentfile.best$all
-||runextremely-bestlatestfile.best$all
 ||runextremely-bestrecentfile.best$all
-||runfree-bestoverlyfile.best$all
 ||runintensely-bestrenewedfile.best$all
 ||runlatest-besthighlyfile.best$all
 ||runnewest-bestextremelyfile.best$all
-||runoriginal-bestextremelyfile.best$all
 ||runoriginal-bestintenselyfile.best$all
-||runoverly-bestquickfile.best$all
-||runoverly-bestsophisticatedfile.best$all
 ||runprogressive-bestmostfile.best$all
 ||runrecent-bestextremelyfile.best$all
 ||runrecent-besthighlyfile.best$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -357,16 +344,12 @@
 ||superpromotion.cyou$all
 ||support-notify.space$all
 ||survey-review.club$all
-||syncadvanced-bestuberfile.best$all
-||synccompletely-bestrecentfile.best$all
 ||synccurrentmostthefile.vip$all
 ||syncgreatly-bestrenewedfile.best$all
-||synchighly-bestoriginalfile.best$all
 ||syncintensely-bestprogressivefile.best$all
 ||synclatestintenselythefile.vip$all
 ||syncnewestmostthefile.vip$all
 ||syncnewestuberthefile.vip$all
-||syncprogressive-besthighlyfile.best$all
 ||syncrecentintenselythefile.vip$all
 ||syncuber-bestsophisticatedfile.best$all
 ||syncubercurrentfiles.best$all
@@ -378,7 +361,6 @@
 ||thehotshot.info$all
 ||theirproviderock.top$all
 ||thenewjourney.info$all
-||thesafestreliablelink.work$all
 ||theslotomania.info$all
 ||timeoffers.net$all
 ||toolvpn.me$all
@@ -390,7 +372,6 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -421,7 +402,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

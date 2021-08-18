@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 17 Aug 2021 12:03:18 +0000
+# Updated: Wed, 18 Aug 2021 00:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
 0.0.0.0 armorprovpn.me
-0.0.0.0 asufij.xyz
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -40,6 +39,7 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 cloudmedia.casa
@@ -47,7 +47,6 @@
 0.0.0.0 cloudmedia.fun
 0.0.0.0 cloudmedia.surf
 0.0.0.0 collectrewards.net
-0.0.0.0 comphp.xyz
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
@@ -78,6 +77,7 @@
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
@@ -144,13 +144,13 @@
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
+0.0.0.0 inspirationfor.me
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -210,10 +210,8 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 managestrong-theuberfile.best
 0.0.0.0 manageuber-thestrongfile.best
-0.0.0.0 manageuber-theswiftfile.best
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -238,7 +236,6 @@
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 nutrahealth.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
@@ -275,7 +272,6 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -285,25 +281,16 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
-0.0.0.0 runadvanced-bestextremelyfile.best
 0.0.0.0 runcurrent-bestextremelyfile.best
-0.0.0.0 rundeveloped-bestoverlyfile.best
-0.0.0.0 runextremely-bestadvancedfile.best
 0.0.0.0 runextremely-bestcurrentfile.best
-0.0.0.0 runextremely-bestlatestfile.best
 0.0.0.0 runextremely-bestrecentfile.best
-0.0.0.0 runfree-bestoverlyfile.best
 0.0.0.0 runintensely-bestrenewedfile.best
 0.0.0.0 runlatest-besthighlyfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
-0.0.0.0 runoriginal-bestextremelyfile.best
 0.0.0.0 runoriginal-bestintenselyfile.best
-0.0.0.0 runoverly-bestquickfile.best
-0.0.0.0 runoverly-bestsophisticatedfile.best
 0.0.0.0 runprogressive-bestmostfile.best
 0.0.0.0 runrecent-bestextremelyfile.best
 0.0.0.0 runrecent-besthighlyfile.best
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -357,16 +344,12 @@
 0.0.0.0 superpromotion.cyou
 0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
-0.0.0.0 syncadvanced-bestuberfile.best
-0.0.0.0 synccompletely-bestrecentfile.best
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 syncgreatly-bestrenewedfile.best
-0.0.0.0 synchighly-bestoriginalfile.best
 0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
-0.0.0.0 syncprogressive-besthighlyfile.best
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 syncubercurrentfiles.best
@@ -378,7 +361,6 @@
 0.0.0.0 thehotshot.info
 0.0.0.0 theirproviderock.top
 0.0.0.0 thenewjourney.info
-0.0.0.0 thesafestreliablelink.work
 0.0.0.0 theslotomania.info
 0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
@@ -390,7 +372,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -421,7 +402,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
