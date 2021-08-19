@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 18 Aug 2021 12:04:22 +0000
+# Updated: Thu, 19 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
@@ -58,7 +57,6 @@
 0.0.0.0 cryptotilt.club
 0.0.0.0 cselfconnect.com
 0.0.0.0 dailymedia.cyou
-0.0.0.0 dailymedia.site
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -108,7 +106,6 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -125,7 +122,6 @@
 0.0.0.0 googsistem.live
 0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
-0.0.0.0 growthnetic.club
 0.0.0.0 gx8uxvn13l.top
 0.0.0.0 hailso.xyz
 0.0.0.0 happymakesite.xyz
@@ -141,7 +137,6 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
-0.0.0.0 iketo.diet
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 information.casa
@@ -169,7 +164,6 @@
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
 0.0.0.0 listenthisso.top
-0.0.0.0 livingmighty.club
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
 0.0.0.0 loadextremelycurrentthefile.vip
@@ -205,15 +199,13 @@
 0.0.0.0 loadswiftintenselythefile.vip
 0.0.0.0 loaduberprecisefile.digital
 0.0.0.0 loaduberspeedyfile.digital
-0.0.0.0 locationtracker.services
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
-0.0.0.0 managestrong-theuberfile.best
-0.0.0.0 manageuber-thestrongfile.best
 0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -238,6 +230,7 @@
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 nutrahealth.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
@@ -256,6 +249,7 @@
 0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 performuberquickapplication.icu
+0.0.0.0 photo-explorer.org
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
@@ -283,16 +277,9 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
-0.0.0.0 runcurrent-bestextremelyfile.best
-0.0.0.0 runextremely-bestcurrentfile.best
-0.0.0.0 runextremely-bestrecentfile.best
-0.0.0.0 runintensely-bestrenewedfile.best
-0.0.0.0 runlatest-besthighlyfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
-0.0.0.0 runoriginal-bestintenselyfile.best
 0.0.0.0 runprogressive-bestmostfile.best
-0.0.0.0 runrecent-bestextremelyfile.best
-0.0.0.0 runrecent-besthighlyfile.best
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -313,7 +300,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
-0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
@@ -321,7 +307,6 @@
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
-0.0.0.0 streamingmadness.net
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best
@@ -330,11 +315,13 @@
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamoverly-bestrenewedfile.best
+0.0.0.0 streampreciseintenselythefile.vip
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
+0.0.0.0 streamspeedyintenselythefile.vip
 0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
@@ -348,16 +335,16 @@
 0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
 0.0.0.0 synccurrentmostthefile.vip
-0.0.0.0 syncgreatly-bestrenewedfile.best
-0.0.0.0 syncintensely-bestprogressivefile.best
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 syncubercurrentfiles.best
+0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
+0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
@@ -375,6 +362,7 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz

@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 18 Aug 2021 12:04:22 +0000
+! Updated: Thu, 19 Aug 2021 00:03:14 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
@@ -58,7 +57,6 @@
 ||cryptotilt.club$document
 ||cselfconnect.com$document
 ||dailymedia.cyou$document
-||dailymedia.site$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -108,7 +106,6 @@
 ||funsiteb.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||getbril.io$document
 ||getmoregirls.net$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
@@ -125,7 +122,6 @@
 ||googsistem.live$document
 ||gramp.xyz$document
 ||grandencryptions.me$document
-||growthnetic.club$document
 ||gx8uxvn13l.top$document
 ||hailso.xyz$document
 ||happymakesite.xyz$document
@@ -141,7 +137,6 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
-||iketo.diet$document
 ||imagefind.org$document
 ||incrediblebuzz.info$document
 ||information.casa$document
@@ -169,7 +164,6 @@
 ||ligamedia.casa$document
 ||ligamedia.club$document
 ||listenthisso.top$document
-||livingmighty.club$document
 ||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
 ||loadextremelycurrentthefile.vip$document
@@ -205,15 +199,13 @@
 ||loadswiftintenselythefile.vip$document
 ||loaduberprecisefile.digital$document
 ||loaduberspeedyfile.digital$document
-||locationtracker.services$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
-||managestrong-theuberfile.best$document
-||manageuber-thestrongfile.best$document
 ||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||media-cloud.ru$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -238,6 +230,7 @@
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
@@ -256,6 +249,7 @@
 ||performrefineduberapplication.icu$document
 ||performstrong-thegreatlyfile.digital$document
 ||performuberquickapplication.icu$document
+||photo-explorer.org$document
 ||placesiteb.xyz$document
 ||placespina.xyz$document
 ||playplanete.xyz$document
@@ -283,16 +277,9 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||robogarden.io$document
-||runcurrent-bestextremelyfile.best$document
-||runextremely-bestcurrentfile.best$document
-||runextremely-bestrecentfile.best$document
-||runintensely-bestrenewedfile.best$document
-||runlatest-besthighlyfile.best$document
 ||runnewest-bestextremelyfile.best$document
-||runoriginal-bestintenselyfile.best$document
 ||runprogressive-bestmostfile.best$document
-||runrecent-bestextremelyfile.best$document
-||runrecent-besthighlyfile.best$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -313,7 +300,6 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
-||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -321,7 +307,6 @@
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
-||streamingmadness.net$document
 ||streamintensely-bestadvancedfile.best$document
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
@@ -330,11 +315,13 @@
 ||streamlatest-bestoverlyfile.best$document
 ||streamoverly-bestdevelopedfile.best$document
 ||streamoverly-bestrenewedfile.best$document
+||streampreciseintenselythefile.vip$document
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
+||streamspeedyintenselythefile.vip$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
@@ -348,16 +335,16 @@
 ||support-notify.space$document
 ||survey-review.club$document
 ||synccurrentmostthefile.vip$document
-||syncgreatly-bestrenewedfile.best$document
-||syncintensely-bestprogressivefile.best$document
 ||synclatestintenselythefile.vip$document
 ||syncnewestmostthefile.vip$document
 ||syncnewestuberthefile.vip$document
 ||syncrecentintenselythefile.vip$document
 ||syncuber-bestsophisticatedfile.best$document
 ||syncubercurrentfiles.best$document
+||systemupdateme.solutions$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
+||technoblogs.net$document
 ||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
@@ -375,6 +362,7 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
+||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document

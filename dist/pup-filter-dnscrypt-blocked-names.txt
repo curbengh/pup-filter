@@ -1,11 +1,10 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 18 Aug 2021 12:04:22 +0000
+# Updated: Thu, 19 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-123news.website
 2021travel.net
 4upgradingstablesafe.work
 affiliateland.io
@@ -58,7 +57,6 @@ credit-monitoring-360.xyz
 cryptotilt.club
 cselfconnect.com
 dailymedia.cyou
-dailymedia.site
 dailyrep.net
 dealmedia.club
 dealmedia.website
@@ -108,7 +106,6 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
-getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -125,7 +122,6 @@ gonesteeldouble.top
 googsistem.live
 gramp.xyz
 grandencryptions.me
-growthnetic.club
 gx8uxvn13l.top
 hailso.xyz
 happymakesite.xyz
@@ -141,7 +137,6 @@ hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
-iketo.diet
 imagefind.org
 incrediblebuzz.info
 information.casa
@@ -169,7 +164,6 @@ ligamedia.art
 ligamedia.casa
 ligamedia.club
 listenthisso.top
-livingmighty.club
 loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
 loadextremelycurrentthefile.vip
@@ -205,15 +199,13 @@ loadstrongintenselythefile.vip
 loadswiftintenselythefile.vip
 loaduberprecisefile.digital
 loaduberspeedyfile.digital
-locationtracker.services
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-managestrong-theuberfile.best
-manageuber-thestrongfile.best
 mapopts.top
 marketloans.net
 matchyourgirl.online
+mathison.io
 media-cloud.ru
 mediaevent.club
 mediaevent.uno
@@ -238,6 +230,7 @@ mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
+newsinformer.net
 nutrahealth.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -256,6 +249,7 @@ performprecise-theuberfile.best
 performrefineduberapplication.icu
 performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
+photo-explorer.org
 placesiteb.xyz
 placespina.xyz
 playplanete.xyz
@@ -283,16 +277,9 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 robogarden.io
-runcurrent-bestextremelyfile.best
-runextremely-bestcurrentfile.best
-runextremely-bestrecentfile.best
-runintensely-bestrenewedfile.best
-runlatest-besthighlyfile.best
 runnewest-bestextremelyfile.best
-runoriginal-bestintenselyfile.best
 runprogressive-bestmostfile.best
-runrecent-bestextremelyfile.best
-runrecent-besthighlyfile.best
+savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -313,7 +300,6 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stickr.co
 stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -321,7 +307,6 @@ streamdeveloped-bestoverlyfile.best
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
-streamingmadness.net
 streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
@@ -330,11 +315,13 @@ streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
 streamoverly-bestrenewedfile.best
+streampreciseintenselythefile.vip
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
 streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
+streamspeedyintenselythefile.vip
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
@@ -348,16 +335,16 @@ superpromotion.cyou
 support-notify.space
 survey-review.club
 synccurrentmostthefile.vip
-syncgreatly-bestrenewedfile.best
-syncintensely-bestprogressivefile.best
 synclatestintenselythefile.vip
 syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
+systemupdateme.solutions
 systemupdatit.club
 tackis.xyz
+technoblogs.net
 technologypartners.net
 thecryptomoney.info
 thecryptozone.website
@@ -375,6 +362,7 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
+ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz

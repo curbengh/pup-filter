@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 18 Aug 2021 12:04:22 +0000
+# Updated: Thu, 19 Aug 2021 00:03:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
@@ -61,7 +60,6 @@ msFilterList
 -d cryptotilt.club
 -d cselfconnect.com
 -d dailymedia.cyou
--d dailymedia.site
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -111,7 +109,6 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -128,7 +125,6 @@ msFilterList
 -d googsistem.live
 -d gramp.xyz
 -d grandencryptions.me
--d growthnetic.club
 -d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
@@ -144,7 +140,6 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
--d iketo.diet
 -d imagefind.org
 -d incrediblebuzz.info
 -d information.casa
@@ -172,7 +167,6 @@ msFilterList
 -d ligamedia.casa
 -d ligamedia.club
 -d listenthisso.top
--d livingmighty.club
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
 -d loadextremelycurrentthefile.vip
@@ -208,15 +202,13 @@ msFilterList
 -d loadswiftintenselythefile.vip
 -d loaduberprecisefile.digital
 -d loaduberspeedyfile.digital
--d locationtracker.services
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d managestrong-theuberfile.best
--d manageuber-thestrongfile.best
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -241,6 +233,7 @@ msFilterList
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
+-d newsinformer.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -259,6 +252,7 @@ msFilterList
 -d performrefineduberapplication.icu
 -d performstrong-thegreatlyfile.digital
 -d performuberquickapplication.icu
+-d photo-explorer.org
 -d placesiteb.xyz
 -d placespina.xyz
 -d playplanete.xyz
@@ -286,16 +280,9 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d robogarden.io
--d runcurrent-bestextremelyfile.best
--d runextremely-bestcurrentfile.best
--d runextremely-bestrecentfile.best
--d runintensely-bestrenewedfile.best
--d runlatest-besthighlyfile.best
 -d runnewest-bestextremelyfile.best
--d runoriginal-bestintenselyfile.best
 -d runprogressive-bestmostfile.best
--d runrecent-bestextremelyfile.best
--d runrecent-besthighlyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -316,7 +303,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -324,7 +310,6 @@ msFilterList
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
--d streamingmadness.net
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
@@ -333,11 +318,13 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
+-d streampreciseintenselythefile.vip
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
+-d streamspeedyintenselythefile.vip
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
@@ -351,16 +338,16 @@ msFilterList
 -d support-notify.space
 -d survey-review.club
 -d synccurrentmostthefile.vip
--d syncgreatly-bestrenewedfile.best
--d syncintensely-bestprogressivefile.best
 -d synclatestintenselythefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
 -d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
+-d systemupdateme.solutions
 -d systemupdatit.club
 -d tackis.xyz
+-d technoblogs.net
 -d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
@@ -378,6 +365,7 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
