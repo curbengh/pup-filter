@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 19 Aug 2021 12:04:57 +0000
+# Updated: Fri, 20 Aug 2021 00:03:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 123news.website
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
@@ -52,6 +53,7 @@ msFilterList
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
+-d connecttheupgradingurls.work
 -d contentgate.cam
 -d contentgate.club
 -d contentgate.fun
@@ -67,7 +69,6 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -109,8 +110,8 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -151,6 +152,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -209,7 +211,6 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -227,14 +228,12 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d movievod.me
 -d my-credit-score.xyz
 -d mybesthealthplan.org
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
--d newsinformer.net
 -d nutrahealth.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -272,6 +271,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -304,6 +304,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -319,13 +320,11 @@ msFilterList
 -d streamlatest-bestoverlyfile.best
 -d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
--d streampreciseintenselythefile.vip
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
--d streamspeedyintenselythefile.vip
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
@@ -340,6 +339,7 @@ msFilterList
 -d survey-review.club
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
+-d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip

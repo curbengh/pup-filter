@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 19 Aug 2021 12:04:57 +0000
+! Updated: Fri, 20 Aug 2021 00:03:00 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$all
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
@@ -49,6 +50,7 @@
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
+||connecttheupgradingurls.work$all
 ||contentgate.cam$all
 ||contentgate.club$all
 ||contentgate.fun$all
@@ -64,7 +66,6 @@
 ||defensepro.me$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
@@ -106,8 +107,8 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -148,6 +149,7 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -206,7 +208,6 @@
 ||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||media-cloud.ru$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
@@ -224,14 +225,12 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mybesthealthplan.org$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||nutrahealth.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -269,6 +268,7 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
+||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -301,6 +301,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
+||stickr.co$all
 ||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
@@ -316,13 +317,11 @@
 ||streamlatest-bestoverlyfile.best$all
 ||streamoverly-bestdevelopedfile.best$all
 ||streamoverly-bestrenewedfile.best$all
-||streampreciseintenselythefile.vip$all
 ||streamprogressive-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestintenselyfile.best$all
 ||streamrecent-bestuberfile.best$all
 ||streamrenewed-bestoverlyfile.best$all
-||streamspeedyintenselythefile.vip$all
 ||streamstrong-bestuberfile.best$all
 ||streamuber-bestspeedyfile.best$all
 ||streamuber-bestswiftfile.best$all
@@ -337,6 +336,7 @@
 ||survey-review.club$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
+||syncmostprecisethefile.vip$all
 ||syncnewestmostthefile.vip$all
 ||syncnewestuberthefile.vip$all
 ||syncrecentintenselythefile.vip$all

@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 19 Aug 2021 12:04:57 +0000
+! Updated: Fri, 20 Aug 2021 00:03:00 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||123news.website$document
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
@@ -49,6 +50,7 @@
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
+||connecttheupgradingurls.work$document
 ||contentgate.cam$document
 ||contentgate.club$document
 ||contentgate.fun$document
@@ -64,7 +66,6 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
-||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -106,8 +107,8 @@
 ||funsiteb.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -148,6 +149,7 @@
 ||iosrecommendedvpn.com$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
+||java-forum.org$document
 ||jetsummer.xyz$document
 ||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
@@ -206,7 +208,6 @@
 ||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||media-cloud.ru$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -224,14 +225,12 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mybesthealthplan.org$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||nutrahealth.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
@@ -269,6 +268,7 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
+||quickdeals.online$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -301,6 +301,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -316,13 +317,11 @@
 ||streamlatest-bestoverlyfile.best$document
 ||streamoverly-bestdevelopedfile.best$document
 ||streamoverly-bestrenewedfile.best$document
-||streampreciseintenselythefile.vip$document
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
-||streamspeedyintenselythefile.vip$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
@@ -337,6 +336,7 @@
 ||survey-review.club$document
 ||synccurrentmostthefile.vip$document
 ||synclatestintenselythefile.vip$document
+||syncmostprecisethefile.vip$document
 ||syncnewestmostthefile.vip$document
 ||syncnewestuberthefile.vip$document
 ||syncrecentintenselythefile.vip$document
