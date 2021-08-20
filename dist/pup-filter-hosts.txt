@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 20 Aug 2021 00:03:00 +0000
+# Updated: Fri, 20 Aug 2021 12:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -260,7 +260,6 @@
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
-0.0.0.0 protect-ios.com
 0.0.0.0 protecttool.me
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
