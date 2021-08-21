@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 20 Aug 2021 12:02:51 +0000
+# Updated: Sat, 21 Aug 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@ bigwin-online-free-congrats.cyou
 bigwinonlinefreecongrats.cyou
 bitcoinjunction.club
 blockchain-com.email
-bodyamaze.club
 boot-upcompletely-bestprecisefile.best
 boot-upcompletely-bestsophisticatedfile.best
 boot-upcompletely-bestspeedyfile.best
@@ -58,7 +57,6 @@ contentgate.uno
 credit-monitoring-360.xyz
 cryptotilt.club
 cselfconnect.com
-dailymedia.cyou
 dailyrep.net
 dealmedia.club
 dealmedia.website
@@ -66,6 +64,7 @@ dealmedia.xyz
 defensepro.me
 delightcmain.xyz
 desixxx.cloud
+discoveryfeed.org
 dollarsurvey365.online
 dollarsurvey365.org
 earlyprogress.info
@@ -109,7 +108,6 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
-girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
@@ -138,6 +136,7 @@ hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
+iketo.diet
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
@@ -151,7 +150,6 @@ ironprovpn.me
 isystemupdate.cloud
 java-forum.org
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -208,6 +206,7 @@ lubbockeda.org
 mapopts.top
 marketloans.net
 matchyourgirl.online
+mathison.io
 media-cloud.ru
 mediaevent.club
 mediaevent.uno
@@ -225,13 +224,16 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
+movievod.me
 my-credit-score.xyz
 mybesthealthplan.org
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
+newsinformer.net
 nutrahealth.info
+offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -251,7 +253,6 @@ performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 photo-explorer.org
 placesiteb.xyz
-placespina.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
@@ -305,6 +306,7 @@ stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
+streamdevelopedintenselythefile.vip
 streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
@@ -312,15 +314,19 @@ streamintensely-bestadvancedfile.best
 streamintensely-bestcurrentfile.best
 streamintensely-bestlatestfile.best
 streamintensely-bestquickfile.best
+streamintenselyrefinedthefile.vip
+streamintenselysophisticatedthefile.vip
 streamlatest-bestextremelyfile.best
 streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
 streamoverly-bestrenewedfile.best
+streampreciseintenselythefile.vip
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
 streamrecent-bestintenselyfile.best
 streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
+streamspeedyintenselythefile.vip
 streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
@@ -345,7 +351,6 @@ systemupdateme.solutions
 systemupdatit.club
 tackis.xyz
 technoblogs.net
-technologypartners.net
 thecryptomoney.info
 thecryptozone.website
 thehotshot.info
@@ -362,7 +367,6 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -393,6 +397,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

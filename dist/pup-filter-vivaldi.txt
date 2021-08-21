@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 20 Aug 2021 12:02:51 +0000
+! Updated: Sat, 21 Aug 2021 00:03:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@
 ||bigwinonlinefreecongrats.cyou$document
 ||bitcoinjunction.club$document
 ||blockchain-com.email$document
-||bodyamaze.club$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
@@ -58,7 +57,6 @@
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||cselfconnect.com$document
-||dailymedia.cyou$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -66,6 +64,7 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
+||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -109,7 +108,6 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
-||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
@@ -138,6 +136,7 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
+||iketo.diet$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -151,7 +150,6 @@
 ||isystemupdate.cloud$document
 ||java-forum.org$document
 ||jetsummer.xyz$document
-||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
@@ -208,6 +206,7 @@
 ||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||media-cloud.ru$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
@@ -225,13 +224,16 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mybesthealthplan.org$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||nutrahealth.info$document
+||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -251,7 +253,6 @@
 ||performuberquickapplication.icu$document
 ||photo-explorer.org$document
 ||placesiteb.xyz$document
-||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
@@ -305,6 +306,7 @@
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
+||streamdevelopedintenselythefile.vip$document
 ||streamextremely-bestlatestfile.best$document
 ||streamextremely-bestnewestfile.best$document
 ||streamfree-bestmostfile.best$document
@@ -312,15 +314,19 @@
 ||streamintensely-bestcurrentfile.best$document
 ||streamintensely-bestlatestfile.best$document
 ||streamintensely-bestquickfile.best$document
+||streamintenselyrefinedthefile.vip$document
+||streamintenselysophisticatedthefile.vip$document
 ||streamlatest-bestextremelyfile.best$document
 ||streamlatest-bestoverlyfile.best$document
 ||streamoverly-bestdevelopedfile.best$document
 ||streamoverly-bestrenewedfile.best$document
+||streampreciseintenselythefile.vip$document
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestintenselyfile.best$document
 ||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
+||streamspeedyintenselythefile.vip$document
 ||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
@@ -345,7 +351,6 @@
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||technoblogs.net$document
-||technologypartners.net$document
 ||thecryptomoney.info$document
 ||thecryptozone.website$document
 ||thehotshot.info$document
@@ -362,7 +367,6 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -393,6 +397,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

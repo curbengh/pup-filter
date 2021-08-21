@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 20 Aug 2021 12:02:51 +0000
+# Updated: Sat, 21 Aug 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -26,7 +26,6 @@ msFilterList
 -d bigwinonlinefreecongrats.cyou
 -d bitcoinjunction.club
 -d blockchain-com.email
--d bodyamaze.club
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
@@ -61,7 +60,6 @@ msFilterList
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d cselfconnect.com
--d dailymedia.cyou
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -69,6 +67,7 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
+-d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -112,7 +111,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
@@ -141,6 +139,7 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
+-d iketo.diet
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -154,7 +153,6 @@ msFilterList
 -d isystemupdate.cloud
 -d java-forum.org
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -211,6 +209,7 @@ msFilterList
 -d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaevent.club
 -d mediaevent.uno
@@ -228,13 +227,16 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d movievod.me
 -d my-credit-score.xyz
 -d mybesthealthplan.org
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
+-d newsinformer.net
 -d nutrahealth.info
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -254,7 +256,6 @@ msFilterList
 -d performuberquickapplication.icu
 -d photo-explorer.org
 -d placesiteb.xyz
--d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -308,6 +309,7 @@ msFilterList
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
+-d streamdevelopedintenselythefile.vip
 -d streamextremely-bestlatestfile.best
 -d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
@@ -315,15 +317,19 @@ msFilterList
 -d streamintensely-bestcurrentfile.best
 -d streamintensely-bestlatestfile.best
 -d streamintensely-bestquickfile.best
+-d streamintenselyrefinedthefile.vip
+-d streamintenselysophisticatedthefile.vip
 -d streamlatest-bestextremelyfile.best
 -d streamlatest-bestoverlyfile.best
 -d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
+-d streampreciseintenselythefile.vip
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestintenselyfile.best
 -d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
+-d streamspeedyintenselythefile.vip
 -d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
@@ -348,7 +354,6 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
--d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thehotshot.info
@@ -365,7 +370,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -396,6 +400,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

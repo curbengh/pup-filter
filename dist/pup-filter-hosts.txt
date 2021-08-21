@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 20 Aug 2021 12:02:51 +0000
+# Updated: Sat, 21 Aug 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@
 0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 blockchain-com.email
-0.0.0.0 bodyamaze.club
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
@@ -58,7 +57,6 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 cselfconnect.com
-0.0.0.0 dailymedia.cyou
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -66,6 +64,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -109,7 +108,6 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
@@ -138,6 +136,7 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
+0.0.0.0 iketo.diet
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -151,7 +150,6 @@
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -208,6 +206,7 @@
 0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
@@ -225,13 +224,16 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 nutrahealth.info
+0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
@@ -251,7 +253,6 @@
 0.0.0.0 performuberquickapplication.icu
 0.0.0.0 photo-explorer.org
 0.0.0.0 placesiteb.xyz
-0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
@@ -305,6 +306,7 @@
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
+0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamextremely-bestlatestfile.best
 0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
@@ -312,15 +314,19 @@
 0.0.0.0 streamintensely-bestcurrentfile.best
 0.0.0.0 streamintensely-bestlatestfile.best
 0.0.0.0 streamintensely-bestquickfile.best
+0.0.0.0 streamintenselyrefinedthefile.vip
+0.0.0.0 streamintenselysophisticatedthefile.vip
 0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamlatest-bestoverlyfile.best
 0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamoverly-bestrenewedfile.best
+0.0.0.0 streampreciseintenselythefile.vip
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
 0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
+0.0.0.0 streamspeedyintenselythefile.vip
 0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
@@ -345,7 +351,6 @@
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 technoblogs.net
-0.0.0.0 technologypartners.net
 0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
 0.0.0.0 thehotshot.info
@@ -362,7 +367,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -393,6 +397,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
