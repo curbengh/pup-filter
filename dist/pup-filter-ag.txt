@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 21 Aug 2021 12:02:30 +0000
+! Updated: Sun, 22 Aug 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -107,8 +107,9 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
+||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
@@ -141,7 +142,6 @@
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
-||information.casa$all
 ||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
@@ -149,8 +149,8 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
+||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -204,7 +204,6 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -225,7 +224,6 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -253,6 +251,7 @@
 ||performuberquickapplication.icu$all
 ||photo-explorer.org$all
 ||placesiteb.xyz$all
+||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
@@ -268,7 +267,6 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -279,7 +277,6 @@
 ||ritaus.org$all
 ||robogarden.io$all
 ||runnewest-bestextremelyfile.best$all
-||runprogressive-bestmostfile.best$all
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
@@ -351,6 +348,7 @@
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thecryptomoney.info$all
 ||thecryptozone.website$all
 ||thehotshot.info$all
@@ -367,6 +365,7 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -397,7 +396,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

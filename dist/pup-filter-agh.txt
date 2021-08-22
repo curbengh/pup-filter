@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 21 Aug 2021 12:02:30 +0000
+! Updated: Sun, 22 Aug 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -107,8 +107,9 @@
 ||funsiteb.xyz^
 ||genertellife.it^
 ||get-your-score.club^
-||getbril.io^
 ||getmoregirls.net^
+||gettheraiceheadreliefhat.io^
+||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
 ||gladspaceplane.xyz^
@@ -141,7 +142,6 @@
 ||imagefind.org^
 ||incing-marganic.icu^
 ||incrediblebuzz.info^
-||information.casa^
 ||inspirationfor.me^
 ||installcompletely-theoriginalfile.best^
 ||investinfo.net^
@@ -149,8 +149,8 @@
 ||iosrecommendedvpn.com^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
-||java-forum.org^
 ||jetsummer.xyz^
+||jointingifstrawberry.xyz^
 ||jojomamanbebe.ie^
 ||joyspotmap.xyz^
 ||jtkszl.vip^
@@ -204,7 +204,6 @@
 ||louisvillegigs.net^
 ||loveorfun.cc^
 ||lubbockeda.org^
-||mapopts.top^
 ||marketloans.net^
 ||matchyourgirl.online^
 ||mathison.io^
@@ -225,7 +224,6 @@
 ||mindmatch.ai^
 ||mistraffic.me^
 ||mobileluckywinner.site^
-||movievod.me^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
@@ -253,6 +251,7 @@
 ||performuberquickapplication.icu^
 ||photo-explorer.org^
 ||placesiteb.xyz^
+||placespina.xyz^
 ||playplanete.xyz^
 ||playspind.xyz^
 ||ppploanchoices.site^
@@ -268,7 +267,6 @@
 ||prtctapp.me^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
-||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -279,7 +277,6 @@
 ||ritaus.org^
 ||robogarden.io^
 ||runnewest-bestextremelyfile.best^
-||runprogressive-bestmostfile.best^
 ||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
@@ -351,6 +348,7 @@
 ||systemupdatit.club^
 ||tackis.xyz^
 ||technoblogs.net^
+||technologypartners.net^
 ||thecryptomoney.info^
 ||thecryptozone.website^
 ||thehotshot.info^
@@ -367,6 +365,7 @@
 ||tripleprofit-zone.life^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^
@@ -397,7 +396,6 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
-||yifymovies.cam^
 ||yourlegendaryplaceupgrading.work^
 ||yourlegendarysystemsupgrade.work^
 ||yourlinkplaceupdatingfree.work^

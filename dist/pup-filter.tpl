@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 21 Aug 2021 12:02:30 +0000
+# Updated: Sun, 22 Aug 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -110,8 +110,9 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
+-d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
@@ -144,7 +145,6 @@ msFilterList
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
--d information.casa
 -d inspirationfor.me
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
@@ -152,8 +152,8 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -207,7 +207,6 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -228,7 +227,6 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -256,6 +254,7 @@ msFilterList
 -d performuberquickapplication.icu
 -d photo-explorer.org
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -271,7 +270,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -282,7 +280,6 @@ msFilterList
 -d ritaus.org
 -d robogarden.io
 -d runnewest-bestextremelyfile.best
--d runprogressive-bestmostfile.best
 -d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
@@ -354,6 +351,7 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
+-d technologypartners.net
 -d thecryptomoney.info
 -d thecryptozone.website
 -d thehotshot.info
@@ -370,6 +368,7 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -400,7 +399,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
