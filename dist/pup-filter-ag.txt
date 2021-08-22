@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 22 Aug 2021 00:02:54 +0000
+! Updated: Sun, 22 Aug 2021 12:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 ||123news.website$all
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||adslauchgo.xyz$all
 ||affiliateland.io$all
 ||altcasino.info$all
 ||amobil.online$all
@@ -83,7 +82,6 @@
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
-||fastwebe.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
@@ -142,7 +140,6 @@
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
-||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
 ||iosdfnc.com$all
@@ -161,7 +158,6 @@
 ||keepithealthy.info$all
 ||kompsos.uk$all
 ||ktpyzw.vip$all
-||lackystack.net$all
 ||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
@@ -299,7 +295,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
