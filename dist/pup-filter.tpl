@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 22 Aug 2021 12:02:52 +0000
+# Updated: Mon, 23 Aug 2021 00:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -45,7 +45,6 @@ msFilterList
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
--d cloudmedia.cyou
 -d cloudmedia.fun
 -d cloudmedia.surf
 -d collectrewards.net
@@ -108,6 +107,7 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -124,7 +124,6 @@ msFilterList
 -d googsistem.live
 -d gramp.xyz
 -d grandencryptions.me
--d gx8uxvn13l.top
 -d hailso.xyz
 -d happymakesite.xyz
 -d healandgrow.club
@@ -203,6 +202,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -223,6 +223,7 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -275,6 +276,7 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d robogarden.io
+-d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
 -d savagegrowplus.net
 -d scoopswoop.info
@@ -394,6 +396,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

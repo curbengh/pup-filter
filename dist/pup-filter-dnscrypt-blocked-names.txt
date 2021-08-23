@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 22 Aug 2021 12:02:52 +0000
+# Updated: Mon, 23 Aug 2021 00:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@ chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
-cloudmedia.cyou
 cloudmedia.fun
 cloudmedia.surf
 collectrewards.net
@@ -105,6 +104,7 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -121,7 +121,6 @@ gonesteeldouble.top
 googsistem.live
 gramp.xyz
 grandencryptions.me
-gx8uxvn13l.top
 hailso.xyz
 happymakesite.xyz
 healandgrow.club
@@ -200,6 +199,7 @@ loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
+mapopts.top
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -220,6 +220,7 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -272,6 +273,7 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 robogarden.io
+rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
 savagegrowplus.net
 scoopswoop.info
@@ -391,6 +393,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

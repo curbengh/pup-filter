@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 22 Aug 2021 12:02:52 +0000
+! Updated: Mon, 23 Aug 2021 00:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
-||cloudmedia.cyou$all
 ||cloudmedia.fun$all
 ||cloudmedia.surf$all
 ||collectrewards.net$all
@@ -105,6 +104,7 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -121,7 +121,6 @@
 ||googsistem.live$all
 ||gramp.xyz$all
 ||grandencryptions.me$all
-||gx8uxvn13l.top$all
 ||hailso.xyz$all
 ||happymakesite.xyz$all
 ||healandgrow.club$all
@@ -200,6 +199,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -220,6 +220,7 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -272,6 +273,7 @@
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
 ||robogarden.io$all
+||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
@@ -391,6 +393,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

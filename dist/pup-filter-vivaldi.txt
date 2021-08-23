@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 22 Aug 2021 12:02:52 +0000
+! Updated: Mon, 23 Aug 2021 00:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 ||check-your-profitzone.life$document
 ||checkstableaupdatinglinks.work$document
 ||cloudmedia.casa$document
-||cloudmedia.cyou$document
 ||cloudmedia.fun$document
 ||cloudmedia.surf$document
 ||collectrewards.net$document
@@ -105,6 +104,7 @@
 ||funsiteb.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
@@ -121,7 +121,6 @@
 ||googsistem.live$document
 ||gramp.xyz$document
 ||grandencryptions.me$document
-||gx8uxvn13l.top$document
 ||hailso.xyz$document
 ||happymakesite.xyz$document
 ||healandgrow.club$document
@@ -200,6 +199,7 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
+||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
@@ -220,6 +220,7 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -272,6 +273,7 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
 ||robogarden.io$document
+||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
 ||savagegrowplus.net$document
 ||scoopswoop.info$document
@@ -391,6 +393,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document
