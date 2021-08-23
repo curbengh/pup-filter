@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 23 Aug 2021 00:03:08 +0000
+# Updated: Mon, 23 Aug 2021 12:03:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,7 +63,6 @@
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -239,7 +238,6 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performprecise-theuberfile.best
@@ -331,7 +329,6 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 superpromotion.cyou
-0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
