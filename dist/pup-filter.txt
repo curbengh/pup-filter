@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 23 Aug 2021 12:03:31 +0000
+! Updated: Tue, 24 Aug 2021 00:03:24 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 2021travel.net
 4upgradingstablesafe.work
 affiliateland.io
+aikoo.club
 altcasino.info
 amobil.online
 apptool.me
@@ -134,7 +135,6 @@ hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
-iketo.diet
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
@@ -144,8 +144,8 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -219,6 +219,7 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
+money-hero.org
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
@@ -262,6 +263,7 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
+quizshein.shop
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -343,7 +345,6 @@ systemupdatit.club
 tackis.xyz
 technoblogs.net
 technologypartners.net
-thecryptomoney.info
 thecryptozone.website
 thehotshot.info
 theirproviderock.top

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 23 Aug 2021 12:03:31 +0000
+# Updated: Tue, 24 Aug 2021 00:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
+-d aikoo.club
 -d altcasino.info
 -d amobil.online
 -d apptool.me
@@ -137,7 +138,6 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
--d iketo.diet
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -147,8 +147,8 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -222,6 +222,7 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
+-d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -265,6 +266,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -346,7 +348,6 @@ msFilterList
 -d tackis.xyz
 -d technoblogs.net
 -d technologypartners.net
--d thecryptomoney.info
 -d thecryptozone.website
 -d thehotshot.info
 -d theirproviderock.top

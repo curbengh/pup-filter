@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 23 Aug 2021 12:03:31 +0000
+# Updated: Tue, 24 Aug 2021 00:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
+0.0.0.0 aikoo.club
 0.0.0.0 altcasino.info
 0.0.0.0 amobil.online
 0.0.0.0 apptool.me
@@ -134,7 +135,6 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
-0.0.0.0 iketo.diet
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -144,8 +144,8 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -219,6 +219,7 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
@@ -262,6 +263,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 quizshein.shop
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -343,7 +345,6 @@
 0.0.0.0 tackis.xyz
 0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
-0.0.0.0 thecryptomoney.info
 0.0.0.0 thecryptozone.website
 0.0.0.0 thehotshot.info
 0.0.0.0 theirproviderock.top
