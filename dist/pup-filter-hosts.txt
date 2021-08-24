@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 24 Aug 2021 00:03:24 +0000
+# Updated: Tue, 24 Aug 2021 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
-0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
@@ -33,7 +32,6 @@
 0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
-0.0.0.0 browse-privately.net
 0.0.0.0 btcinvesting.info
 0.0.0.0 bulley.shop
 0.0.0.0 calledbellc.fun
@@ -64,6 +62,7 @@
 0.0.0.0 defensepro.me
 0.0.0.0 delightcmain.xyz
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -81,6 +80,7 @@
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
+0.0.0.0 fastwebe.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
@@ -156,6 +156,7 @@
 0.0.0.0 keepithealthy.info
 0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
+0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
@@ -239,6 +240,7 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
+0.0.0.0 ouldthepat.fun
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performlatestoverlyapplication.icu
 0.0.0.0 performprecise-theuberfile.best
@@ -263,6 +265,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -281,6 +284,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -331,6 +335,7 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 superpromotion.cyou
+0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
