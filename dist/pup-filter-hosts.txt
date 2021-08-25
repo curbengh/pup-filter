@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 25 Aug 2021 00:03:51 +0000
+# Updated: Wed, 25 Aug 2021 12:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -134,6 +134,7 @@
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
+0.0.0.0 inspirationfor.me
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 investinfo.net
 0.0.0.0 iosdfnc.com
@@ -293,6 +294,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -363,6 +365,7 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
