@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 24 Aug 2021 12:03:47 +0000
+# Updated: Wed, 25 Aug 2021 00:03:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 cloudmedia.casa
 0.0.0.0 cloudmedia.fun
-0.0.0.0 cloudmedia.surf
 0.0.0.0 collectrewards.net
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
@@ -91,10 +90,8 @@
 0.0.0.0 flatbellylife.info
 0.0.0.0 flyfreecostas.live
 0.0.0.0 flymedia.cam
-0.0.0.0 flymedia.club
 0.0.0.0 flymedia.fun
 0.0.0.0 flymedia.online
-0.0.0.0 flymedia.uno
 0.0.0.0 free-gifts.net
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
@@ -104,7 +101,6 @@
 0.0.0.0 funsiteb.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -220,14 +216,12 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 nutrahealth.info
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -265,7 +259,6 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -284,7 +277,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -365,7 +357,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -396,7 +387,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

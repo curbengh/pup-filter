@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 24 Aug 2021 12:03:47 +0000
+! Updated: Wed, 25 Aug 2021 00:03:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 ||checkstableaupdatinglinks.work$document
 ||cloudmedia.casa$document
 ||cloudmedia.fun$document
-||cloudmedia.surf$document
 ||collectrewards.net$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
@@ -91,10 +90,8 @@
 ||flatbellylife.info$document
 ||flyfreecostas.live$document
 ||flymedia.cam$document
-||flymedia.club$document
 ||flymedia.fun$document
 ||flymedia.online$document
-||flymedia.uno$document
 ||free-gifts.net$document
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
@@ -104,7 +101,6 @@
 ||funsiteb.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||getbril.io$document
 ||getmoregirls.net$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
@@ -220,14 +216,12 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||nutrahealth.info$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -265,7 +259,6 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||quickdeals.online$document
 ||quizshein.shop$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
@@ -284,7 +277,6 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchoffers.info$document
-||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -365,7 +357,6 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -396,7 +387,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

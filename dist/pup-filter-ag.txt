@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 24 Aug 2021 12:03:47 +0000
+! Updated: Wed, 25 Aug 2021 00:03:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 ||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
 ||cloudmedia.fun$all
-||cloudmedia.surf$all
 ||collectrewards.net$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
@@ -91,10 +90,8 @@
 ||flatbellylife.info$all
 ||flyfreecostas.live$all
 ||flymedia.cam$all
-||flymedia.club$all
 ||flymedia.fun$all
 ||flymedia.online$all
-||flymedia.uno$all
 ||free-gifts.net$all
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
@@ -104,7 +101,6 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -220,14 +216,12 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||nutrahealth.info$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -265,7 +259,6 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||quizshein.shop$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
@@ -284,7 +277,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchoffers.info$all
-||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -365,7 +357,6 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -396,7 +387,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

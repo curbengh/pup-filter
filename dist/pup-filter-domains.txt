@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 24 Aug 2021 12:03:47 +0000
+# Updated: Wed, 25 Aug 2021 00:03:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@ check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
 cloudmedia.fun
-cloudmedia.surf
 collectrewards.net
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
@@ -91,10 +90,8 @@ flash-rewards.info
 flatbellylife.info
 flyfreecostas.live
 flymedia.cam
-flymedia.club
 flymedia.fun
 flymedia.online
-flymedia.uno
 free-gifts.net
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
@@ -104,7 +101,6 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
-getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
 girlsnearyou.online
@@ -220,14 +216,12 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-money-hero.org
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
-newsinformer.net
 nutrahealth.info
 offersearch.info
 official-bigwin-national-free.cyou
@@ -265,7 +259,6 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
-quickdeals.online
 quizshein.shop
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
@@ -284,7 +277,6 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchoffers.info
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -365,7 +357,6 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -396,7 +387,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

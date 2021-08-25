@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 24 Aug 2021 12:03:47 +0000
+# Updated: Wed, 25 Aug 2021 00:03:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -45,7 +45,6 @@ msFilterList
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
 -d cloudmedia.fun
--d cloudmedia.surf
 -d collectrewards.net
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
@@ -94,10 +93,8 @@ msFilterList
 -d flatbellylife.info
 -d flyfreecostas.live
 -d flymedia.cam
--d flymedia.club
 -d flymedia.fun
 -d flymedia.online
--d flymedia.uno
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
@@ -107,7 +104,6 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -223,14 +219,12 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
--d newsinformer.net
 -d nutrahealth.info
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -268,7 +262,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
@@ -287,7 +280,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchoffers.info
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -368,7 +360,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -399,7 +390,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
