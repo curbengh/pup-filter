@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 25 Aug 2021 12:03:24 +0000
+# Updated: Thu, 26 Aug 2021 00:03:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,12 +10,12 @@
 4upgradingstablesafe.work
 affiliateland.io
 aikoo.club
-altcasino.info
 amobil.online
 apptool.me
 armorprovpn.me
 atprofessor.fun
 be-5hdo32xes-ok.live
+be-n9lnns3n-ok.live
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
@@ -41,7 +41,6 @@ chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 cloudmedia.casa
-cloudmedia.fun
 collectrewards.net
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
@@ -53,7 +52,6 @@ contentgate.fun
 contentgate.uno
 credit-monitoring-360.xyz
 cryptotilt.club
-cselfconnect.com
 dailyrep.net
 dealmedia.club
 dealmedia.website
@@ -90,8 +88,10 @@ flash-rewards.info
 flatbellylife.info
 flyfreecostas.live
 flymedia.cam
+flymedia.club
 flymedia.fun
 flymedia.online
+flymedia.uno
 free-gifts.net
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
@@ -101,13 +101,14 @@ funny-media.ru
 funsiteb.xyz
 genertellife.it
 get-your-score.club
+getbril.io
 getmoregirls.net
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
 global-info.space
+global-track.space
 go-x34n7wbcoes-ok.live
 goalmedia.bar
 goalmedia.cam
@@ -127,22 +128,20 @@ healthylives.today
 healthyspirit.info
 heatwavereporter.org
 help4.info
-hotladieshere.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
-inspirationfor.me
 installcompletely-theoriginalfile.best
 investinfo.net
 iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
+jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -150,6 +149,7 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
+keepinfit.net
 keepithealthy.info
 kompsos.uk
 ktpyzw.vip
@@ -196,7 +196,6 @@ loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-mapopts.top
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -217,13 +216,15 @@ mindbank.ai
 mindmatch.ai
 mistraffic.me
 mobileluckywinner.site
-movievod.me
+money-hero.org
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
+newsinformer.net
 nutrahealth.info
+offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
@@ -329,7 +330,6 @@ superplace4upgrade.work
 superplace4upgrading.work
 superplaceforupgrade.info
 superpromotion.cyou
-support-notify.space
 survey-review.club
 synccurrentmostthefile.vip
 synclatestintenselythefile.vip
@@ -359,6 +359,7 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
+ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -390,6 +391,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 25 Aug 2021 12:03:24 +0000
+! Updated: Thu, 26 Aug 2021 00:03:32 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,12 +10,12 @@
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||aikoo.club$all
-||altcasino.info$all
 ||amobil.online$all
 ||apptool.me$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
+||be-n9lnns3n-ok.live$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
@@ -41,7 +41,6 @@
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||cloudmedia.casa$all
-||cloudmedia.fun$all
 ||collectrewards.net$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
@@ -53,7 +52,6 @@
 ||contentgate.uno$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
-||cselfconnect.com$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -90,8 +88,10 @@
 ||flatbellylife.info$all
 ||flyfreecostas.live$all
 ||flymedia.cam$all
+||flymedia.club$all
 ||flymedia.fun$all
 ||flymedia.online$all
+||flymedia.uno$all
 ||free-gifts.net$all
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
@@ -101,13 +101,14 @@
 ||funsiteb.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
 ||global-info.space$all
+||global-track.space$all
 ||go-x34n7wbcoes-ok.live$all
 ||goalmedia.bar$all
 ||goalmedia.cam$all
@@ -127,22 +128,20 @@
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||help4.info$all
-||hotladieshere.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
-||inspirationfor.me$all
 ||installcompletely-theoriginalfile.best$all
 ||investinfo.net$all
 ||iosdfnc.com$all
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
+||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -150,6 +149,7 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
+||keepinfit.net$all
 ||keepithealthy.info$all
 ||kompsos.uk$all
 ||ktpyzw.vip$all
@@ -196,7 +196,6 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -217,13 +216,15 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||movievod.me$all
+||money-hero.org$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
+||newsinformer.net$all
 ||nutrahealth.info$all
+||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -329,7 +330,6 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||superpromotion.cyou$all
-||support-notify.space$all
 ||survey-review.club$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
@@ -359,6 +359,7 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -390,6 +391,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

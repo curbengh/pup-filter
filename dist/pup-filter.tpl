@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 25 Aug 2021 12:03:24 +0000
+# Updated: Thu, 26 Aug 2021 00:03:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,12 +13,12 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d aikoo.club
--d altcasino.info
 -d amobil.online
 -d apptool.me
 -d armorprovpn.me
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
+-d be-n9lnns3n-ok.live
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -44,7 +44,6 @@ msFilterList
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d cloudmedia.casa
--d cloudmedia.fun
 -d collectrewards.net
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
@@ -56,7 +55,6 @@ msFilterList
 -d contentgate.uno
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
--d cselfconnect.com
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -93,8 +91,10 @@ msFilterList
 -d flatbellylife.info
 -d flyfreecostas.live
 -d flymedia.cam
+-d flymedia.club
 -d flymedia.fun
 -d flymedia.online
+-d flymedia.uno
 -d free-gifts.net
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
@@ -104,13 +104,14 @@ msFilterList
 -d funsiteb.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
 -d global-info.space
+-d global-track.space
 -d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
 -d goalmedia.cam
@@ -130,22 +131,20 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
--d hotladieshere.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
--d inspirationfor.me
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
 -d iosdfnc.com
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -153,6 +152,7 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
+-d keepinfit.net
 -d keepithealthy.info
 -d kompsos.uk
 -d ktpyzw.vip
@@ -199,7 +199,6 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -220,13 +219,15 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d movievod.me
+-d money-hero.org
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
+-d newsinformer.net
 -d nutrahealth.info
+-d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -332,7 +333,6 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d superpromotion.cyou
--d support-notify.space
 -d survey-review.club
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
@@ -362,6 +362,7 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -393,6 +394,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
