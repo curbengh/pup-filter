@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 26 Aug 2021 00:03:32 +0000
+! Updated: Thu, 26 Aug 2021 12:04:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@
 ||contentgate.uno$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
+||dailyboard.org$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -218,6 +219,7 @@
 ||mobileluckywinner.site$document
 ||money-hero.org$document
 ||my-credit-score.xyz$document
+||mybesthealthplan.org$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
