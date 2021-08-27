@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 26 Aug 2021 12:04:06 +0000
+! Updated: Fri, 27 Aug 2021 00:03:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -70,7 +70,6 @@
 ||erotica.live$document
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
-||fast-app.xyz$document
 ||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
@@ -104,6 +103,7 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -129,6 +129,7 @@
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -142,7 +143,6 @@
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||jetsummer.xyz$document
-||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
@@ -217,14 +217,13 @@
 ||mindmatch.ai$document
 ||mistraffic.me$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mybesthealthplan.org$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||nutrahealth.info$document
 ||offerpage.link$document
 ||offersearch.info$document
@@ -251,6 +250,7 @@
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
+||premiernursingacademy.org$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
 ||profitsurvey365.org$document
@@ -280,13 +280,13 @@
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
+||searchmgr.online$document
 ||searchoffers.info$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||service-care.space$document
 ||settothereliableupgradingnew.work$document
-||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
 ||sorrectionki.space$document
@@ -332,6 +332,7 @@
 ||superplace4upgrading.work$document
 ||superplaceforupgrade.info$document
 ||superpromotion.cyou$document
+||support-notify.space$document
 ||survey-review.club$document
 ||synccurrentmostthefile.vip$document
 ||synclatestintenselythefile.vip$document
@@ -361,7 +362,6 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document

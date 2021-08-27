@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 26 Aug 2021 12:04:06 +0000
+! Updated: Fri, 27 Aug 2021 00:03:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -70,7 +70,6 @@
 ||erotica.live$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
-||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
@@ -104,6 +103,7 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -129,6 +129,7 @@
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -142,7 +143,6 @@
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
-||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -217,14 +217,13 @@
 ||mindmatch.ai$all
 ||mistraffic.me$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mybesthealthplan.org$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||nutrahealth.info$all
 ||offerpage.link$all
 ||offersearch.info$all
@@ -251,6 +250,7 @@
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
+||premiernursingacademy.org$all
 ||prize-messsages.casa$all
 ||profitsurvey365.online$all
 ||profitsurvey365.org$all
@@ -280,13 +280,13 @@
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
+||searchmgr.online$all
 ||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||service-care.space$all
 ||settothereliableupgradingnew.work$all
-||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
 ||sorrectionki.space$all
@@ -332,6 +332,7 @@
 ||superplace4upgrading.work$all
 ||superplaceforupgrade.info$all
 ||superpromotion.cyou$all
+||support-notify.space$all
 ||survey-review.club$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
@@ -361,7 +362,6 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all

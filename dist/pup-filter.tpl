@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 26 Aug 2021 12:04:06 +0000
+# Updated: Fri, 27 Aug 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -73,7 +73,6 @@ msFilterList
 -d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
--d fast-app.xyz
 -d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
@@ -107,6 +106,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -132,6 +132,7 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -145,7 +146,6 @@ msFilterList
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -220,14 +220,13 @@ msFilterList
 -d mindmatch.ai
 -d mistraffic.me
 -d mobileluckywinner.site
--d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mybesthealthplan.org
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
--d newsinformer.net
 -d nutrahealth.info
 -d offerpage.link
 -d offersearch.info
@@ -254,6 +253,7 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
+-d premiernursingacademy.org
 -d prize-messsages.casa
 -d profitsurvey365.online
 -d profitsurvey365.org
@@ -283,13 +283,13 @@ msFilterList
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
+-d searchmgr.online
 -d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
--d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d sorrectionki.space
@@ -335,6 +335,7 @@ msFilterList
 -d superplace4upgrading.work
 -d superplaceforupgrade.info
 -d superpromotion.cyou
+-d support-notify.space
 -d survey-review.club
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
@@ -364,7 +365,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz

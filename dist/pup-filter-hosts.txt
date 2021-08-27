@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 26 Aug 2021 12:04:06 +0000
+# Updated: Fri, 27 Aug 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -70,7 +70,6 @@
 0.0.0.0 erotica.live
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
-0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
@@ -104,6 +103,7 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -129,6 +129,7 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -142,7 +143,6 @@
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -217,14 +217,13 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistraffic.me
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 nutrahealth.info
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
@@ -251,6 +250,7 @@
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 ppploanchoices.site
+0.0.0.0 premiernursingacademy.org
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitsurvey365.online
 0.0.0.0 profitsurvey365.org
@@ -280,13 +280,13 @@
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
+0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
 0.0.0.0 sorrectionki.space
@@ -332,6 +332,7 @@
 0.0.0.0 superplace4upgrading.work
 0.0.0.0 superplaceforupgrade.info
 0.0.0.0 superpromotion.cyou
+0.0.0.0 support-notify.space
 0.0.0.0 survey-review.club
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
@@ -361,7 +362,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
