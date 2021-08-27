@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 27 Aug 2021 00:03:13 +0000
+# Updated: Fri, 27 Aug 2021 12:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -219,7 +219,6 @@
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
-0.0.0.0 mybesthealthplan.org
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
