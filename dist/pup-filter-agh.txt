@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 27 Aug 2021 12:02:51 +0000
+! Updated: Sat, 28 Aug 2021 00:35:23 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 ||atprofessor.fun^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
-||beinspired.global^
 ||bestappland.me^
 ||bestvideoplayerupgrades.work^
 ||bigwin-online-free-congrats.cyou^
@@ -40,7 +39,6 @@
 ||chatverse.net^
 ||check-your-profitzone.life^
 ||checkstableaupdatinglinks.work^
-||cloudmedia.casa^
 ||collectrewards.net^
 ||congrats-lucky-giveaway-smart.cyou^
 ||congratsluckygiveawaysmart.cyou^
@@ -52,7 +50,6 @@
 ||contentgate.uno^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
-||dailyboard.org^
 ||dailyrep.net^
 ||dealmedia.club^
 ||dealmedia.website^
@@ -129,7 +126,6 @@
 ||healthyspirit.info^
 ||heatwavereporter.org^
 ||help4.info^
-||hpages.net^
 ||httqzq.vip^
 ||hypezen.info^
 ||ientsillness.fun^
@@ -142,7 +138,9 @@
 ||iosrecommendedvpn.com^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
+||java-forum.org^
 ||jetsummer.xyz^
+||jointingifstrawberry.xyz^
 ||jojomamanbebe.ie^
 ||joyspotmap.xyz^
 ||jtkszl.vip^
@@ -150,7 +148,6 @@
 ||junemedia.club^
 ||junemedia.xyz^
 ||junesmile.xyz^
-||keepinfit.net^
 ||keepithealthy.info^
 ||kompsos.uk^
 ||ktpyzw.vip^
@@ -215,7 +212,6 @@
 ||melanthios-ana.com^
 ||mindbank.ai^
 ||mindmatch.ai^
-||mistraffic.me^
 ||mobileluckywinner.site^
 ||movievod.me^
 ||my-credit-score.xyz^
@@ -223,6 +219,7 @@
 ||n95o0fxvvw.top^
 ||naughtygirlsshowall.live^
 ||newbuy.xyz^
+||newsinformer.net^
 ||nutrahealth.info^
 ||offerpage.link^
 ||offersearch.info^
@@ -279,13 +276,13 @@
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
-||searchmgr.online^
 ||searchoffers.info^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||sergey-tracks.xyz^
 ||service-care.space^
 ||settothereliableupgradingnew.work^
+||shopnsave.world^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||smartideas.pro^
 ||sorrectionki.space^
@@ -332,7 +329,6 @@
 ||superplaceforupgrade.info^
 ||superpromotion.cyou^
 ||support-notify.space^
-||survey-review.club^
 ||synccurrentmostthefile.vip^
 ||synclatestintenselythefile.vip^
 ||syncmostprecisethefile.vip^
@@ -345,7 +341,6 @@
 ||systemupdatit.club^
 ||tackis.xyz^
 ||technoblogs.net^
-||technologypartners.net^
 ||thecryptozone.website^
 ||thehotshot.info^
 ||theirproviderock.top^
@@ -355,12 +350,12 @@
 ||toolvpn.me^
 ||top-offers2.club^
 ||tracking-landers.xyz^
-||trafficgate.cc^
 ||trafficmind.pro^
 ||trane.fun^
 ||tripleprofit-zone.life^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 27 Aug 2021 12:02:51 +0000
+# Updated: Sat, 28 Aug 2021 00:35:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ msFilterList
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
--d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -43,7 +42,6 @@ msFilterList
 -d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
--d cloudmedia.casa
 -d collectrewards.net
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
@@ -55,7 +53,6 @@ msFilterList
 -d contentgate.uno
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
--d dailyboard.org
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -132,7 +129,6 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -145,7 +141,9 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -153,7 +151,6 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d keepinfit.net
 -d keepithealthy.info
 -d kompsos.uk
 -d ktpyzw.vip
@@ -218,7 +215,6 @@ msFilterList
 -d melanthios-ana.com
 -d mindbank.ai
 -d mindmatch.ai
--d mistraffic.me
 -d mobileluckywinner.site
 -d movievod.me
 -d my-credit-score.xyz
@@ -226,6 +222,7 @@ msFilterList
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
 -d newbuy.xyz
+-d newsinformer.net
 -d nutrahealth.info
 -d offerpage.link
 -d offersearch.info
@@ -282,13 +279,13 @@ msFilterList
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
--d searchmgr.online
 -d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d service-care.space
 -d settothereliableupgradingnew.work
+-d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d sorrectionki.space
@@ -335,7 +332,6 @@ msFilterList
 -d superplaceforupgrade.info
 -d superpromotion.cyou
 -d support-notify.space
--d survey-review.club
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
 -d syncmostprecisethefile.vip
@@ -348,7 +344,6 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
--d technologypartners.net
 -d thecryptozone.website
 -d thehotshot.info
 -d theirproviderock.top
@@ -358,12 +353,12 @@ msFilterList
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
--d trafficgate.cc
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
