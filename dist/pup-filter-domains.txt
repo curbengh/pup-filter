@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 28 Aug 2021 12:02:41 +0000
+# Updated: Sun, 29 Aug 2021 00:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@ armorprovpn.me
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
+beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -50,6 +51,7 @@ contentgate.fun
 contentgate.uno
 credit-monitoring-360.xyz
 cryptotilt.club
+dailyboard.org
 dailyrep.net
 dealmedia.club
 dealmedia.website
@@ -126,6 +128,7 @@ healthylives.today
 healthyspirit.info
 heatwavereporter.org
 help4.info
+hpages.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -148,7 +151,7 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-keepithealthy.info
+keepinfit.net
 kompsos.uk
 ktpyzw.vip
 lackystack.net
@@ -206,8 +209,6 @@ mediagate.cyou
 mediagate.fun
 mediagate.surf
 medicreed.club
-medjournalketo.info
-medsjournal.info
 meeryslotspin.xyz
 melanthios-ana.com
 mindbank.ai
@@ -222,7 +223,6 @@ newbuy.xyz
 newsinformer.net
 nutrahealth.info
 offerpage.link
-offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -276,6 +276,7 @@ scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
+searchmgr.online
 searchoffers.info
 securitevpn.me
 securityvpnpro.me
@@ -341,10 +342,9 @@ systemupdateme.solutions
 systemupdatit.club
 tackis.xyz
 technoblogs.net
+technologypartners.net
 thecryptozone.website
-thehotshot.info
 theirproviderock.top
-thenewjourney.info
 theslotomania.info
 timeoffers.net
 toolvpn.me
@@ -355,7 +355,6 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -387,7 +386,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

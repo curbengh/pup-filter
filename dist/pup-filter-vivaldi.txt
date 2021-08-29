@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 28 Aug 2021 12:02:41 +0000
+! Updated: Sun, 29 Aug 2021 00:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
+||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
 ||bigwin-online-free-congrats.cyou$document
@@ -50,6 +51,7 @@
 ||contentgate.uno$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
+||dailyboard.org$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -126,6 +128,7 @@
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -148,7 +151,7 @@
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
-||keepithealthy.info$document
+||keepinfit.net$document
 ||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
@@ -206,8 +209,6 @@
 ||mediagate.fun$document
 ||mediagate.surf$document
 ||medicreed.club$document
-||medjournalketo.info$document
-||medsjournal.info$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
 ||mindbank.ai$document
@@ -222,7 +223,6 @@
 ||newsinformer.net$document
 ||nutrahealth.info$document
 ||offerpage.link$document
-||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -276,6 +276,7 @@
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
+||searchmgr.online$document
 ||searchoffers.info$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
@@ -341,10 +342,9 @@
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||technoblogs.net$document
+||technologypartners.net$document
 ||thecryptozone.website$document
-||thehotshot.info$document
 ||theirproviderock.top$document
-||thenewjourney.info$document
 ||theslotomania.info$document
 ||timeoffers.net$document
 ||toolvpn.me$document
@@ -355,7 +355,6 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -387,7 +386,6 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
-||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

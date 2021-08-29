@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 28 Aug 2021 12:02:41 +0000
+! Updated: Sun, 29 Aug 2021 00:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
+||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -50,6 +51,7 @@
 ||contentgate.uno$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
+||dailyboard.org$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -126,6 +128,7 @@
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -148,7 +151,7 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
-||keepithealthy.info$all
+||keepinfit.net$all
 ||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
@@ -206,8 +209,6 @@
 ||mediagate.fun$all
 ||mediagate.surf$all
 ||medicreed.club$all
-||medjournalketo.info$all
-||medsjournal.info$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
 ||mindbank.ai$all
@@ -222,7 +223,6 @@
 ||newsinformer.net$all
 ||nutrahealth.info$all
 ||offerpage.link$all
-||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -276,6 +276,7 @@
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
+||searchmgr.online$all
 ||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
@@ -341,10 +342,9 @@
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thecryptozone.website$all
-||thehotshot.info$all
 ||theirproviderock.top$all
-||thenewjourney.info$all
 ||theslotomania.info$all
 ||timeoffers.net$all
 ||toolvpn.me$all
@@ -355,7 +355,6 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -387,7 +386,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

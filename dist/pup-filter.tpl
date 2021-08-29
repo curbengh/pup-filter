@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 28 Aug 2021 12:02:41 +0000
+# Updated: Sun, 29 Aug 2021 00:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,6 +19,7 @@ msFilterList
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
+-d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -53,6 +54,7 @@ msFilterList
 -d contentgate.uno
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d dailyboard.org
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -129,6 +131,7 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -151,7 +154,7 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d keepithealthy.info
+-d keepinfit.net
 -d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
@@ -209,8 +212,6 @@ msFilterList
 -d mediagate.fun
 -d mediagate.surf
 -d medicreed.club
--d medjournalketo.info
--d medsjournal.info
 -d meeryslotspin.xyz
 -d melanthios-ana.com
 -d mindbank.ai
@@ -225,7 +226,6 @@ msFilterList
 -d newsinformer.net
 -d nutrahealth.info
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -279,6 +279,7 @@ msFilterList
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
+-d searchmgr.online
 -d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
@@ -344,10 +345,9 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
+-d technologypartners.net
 -d thecryptozone.website
--d thehotshot.info
 -d theirproviderock.top
--d thenewjourney.info
 -d theslotomania.info
 -d timeoffers.net
 -d toolvpn.me
@@ -358,7 +358,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -390,7 +389,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
