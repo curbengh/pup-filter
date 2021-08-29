@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 29 Aug 2021 00:03:09 +0000
+! Updated: Sun, 29 Aug 2021 12:02:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -252,6 +252,7 @@
 ||profitsurvey365.org$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
+||protect-ios.com$document
 ||protecttool.me$document
 ||provpn.me$document
 ||provpnsecurity.me$document
@@ -294,7 +295,6 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
