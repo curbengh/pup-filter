@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 30 Aug 2021 00:03:06 +0000
+# Updated: Mon, 30 Aug 2021 12:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
--d aikoo.club
 -d amobil.online
 -d armorprovpn.me
 -d atprofessor.fun
@@ -85,6 +84,7 @@ msFilterList
 -d fithealthspark.info
 -d flash-rewards.info
 -d flatbellylife.info
+-d flexroll.online
 -d flyfreecostas.live
 -d flymedia.cam
 -d flymedia.club
@@ -139,7 +139,6 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -231,7 +230,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
 -d performprecise-theuberfile.best
@@ -250,7 +248,6 @@ msFilterList
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
--d protect-ios.com
 -d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
@@ -258,7 +255,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
@@ -361,7 +357,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
