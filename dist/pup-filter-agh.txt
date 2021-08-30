@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 29 Aug 2021 12:02:33 +0000
+! Updated: Mon, 30 Aug 2021 00:03:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,11 +11,11 @@
 ||affiliateland.io^
 ||aikoo.club^
 ||amobil.online^
-||apptool.me^
 ||armorprovpn.me^
 ||atprofessor.fun^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
+||beautifulplaces.life^
 ||beinspired.global^
 ||bestappland.me^
 ||bestvideoplayerupgrades.work^
@@ -37,7 +37,6 @@
 ||calledbellc.fun^
 ||care-connection.info^
 ||careerconnecthub.com^
-||chatverse.net^
 ||check-your-profitzone.life^
 ||checkstableaupdatinglinks.work^
 ||collectrewards.net^
@@ -66,7 +65,6 @@
 ||efladn.club^
 ||elpelades.club^
 ||eproute.info^
-||erotica.live^
 ||extrasafe.xyz^
 ||f7lwv2y0xb.top^
 ||fastfactsonline.co^
@@ -76,7 +74,6 @@
 ||fastspota.xyz^
 ||fastspotb.xyz^
 ||fastwebb.xyz^
-||fastwebe.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
 ||findoffers.co^
@@ -120,10 +117,8 @@
 ||grandencryptions.me^
 ||hailso.xyz^
 ||happymakesite.xyz^
-||healandgrow.club^
 ||healthomega.club^
 ||healthscale.club^
-||healthsupreme.club^
 ||healthylives.today^
 ||healthyspirit.info^
 ||heatwavereporter.org^
@@ -206,7 +201,6 @@
 ||mediagate.casa^
 ||mediagate.club^
 ||mediagate.cyou^
-||mediagate.fun^
 ||mediagate.surf^
 ||medicreed.club^
 ||meeryslotspin.xyz^
@@ -214,7 +208,7 @@
 ||mindbank.ai^
 ||mindmatch.ai^
 ||mobileluckywinner.site^
-||movievod.me^
+||money-hero.org^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
@@ -223,6 +217,7 @@
 ||newsinformer.net^
 ||nutrahealth.info^
 ||offerpage.link^
+||offersearch.info^
 ||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
 ||officialbigwinnationalfree.cyou^
@@ -260,11 +255,11 @@
 ||prtctapp.me^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
+||quickdeals.online^
 ||quizshein.shop^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
-||resignation.top^
 ||rewards-promotion-winner-super.cyou^
 ||rewardsluckygiveawayprize.cyou^
 ||rewardspromotionwinnersuper.cyou^
@@ -350,11 +345,13 @@
 ||toolvpn.me^
 ||top-offers2.club^
 ||tracking-landers.xyz^
+||trackingsys.tech^
 ||trafficmind.pro^
 ||trane.fun^
 ||tripleprofit-zone.life^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
+||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^

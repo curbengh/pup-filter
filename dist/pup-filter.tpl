@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 29 Aug 2021 12:02:33 +0000
+# Updated: Mon, 30 Aug 2021 00:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,11 +14,11 @@ msFilterList
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
--d apptool.me
 -d armorprovpn.me
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
+-d beautifulplaces.life
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -40,7 +40,6 @@ msFilterList
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
--d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d collectrewards.net
@@ -69,7 +68,6 @@ msFilterList
 -d efladn.club
 -d elpelades.club
 -d eproute.info
--d erotica.live
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fastfactsonline.co
@@ -79,7 +77,6 @@ msFilterList
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
--d fastwebe.xyz
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
@@ -123,10 +120,8 @@ msFilterList
 -d grandencryptions.me
 -d hailso.xyz
 -d happymakesite.xyz
--d healandgrow.club
 -d healthomega.club
 -d healthscale.club
--d healthsupreme.club
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
@@ -209,7 +204,6 @@ msFilterList
 -d mediagate.casa
 -d mediagate.club
 -d mediagate.cyou
--d mediagate.fun
 -d mediagate.surf
 -d medicreed.club
 -d meeryslotspin.xyz
@@ -217,7 +211,7 @@ msFilterList
 -d mindbank.ai
 -d mindmatch.ai
 -d mobileluckywinner.site
--d movievod.me
+-d money-hero.org
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -226,6 +220,7 @@ msFilterList
 -d newsinformer.net
 -d nutrahealth.info
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -263,11 +258,11 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
--d resignation.top
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -353,11 +348,13 @@ msFilterList
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
+-d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz

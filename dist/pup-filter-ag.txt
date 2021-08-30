@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 29 Aug 2021 12:02:33 +0000
+! Updated: Mon, 30 Aug 2021 00:03:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,11 +11,11 @@
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
-||apptool.me$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
+||beautifulplaces.life$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
@@ -37,7 +37,6 @@
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||collectrewards.net$all
@@ -66,7 +65,6 @@
 ||efladn.club$all
 ||elpelades.club$all
 ||eproute.info$all
-||erotica.live$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
 ||fastfactsonline.co$all
@@ -76,7 +74,6 @@
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
-||fastwebe.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
@@ -120,10 +117,8 @@
 ||grandencryptions.me$all
 ||hailso.xyz$all
 ||happymakesite.xyz$all
-||healandgrow.club$all
 ||healthomega.club$all
 ||healthscale.club$all
-||healthsupreme.club$all
 ||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
@@ -206,7 +201,6 @@
 ||mediagate.casa$all
 ||mediagate.club$all
 ||mediagate.cyou$all
-||mediagate.fun$all
 ||mediagate.surf$all
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
@@ -214,7 +208,7 @@
 ||mindbank.ai$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
-||movievod.me$all
+||money-hero.org$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -223,6 +217,7 @@
 ||newsinformer.net$all
 ||nutrahealth.info$all
 ||offerpage.link$all
+||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -260,11 +255,11 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
+||quickdeals.online$all
 ||quizshein.shop$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
-||resignation.top$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
@@ -350,11 +345,13 @@
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
+||trackingsys.tech$all
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
