@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 30 Aug 2021 12:03:08 +0000
+# Updated: Tue, 31 Aug 2021 00:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,10 +14,10 @@ msFilterList
 -d affiliateland.io
 -d amobil.online
 -d armorprovpn.me
+-d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
--d beautifulplaces.life
 -d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
@@ -69,6 +69,7 @@ msFilterList
 -d eproute.info
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
+-d fast-app.xyz
 -d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
@@ -78,7 +79,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findoffers.co
 -d findwith.me
 -d fisudauh.top
 -d fithealthspark.info
@@ -95,6 +95,7 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
+-d funanime.me
 -d funmapd.xyz
 -d funny-media.ru
 -d funsiteb.xyz
@@ -125,7 +126,6 @@ msFilterList
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
--d help4.info
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
@@ -211,6 +211,7 @@ msFilterList
 -d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -350,7 +351,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -381,6 +381,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

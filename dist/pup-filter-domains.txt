@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 30 Aug 2021 12:03:08 +0000
+# Updated: Tue, 31 Aug 2021 00:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,10 @@
 affiliateland.io
 amobil.online
 armorprovpn.me
+artcreative.us
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
-beautifulplaces.life
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
@@ -66,6 +66,7 @@ elpelades.club
 eproute.info
 extrasafe.xyz
 f7lwv2y0xb.top
+fast-app.xyz
 fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
@@ -75,7 +76,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findoffers.co
 findwith.me
 fisudauh.top
 fithealthspark.info
@@ -92,6 +92,7 @@ free-gifts.net
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
+funanime.me
 funmapd.xyz
 funny-media.ru
 funsiteb.xyz
@@ -122,7 +123,6 @@ healthscale.club
 healthylives.today
 healthyspirit.info
 heatwavereporter.org
-help4.info
 hpages.net
 httqzq.vip
 hypezen.info
@@ -208,6 +208,7 @@ mindbank.ai
 mindmatch.ai
 mobileluckywinner.site
 money-hero.org
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -347,7 +348,6 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
-ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -378,6 +378,7 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

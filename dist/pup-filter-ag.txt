@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 30 Aug 2021 12:03:08 +0000
+! Updated: Tue, 31 Aug 2021 00:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,10 @@
 ||affiliateland.io$all
 ||amobil.online$all
 ||armorprovpn.me$all
+||artcreative.us$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
-||beautifulplaces.life$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
@@ -66,6 +66,7 @@
 ||eproute.info$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
+||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
@@ -75,7 +76,6 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
-||findoffers.co$all
 ||findwith.me$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
@@ -92,6 +92,7 @@
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
+||funanime.me$all
 ||funmapd.xyz$all
 ||funny-media.ru$all
 ||funsiteb.xyz$all
@@ -122,7 +123,6 @@
 ||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
-||help4.info$all
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
@@ -208,6 +208,7 @@
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -347,7 +348,6 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -378,6 +378,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

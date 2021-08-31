@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 30 Aug 2021 12:03:08 +0000
+# Updated: Tue, 31 Aug 2021 00:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,10 @@
 0.0.0.0 affiliateland.io
 0.0.0.0 amobil.online
 0.0.0.0 armorprovpn.me
+0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
-0.0.0.0 beautifulplaces.life
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
@@ -66,6 +66,7 @@
 0.0.0.0 eproute.info
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
+0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
@@ -75,7 +76,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 findoffers.co
 0.0.0.0 findwith.me
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
@@ -92,6 +92,7 @@
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
+0.0.0.0 funanime.me
 0.0.0.0 funmapd.xyz
 0.0.0.0 funny-media.ru
 0.0.0.0 funsiteb.xyz
@@ -122,7 +123,6 @@
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
-0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -208,6 +208,7 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -347,7 +348,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -378,6 +378,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

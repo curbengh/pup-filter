@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 30 Aug 2021 12:03:08 +0000
+! Updated: Tue, 31 Aug 2021 00:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,10 @@
 ||affiliateland.io$document
 ||amobil.online$document
 ||armorprovpn.me$document
+||artcreative.us$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
-||beautifulplaces.life$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -66,6 +66,7 @@
 ||eproute.info$document
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
+||fast-app.xyz$document
 ||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
@@ -75,7 +76,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||findoffers.co$document
 ||findwith.me$document
 ||fisudauh.top$document
 ||fithealthspark.info$document
@@ -92,6 +92,7 @@
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
+||funanime.me$document
 ||funmapd.xyz$document
 ||funny-media.ru$document
 ||funsiteb.xyz$document
@@ -122,7 +123,6 @@
 ||healthylives.today$document
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
-||help4.info$document
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -208,6 +208,7 @@
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -347,7 +348,6 @@
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -378,6 +378,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document
