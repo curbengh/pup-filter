@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 01 Sep 2021 00:03:45 +0000
+# Updated: Wed, 01 Sep 2021 12:03:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
-0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 armorprovpn.me
 0.0.0.0 artbest.info
@@ -249,6 +248,7 @@
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
+0.0.0.0 protect-ios.com
 0.0.0.0 protecttool.me
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
@@ -290,6 +290,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -357,6 +358,7 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

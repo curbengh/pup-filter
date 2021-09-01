@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 01 Sep 2021 00:03:45 +0000
+! Updated: Wed, 01 Sep 2021 12:03:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||2021travel.net^
 ||4upgradingstablesafe.work^
 ||affiliateland.io^
-||aikoo.club^
 ||amobil.online^
 ||armorprovpn.me^
 ||artbest.info^
@@ -249,6 +248,7 @@
 ||profitsurvey365.org^
 ||proprotect.me^
 ||prosecurityvpn.me^
+||protect-ios.com^
 ||protecttool.me^
 ||provpn.me^
 ||provpnsecurity.me^
@@ -290,6 +290,7 @@
 ||start-page.one^
 ||startos.win^
 ||stickr.co^
+||stogether.fun^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
@@ -357,6 +358,7 @@
 ||usepro.me^
 ||useprovpn.me^
 ||usevpnpro.me^
+||vpn1aprotectplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
 ||vpnservice.me^
