@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 31 Aug 2021 12:03:01 +0000
+# Updated: Wed, 01 Sep 2021 00:03:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,11 +15,12 @@ msFilterList
 -d aikoo.club
 -d amobil.online
 -d armorprovpn.me
+-d artbest.info
 -d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
--d beinspired.global
+-d beautifulplaces.life
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -40,6 +41,7 @@ msFilterList
 -d calledbellc.fun
 -d care-connection.info
 -d careerconnecthub.com
+-d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d collectrewards.net
@@ -80,6 +82,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d findoffers.co
 -d findwith.me
 -d fisudauh.top
 -d fithealthspark.info
@@ -103,7 +106,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -126,6 +128,7 @@ msFilterList
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
+-d help4.info
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
@@ -139,6 +142,7 @@ msFilterList
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -203,14 +207,11 @@ msFilterList
 -d mediagate.casa
 -d mediagate.club
 -d mediagate.cyou
--d mediagate.surf
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
--d mindbank.ai
 -d mindmatch.ai
 -d mobileluckywinner.site
--d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
@@ -218,6 +219,7 @@ msFilterList
 -d naughtygirlsshowall.live
 -d newbuy.xyz
 -d newsinformer.net
+-d newstop.life
 -d nutrahealth.info
 -d offerpage.link
 -d offersearch.info
@@ -257,7 +259,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
@@ -329,7 +330,6 @@ msFilterList
 -d support-notify.space
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
--d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
@@ -353,6 +353,7 @@ msFilterList
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -373,6 +374,7 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d webtactics.ca
 -d webtip.co
+-d wikiknowledge.club
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
 -d worivo.info

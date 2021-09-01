@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 31 Aug 2021 12:03:01 +0000
+# Updated: Wed, 01 Sep 2021 00:03:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,11 +12,12 @@
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 armorprovpn.me
+0.0.0.0 artbest.info
 0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
-0.0.0.0 beinspired.global
+0.0.0.0 beautifulplaces.life
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
@@ -37,6 +38,7 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 care-connection.info
 0.0.0.0 careerconnecthub.com
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 collectrewards.net
@@ -77,6 +79,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 findoffers.co
 0.0.0.0 findwith.me
 0.0.0.0 fisudauh.top
 0.0.0.0 fithealthspark.info
@@ -100,7 +103,6 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -123,6 +125,7 @@
 0.0.0.0 healthylives.today
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
+0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -136,6 +139,7 @@
 0.0.0.0 iosrecommendedvpn.com
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -200,14 +204,11 @@
 0.0.0.0 mediagate.casa
 0.0.0.0 mediagate.club
 0.0.0.0 mediagate.cyou
-0.0.0.0 mediagate.surf
 0.0.0.0 medicreed.club
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
-0.0.0.0 mindbank.ai
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
@@ -215,6 +216,7 @@
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
+0.0.0.0 newstop.life
 0.0.0.0 nutrahealth.info
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
@@ -254,7 +256,6 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -326,7 +327,6 @@
 0.0.0.0 support-notify.space
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
-0.0.0.0 syncmostprecisethefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
@@ -350,6 +350,7 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
+0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -370,6 +371,7 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
+0.0.0.0 wikiknowledge.club
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info

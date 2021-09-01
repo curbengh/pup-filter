@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 31 Aug 2021 12:03:01 +0000
+! Updated: Wed, 01 Sep 2021 00:03:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,11 +12,12 @@ affiliateland.io
 aikoo.club
 amobil.online
 armorprovpn.me
+artbest.info
 artcreative.us
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
-beinspired.global
+beautifulplaces.life
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -37,6 +38,7 @@ bulley.shop
 calledbellc.fun
 care-connection.info
 careerconnecthub.com
+chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 collectrewards.net
@@ -77,6 +79,7 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
+findoffers.co
 findwith.me
 fisudauh.top
 fithealthspark.info
@@ -100,7 +103,6 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -123,6 +125,7 @@ healthscale.club
 healthylives.today
 healthyspirit.info
 heatwavereporter.org
+help4.info
 hpages.net
 httqzq.vip
 hypezen.info
@@ -136,6 +139,7 @@ iosdfnc.com
 iosrecommendedvpn.com
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -200,14 +204,11 @@ mediaevent.uno
 mediagate.casa
 mediagate.club
 mediagate.cyou
-mediagate.surf
 medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
-mindbank.ai
 mindmatch.ai
 mobileluckywinner.site
-money-hero.org
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
@@ -215,6 +216,7 @@ n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
 newsinformer.net
+newstop.life
 nutrahealth.info
 offerpage.link
 offersearch.info
@@ -254,7 +256,6 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
-quickdeals.online
 quizshein.shop
 rainlonginsect23.life
 random-prize-bigwin-official.cyou
@@ -326,7 +327,6 @@ superpromotion.cyou
 support-notify.space
 synccurrentmostthefile.vip
 synclatestintenselythefile.vip
-syncmostprecisethefile.vip
 syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
@@ -350,6 +350,7 @@ trane.fun
 tripleprofit-zone.life
 trustappstreamsall.digital
 tryoneshot-keto.net
+ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -370,6 +371,7 @@ watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 webtactics.ca
 webtip.co
+wikiknowledge.club
 winnerbigwingiveawaysuper.cyou
 winnerz.site
 worivo.info

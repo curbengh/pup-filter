@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 31 Aug 2021 12:03:01 +0000
+! Updated: Wed, 01 Sep 2021 00:03:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,11 +12,12 @@
 ||aikoo.club$all
 ||amobil.online$all
 ||armorprovpn.me$all
+||artbest.info$all
 ||artcreative.us$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
-||beinspired.global$all
+||beautifulplaces.life$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -37,6 +38,7 @@
 ||calledbellc.fun$all
 ||care-connection.info$all
 ||careerconnecthub.com$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||collectrewards.net$all
@@ -77,6 +79,7 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
+||findoffers.co$all
 ||findwith.me$all
 ||fisudauh.top$all
 ||fithealthspark.info$all
@@ -100,7 +103,6 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -123,6 +125,7 @@
 ||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
+||help4.info$all
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
@@ -136,6 +139,7 @@
 ||iosrecommendedvpn.com$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -200,14 +204,11 @@
 ||mediagate.casa$all
 ||mediagate.club$all
 ||mediagate.cyou$all
-||mediagate.surf$all
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
-||mindbank.ai$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -215,6 +216,7 @@
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
+||newstop.life$all
 ||nutrahealth.info$all
 ||offerpage.link$all
 ||offersearch.info$all
@@ -254,7 +256,6 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||quizshein.shop$all
 ||rainlonginsect23.life$all
 ||random-prize-bigwin-official.cyou$all
@@ -326,7 +327,6 @@
 ||support-notify.space$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
-||syncmostprecisethefile.vip$all
 ||syncnewestmostthefile.vip$all
 ||syncnewestuberthefile.vip$all
 ||syncrecentintenselythefile.vip$all
@@ -350,6 +350,7 @@
 ||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -370,6 +371,7 @@
 ||watchrefined-bestextremelyfile.best$all
 ||webtactics.ca$all
 ||webtip.co$all
+||wikiknowledge.club$all
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.site$all
 ||worivo.info$all
