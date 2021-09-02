@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 01 Sep 2021 12:03:57 +0000
+# Updated: Thu, 02 Sep 2021 00:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,8 +18,8 @@ msFilterList
 -d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
--d be-n9lnns3n-ok.live
 -d beautifulplaces.life
+-d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -30,15 +30,16 @@ msFilterList
 -d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
+-d boot-upheavily-bestquickfile.best
+-d boot-upheavily-bestsophisticatedfile.best
 -d boot-upoverly-bestadvancedfile.best
 -d boot-uprefined-bestcompletelyfile.best
 -d boot-uprenewed-bestuberfile.best
+-d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
--d btcinvesting.info
 -d bulley.shop
 -d calledbellc.fun
--d care-connection.info
 -d careerconnecthub.com
 -d chatverse.net
 -d check-your-profitzone.life
@@ -86,7 +87,6 @@ msFilterList
 -d fisudauh.top
 -d fithealthspark.info
 -d flash-rewards.info
--d flatbellylife.info
 -d flyfreecostas.live
 -d flymedia.cam
 -d flymedia.club
@@ -97,7 +97,6 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d funanime.me
 -d funmapd.xyz
 -d funny-media.ru
 -d funsiteb.xyz
@@ -122,13 +121,11 @@ msFilterList
 -d grandencryptions.me
 -d hailso.xyz
 -d happymakesite.xyz
--d healthomega.club
 -d healthscale.club
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -137,7 +134,6 @@ msFilterList
 -d incrediblebuzz.info
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
--d iosdfnc.com
 -d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
@@ -199,8 +195,8 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
+-d mediaadvanced.ru
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
@@ -221,7 +217,6 @@ msFilterList
 -d newstop.life
 -d nutrahealth.info
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -259,6 +254,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d quizshein.shop
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
@@ -270,7 +266,6 @@ msFilterList
 -d robogarden.io
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -331,6 +326,7 @@ msFilterList
 -d support-notify.space
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
+-d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
@@ -352,6 +348,7 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
+-d truecompassion.net
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d ubertech.shop
