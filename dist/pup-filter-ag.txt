@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 03 Sep 2021 00:03:26 +0000
+! Updated: Fri, 03 Sep 2021 12:03:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
+||aikoo.club$all
 ||amobil.online$all
 ||armorprovpn.me$all
 ||artbest.info$all
@@ -54,7 +55,6 @@
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
-||dailyboard.org$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -211,7 +211,6 @@
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||newstop.life$all
 ||nutrahealth.info$all
 ||offerpage.link$all
@@ -260,7 +259,6 @@
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
 ||ritaus.org$all
-||robogarden.io$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
 ||savagegrowplus.net$all
