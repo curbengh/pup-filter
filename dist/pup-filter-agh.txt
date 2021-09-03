@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 02 Sep 2021 12:03:32 +0000
+! Updated: Fri, 03 Sep 2021 00:03:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 ||artcreative.us^
 ||atprofessor.fun^
 ||be-5hdo32xes-ok.live^
+||be-n9lnns3n-ok.live^
 ||beautifulplaces.life^
 ||beinspired.global^
 ||bestappland.me^
@@ -50,6 +51,7 @@
 ||contentgate.club^
 ||contentgate.fun^
 ||contentgate.uno^
+||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
 ||dailyboard.org^
@@ -70,7 +72,6 @@
 ||extrasafe.xyz^
 ||f7lwv2y0xb.top^
 ||fast-app.xyz^
-||fastfactsonline.co^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
@@ -94,6 +95,7 @@
 ||freenationalsuperworldwide.cyou^
 ||freewareappsstreamfast-best.digital^
 ||freewareappsstreamfastall.digital^
+||funanime.me^
 ||funmapd.xyz^
 ||funny-media.ru^
 ||funsiteb.xyz^
@@ -101,6 +103,7 @@
 ||get-your-score.club^
 ||getbril.io^
 ||getmoregirls.net^
+||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
@@ -131,10 +134,8 @@
 ||incrediblebuzz.info^
 ||installcompletely-theoriginalfile.best^
 ||investinfo.net^
-||iosrecommendedvpn.com^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
-||java-forum.org^
 ||jetsummer.xyz^
 ||jointingifstrawberry.xyz^
 ||jojomamanbebe.ie^
@@ -192,13 +193,13 @@
 ||lubbockeda.org^
 ||marketloans.net^
 ||matchyourgirl.online^
+||mathison.io^
 ||media-cloud.ru^
 ||mediaadvanced.ru^
 ||mediaevent.club^
 ||mediaevent.uno^
 ||mediagate.casa^
 ||mediagate.club^
-||mediagate.cyou^
 ||medicreed.club^
 ||meeryslotspin.xyz^
 ||melanthios-ana.com^
@@ -214,6 +215,7 @@
 ||newstop.life^
 ||nutrahealth.info^
 ||offerpage.link^
+||offersearch.info^
 ||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
 ||officialbigwinnationalfree.cyou^
@@ -237,8 +239,8 @@
 ||playplanete.xyz^
 ||playspind.xyz^
 ||ppploanchoices.site^
-||premiernursingacademy.org^
 ||prize-messsages.casa^
+||profitablesurvey.site^
 ||profitsurvey365.online^
 ||profitsurvey365.org^
 ||proprotect.me^
@@ -251,7 +253,6 @@
 ||prtctapp.me^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
-||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -262,6 +263,7 @@
 ||robogarden.io^
 ||rungreatly-bestadvancedfile.best^
 ||runnewest-bestextremelyfile.best^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
@@ -331,7 +333,6 @@
 ||systemupdatit.club^
 ||tackis.xyz^
 ||technoblogs.net^
-||technologypartners.net^
 ||thecryptozone.website^
 ||theirproviderock.top^
 ||theslotomania.info^
@@ -357,7 +358,6 @@
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
 ||vpnservice.me^
-||vpnupdatesnow.com^
 ||watchadvanced-bestgreatlyfile.best^
 ||watchextremely-bestsophisticatedfile.best^
 ||watchgreatly-bestcurrentfile.best^
@@ -368,7 +368,6 @@
 ||watchrefined-bestextremelyfile.best^
 ||webtactics.ca^
 ||webtip.co^
-||wikiknowledge.club^
 ||winnerbigwingiveawaysuper.cyou^
 ||winnerz.site^
 ||worivo.info^

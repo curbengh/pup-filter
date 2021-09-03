@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 02 Sep 2021 12:03:32 +0000
+# Updated: Fri, 03 Sep 2021 00:03:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ msFilterList
 -d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
+-d be-n9lnns3n-ok.live
 -d beautifulplaces.life
 -d beinspired.global
 -d bestappland.me
@@ -53,6 +54,7 @@ msFilterList
 -d contentgate.club
 -d contentgate.fun
 -d contentgate.uno
+-d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d dailyboard.org
@@ -73,7 +75,6 @@ msFilterList
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
--d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -97,6 +98,7 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
+-d funanime.me
 -d funmapd.xyz
 -d funny-media.ru
 -d funsiteb.xyz
@@ -104,6 +106,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -134,10 +137,8 @@ msFilterList
 -d incrediblebuzz.info
 -d installcompletely-theoriginalfile.best
 -d investinfo.net
--d iosrecommendedvpn.com
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -195,13 +196,13 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
 -d mediagate.club
--d mediagate.cyou
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
@@ -217,6 +218,7 @@ msFilterList
 -d newstop.life
 -d nutrahealth.info
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -240,8 +242,8 @@ msFilterList
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
--d premiernursingacademy.org
 -d prize-messsages.casa
+-d profitablesurvey.site
 -d profitsurvey365.online
 -d profitsurvey365.org
 -d proprotect.me
@@ -254,7 +256,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -265,6 +266,7 @@ msFilterList
 -d robogarden.io
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -334,7 +336,6 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
--d technologypartners.net
 -d thecryptozone.website
 -d theirproviderock.top
 -d theslotomania.info
@@ -360,7 +361,6 @@ msFilterList
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
--d vpnupdatesnow.com
 -d watchadvanced-bestgreatlyfile.best
 -d watchextremely-bestsophisticatedfile.best
 -d watchgreatly-bestcurrentfile.best
@@ -371,7 +371,6 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d webtactics.ca
 -d webtip.co
--d wikiknowledge.club
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
 -d worivo.info
