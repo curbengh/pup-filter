@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 03 Sep 2021 12:03:27 +0000
+# Updated: Sat, 04 Sep 2021 00:21:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,8 +15,6 @@ msFilterList
 -d aikoo.club
 -d amobil.online
 -d armorprovpn.me
--d artbest.info
--d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -28,6 +26,7 @@ msFilterList
 -d bigwinonlinefreecongrats.cyou
 -d bitcoinjunction.club
 -d blockchain-com.email
+-d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upcompletely-bestspeedyfile.best
@@ -51,6 +50,7 @@ msFilterList
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
+-d contentarea.ru
 -d contentgate.cam
 -d contentgate.club
 -d contentgate.fun
@@ -75,6 +75,7 @@ msFilterList
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -106,7 +107,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -129,6 +129,7 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -255,6 +256,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d rainlonginsect23.life
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -286,7 +288,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -334,6 +335,7 @@ msFilterList
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
+-d technologypartners.net
 -d thecryptozone.website
 -d theirproviderock.top
 -d theslotomania.info
@@ -345,7 +347,6 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
--d truecompassion.net
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d ubertech.shop
@@ -355,7 +356,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
@@ -369,6 +369,7 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d webtactics.ca
 -d webtip.co
+-d wikiknowledge.club
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
 -d worivo.info

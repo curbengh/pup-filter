@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 03 Sep 2021 12:03:27 +0000
+# Updated: Sat, 04 Sep 2021 00:21:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,8 +12,6 @@
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 armorprovpn.me
-0.0.0.0 artbest.info
-0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -25,6 +23,7 @@
 0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bitcoinjunction.club
 0.0.0.0 blockchain-com.email
+0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upcompletely-bestspeedyfile.best
@@ -48,6 +47,7 @@
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
+0.0.0.0 contentarea.ru
 0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.club
 0.0.0.0 contentgate.fun
@@ -72,6 +72,7 @@
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
@@ -103,7 +104,6 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -126,6 +126,7 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -252,6 +253,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 quickdeals.online
 0.0.0.0 rainlonginsect23.life
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -283,7 +285,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
-0.0.0.0 stickr.co
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -331,6 +332,7 @@
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
 0.0.0.0 technoblogs.net
+0.0.0.0 technologypartners.net
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 theslotomania.info
@@ -342,7 +344,6 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
-0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 ubertech.shop
@@ -352,7 +353,6 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
@@ -366,6 +366,7 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
+0.0.0.0 wikiknowledge.club
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info

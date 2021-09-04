@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 03 Sep 2021 12:03:27 +0000
+! Updated: Sat, 04 Sep 2021 00:21:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,8 +12,6 @@
 ||aikoo.club^
 ||amobil.online^
 ||armorprovpn.me^
-||artbest.info^
-||artcreative.us^
 ||atprofessor.fun^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
@@ -25,6 +23,7 @@
 ||bigwinonlinefreecongrats.cyou^
 ||bitcoinjunction.club^
 ||blockchain-com.email^
+||bluetiger.cloud^
 ||boot-upcompletely-bestprecisefile.best^
 ||boot-upcompletely-bestsophisticatedfile.best^
 ||boot-upcompletely-bestspeedyfile.best^
@@ -48,6 +47,7 @@
 ||congratsluckygiveawaysmart.cyou^
 ||connectionapplication.com^
 ||connecttheupgradingurls.work^
+||contentarea.ru^
 ||contentgate.cam^
 ||contentgate.club^
 ||contentgate.fun^
@@ -72,6 +72,7 @@
 ||extrasafe.xyz^
 ||f7lwv2y0xb.top^
 ||fast-app.xyz^
+||fastfactsonline.co^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
@@ -103,7 +104,6 @@
 ||get-your-score.club^
 ||getbril.io^
 ||getmoregirls.net^
-||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
@@ -126,6 +126,7 @@
 ||healthyspirit.info^
 ||heatwavereporter.org^
 ||help4.info^
+||hpages.net^
 ||httqzq.vip^
 ||hypezen.info^
 ||ientsillness.fun^
@@ -252,6 +253,7 @@
 ||prtctapp.me^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
+||quickdeals.online^
 ||rainlonginsect23.life^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
@@ -283,7 +285,6 @@
 ||springplanetf.xyz^
 ||start-page.one^
 ||startos.win^
-||stickr.co^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
@@ -331,6 +332,7 @@
 ||systemupdatit.club^
 ||tackis.xyz^
 ||technoblogs.net^
+||technologypartners.net^
 ||thecryptozone.website^
 ||theirproviderock.top^
 ||theslotomania.info^
@@ -342,7 +344,6 @@
 ||trafficmind.pro^
 ||trane.fun^
 ||tripleprofit-zone.life^
-||truecompassion.net^
 ||trustappstreamsall.digital^
 ||tryoneshot-keto.net^
 ||ubertech.shop^
@@ -352,7 +353,6 @@
 ||usepro.me^
 ||useprovpn.me^
 ||usevpnpro.me^
-||vpn1aprotectplus.com^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
 ||vpnservice.me^
@@ -366,6 +366,7 @@
 ||watchrefined-bestextremelyfile.best^
 ||webtactics.ca^
 ||webtip.co^
+||wikiknowledge.club^
 ||winnerbigwingiveawaysuper.cyou^
 ||winnerz.site^
 ||worivo.info^

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 03 Sep 2021 12:03:27 +0000
+! Updated: Sat, 04 Sep 2021 00:21:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,8 +12,6 @@
 ||aikoo.club$document
 ||amobil.online$document
 ||armorprovpn.me$document
-||artbest.info$document
-||artcreative.us$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -25,6 +23,7 @@
 ||bigwinonlinefreecongrats.cyou$document
 ||bitcoinjunction.club$document
 ||blockchain-com.email$document
+||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upcompletely-bestspeedyfile.best$document
@@ -48,6 +47,7 @@
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
+||contentarea.ru$document
 ||contentgate.cam$document
 ||contentgate.club$document
 ||contentgate.fun$document
@@ -72,6 +72,7 @@
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
 ||fast-app.xyz$document
+||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
@@ -103,7 +104,6 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -126,6 +126,7 @@
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -252,6 +253,7 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
+||quickdeals.online$document
 ||rainlonginsect23.life$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -283,7 +285,6 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
-||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -331,6 +332,7 @@
 ||systemupdatit.club$document
 ||tackis.xyz$document
 ||technoblogs.net$document
+||technologypartners.net$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||theslotomania.info$document
@@ -342,7 +344,6 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
-||truecompassion.net$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
@@ -352,7 +353,6 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||vpn1aprotectplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
@@ -366,6 +366,7 @@
 ||watchrefined-bestextremelyfile.best$document
 ||webtactics.ca$document
 ||webtip.co$document
+||wikiknowledge.club$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.site$document
 ||worivo.info$document
