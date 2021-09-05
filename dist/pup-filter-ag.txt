@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 04 Sep 2021 12:02:29 +0000
+! Updated: Sun, 05 Sep 2021 00:02:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,13 +10,11 @@
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||aikoo.club$all
-||amobil.online$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||beautifulplaces.life$all
-||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -38,15 +36,14 @@
 ||breaking-news.digital$all
 ||bulley.shop$all
 ||calledbellc.fun$all
-||careerconnecthub.com$all
 ||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
-||collectrewards.net$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
 ||connecttheupgradingurls.work$all
+||consumerprotectioncybersecurity.org$all
 ||contentarea.ru$all
 ||contentgate.cam$all
 ||contentgate.club$all
@@ -68,7 +65,6 @@
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
-||eproute.info$all
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
@@ -83,8 +79,8 @@
 ||finditquick.online$all
 ||findoffers.co$all
 ||findwith.me$all
+||fireapps.cloud$all
 ||fisudauh.top$all
-||fithealthspark.info$all
 ||flash-rewards.info$all
 ||flyfreecostas.live$all
 ||flymedia.cam$all
@@ -99,11 +95,12 @@
 ||funanime.me$all
 ||funmapd.xyz$all
 ||funny-media.ru$all
-||funsiteb.xyz$all
+||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -120,13 +117,10 @@
 ||gramp.xyz$all
 ||grandencryptions.me$all
 ||hailso.xyz$all
-||happymakesite.xyz$all
-||healthscale.club$all
 ||healthylives.today$all
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||help4.info$all
-||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -137,6 +131,7 @@
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -200,7 +195,6 @@
 ||mediaevent.club$all
 ||mediaevent.uno$all
 ||mediagate.casa$all
-||mediagate.club$all
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
@@ -214,7 +208,6 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||newstop.life$all
-||nutrahealth.info$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -228,6 +221,7 @@
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
+||pandaspringe.xyz$all
 ||pcsecurity-live.xyz$all
 ||performlatestoverlyapplication.icu$all
 ||performprecise-theuberfile.best$all
@@ -256,6 +250,7 @@
 ||quatrefeuillepolonaise.xyz$all
 ||quickdeals.online$all
 ||rainlonginsect23.life$all
+||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -270,7 +265,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -286,6 +280,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
+||stickr.co$all
 ||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
@@ -319,7 +314,6 @@
 ||summermedia.club$all
 ||superplace4upgrade.work$all
 ||superplace4upgrading.work$all
-||superplaceforupgrade.info$all
 ||superpromotion.cyou$all
 ||support-notify.space$all
 ||synccurrentmostthefile.vip$all
@@ -337,7 +331,6 @@
 ||technologypartners.net$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
-||theslotomania.info$all
 ||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all

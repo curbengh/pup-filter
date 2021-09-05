@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 04 Sep 2021 12:02:29 +0000
+# Updated: Sun, 05 Sep 2021 00:02:58 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,13 +13,11 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d aikoo.club
--d amobil.online
 -d armorprovpn.me
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d beautifulplaces.life
--d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -41,15 +39,14 @@ msFilterList
 -d breaking-news.digital
 -d bulley.shop
 -d calledbellc.fun
--d careerconnecthub.com
 -d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
--d collectrewards.net
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
+-d consumerprotectioncybersecurity.org
 -d contentarea.ru
 -d contentgate.cam
 -d contentgate.club
@@ -71,7 +68,6 @@ msFilterList
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
--d eproute.info
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
@@ -86,8 +82,8 @@ msFilterList
 -d finditquick.online
 -d findoffers.co
 -d findwith.me
+-d fireapps.cloud
 -d fisudauh.top
--d fithealthspark.info
 -d flash-rewards.info
 -d flyfreecostas.live
 -d flymedia.cam
@@ -102,11 +98,12 @@ msFilterList
 -d funanime.me
 -d funmapd.xyz
 -d funny-media.ru
--d funsiteb.xyz
+-d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -123,13 +120,10 @@ msFilterList
 -d gramp.xyz
 -d grandencryptions.me
 -d hailso.xyz
--d happymakesite.xyz
--d healthscale.club
 -d healthylives.today
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -140,6 +134,7 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -203,7 +198,6 @@ msFilterList
 -d mediaevent.club
 -d mediaevent.uno
 -d mediagate.casa
--d mediagate.club
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
@@ -217,7 +211,6 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d newstop.life
--d nutrahealth.info
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -231,6 +224,7 @@ msFilterList
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
+-d pandaspringe.xyz
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
 -d performprecise-theuberfile.best
@@ -259,6 +253,7 @@ msFilterList
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
 -d rainlonginsect23.life
+-d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
@@ -273,7 +268,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -289,6 +283,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -322,7 +317,6 @@ msFilterList
 -d summermedia.club
 -d superplace4upgrade.work
 -d superplace4upgrading.work
--d superplaceforupgrade.info
 -d superpromotion.cyou
 -d support-notify.space
 -d synccurrentmostthefile.vip
@@ -340,7 +334,6 @@ msFilterList
 -d technologypartners.net
 -d thecryptozone.website
 -d theirproviderock.top
--d theslotomania.info
 -d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club

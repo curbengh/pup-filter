@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 04 Sep 2021 12:02:29 +0000
+# Updated: Sun, 05 Sep 2021 00:02:58 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,13 +10,11 @@
 4upgradingstablesafe.work
 affiliateland.io
 aikoo.club
-amobil.online
 armorprovpn.me
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 beautifulplaces.life
-beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -38,15 +36,14 @@ boot-upuber-bestfreefile.best
 breaking-news.digital
 bulley.shop
 calledbellc.fun
-careerconnecthub.com
 chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
-collectrewards.net
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
 connecttheupgradingurls.work
+consumerprotectioncybersecurity.org
 contentarea.ru
 contentgate.cam
 contentgate.club
@@ -68,7 +65,6 @@ dollarsurvey365.org
 earlyprogress.info
 efladn.club
 elpelades.club
-eproute.info
 extrasafe.xyz
 f7lwv2y0xb.top
 fast-app.xyz
@@ -83,8 +79,8 @@ findaupgradingurls.work
 finditquick.online
 findoffers.co
 findwith.me
+fireapps.cloud
 fisudauh.top
-fithealthspark.info
 flash-rewards.info
 flyfreecostas.live
 flymedia.cam
@@ -99,11 +95,12 @@ freewareappsstreamfastall.digital
 funanime.me
 funmapd.xyz
 funny-media.ru
-funsiteb.xyz
+funspine.xyz
 genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -120,13 +117,10 @@ googsistem.live
 gramp.xyz
 grandencryptions.me
 hailso.xyz
-happymakesite.xyz
-healthscale.club
 healthylives.today
 healthyspirit.info
 heatwavereporter.org
 help4.info
-hpages.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -137,6 +131,7 @@ installcompletely-theoriginalfile.best
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -200,7 +195,6 @@ mediaadvanced.ru
 mediaevent.club
 mediaevent.uno
 mediagate.casa
-mediagate.club
 medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
@@ -214,7 +208,6 @@ naughtygirlsshowall.live
 newbuy.xyz
 newsinformer.net
 newstop.life
-nutrahealth.info
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -228,6 +221,7 @@ onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
+pandaspringe.xyz
 pcsecurity-live.xyz
 performlatestoverlyapplication.icu
 performprecise-theuberfile.best
@@ -256,6 +250,7 @@ quantum.work
 quatrefeuillepolonaise.xyz
 quickdeals.online
 rainlonginsect23.life
+rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
 rewards-promotion-winner-super.cyou
@@ -270,7 +265,6 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -286,6 +280,7 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
+stickr.co
 stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -319,7 +314,6 @@ sudoo.net
 summermedia.club
 superplace4upgrade.work
 superplace4upgrading.work
-superplaceforupgrade.info
 superpromotion.cyou
 support-notify.space
 synccurrentmostthefile.vip
@@ -337,7 +331,6 @@ technoblogs.net
 technologypartners.net
 thecryptozone.website
 theirproviderock.top
-theslotomania.info
 timeoffers.net
 toolvpn.me
 top-offers2.club
