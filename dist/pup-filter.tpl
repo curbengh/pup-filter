@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Sep 2021 00:02:58 +0000
+# Updated: Sun, 05 Sep 2021 12:02:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -62,7 +62,6 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -223,7 +222,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pandaspringe.xyz
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
@@ -251,7 +249,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
+-d quizshein.shop
 -d rainlonginsect23.life
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
@@ -284,7 +282,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -327,7 +324,6 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
--d systemupdateme.solutions
 -d systemupdatit.club
 -d tackis.xyz
 -d technoblogs.net
@@ -362,6 +358,7 @@ msFilterList
 -d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
+-d web-security.ml
 -d webtactics.ca
 -d webtip.co
 -d wikiknowledge.club

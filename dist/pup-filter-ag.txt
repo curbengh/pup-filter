@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Sep 2021 00:02:58 +0000
+! Updated: Sun, 05 Sep 2021 12:02:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 ||defensepro.me$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
@@ -220,7 +219,6 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pandaspringe.xyz$all
 ||pcsecurity-live.xyz$all
 ||performlatestoverlyapplication.icu$all
@@ -248,7 +246,7 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
+||quizshein.shop$all
 ||rainlonginsect23.life$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
@@ -281,7 +279,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -324,7 +321,6 @@
 ||syncrecentintenselythefile.vip$all
 ||syncuber-bestsophisticatedfile.best$all
 ||syncubercurrentfiles.best$all
-||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||tackis.xyz$all
 ||technoblogs.net$all
@@ -359,6 +355,7 @@
 ||watchprogressive-bestmostfile.best$all
 ||watchquick-bestheavilyfile.best$all
 ||watchrefined-bestextremelyfile.best$all
+||web-security.ml$all
 ||webtactics.ca$all
 ||webtip.co$all
 ||wikiknowledge.club$all

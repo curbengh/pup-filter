@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Sep 2021 00:02:58 +0000
+! Updated: Sun, 05 Sep 2021 12:02:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@ dealmedia.xyz
 defensepro.me
 delightcmain.xyz
 desixxx.cloud
-discoveryfeed.org
 dollarsurvey365.online
 dollarsurvey365.org
 earlyprogress.info
@@ -220,7 +219,6 @@ online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
-ouldthepat.fun
 pandaspringe.xyz
 pcsecurity-live.xyz
 performlatestoverlyapplication.icu
@@ -248,7 +246,7 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
-quickdeals.online
+quizshein.shop
 rainlonginsect23.life
 rancy.xyz
 random-prize-bigwin-official.cyou
@@ -281,7 +279,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -324,7 +321,6 @@ syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
-systemupdateme.solutions
 systemupdatit.club
 tackis.xyz
 technoblogs.net
@@ -359,6 +355,7 @@ watchlatest-bestgreatlyfile.best
 watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
+web-security.ml
 webtactics.ca
 webtip.co
 wikiknowledge.club
