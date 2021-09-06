@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Sep 2021 00:03:20 +0000
+# Updated: Mon, 06 Sep 2021 12:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 armorprovpn.me
-0.0.0.0 artbest.info
 0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
@@ -123,7 +122,6 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -256,6 +254,7 @@
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
+0.0.0.0 robogarden.io
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
 0.0.0.0 savagegrowplus.net
@@ -361,7 +360,6 @@
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca
 0.0.0.0 webtip.co
-0.0.0.0 wikiknowledge.club
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 06 Sep 2021 00:03:20 +0000
+! Updated: Mon, 06 Sep 2021 12:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 ||affiliateland.io$document
 ||aikoo.club$document
 ||armorprovpn.me$document
-||artbest.info$document
 ||artcreative.us$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
@@ -123,7 +122,6 @@
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -256,6 +254,7 @@
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
 ||ritaus.org$document
+||robogarden.io$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
 ||savagegrowplus.net$document
@@ -361,7 +360,6 @@
 ||web-security.ml$document
 ||webtactics.ca$document
 ||webtip.co$document
-||wikiknowledge.club$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.site$document
 ||worivo.info$document
