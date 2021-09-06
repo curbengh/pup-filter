@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Sep 2021 12:02:36 +0000
+! Updated: Mon, 06 Sep 2021 00:03:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,13 @@
 ||affiliateland.io$all
 ||aikoo.club$all
 ||armorprovpn.me$all
+||artbest.info$all
+||artcreative.us$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||beautifulplaces.life$all
+||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -36,7 +39,6 @@
 ||breaking-news.digital$all
 ||bulley.shop$all
 ||calledbellc.fun$all
-||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||congrats-lucky-giveaway-smart.cyou$all
@@ -44,6 +46,7 @@
 ||connectionapplication.com$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
+||contentamigo.ru$all
 ||contentarea.ru$all
 ||contentgate.cam$all
 ||contentgate.club$all
@@ -77,7 +80,6 @@
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findoffers.co$all
-||findwith.me$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
@@ -104,9 +106,7 @@
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||gladspaceplane.xyz$all
-||global-info.space$all
 ||global-track.space$all
-||go-x34n7wbcoes-ok.live$all
 ||goalmedia.bar$all
 ||goalmedia.cam$all
 ||goalmedia.club$all
@@ -120,6 +120,7 @@
 ||healthyspirit.info$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -263,10 +264,11 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||searchoffers.info$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
-||service-care.space$all
 ||settothereliableupgradingnew.work$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
@@ -335,6 +337,7 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
+||truecompassion.net$all
 ||trustappstreamsall.digital$all
 ||tryoneshot-keto.net$all
 ||ubertech.shop$all

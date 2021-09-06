@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Sep 2021 12:02:36 +0000
+# Updated: Mon, 06 Sep 2021 00:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,13 @@
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 armorprovpn.me
+0.0.0.0 artbest.info
+0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 beautifulplaces.life
+0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
@@ -36,7 +39,6 @@
 0.0.0.0 breaking-news.digital
 0.0.0.0 bulley.shop
 0.0.0.0 calledbellc.fun
-0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
@@ -44,6 +46,7 @@
 0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
+0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.club
@@ -77,7 +80,6 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
-0.0.0.0 findwith.me
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
@@ -104,9 +106,7 @@
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 gladspaceplane.xyz
-0.0.0.0 global-info.space
 0.0.0.0 global-track.space
-0.0.0.0 go-x34n7wbcoes-ok.live
 0.0.0.0 goalmedia.bar
 0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.club
@@ -120,6 +120,7 @@
 0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -263,10 +264,11 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 service-care.space
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
@@ -335,6 +337,7 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
+0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 tryoneshot-keto.net
 0.0.0.0 ubertech.shop

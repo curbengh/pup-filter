@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Sep 2021 12:02:36 +0000
+# Updated: Mon, 06 Sep 2021 00:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,13 @@
 affiliateland.io
 aikoo.club
 armorprovpn.me
+artbest.info
+artcreative.us
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 beautifulplaces.life
+beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -36,7 +39,6 @@ boot-upuber-bestfreefile.best
 breaking-news.digital
 bulley.shop
 calledbellc.fun
-chatverse.net
 check-your-profitzone.life
 checkstableaupdatinglinks.work
 congrats-lucky-giveaway-smart.cyou
@@ -44,6 +46,7 @@ congratsluckygiveawaysmart.cyou
 connectionapplication.com
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
+contentamigo.ru
 contentarea.ru
 contentgate.cam
 contentgate.club
@@ -77,7 +80,6 @@ fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
 findoffers.co
-findwith.me
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
@@ -104,9 +106,7 @@ girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 gladspaceplane.xyz
-global-info.space
 global-track.space
-go-x34n7wbcoes-ok.live
 goalmedia.bar
 goalmedia.cam
 goalmedia.club
@@ -120,6 +120,7 @@ healthylives.today
 healthyspirit.info
 heatwavereporter.org
 help4.info
+hpages.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -263,10 +264,11 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+searchoffers.info
+seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
-service-care.space
 settothereliableupgradingnew.work
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
@@ -335,6 +337,7 @@ trackingsys.tech
 trafficmind.pro
 trane.fun
 tripleprofit-zone.life
+truecompassion.net
 trustappstreamsall.digital
 tryoneshot-keto.net
 ubertech.shop

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Sep 2021 12:02:36 +0000
+# Updated: Mon, 06 Sep 2021 00:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,10 +14,13 @@ msFilterList
 -d affiliateland.io
 -d aikoo.club
 -d armorprovpn.me
+-d artbest.info
+-d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d beautifulplaces.life
+-d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -39,7 +42,6 @@ msFilterList
 -d breaking-news.digital
 -d bulley.shop
 -d calledbellc.fun
--d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d congrats-lucky-giveaway-smart.cyou
@@ -47,6 +49,7 @@ msFilterList
 -d connectionapplication.com
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
+-d contentamigo.ru
 -d contentarea.ru
 -d contentgate.cam
 -d contentgate.club
@@ -80,7 +83,6 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
--d findwith.me
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
@@ -107,9 +109,7 @@ msFilterList
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d gladspaceplane.xyz
--d global-info.space
 -d global-track.space
--d go-x34n7wbcoes-ok.live
 -d goalmedia.bar
 -d goalmedia.cam
 -d goalmedia.club
@@ -123,6 +123,7 @@ msFilterList
 -d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -266,10 +267,11 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d searchoffers.info
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
--d service-care.space
 -d settothereliableupgradingnew.work
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
@@ -338,6 +340,7 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
+-d truecompassion.net
 -d trustappstreamsall.digital
 -d tryoneshot-keto.net
 -d ubertech.shop

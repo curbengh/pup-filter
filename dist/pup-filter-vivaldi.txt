@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Sep 2021 12:02:36 +0000
+! Updated: Mon, 06 Sep 2021 00:03:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,10 +11,13 @@
 ||affiliateland.io$document
 ||aikoo.club$document
 ||armorprovpn.me$document
+||artbest.info$document
+||artcreative.us$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
 ||beautifulplaces.life$document
+||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
 ||bigwin-online-free-congrats.cyou$document
@@ -36,7 +39,6 @@
 ||breaking-news.digital$document
 ||bulley.shop$document
 ||calledbellc.fun$document
-||chatverse.net$document
 ||check-your-profitzone.life$document
 ||checkstableaupdatinglinks.work$document
 ||congrats-lucky-giveaway-smart.cyou$document
@@ -44,6 +46,7 @@
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
 ||consumerprotectioncybersecurity.org$document
+||contentamigo.ru$document
 ||contentarea.ru$document
 ||contentgate.cam$document
 ||contentgate.club$document
@@ -77,7 +80,6 @@
 ||findaupgradingurls.work$document
 ||finditquick.online$document
 ||findoffers.co$document
-||findwith.me$document
 ||fireapps.cloud$document
 ||fisudauh.top$document
 ||flash-rewards.info$document
@@ -104,9 +106,7 @@
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||gladspaceplane.xyz$document
-||global-info.space$document
 ||global-track.space$document
-||go-x34n7wbcoes-ok.live$document
 ||goalmedia.bar$document
 ||goalmedia.cam$document
 ||goalmedia.club$document
@@ -120,6 +120,7 @@
 ||healthyspirit.info$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -263,10 +264,11 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
+||searchoffers.info$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
-||service-care.space$document
 ||settothereliableupgradingnew.work$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
@@ -335,6 +337,7 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
+||truecompassion.net$document
 ||trustappstreamsall.digital$document
 ||tryoneshot-keto.net$document
 ||ubertech.shop$document
