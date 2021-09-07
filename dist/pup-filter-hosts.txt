@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Sep 2021 12:02:46 +0000
+# Updated: Tue, 07 Sep 2021 00:03:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,11 +10,14 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
+0.0.0.0 amobil.online
+0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
+0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautifulplaces.life
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
@@ -79,6 +82,7 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findoffers.co
+0.0.0.0 findwith.me
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
@@ -116,7 +120,6 @@
 0.0.0.0 grandencryptions.me
 0.0.0.0 hailso.xyz
 0.0.0.0 healthylives.today
-0.0.0.0 healthyspirit.info
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
@@ -129,7 +132,6 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -192,7 +194,6 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
-0.0.0.0 mediagate.casa
 0.0.0.0 medicreed.club
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
@@ -246,7 +247,6 @@
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
-0.0.0.0 rainlonginsect23.life
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -255,6 +255,7 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
+0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
 0.0.0.0 savagegrowplus.net
@@ -264,11 +265,11 @@
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
@@ -370,7 +371,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

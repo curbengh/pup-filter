@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Sep 2021 12:02:46 +0000
+# Updated: Tue, 07 Sep 2021 00:03:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,11 +10,14 @@
 4upgradingstablesafe.work
 affiliateland.io
 aikoo.club
+amobil.online
+appzfirer.biz
 armorprovpn.me
 artcreative.us
 atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
+be-us-exercise-bikes-ok.live
 beautifulplaces.life
 beinspired.global
 bestappland.me
@@ -79,6 +82,7 @@ fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
 findoffers.co
+findwith.me
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
@@ -116,7 +120,6 @@ gramp.xyz
 grandencryptions.me
 hailso.xyz
 healthylives.today
-healthyspirit.info
 heatwavereporter.org
 help4.info
 hpages.net
@@ -129,7 +132,6 @@ installcompletely-theoriginalfile.best
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -192,7 +194,6 @@ media-cloud.ru
 mediaadvanced.ru
 mediaevent.club
 mediaevent.uno
-mediagate.casa
 medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
@@ -246,7 +247,6 @@ prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
 quizshein.shop
-rainlonginsect23.life
 rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -255,6 +255,7 @@ rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
 ritaus.org
 robogarden.io
+runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
 savagegrowplus.net
@@ -264,11 +265,11 @@ search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
 searchoffers.info
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
@@ -370,7 +371,6 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
-yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Sep 2021 12:02:46 +0000
+# Updated: Tue, 07 Sep 2021 00:03:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,11 +13,14 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d aikoo.club
+-d amobil.online
+-d appzfirer.biz
 -d armorprovpn.me
 -d artcreative.us
 -d atprofessor.fun
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
+-d be-us-exercise-bikes-ok.live
 -d beautifulplaces.life
 -d beinspired.global
 -d bestappland.me
@@ -82,6 +85,7 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d findoffers.co
+-d findwith.me
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
@@ -119,7 +123,6 @@ msFilterList
 -d grandencryptions.me
 -d hailso.xyz
 -d healthylives.today
--d healthyspirit.info
 -d heatwavereporter.org
 -d help4.info
 -d hpages.net
@@ -132,7 +135,6 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -195,7 +197,6 @@ msFilterList
 -d mediaadvanced.ru
 -d mediaevent.club
 -d mediaevent.uno
--d mediagate.casa
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
@@ -249,7 +250,6 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d rainlonginsect23.life
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -258,6 +258,7 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d ritaus.org
 -d robogarden.io
+-d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
 -d savagegrowplus.net
@@ -267,11 +268,11 @@ msFilterList
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -373,7 +374,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
