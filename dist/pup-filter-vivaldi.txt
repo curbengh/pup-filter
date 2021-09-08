@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 08 Sep 2021 00:03:43 +0000
+! Updated: Wed, 08 Sep 2021 12:03:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||affiliateland.io$document
 ||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
-||artcreative.us$document
 ||atprofessor.fun$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -63,6 +63,7 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
+||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -207,7 +208,6 @@
 ||naughtygirlsshowall.live$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
-||newstop.life$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -248,7 +248,7 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||quizshein.shop$document
+||quickdeals.online$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -282,6 +282,7 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
@@ -328,6 +329,7 @@
 ||technologypartners.net$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
+||thelastpicture.show$document
 ||timeoffers.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
@@ -344,6 +346,7 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||vpn1aprotectplus.com$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document

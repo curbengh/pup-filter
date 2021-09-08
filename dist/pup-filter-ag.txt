@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 08 Sep 2021 00:03:43 +0000
+! Updated: Wed, 08 Sep 2021 12:03:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
-||artcreative.us$all
 ||atprofessor.fun$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -63,6 +63,7 @@
 ||defensepro.me$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
+||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
@@ -207,7 +208,6 @@
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
-||newstop.life$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -248,7 +248,7 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quizshein.shop$all
+||quickdeals.online$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -282,6 +282,7 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
+||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -328,6 +329,7 @@
 ||technologypartners.net$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
+||thelastpicture.show$all
 ||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
@@ -344,6 +346,7 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
+||vpn1aprotectplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
