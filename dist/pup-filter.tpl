@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 07 Sep 2021 12:03:53 +0000
+# Updated: Wed, 08 Sep 2021 00:03:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 123news.website
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d aikoo.club
@@ -43,13 +42,13 @@ msFilterList
 -d breaking-news.digital
 -d bulley.shop
 -d calledbellc.fun
+-d chatverse.net
 -d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
--d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d contentgate.cam
@@ -59,6 +58,7 @@ msFilterList
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d dailyboard.org
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -140,6 +140,7 @@ msFilterList
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
+-d juicydataalt.ru
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
@@ -262,18 +263,17 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -313,10 +313,8 @@ msFilterList
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
--d sudoo.net
 -d summermedia.club
 -d superplace4upgrade.work
--d superplace4upgrading.work
 -d superpromotion.cyou
 -d support-notify.space
 -d synccurrentmostthefile.vip
@@ -343,8 +341,6 @@ msFilterList
 -d tripleprofit-zone.life
 -d truecompassion.net
 -d trustappstreamsall.digital
--d tryoneshot-keto.net
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -375,6 +371,7 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work

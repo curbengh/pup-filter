@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 07 Sep 2021 12:03:53 +0000
+# Updated: Wed, 08 Sep 2021 00:03:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 123news.website
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 aikoo.club
@@ -40,13 +39,13 @@
 0.0.0.0 breaking-news.digital
 0.0.0.0 bulley.shop
 0.0.0.0 calledbellc.fun
+0.0.0.0 chatverse.net
 0.0.0.0 check-your-profitzone.life
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
-0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 contentgate.cam
@@ -56,6 +55,7 @@
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
+0.0.0.0 dailyboard.org
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -137,6 +137,7 @@
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
+0.0.0.0 juicydataalt.ru
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
@@ -259,18 +260,17 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
@@ -310,10 +310,8 @@
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
 0.0.0.0 subeamy.pw
-0.0.0.0 sudoo.net
 0.0.0.0 summermedia.club
 0.0.0.0 superplace4upgrade.work
-0.0.0.0 superplace4upgrading.work
 0.0.0.0 superpromotion.cyou
 0.0.0.0 support-notify.space
 0.0.0.0 synccurrentmostthefile.vip
@@ -340,8 +338,6 @@
 0.0.0.0 tripleprofit-zone.life
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 tryoneshot-keto.net
-0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -372,6 +368,7 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

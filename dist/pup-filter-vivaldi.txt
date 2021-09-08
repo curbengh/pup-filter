@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Sep 2021 12:03:53 +0000
+! Updated: Wed, 08 Sep 2021 00:03:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$document
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||aikoo.club$document
@@ -40,13 +39,13 @@
 ||breaking-news.digital$document
 ||bulley.shop$document
 ||calledbellc.fun$document
+||chatverse.net$document
 ||check-your-profitzone.life$document
 ||checkstableaupdatinglinks.work$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
-||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||contentgate.cam$document
@@ -56,6 +55,7 @@
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
+||dailyboard.org$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -137,6 +137,7 @@
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
+||juicydataalt.ru$document
 ||junemedia.bar$document
 ||junemedia.club$document
 ||junemedia.xyz$document
@@ -259,18 +260,17 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
@@ -310,10 +310,8 @@
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
 ||subeamy.pw$document
-||sudoo.net$document
 ||summermedia.club$document
 ||superplace4upgrade.work$document
-||superplace4upgrading.work$document
 ||superpromotion.cyou$document
 ||support-notify.space$document
 ||synccurrentmostthefile.vip$document
@@ -340,8 +338,6 @@
 ||tripleprofit-zone.life$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
-||tryoneshot-keto.net$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -372,6 +368,7 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

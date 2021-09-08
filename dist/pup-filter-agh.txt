@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Sep 2021 12:03:53 +0000
+! Updated: Wed, 08 Sep 2021 00:03:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website^
 ||2021travel.net^
 ||4upgradingstablesafe.work^
 ||aikoo.club^
@@ -40,13 +39,13 @@
 ||breaking-news.digital^
 ||bulley.shop^
 ||calledbellc.fun^
+||chatverse.net^
 ||check-your-profitzone.life^
 ||checkstableaupdatinglinks.work^
 ||congrats-lucky-giveaway-smart.cyou^
 ||congratsluckygiveawaysmart.cyou^
 ||connectionapplication.com^
 ||connecttheupgradingurls.work^
-||consumerprotectioncybersecurity.org^
 ||contentamigo.ru^
 ||contentarea.ru^
 ||contentgate.cam^
@@ -56,6 +55,7 @@
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
+||dailyboard.org^
 ||dailyrep.net^
 ||dealmedia.club^
 ||dealmedia.website^
@@ -137,6 +137,7 @@
 ||jojomamanbebe.ie^
 ||joyspotmap.xyz^
 ||jtkszl.vip^
+||juicydataalt.ru^
 ||junemedia.bar^
 ||junemedia.club^
 ||junemedia.xyz^
@@ -259,18 +260,17 @@
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
 ||runnewest-bestextremelyfile.best^
-||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
 ||searchmgr.online^
 ||searchoffers.info^
+||seasoned.co^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||sergey-tracks.xyz^
 ||settothereliableupgradingnew.work^
-||shopin.nyc^
 ||shopnsave.world^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||smartideas.pro^
@@ -310,10 +310,8 @@
 ||streamuber-bestspeedyfile.best^
 ||streamuber-bestswiftfile.best^
 ||subeamy.pw^
-||sudoo.net^
 ||summermedia.club^
 ||superplace4upgrade.work^
-||superplace4upgrading.work^
 ||superpromotion.cyou^
 ||support-notify.space^
 ||synccurrentmostthefile.vip^
@@ -340,8 +338,6 @@
 ||tripleprofit-zone.life^
 ||truecompassion.net^
 ||trustappstreamsall.digital^
-||tryoneshot-keto.net^
-||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^
@@ -372,6 +368,7 @@
 ||worldwideofficialpromotion.cyou^
 ||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
+||yifymovies.cam^
 ||yourlegendaryplaceupgrading.work^
 ||yourlegendarysystemsupgrade.work^
 ||yourlinkplaceupdatingfree.work^

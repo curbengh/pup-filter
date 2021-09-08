@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Sep 2021 12:03:53 +0000
+! Updated: Wed, 08 Sep 2021 00:03:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||123news.website$all
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||aikoo.club$all
@@ -40,13 +39,13 @@
 ||breaking-news.digital$all
 ||bulley.shop$all
 ||calledbellc.fun$all
+||chatverse.net$all
 ||check-your-profitzone.life$all
 ||checkstableaupdatinglinks.work$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
 ||connecttheupgradingurls.work$all
-||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||contentgate.cam$all
@@ -56,6 +55,7 @@
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
+||dailyboard.org$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -137,6 +137,7 @@
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
+||juicydataalt.ru$all
 ||junemedia.bar$all
 ||junemedia.club$all
 ||junemedia.xyz$all
@@ -259,18 +260,17 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
 ||searchoffers.info$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
@@ -310,10 +310,8 @@
 ||streamuber-bestspeedyfile.best$all
 ||streamuber-bestswiftfile.best$all
 ||subeamy.pw$all
-||sudoo.net$all
 ||summermedia.club$all
 ||superplace4upgrade.work$all
-||superplace4upgrading.work$all
 ||superpromotion.cyou$all
 ||support-notify.space$all
 ||synccurrentmostthefile.vip$all
@@ -340,8 +338,6 @@
 ||tripleprofit-zone.life$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||tryoneshot-keto.net$all
-||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -372,6 +368,7 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all
