@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 08 Sep 2021 12:03:25 +0000
+# Updated: Thu, 09 Sep 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
 beautifulplaces.life
-beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -40,12 +39,12 @@ breaking-news.digital
 bulley.shop
 calledbellc.fun
 chatverse.net
-check-your-profitzone.life
 checkstableaupdatinglinks.work
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
 connecttheupgradingurls.work
+consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 contentgate.cam
@@ -92,7 +91,6 @@ flymedia.club
 flymedia.fun
 flymedia.online
 flymedia.uno
-free-gifts.net
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
@@ -122,7 +120,6 @@ hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
-hpages.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -130,15 +127,16 @@ imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
 installcompletely-theoriginalfile.best
+intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
-juicydataalt.ru
 junemedia.bar
 junemedia.club
 junemedia.xyz
@@ -191,7 +189,6 @@ loveorfun.cc
 lubbockeda.org
 marketloans.net
 matchyourgirl.online
-mathison.io
 media-cloud.ru
 mediaadvanced.ru
 mediaevent.club
@@ -260,6 +257,7 @@ robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
+savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -271,6 +269,7 @@ securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
@@ -311,8 +310,8 @@ streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
 subeamy.pw
+sudoo.net
 summermedia.club
-superplace4upgrade.work
 superpromotion.cyou
 support-notify.space
 synccurrentmostthefile.vip
@@ -330,7 +329,6 @@ technologypartners.net
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
-timeoffers.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
@@ -380,4 +378,3 @@ yoursafestgreatplaceupdates.work
 yourstablegreatupdate.work
 yourstablegreatupdates.work
 yourtechplaceforupgrades.info
-youthewinner.net

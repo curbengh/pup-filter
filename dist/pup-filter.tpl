@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 08 Sep 2021 12:03:25 +0000
+# Updated: Thu, 09 Sep 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@ msFilterList
 -d be-n9lnns3n-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beautifulplaces.life
--d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -43,12 +42,12 @@ msFilterList
 -d bulley.shop
 -d calledbellc.fun
 -d chatverse.net
--d check-your-profitzone.life
 -d checkstableaupdatinglinks.work
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
+-d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d contentgate.cam
@@ -95,7 +94,6 @@ msFilterList
 -d flymedia.fun
 -d flymedia.online
 -d flymedia.uno
--d free-gifts.net
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
@@ -125,7 +123,6 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -133,15 +130,16 @@ msFilterList
 -d incing-marganic.icu
 -d incrediblebuzz.info
 -d installcompletely-theoriginalfile.best
+-d intelectaction.ru
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
--d juicydataalt.ru
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
@@ -194,7 +192,6 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d mediaevent.club
@@ -263,6 +260,7 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -274,6 +272,7 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -314,8 +313,8 @@ msFilterList
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
+-d sudoo.net
 -d summermedia.club
--d superplace4upgrade.work
 -d superpromotion.cyou
 -d support-notify.space
 -d synccurrentmostthefile.vip
@@ -333,7 +332,6 @@ msFilterList
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
--d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -383,4 +381,3 @@ msFilterList
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
 -d yourtechplaceforupgrades.info
--d youthewinner.net
