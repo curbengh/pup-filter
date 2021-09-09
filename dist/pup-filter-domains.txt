@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 00:02:53 +0000
+# Updated: Thu, 09 Sep 2021 12:04:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
-beautifulplaces.life
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -205,6 +204,7 @@ n95o0fxvvw.top
 naughtygirlsshowall.live
 newbuy.xyz
 newsinformer.net
+newstop.life
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -230,7 +230,6 @@ placesiteb.xyz
 placespina.xyz
 playplanete.xyz
 playspind.xyz
-ppploanchoices.site
 prize-messsages.casa
 profitablesurvey.site
 profitsurvey365.online
@@ -246,7 +245,7 @@ prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
 quickdeals.online
-rancy.xyz
+quizshein.shop
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
 rewards-promotion-winner-super.cyou
@@ -281,7 +280,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
@@ -344,7 +342,6 @@ upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
-vpn1aprotectplus.com
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

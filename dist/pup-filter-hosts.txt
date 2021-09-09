@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 00:02:53 +0000
+# Updated: Thu, 09 Sep 2021 12:04:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
-0.0.0.0 beautifulplaces.life
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
@@ -205,6 +204,7 @@
 0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
+0.0.0.0 newstop.life
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -230,7 +230,6 @@
 0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
-0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitablesurvey.site
 0.0.0.0 profitsurvey365.online
@@ -246,7 +245,7 @@
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quickdeals.online
-0.0.0.0 rancy.xyz
+0.0.0.0 quizshein.shop
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -281,7 +280,6 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
@@ -344,7 +342,6 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

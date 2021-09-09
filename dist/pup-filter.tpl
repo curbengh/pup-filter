@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 00:02:53 +0000
+# Updated: Thu, 09 Sep 2021 12:04:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ msFilterList
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-exercise-bikes-ok.live
--d beautifulplaces.life
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -208,6 +207,7 @@ msFilterList
 -d naughtygirlsshowall.live
 -d newbuy.xyz
 -d newsinformer.net
+-d newstop.life
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -233,7 +233,6 @@ msFilterList
 -d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
--d ppploanchoices.site
 -d prize-messsages.casa
 -d profitablesurvey.site
 -d profitsurvey365.online
@@ -249,7 +248,7 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
--d rancy.xyz
+-d quizshein.shop
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
@@ -284,7 +283,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -347,7 +345,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me

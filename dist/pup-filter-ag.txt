@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Sep 2021 00:02:53 +0000
+! Updated: Thu, 09 Sep 2021 12:04:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
-||beautifulplaces.life$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -205,6 +204,7 @@
 ||naughtygirlsshowall.live$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
+||newstop.life$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -230,7 +230,6 @@
 ||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
-||ppploanchoices.site$all
 ||prize-messsages.casa$all
 ||profitablesurvey.site$all
 ||profitsurvey365.online$all
@@ -246,7 +245,7 @@
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||quickdeals.online$all
-||rancy.xyz$all
+||quizshein.shop$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -281,7 +280,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -344,7 +342,6 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||vpn1aprotectplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
