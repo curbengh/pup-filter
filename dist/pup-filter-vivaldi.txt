@@ -1,14 +1,14 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Sep 2021 12:04:26 +0000
+! Updated: Fri, 10 Sep 2021 00:03:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||affiliateland.io$document
-||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
@@ -16,6 +16,7 @@
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
+||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
 ||bigwin-online-free-congrats.cyou$document
@@ -37,7 +38,6 @@
 ||breaking-news.digital$document
 ||bulley.shop$document
 ||calledbellc.fun$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||congrats-lucky-giveaway-smart.cyou$document
 ||congratsluckygiveawaysmart.cyou$document
@@ -48,8 +48,6 @@
 ||contentarea.ru$document
 ||contentgate.cam$document
 ||contentgate.club$document
-||contentgate.fun$document
-||contentgate.uno$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
@@ -111,6 +109,7 @@
 ||goalmedia.cam$document
 ||goalmedia.club$document
 ||goalmedia.monster$document
+||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||googsistem.live$document
 ||gramp.xyz$document
@@ -119,6 +118,7 @@
 ||healthylives.today$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -130,7 +130,6 @@
 ||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
-||java-forum.org$document
 ||jetsummer.xyz$document
 ||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
@@ -188,6 +187,7 @@
 ||lubbockeda.org$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||mediaevent.club$document
@@ -195,18 +195,17 @@
 ||medicreed.club$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
-||mindmatch.ai$document
 ||mobileluckywinner.site$document
+||money-hero.org$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||naughtygirlsshowall.live$document
+||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
-||newstop.life$document
 ||offerpage.link$document
-||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -251,12 +250,10 @@
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
-||ritaus.org$document
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -318,7 +315,6 @@
 ||syncnewestmostthefile.vip$document
 ||syncnewestuberthefile.vip$document
 ||syncrecentintenselythefile.vip$document
-||syncuber-bestsophisticatedfile.best$document
 ||syncubercurrentfiles.best$document
 ||systemupdatit.club$document
 ||tackis.xyz$document
@@ -327,6 +323,7 @@
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
+||timeoffers.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
@@ -334,8 +331,8 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
-||truecompassion.net$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -374,4 +371,3 @@
 ||yoursafestgreatplaceupdates.work$document
 ||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document
-||yourtechplaceforupgrades.info$document

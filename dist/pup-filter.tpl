@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 12:04:26 +0000
+# Updated: Fri, 10 Sep 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,8 +10,8 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d affiliateland.io
--d aikoo.club
 -d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
@@ -19,6 +19,7 @@ msFilterList
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-exercise-bikes-ok.live
+-d beinspired.global
 -d bestappland.me
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
@@ -40,7 +41,6 @@ msFilterList
 -d breaking-news.digital
 -d bulley.shop
 -d calledbellc.fun
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d congrats-lucky-giveaway-smart.cyou
 -d congratsluckygiveawaysmart.cyou
@@ -51,8 +51,6 @@ msFilterList
 -d contentarea.ru
 -d contentgate.cam
 -d contentgate.club
--d contentgate.fun
--d contentgate.uno
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
@@ -114,6 +112,7 @@ msFilterList
 -d goalmedia.cam
 -d goalmedia.club
 -d goalmedia.monster
+-d golddellifewonder.rest
 -d gonesteeldouble.top
 -d googsistem.live
 -d gramp.xyz
@@ -122,6 +121,7 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -133,7 +133,6 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -191,6 +190,7 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d mediaevent.club
@@ -198,18 +198,17 @@ msFilterList
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
--d mindmatch.ai
 -d mobileluckywinner.site
+-d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d naughtygirlsshowall.live
+-d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
--d newstop.life
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -254,12 +253,10 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
--d ritaus.org
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -321,7 +318,6 @@ msFilterList
 -d syncnewestmostthefile.vip
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
--d syncuber-bestsophisticatedfile.best
 -d syncubercurrentfiles.best
 -d systemupdatit.club
 -d tackis.xyz
@@ -330,6 +326,7 @@ msFilterList
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
+-d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -337,8 +334,8 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
--d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -377,4 +374,3 @@ msFilterList
 -d yoursafestgreatplaceupdates.work
 -d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
--d yourtechplaceforupgrades.info

@@ -1,14 +1,14 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 12:04:26 +0000
+# Updated: Fri, 10 Sep 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
-0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
@@ -16,6 +16,7 @@
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
+0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
@@ -37,7 +38,6 @@
 0.0.0.0 breaking-news.digital
 0.0.0.0 bulley.shop
 0.0.0.0 calledbellc.fun
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 congrats-lucky-giveaway-smart.cyou
 0.0.0.0 congratsluckygiveawaysmart.cyou
@@ -48,8 +48,6 @@
 0.0.0.0 contentarea.ru
 0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.club
-0.0.0.0 contentgate.fun
-0.0.0.0 contentgate.uno
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
@@ -111,6 +109,7 @@
 0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.club
 0.0.0.0 goalmedia.monster
+0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 googsistem.live
 0.0.0.0 gramp.xyz
@@ -119,6 +118,7 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -130,7 +130,6 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -188,6 +187,7 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
+0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 mediaevent.club
@@ -195,18 +195,17 @@
 0.0.0.0 medicreed.club
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
-0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 naughtygirlsshowall.live
+0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
-0.0.0.0 newstop.life
 0.0.0.0 offerpage.link
-0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
@@ -251,12 +250,10 @@
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
-0.0.0.0 ritaus.org
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -318,7 +315,6 @@
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
-0.0.0.0 syncuber-bestsophisticatedfile.best
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdatit.club
 0.0.0.0 tackis.xyz
@@ -327,6 +323,7 @@
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
+0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
@@ -334,8 +331,8 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
-0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
+0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -374,4 +371,3 @@
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work
-0.0.0.0 yourtechplaceforupgrades.info

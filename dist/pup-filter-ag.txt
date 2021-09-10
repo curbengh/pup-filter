@@ -1,14 +1,14 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Sep 2021 12:04:26 +0000
+! Updated: Fri, 10 Sep 2021 00:03:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||affiliateland.io$all
-||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
@@ -16,6 +16,7 @@
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
+||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
@@ -37,7 +38,6 @@
 ||breaking-news.digital$all
 ||bulley.shop$all
 ||calledbellc.fun$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||congrats-lucky-giveaway-smart.cyou$all
 ||congratsluckygiveawaysmart.cyou$all
@@ -48,8 +48,6 @@
 ||contentarea.ru$all
 ||contentgate.cam$all
 ||contentgate.club$all
-||contentgate.fun$all
-||contentgate.uno$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
@@ -111,6 +109,7 @@
 ||goalmedia.cam$all
 ||goalmedia.club$all
 ||goalmedia.monster$all
+||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
 ||googsistem.live$all
 ||gramp.xyz$all
@@ -119,6 +118,7 @@
 ||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -130,7 +130,6 @@
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -188,6 +187,7 @@
 ||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||mediaevent.club$all
@@ -195,18 +195,17 @@
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
-||mindmatch.ai$all
 ||mobileluckywinner.site$all
+||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||naughtygirlsshowall.live$all
+||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
-||newstop.life$all
 ||offerpage.link$all
-||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -251,12 +250,10 @@
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
-||ritaus.org$all
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -318,7 +315,6 @@
 ||syncnewestmostthefile.vip$all
 ||syncnewestuberthefile.vip$all
 ||syncrecentintenselythefile.vip$all
-||syncuber-bestsophisticatedfile.best$all
 ||syncubercurrentfiles.best$all
 ||systemupdatit.club$all
 ||tackis.xyz$all
@@ -327,6 +323,7 @@
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
+||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
@@ -334,8 +331,8 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
-||truecompassion.net$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -374,4 +371,3 @@
 ||yoursafestgreatplaceupdates.work$all
 ||yourstablegreatupdate.work$all
 ||yourstablegreatupdates.work$all
-||yourtechplaceforupgrades.info$all

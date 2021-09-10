@@ -1,14 +1,14 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Sep 2021 12:04:26 +0000
+# Updated: Fri, 10 Sep 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 affiliateland.io
-aikoo.club
 amobil.online
 appzfirer.biz
 armorprovpn.me
@@ -16,6 +16,7 @@ atprofessor.fun
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
+beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
@@ -37,7 +38,6 @@ boot-upuber-bestfreefile.best
 breaking-news.digital
 bulley.shop
 calledbellc.fun
-chatverse.net
 checkstableaupdatinglinks.work
 congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
@@ -48,8 +48,6 @@ contentamigo.ru
 contentarea.ru
 contentgate.cam
 contentgate.club
-contentgate.fun
-contentgate.uno
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
@@ -111,6 +109,7 @@ goalmedia.bar
 goalmedia.cam
 goalmedia.club
 goalmedia.monster
+golddellifewonder.rest
 gonesteeldouble.top
 googsistem.live
 gramp.xyz
@@ -119,6 +118,7 @@ hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
+hpages.net
 httqzq.vip
 hypezen.info
 ientsillness.fun
@@ -130,7 +130,6 @@ intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -188,6 +187,7 @@ loveorfun.cc
 lubbockeda.org
 marketloans.net
 matchyourgirl.online
+mathison.io
 media-cloud.ru
 mediaadvanced.ru
 mediaevent.club
@@ -195,18 +195,17 @@ mediaevent.uno
 medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
-mindmatch.ai
 mobileluckywinner.site
+money-hero.org
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 naughtygirlsshowall.live
+nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
-newstop.life
 offerpage.link
-offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -251,12 +250,10 @@ randomprizebigwinofficial.cyou
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
-ritaus.org
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
-savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -318,7 +315,6 @@ syncmostprecisethefile.vip
 syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
-syncuber-bestsophisticatedfile.best
 syncubercurrentfiles.best
 systemupdatit.club
 tackis.xyz
@@ -327,6 +323,7 @@ technologypartners.net
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
+timeoffers.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
@@ -334,8 +331,8 @@ trackingsys.tech
 trafficmind.pro
 trane.fun
 tripleprofit-zone.life
-truecompassion.net
 trustappstreamsall.digital
+ubertech.shop
 unitehealth.club
 updatefix.xyz
 upplaysite.xyz
@@ -374,4 +371,3 @@ yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 yourstablegreatupdate.work
 yourstablegreatupdates.work
-yourtechplaceforupgrades.info
