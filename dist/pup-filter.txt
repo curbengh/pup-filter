@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 10 Sep 2021 00:03:28 +0000
+! Updated: Fri, 10 Sep 2021 12:03:05 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -260,7 +260,6 @@ search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
 searchoffers.info
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -316,6 +315,7 @@ syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncubercurrentfiles.best
+systemupdateme.solutions
 systemupdatit.club
 tackis.xyz
 technoblogs.net
