@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 11 Sep 2021 00:34:44 +0000
+! Updated: Sat, 11 Sep 2021 12:02:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -231,6 +231,7 @@
 ||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
+||ppploanchoices.site$all
 ||prize-messsages.casa$all
 ||profitablesurvey.site$all
 ||profitsurvey365.online$all
@@ -247,6 +248,7 @@
 ||quatrefeuillepolonaise.xyz$all
 ||quickdeals.online$all
 ||quizshein.shop$all
+||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -262,7 +264,7 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||searchoffers.info$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -278,6 +280,7 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
+||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

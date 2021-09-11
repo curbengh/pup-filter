@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Sep 2021 00:34:44 +0000
+# Updated: Sat, 11 Sep 2021 12:02:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -231,6 +231,7 @@
 0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
+0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitablesurvey.site
 0.0.0.0 profitsurvey365.online
@@ -247,6 +248,7 @@
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
+0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -262,7 +264,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 searchoffers.info
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -278,6 +280,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
+0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

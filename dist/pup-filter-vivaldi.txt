@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 11 Sep 2021 00:34:44 +0000
+! Updated: Sat, 11 Sep 2021 12:02:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -231,6 +231,7 @@
 ||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
+||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitablesurvey.site$document
 ||profitsurvey365.online$document
@@ -247,6 +248,7 @@
 ||quatrefeuillepolonaise.xyz$document
 ||quickdeals.online$document
 ||quizshein.shop$document
+||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||rewards-promotion-winner-super.cyou$document
@@ -262,7 +264,7 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
-||searchoffers.info$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -278,6 +280,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
