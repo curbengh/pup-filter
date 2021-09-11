@@ -1,18 +1,19 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 10 Sep 2021 12:03:05 +0000
+! Updated: Sat, 11 Sep 2021 00:34:44 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||abcscience.xyz$all
 ||affiliateland.io$all
+||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
+||atwater.org$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
@@ -43,7 +44,6 @@
 ||congratsluckygiveawaysmart.cyou$all
 ||connectionapplication.com$all
 ||connecttheupgradingurls.work$all
-||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||contentgate.cam$all
@@ -68,7 +68,6 @@
 ||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
-||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
@@ -99,7 +98,6 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -130,6 +128,7 @@
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -185,6 +184,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -195,7 +195,9 @@
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
+||mindmatch.ai$all
 ||mobileluckywinner.site$all
+||monetizer.co$all
 ||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
@@ -254,6 +256,7 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -275,7 +278,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
-||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
@@ -323,7 +325,6 @@
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
-||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
@@ -363,7 +364,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendaryplaceupgrading.work$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

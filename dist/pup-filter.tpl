@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 10 Sep 2021 12:03:05 +0000
+# Updated: Sat, 11 Sep 2021 00:34:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,12 +10,13 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
+-d aikoo.club
 -d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
+-d atwater.org
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-exercise-bikes-ok.live
@@ -46,7 +47,6 @@ msFilterList
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
--d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d contentgate.cam
@@ -71,7 +71,6 @@ msFilterList
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
--d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -102,7 +101,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -133,6 +131,7 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -188,6 +187,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -198,7 +198,9 @@ msFilterList
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
+-d mindmatch.ai
 -d mobileluckywinner.site
+-d monetizer.co
 -d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
@@ -257,6 +259,7 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -278,7 +281,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -326,7 +328,6 @@ msFilterList
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
--d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -366,7 +367,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
