@@ -1,15 +1,15 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Sep 2021 12:02:11 +0000
+# Updated: Sun, 12 Sep 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 affiliateland.io
 aikoo.club
-amobil.online
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
@@ -44,10 +44,12 @@ congrats-lucky-giveaway-smart.cyou
 congratsluckygiveawaysmart.cyou
 connectionapplication.com
 connecttheupgradingurls.work
+consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 contentgate.cam
 contentgate.club
+country-news.live
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
@@ -68,6 +70,7 @@ elpelades.club
 extrasafe.xyz
 f7lwv2y0xb.top
 fast-app.xyz
+fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
 fastspinf.xyz
@@ -98,6 +101,7 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -139,7 +143,6 @@ junemedia.club
 junemedia.xyz
 junesmile.xyz
 keepinfit.net
-kompsos.uk
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -208,11 +211,11 @@ nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
+offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
-oldharper.xyz
 olivedinflats.space
 online-prize-super-promotion.cyou
 onlineprize.cyou
@@ -258,7 +261,6 @@ robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
-savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -280,6 +282,7 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
+stickr.co
 stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
@@ -328,6 +331,7 @@ technologypartners.net
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
+timeoffers.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
@@ -335,6 +339,7 @@ trackingsys.tech
 trafficmind.pro
 trane.fun
 tripleprofit-zone.life
+truecompassion.net
 trustappstreamsall.digital
 ubertech.shop
 unitehealth.club
@@ -356,7 +361,6 @@ watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca
-webtip.co
 winnerbigwingiveawaysuper.cyou
 winnerz.site
 worivo.info
@@ -367,10 +371,10 @@ worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
+yifymovies.cam
 yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-yourstablegreatupdate.work
 yourstablegreatupdates.work

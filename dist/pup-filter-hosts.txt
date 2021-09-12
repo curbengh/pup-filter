@@ -1,15 +1,15 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Sep 2021 12:02:11 +0000
+# Updated: Sun, 12 Sep 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
-0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
@@ -44,10 +44,12 @@
 0.0.0.0 congratsluckygiveawaysmart.cyou
 0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
+0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.club
+0.0.0.0 country-news.live
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
@@ -68,6 +70,7 @@
 0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
@@ -98,6 +101,7 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -139,7 +143,6 @@
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
 0.0.0.0 keepinfit.net
-0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -208,11 +211,11 @@
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
+0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
-0.0.0.0 oldharper.xyz
 0.0.0.0 olivedinflats.space
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 onlineprize.cyou
@@ -258,7 +261,6 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -280,6 +282,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
+0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
@@ -328,6 +331,7 @@
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
+0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
@@ -335,6 +339,7 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 tripleprofit-zone.life
+0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 ubertech.shop
 0.0.0.0 unitehealth.club
@@ -356,7 +361,6 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca
-0.0.0.0 webtip.co
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
@@ -367,10 +371,10 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 yourstablegreatupdate.work
 0.0.0.0 yourstablegreatupdates.work

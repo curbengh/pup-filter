@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 11 Sep 2021 12:02:11 +0000
+! Updated: Sun, 12 Sep 2021 00:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
-||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
 ||atprofessor.fun$document
@@ -44,10 +44,12 @@
 ||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
+||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||contentgate.cam$document
 ||contentgate.club$document
+||country-news.live$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
@@ -68,6 +70,7 @@
 ||extrasafe.xyz$document
 ||f7lwv2y0xb.top$document
 ||fast-app.xyz$document
+||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
@@ -98,6 +101,7 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -139,7 +143,6 @@
 ||junemedia.xyz$document
 ||junesmile.xyz$document
 ||keepinfit.net$document
-||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -208,11 +211,11 @@
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
+||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||officialprizenationalrandom.cyou$document
-||oldharper.xyz$document
 ||olivedinflats.space$document
 ||online-prize-super-promotion.cyou$document
 ||onlineprize.cyou$document
@@ -258,7 +261,6 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -280,6 +282,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stickr.co$document
 ||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
@@ -328,6 +331,7 @@
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
+||timeoffers.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
@@ -335,6 +339,7 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||tripleprofit-zone.life$document
+||truecompassion.net$document
 ||trustappstreamsall.digital$document
 ||ubertech.shop$document
 ||unitehealth.club$document
@@ -356,7 +361,6 @@
 ||watchrefined-bestextremelyfile.best$document
 ||web-security.ml$document
 ||webtactics.ca$document
-||webtip.co$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.site$document
 ||worivo.info$document
@@ -367,10 +371,10 @@
 ||worldwideofficialpromotion.cyou$document
 ||worldwideofficialrewardssuper.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
+||yifymovies.cam$document
 ||yourlegendaryplaceupgrading.work$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||yourstablegreatupdate.work$document
 ||yourstablegreatupdates.work$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Sep 2021 12:02:11 +0000
+# Updated: Sun, 12 Sep 2021 00:02:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,9 +10,9 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
--d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
@@ -47,10 +47,12 @@ msFilterList
 -d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
+-d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d contentgate.cam
 -d contentgate.club
+-d country-news.live
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
@@ -71,6 +73,7 @@ msFilterList
 -d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -101,6 +104,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -142,7 +146,6 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepinfit.net
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -211,11 +214,11 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
--d oldharper.xyz
 -d olivedinflats.space
 -d online-prize-super-promotion.cyou
 -d onlineprize.cyou
@@ -261,7 +264,6 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -283,6 +285,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
@@ -331,6 +334,7 @@ msFilterList
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
+-d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -338,6 +342,7 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
+-d truecompassion.net
 -d trustappstreamsall.digital
 -d ubertech.shop
 -d unitehealth.club
@@ -359,7 +364,6 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d web-security.ml
 -d webtactics.ca
--d webtip.co
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.site
 -d worivo.info
@@ -370,10 +374,10 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
+-d yifymovies.cam
 -d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d yourstablegreatupdate.work
 -d yourstablegreatupdates.work
