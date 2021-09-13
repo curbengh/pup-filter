@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 12 Sep 2021 12:02:18 +0000
+# Updated: Mon, 13 Sep 2021 00:03:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d aikoo.club
+-d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
@@ -34,7 +35,6 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upoverly-bestadvancedfile.best
--d boot-uprefined-bestcompletelyfile.best
 -d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
@@ -86,7 +86,6 @@ msFilterList
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
--d flyfreecostas.live
 -d flymedia.cam
 -d flymedia.club
 -d flymedia.fun
@@ -134,17 +133,18 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
+-d juicydataage.ru
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepinfit.net
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -189,7 +189,6 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -217,6 +216,7 @@ msFilterList
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
+-d oldharper.xyz
 -d olivedinflats.space
 -d online-prize-super-promotion.cyou
 -d onlineprize.cyou
@@ -262,12 +262,12 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -339,7 +339,6 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d tripleprofit-zone.life
--d truecompassion.net
 -d trustappstreamsall.digital
 -d ubertech.shop
 -d unitehealth.club
@@ -377,4 +376,3 @@ msFilterList
 -d yourlinkplaceupdatingfree.work
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d yourstablegreatupdates.work

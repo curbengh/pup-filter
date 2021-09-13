@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 12 Sep 2021 12:02:18 +0000
+! Updated: Mon, 13 Sep 2021 00:03:23 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||aikoo.club$all
+||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
@@ -31,7 +32,6 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upoverly-bestadvancedfile.best$all
-||boot-uprefined-bestcompletelyfile.best$all
 ||boot-uprenewed-bestuberfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
@@ -83,7 +83,6 @@
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
-||flyfreecostas.live$all
 ||flymedia.cam$all
 ||flymedia.club$all
 ||flymedia.fun$all
@@ -131,17 +130,18 @@
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
+||juicydataage.ru$all
 ||junemedia.bar$all
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
 ||keepinfit.net$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -186,7 +186,6 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -214,6 +213,7 @@
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
+||oldharper.xyz$all
 ||olivedinflats.space$all
 ||online-prize-super-promotion.cyou$all
 ||onlineprize.cyou$all
@@ -259,12 +259,12 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -336,7 +336,6 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||tripleprofit-zone.life$all
-||truecompassion.net$all
 ||trustappstreamsall.digital$all
 ||ubertech.shop$all
 ||unitehealth.club$all
@@ -374,4 +373,3 @@
 ||yourlinkplaceupdatingfree.work$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||yourstablegreatupdates.work$all
