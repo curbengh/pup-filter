@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Sep 2021 00:03:23 +0000
+! Updated: Mon, 13 Sep 2021 12:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,19 +60,16 @@
 ||defensepro.me$all
 ||delightcmain.xyz$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
 ||extrasafe.xyz$all
-||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
-||fastspinf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
@@ -121,9 +118,7 @@
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||ientsillness.fun$all
 ||imagefind.org$all
-||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||installcompletely-theoriginalfile.best$all
 ||intelectaction.ru$all
@@ -208,7 +203,6 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
-||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -219,8 +213,6 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
-||pandaspringe.xyz$all
 ||pcsecurity-live.xyz$all
 ||performlatestoverlyapplication.icu$all
 ||performprecise-theuberfile.best$all
@@ -229,7 +221,6 @@
 ||performuberquickapplication.icu$all
 ||photo-explorer.org$all
 ||placesiteb.xyz$all
-||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||ppploanchoices.site$all
@@ -239,7 +230,6 @@
 ||profitsurvey365.org$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
-||protect-ios.com$all
 ||protecttool.me$all
 ||provpn.me$all
 ||provpnsecurity.me$all
@@ -276,7 +266,6 @@
 ||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
-||spotplanetc.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all

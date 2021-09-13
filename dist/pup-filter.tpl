@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Sep 2021 00:03:23 +0000
+# Updated: Mon, 13 Sep 2021 12:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,19 +63,16 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
 -d extrasafe.xyz
--d f7lwv2y0xb.top
 -d fast-app.xyz
 -d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
--d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
@@ -124,9 +121,7 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
--d incing-marganic.icu
 -d incrediblebuzz.info
 -d installcompletely-theoriginalfile.best
 -d intelectaction.ru
@@ -211,7 +206,6 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -222,8 +216,6 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
--d pandaspringe.xyz
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
 -d performprecise-theuberfile.best
@@ -232,7 +224,6 @@ msFilterList
 -d performuberquickapplication.icu
 -d photo-explorer.org
 -d placesiteb.xyz
--d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
@@ -242,7 +233,6 @@ msFilterList
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
--d protect-ios.com
 -d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
@@ -279,7 +269,6 @@ msFilterList
 -d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
--d spotplanetc.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win

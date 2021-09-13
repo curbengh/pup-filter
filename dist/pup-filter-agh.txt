@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Sep 2021 00:03:23 +0000
+! Updated: Mon, 13 Sep 2021 12:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,19 +60,16 @@
 ||defensepro.me^
 ||delightcmain.xyz^
 ||desixxx.cloud^
-||discoveryfeed.org^
 ||dollarsurvey365.online^
 ||dollarsurvey365.org^
 ||earlyprogress.info^
 ||efladn.club^
 ||elpelades.club^
 ||extrasafe.xyz^
-||f7lwv2y0xb.top^
 ||fast-app.xyz^
 ||fastfactsonline.co^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
-||fastspinf.xyz^
 ||fastspota.xyz^
 ||fastspotb.xyz^
 ||fastwebb.xyz^
@@ -121,9 +118,7 @@
 ||hpages.net^
 ||httqzq.vip^
 ||hypezen.info^
-||ientsillness.fun^
 ||imagefind.org^
-||incing-marganic.icu^
 ||incrediblebuzz.info^
 ||installcompletely-theoriginalfile.best^
 ||intelectaction.ru^
@@ -208,7 +203,6 @@
 ||newbuy.xyz^
 ||newsinformer.net^
 ||offerpage.link^
-||offersearch.info^
 ||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
 ||officialbigwinnationalfree.cyou^
@@ -219,8 +213,6 @@
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
-||ouldthepat.fun^
-||pandaspringe.xyz^
 ||pcsecurity-live.xyz^
 ||performlatestoverlyapplication.icu^
 ||performprecise-theuberfile.best^
@@ -229,7 +221,6 @@
 ||performuberquickapplication.icu^
 ||photo-explorer.org^
 ||placesiteb.xyz^
-||placespina.xyz^
 ||playplanete.xyz^
 ||playspind.xyz^
 ||ppploanchoices.site^
@@ -239,7 +230,6 @@
 ||profitsurvey365.org^
 ||proprotect.me^
 ||prosecurityvpn.me^
-||protect-ios.com^
 ||protecttool.me^
 ||provpn.me^
 ||provpnsecurity.me^
@@ -276,7 +266,6 @@
 ||sorrectionki.space^
 ||spotmapd.xyz^
 ||spotmapf.xyz^
-||spotplanetc.xyz^
 ||springplanetf.xyz^
 ||start-page.one^
 ||startos.win^

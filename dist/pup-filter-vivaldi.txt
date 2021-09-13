@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Sep 2021 00:03:23 +0000
+! Updated: Mon, 13 Sep 2021 12:03:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,19 +60,16 @@
 ||defensepro.me$document
 ||delightcmain.xyz$document
 ||desixxx.cloud$document
-||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
 ||extrasafe.xyz$document
-||f7lwv2y0xb.top$document
 ||fast-app.xyz$document
 ||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
-||fastspinf.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
@@ -121,9 +118,7 @@
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||imagefind.org$document
-||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||installcompletely-theoriginalfile.best$document
 ||intelectaction.ru$document
@@ -208,7 +203,6 @@
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
-||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -219,8 +213,6 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
-||ouldthepat.fun$document
-||pandaspringe.xyz$document
 ||pcsecurity-live.xyz$document
 ||performlatestoverlyapplication.icu$document
 ||performprecise-theuberfile.best$document
@@ -229,7 +221,6 @@
 ||performuberquickapplication.icu$document
 ||photo-explorer.org$document
 ||placesiteb.xyz$document
-||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||ppploanchoices.site$document
@@ -239,7 +230,6 @@
 ||profitsurvey365.org$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
-||protect-ios.com$document
 ||protecttool.me$document
 ||provpn.me$document
 ||provpnsecurity.me$document
@@ -276,7 +266,6 @@
 ||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
-||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
