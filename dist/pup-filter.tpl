@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Sep 2021 00:02:51 +0000
+# Updated: Tue, 14 Sep 2021 12:02:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
--d aikoo.club
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
@@ -62,16 +61,19 @@ msFilterList
 -d defensepro.me
 -d delightcmain.xyz
 -d desixxx.cloud
+-d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
 -d extrasafe.xyz
+-d f7lwv2y0xb.top
 -d fast-app.xyz
 -d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
+-d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
@@ -120,6 +122,7 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incrediblebuzz.info
 -d installcompletely-theoriginalfile.best
@@ -184,6 +187,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -194,7 +198,6 @@ msFilterList
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
--d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -206,6 +209,7 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -216,6 +220,8 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
+-d pandaspringe.xyz
 -d pcsecurity-live.xyz
 -d performlatestoverlyapplication.icu
 -d performprecise-theuberfile.best
@@ -224,11 +230,11 @@ msFilterList
 -d performuberquickapplication.icu
 -d photo-explorer.org
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
--d profitablesurvey.site
 -d profitsurvey365.online
 -d profitsurvey365.org
 -d proprotect.me
@@ -241,7 +247,6 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
--d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -268,6 +273,7 @@ msFilterList
 -d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
+-d spotplanetc.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win

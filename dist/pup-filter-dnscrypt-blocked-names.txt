@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Sep 2021 00:02:51 +0000
+# Updated: Tue, 14 Sep 2021 12:02:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 2021travel.net
 4upgradingstablesafe.work
 affiliateland.io
-aikoo.club
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
@@ -59,16 +58,19 @@ dealmedia.xyz
 defensepro.me
 delightcmain.xyz
 desixxx.cloud
+discoveryfeed.org
 dollarsurvey365.online
 dollarsurvey365.org
 earlyprogress.info
 efladn.club
 elpelades.club
 extrasafe.xyz
+f7lwv2y0xb.top
 fast-app.xyz
 fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
+fastspinf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
@@ -117,6 +119,7 @@ help4.info
 hpages.net
 httqzq.vip
 hypezen.info
+ientsillness.fun
 imagefind.org
 incrediblebuzz.info
 installcompletely-theoriginalfile.best
@@ -181,6 +184,7 @@ loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
+mapopts.top
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -191,7 +195,6 @@ mediaevent.uno
 medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
-mindmatch.ai
 mobileluckywinner.site
 money-hero.org
 movievod.me
@@ -203,6 +206,7 @@ nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
+offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -213,6 +217,8 @@ online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
+ouldthepat.fun
+pandaspringe.xyz
 pcsecurity-live.xyz
 performlatestoverlyapplication.icu
 performprecise-theuberfile.best
@@ -221,11 +227,11 @@ performstrong-thegreatlyfile.digital
 performuberquickapplication.icu
 photo-explorer.org
 placesiteb.xyz
+placespina.xyz
 playplanete.xyz
 playspind.xyz
 ppploanchoices.site
 prize-messsages.casa
-profitablesurvey.site
 profitsurvey365.online
 profitsurvey365.org
 proprotect.me
@@ -238,7 +244,6 @@ prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
 quickdeals.online
-quizshein.shop
 rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -265,6 +270,7 @@ smartideas.pro
 sorrectionki.space
 spotmapd.xyz
 spotmapf.xyz
+spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
