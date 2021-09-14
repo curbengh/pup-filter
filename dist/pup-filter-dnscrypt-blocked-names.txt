@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Sep 2021 12:03:07 +0000
+# Updated: Tue, 14 Sep 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,11 +9,11 @@
 4upgradingstablesafe.work
 affiliateland.io
 aikoo.club
-amobil.online
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
 atwater.org
+auto-car-search.site
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
@@ -46,7 +46,6 @@ connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
-contentgate.cam
 contentgate.club
 country-news.live
 crazyprize.buzz
@@ -125,6 +124,7 @@ intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -245,7 +245,6 @@ randomprizebigwinofficial.cyou
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
-robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 runnewest-bestextremelyfile.best
@@ -357,7 +356,6 @@ worldwideofficialpromotion.cyou
 worldwideofficialrewardssuper.cyou
 worldwideprizegiveawayfree.cyou
 yifymovies.cam
-yourlegendaryplaceupgrading.work
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
 yourmoneymachine.cc

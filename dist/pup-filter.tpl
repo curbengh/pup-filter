@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Sep 2021 12:03:07 +0000
+# Updated: Tue, 14 Sep 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,11 +12,11 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d aikoo.club
--d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
 -d atwater.org
+-d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-exercise-bikes-ok.live
@@ -49,7 +49,6 @@ msFilterList
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
--d contentgate.cam
 -d contentgate.club
 -d country-news.live
 -d crazyprize.buzz
@@ -128,6 +127,7 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -248,7 +248,6 @@ msFilterList
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
--d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
@@ -360,7 +359,6 @@ msFilterList
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d yifymovies.cam
--d yourlegendaryplaceupgrading.work
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourmoneymachine.cc

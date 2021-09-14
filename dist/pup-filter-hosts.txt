@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Sep 2021 12:03:07 +0000
+# Updated: Tue, 14 Sep 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,11 +9,11 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
-0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
+0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
@@ -46,7 +46,6 @@
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
-0.0.0.0 contentgate.cam
 0.0.0.0 contentgate.club
 0.0.0.0 country-news.live
 0.0.0.0 crazyprize.buzz
@@ -125,6 +124,7 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -245,7 +245,6 @@
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
-0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
@@ -357,7 +356,6 @@
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 yifymovies.cam
-0.0.0.0 yourlegendaryplaceupgrading.work
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourmoneymachine.cc
