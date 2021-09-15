@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Sep 2021 12:02:48 +0000
+# Updated: Wed, 15 Sep 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
+0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
@@ -50,7 +51,6 @@
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
-0.0.0.0 dailyboard.org
 0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -64,7 +64,6 @@
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
-0.0.0.0 extrasafe.xyz
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
@@ -122,6 +121,9 @@
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
+0.0.0.0 initiatecompletelyprogressivethefile.vip
+0.0.0.0 initiatecompletelyspeedythefile.vip
+0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
@@ -129,7 +131,6 @@
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -184,10 +185,8 @@
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
-0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 mediaevent.club
@@ -243,13 +242,13 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
+0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 runnewest-bestextremelyfile.best
@@ -361,7 +360,6 @@
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideofficialrewardssuper.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
-0.0.0.0 yifymovies.cam
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourmoneymachine.cc

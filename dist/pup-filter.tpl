@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Sep 2021 12:02:48 +0000
+# Updated: Wed, 15 Sep 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
+-d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
@@ -53,7 +54,6 @@ msFilterList
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
--d dailyboard.org
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -67,7 +67,6 @@ msFilterList
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
--d extrasafe.xyz
 -d f7lwv2y0xb.top
 -d fast-app.xyz
 -d fastfactsonline.co
@@ -125,6 +124,9 @@ msFilterList
 -d ientsillness.fun
 -d imagefind.org
 -d incrediblebuzz.info
+-d initiatecompletelyprogressivethefile.vip
+-d initiatecompletelyspeedythefile.vip
+-d initiatesophisticatedcompletelythefile.vip
 -d installcompletely-theoriginalfile.best
 -d intelectaction.ru
 -d investinfo.net
@@ -132,7 +134,6 @@ msFilterList
 -d isystemupdate.cloud
 -d java-forum.org
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -187,10 +188,8 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d mediaevent.club
@@ -246,13 +245,13 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
+-d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
@@ -364,7 +363,6 @@ msFilterList
 -d worldwideofficialpromotion.cyou
 -d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
--d yifymovies.cam
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourmoneymachine.cc

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 14 Sep 2021 12:02:48 +0000
+! Updated: Wed, 15 Sep 2021 00:03:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
+||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
@@ -50,7 +51,6 @@
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
-||dailyboard.org$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -64,7 +64,6 @@
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
-||extrasafe.xyz$all
 ||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
@@ -122,6 +121,9 @@
 ||ientsillness.fun$all
 ||imagefind.org$all
 ||incrediblebuzz.info$all
+||initiatecompletelyprogressivethefile.vip$all
+||initiatecompletelyspeedythefile.vip$all
+||initiatesophisticatedcompletelythefile.vip$all
 ||installcompletely-theoriginalfile.best$all
 ||intelectaction.ru$all
 ||investinfo.net$all
@@ -129,7 +131,6 @@
 ||isystemupdate.cloud$all
 ||java-forum.org$all
 ||jetsummer.xyz$all
-||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -184,10 +185,8 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
-||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||mediaevent.club$all
@@ -243,13 +242,13 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
+||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
@@ -361,7 +360,6 @@
 ||worldwideofficialpromotion.cyou$all
 ||worldwideofficialrewardssuper.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
-||yifymovies.cam$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourmoneymachine.cc$all
