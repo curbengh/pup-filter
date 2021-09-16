@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 15 Sep 2021 12:02:52 +0000
+# Updated: Thu, 16 Sep 2021 00:02:56 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d amobil.online
 -d appzfirer.biz
@@ -43,14 +42,11 @@ msFilterList
 -d bulley.shop
 -d calledbellc.fun
 -d checkstableaupdatinglinks.work
--d congrats-lucky-giveaway-smart.cyou
--d congratsluckygiveawaysmart.cyou
 -d connectionapplication.com
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
--d contentgate.club
 -d country-news.live
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
@@ -60,7 +56,6 @@ msFilterList
 -d dealmedia.website
 -d dealmedia.xyz
 -d defensepro.me
--d delightcmain.xyz
 -d desixxx.cloud
 -d discoveryfeed.org
 -d dollarsurvey365.online
@@ -93,7 +88,6 @@ msFilterList
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d funanime.me
--d funmapd.xyz
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -104,7 +98,6 @@ msFilterList
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
--d gladspaceplane.xyz
 -d global-track.space
 -d goalmedia.bar
 -d goalmedia.cam
@@ -133,8 +126,8 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -188,9 +181,9 @@ msFilterList
 -d loaduberspeedyfile.digital
 -d louisvillegigs.net
 -d loveorfun.cc
--d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d mediaevent.club
@@ -246,6 +239,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -256,7 +250,6 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -266,7 +259,6 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -335,7 +327,6 @@ msFilterList
 -d trane.fun
 -d tripleprofit-zone.life
 -d trustappstreamsall.digital
--d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz

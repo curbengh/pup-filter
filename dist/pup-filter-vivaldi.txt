@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 15 Sep 2021 12:02:52 +0000
+! Updated: Thu, 16 Sep 2021 00:02:56 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||affiliateland.io$document
 ||amobil.online$document
 ||appzfirer.biz$document
@@ -40,14 +39,11 @@
 ||bulley.shop$document
 ||calledbellc.fun$document
 ||checkstableaupdatinglinks.work$document
-||congrats-lucky-giveaway-smart.cyou$document
-||congratsluckygiveawaysmart.cyou$document
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
 ||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
 ||contentarea.ru$document
-||contentgate.club$document
 ||country-news.live$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
@@ -57,7 +53,6 @@
 ||dealmedia.website$document
 ||dealmedia.xyz$document
 ||defensepro.me$document
-||delightcmain.xyz$document
 ||desixxx.cloud$document
 ||discoveryfeed.org$document
 ||dollarsurvey365.online$document
@@ -90,7 +85,6 @@
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
 ||funanime.me$document
-||funmapd.xyz$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
@@ -101,7 +95,6 @@
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
-||gladspaceplane.xyz$document
 ||global-track.space$document
 ||goalmedia.bar$document
 ||goalmedia.cam$document
@@ -130,8 +123,8 @@
 ||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
-||java-forum.org$document
 ||jetsummer.xyz$document
+||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
@@ -185,9 +178,9 @@
 ||loaduberspeedyfile.digital$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
-||lubbockeda.org$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||mediaevent.club$document
@@ -243,6 +236,7 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
+||quickdeals.online$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -253,7 +247,6 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -263,7 +256,6 @@
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
@@ -332,7 +324,6 @@
 ||trane.fun$document
 ||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
-||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
