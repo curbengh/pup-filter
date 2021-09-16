@@ -1,13 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Sep 2021 00:02:56 +0000
+! Updated: Thu, 16 Sep 2021 12:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||affiliateland.io$all
+||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
@@ -188,6 +188,7 @@
 ||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
+||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
 ||movievod.me$all
@@ -198,6 +199,7 @@
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
+||newstop.life$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -237,6 +239,7 @@
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||quickdeals.online$all
+||quizshein.shop$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
@@ -252,6 +255,7 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -330,7 +334,6 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||vpn1aprotectplus.com$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Sep 2021 00:02:56 +0000
+# Updated: Thu, 16 Sep 2021 12:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d affiliateland.io
+-d aikoo.club
 -d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
@@ -191,6 +191,7 @@ msFilterList
 -d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
+-d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -201,6 +202,7 @@ msFilterList
 -d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
+-d newstop.life
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -240,6 +242,7 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
+-d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
@@ -255,6 +258,7 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -333,7 +337,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d vpn1aprotectplus.com
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
