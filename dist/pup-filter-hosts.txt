@@ -1,12 +1,14 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Sep 2021 12:03:17 +0000
+# Updated: Fri, 17 Sep 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
+0.0.0.0 adguard-vpn.com
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
@@ -23,11 +25,9 @@
 0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bitcoinjunction.club
-0.0.0.0 blockchain-com.email
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
-0.0.0.0 boot-upcompletely-bestspeedyfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
@@ -36,7 +36,6 @@
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
-0.0.0.0 bulley.shop
 0.0.0.0 calledbellc.fun
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connectionapplication.com
@@ -71,7 +70,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 findoffers.co
 0.0.0.0 findwith.me
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
@@ -103,7 +101,6 @@
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 googsistem.live
-0.0.0.0 gramp.xyz
 0.0.0.0 grandencryptions.me
 0.0.0.0 hailso.xyz
 0.0.0.0 healthylives.today
@@ -118,7 +115,6 @@
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
-0.0.0.0 installcompletely-theoriginalfile.best
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
@@ -178,6 +174,7 @@
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
+0.0.0.0 lubbockeda.org
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
@@ -185,7 +182,6 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 mediaevent.club
 0.0.0.0 mediaevent.uno
-0.0.0.0 medicreed.club
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mindmatch.ai
@@ -199,7 +195,6 @@
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
-0.0.0.0 newstop.life
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -215,11 +210,7 @@
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pcsecurity-live.xyz
-0.0.0.0 performlatestoverlyapplication.icu
-0.0.0.0 performprecise-theuberfile.best
-0.0.0.0 performrefineduberapplication.icu
 0.0.0.0 performstrong-thegreatlyfile.digital
-0.0.0.0 performuberquickapplication.icu
 0.0.0.0 photo-explorer.org
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
@@ -236,9 +227,9 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
+0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -260,10 +251,10 @@
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
-0.0.0.0 sorrectionki.space
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
@@ -316,6 +307,7 @@
 0.0.0.0 tackis.xyz
 0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
+0.0.0.0 thanksyoursupport.club
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
@@ -326,7 +318,6 @@
 0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
-0.0.0.0 tripleprofit-zone.life
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz

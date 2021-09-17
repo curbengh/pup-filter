@@ -1,12 +1,14 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Sep 2021 12:03:17 +0000
+# Updated: Fri, 17 Sep 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
+adguard-vpn.com
 aikoo.club
 amobil.online
 appzfirer.biz
@@ -23,11 +25,9 @@ bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
 bigwinonlinefreecongrats.cyou
 bitcoinjunction.club
-blockchain-com.email
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
 boot-upcompletely-bestsophisticatedfile.best
-boot-upcompletely-bestspeedyfile.best
 boot-upfree-bestuberfile.best
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
@@ -36,7 +36,6 @@ boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
-bulley.shop
 calledbellc.fun
 checkstableaupdatinglinks.work
 connectionapplication.com
@@ -71,7 +70,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findoffers.co
 findwith.me
 fireapps.cloud
 fisudauh.top
@@ -103,7 +101,6 @@ goalmedia.monster
 golddellifewonder.rest
 gonesteeldouble.top
 googsistem.live
-gramp.xyz
 grandencryptions.me
 hailso.xyz
 healthylives.today
@@ -118,7 +115,6 @@ incrediblebuzz.info
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiatesophisticatedcompletelythefile.vip
-installcompletely-theoriginalfile.best
 intelectaction.ru
 investinfo.net
 ironprovpn.me
@@ -178,6 +174,7 @@ loaduberprecisefile.digital
 loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
+lubbockeda.org
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -185,7 +182,6 @@ media-cloud.ru
 mediaadvanced.ru
 mediaevent.club
 mediaevent.uno
-medicreed.club
 meeryslotspin.xyz
 melanthios-ana.com
 mindmatch.ai
@@ -199,7 +195,6 @@ naughtygirlsshowall.live
 nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
-newstop.life
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -215,11 +210,7 @@ onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pandaspringe.xyz
 pcsecurity-live.xyz
-performlatestoverlyapplication.icu
-performprecise-theuberfile.best
-performrefineduberapplication.icu
 performstrong-thegreatlyfile.digital
-performuberquickapplication.icu
 photo-explorer.org
 placesiteb.xyz
 placespina.xyz
@@ -236,9 +227,9 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
+qfind.net
 quantum.work
 quatrefeuillepolonaise.xyz
-quickdeals.online
 quizshein.shop
 rancy.xyz
 random-prize-bigwin-official.cyou
@@ -260,10 +251,10 @@ securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
-sorrectionki.space
 spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
@@ -316,6 +307,7 @@ systemupdatit.club
 tackis.xyz
 technoblogs.net
 technologypartners.net
+thanksyoursupport.club
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
@@ -326,7 +318,6 @@ tracking-landers.xyz
 trackingsys.tech
 trafficmind.pro
 trane.fun
-tripleprofit-zone.life
 trustappstreamsall.digital
 unitehealth.club
 updatefix.xyz

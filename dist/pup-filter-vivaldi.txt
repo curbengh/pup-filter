@@ -1,12 +1,14 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Sep 2021 12:03:17 +0000
+! Updated: Fri, 17 Sep 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
+||adguard-vpn.com$document
 ||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
@@ -23,11 +25,9 @@
 ||bigwin-online-free-congrats.cyou$document
 ||bigwinonlinefreecongrats.cyou$document
 ||bitcoinjunction.club$document
-||blockchain-com.email$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
-||boot-upcompletely-bestspeedyfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
@@ -36,7 +36,6 @@
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||boot-upuber-bestfreefile.best$document
 ||breaking-news.digital$document
-||bulley.shop$document
 ||calledbellc.fun$document
 ||checkstableaupdatinglinks.work$document
 ||connectionapplication.com$document
@@ -71,7 +70,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||findoffers.co$document
 ||findwith.me$document
 ||fireapps.cloud$document
 ||fisudauh.top$document
@@ -103,7 +101,6 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||googsistem.live$document
-||gramp.xyz$document
 ||grandencryptions.me$document
 ||hailso.xyz$document
 ||healthylives.today$document
@@ -118,7 +115,6 @@
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
 ||initiatesophisticatedcompletelythefile.vip$document
-||installcompletely-theoriginalfile.best$document
 ||intelectaction.ru$document
 ||investinfo.net$document
 ||ironprovpn.me$document
@@ -178,6 +174,7 @@
 ||loaduberspeedyfile.digital$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
+||lubbockeda.org$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
@@ -185,7 +182,6 @@
 ||mediaadvanced.ru$document
 ||mediaevent.club$document
 ||mediaevent.uno$document
-||medicreed.club$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
 ||mindmatch.ai$document
@@ -199,7 +195,6 @@
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
-||newstop.life$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -215,11 +210,7 @@
 ||ouldthepat.fun$document
 ||pandaspringe.xyz$document
 ||pcsecurity-live.xyz$document
-||performlatestoverlyapplication.icu$document
-||performprecise-theuberfile.best$document
-||performrefineduberapplication.icu$document
 ||performstrong-thegreatlyfile.digital$document
-||performuberquickapplication.icu$document
 ||photo-explorer.org$document
 ||placesiteb.xyz$document
 ||placespina.xyz$document
@@ -236,9 +227,9 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||quickdeals.online$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
@@ -260,10 +251,10 @@
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
-||sorrectionki.space$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
@@ -316,6 +307,7 @@
 ||tackis.xyz$document
 ||technoblogs.net$document
 ||technologypartners.net$document
+||thanksyoursupport.club$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
@@ -326,7 +318,6 @@
 ||trackingsys.tech$document
 ||trafficmind.pro$document
 ||trane.fun$document
-||tripleprofit-zone.life$document
 ||trustappstreamsall.digital$document
 ||unitehealth.club$document
 ||updatefix.xyz$document

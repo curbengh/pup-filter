@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Sep 2021 12:03:17 +0000
+# Updated: Fri, 17 Sep 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,8 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
+-d adguard-vpn.com
 -d aikoo.club
 -d amobil.online
 -d appzfirer.biz
@@ -26,11 +28,9 @@ msFilterList
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
 -d bitcoinjunction.club
--d blockchain-com.email
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
--d boot-upcompletely-bestspeedyfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
@@ -39,7 +39,6 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
--d bulley.shop
 -d calledbellc.fun
 -d checkstableaupdatinglinks.work
 -d connectionapplication.com
@@ -74,7 +73,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findoffers.co
 -d findwith.me
 -d fireapps.cloud
 -d fisudauh.top
@@ -106,7 +104,6 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d googsistem.live
--d gramp.xyz
 -d grandencryptions.me
 -d hailso.xyz
 -d healthylives.today
@@ -121,7 +118,6 @@ msFilterList
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
--d installcompletely-theoriginalfile.best
 -d intelectaction.ru
 -d investinfo.net
 -d ironprovpn.me
@@ -181,6 +177,7 @@ msFilterList
 -d loaduberspeedyfile.digital
 -d louisvillegigs.net
 -d loveorfun.cc
+-d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -188,7 +185,6 @@ msFilterList
 -d mediaadvanced.ru
 -d mediaevent.club
 -d mediaevent.uno
--d medicreed.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
 -d mindmatch.ai
@@ -202,7 +198,6 @@ msFilterList
 -d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
--d newstop.life
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -218,11 +213,7 @@ msFilterList
 -d ouldthepat.fun
 -d pandaspringe.xyz
 -d pcsecurity-live.xyz
--d performlatestoverlyapplication.icu
--d performprecise-theuberfile.best
--d performrefineduberapplication.icu
 -d performstrong-thegreatlyfile.digital
--d performuberquickapplication.icu
 -d photo-explorer.org
 -d placesiteb.xyz
 -d placespina.xyz
@@ -239,9 +230,9 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
@@ -263,10 +254,10 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
--d sorrectionki.space
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
@@ -319,6 +310,7 @@ msFilterList
 -d tackis.xyz
 -d technoblogs.net
 -d technologypartners.net
+-d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
@@ -329,7 +321,6 @@ msFilterList
 -d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
--d tripleprofit-zone.life
 -d trustappstreamsall.digital
 -d unitehealth.club
 -d updatefix.xyz

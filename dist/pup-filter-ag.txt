@@ -1,12 +1,14 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Sep 2021 12:03:17 +0000
+! Updated: Fri, 17 Sep 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
+||adguard-vpn.com$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
@@ -23,11 +25,9 @@
 ||bigwin-online-free-congrats.cyou$all
 ||bigwinonlinefreecongrats.cyou$all
 ||bitcoinjunction.club$all
-||blockchain-com.email$all
 ||bluetiger.cloud$all
 ||boot-upcompletely-bestprecisefile.best$all
 ||boot-upcompletely-bestsophisticatedfile.best$all
-||boot-upcompletely-bestspeedyfile.best$all
 ||boot-upfree-bestuberfile.best$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
@@ -36,7 +36,6 @@
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||breaking-news.digital$all
-||bulley.shop$all
 ||calledbellc.fun$all
 ||checkstableaupdatinglinks.work$all
 ||connectionapplication.com$all
@@ -71,7 +70,6 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
-||findoffers.co$all
 ||findwith.me$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
@@ -103,7 +101,6 @@
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
 ||googsistem.live$all
-||gramp.xyz$all
 ||grandencryptions.me$all
 ||hailso.xyz$all
 ||healthylives.today$all
@@ -118,7 +115,6 @@
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
-||installcompletely-theoriginalfile.best$all
 ||intelectaction.ru$all
 ||investinfo.net$all
 ||ironprovpn.me$all
@@ -178,6 +174,7 @@
 ||loaduberspeedyfile.digital$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
+||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -185,7 +182,6 @@
 ||mediaadvanced.ru$all
 ||mediaevent.club$all
 ||mediaevent.uno$all
-||medicreed.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
 ||mindmatch.ai$all
@@ -199,7 +195,6 @@
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
-||newstop.life$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
@@ -215,11 +210,7 @@
 ||ouldthepat.fun$all
 ||pandaspringe.xyz$all
 ||pcsecurity-live.xyz$all
-||performlatestoverlyapplication.icu$all
-||performprecise-theuberfile.best$all
-||performrefineduberapplication.icu$all
 ||performstrong-thegreatlyfile.digital$all
-||performuberquickapplication.icu$all
 ||photo-explorer.org$all
 ||placesiteb.xyz$all
 ||placespina.xyz$all
@@ -236,9 +227,9 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
+||qfind.net$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
@@ -260,10 +251,10 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
-||sorrectionki.space$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
@@ -316,6 +307,7 @@
 ||tackis.xyz$all
 ||technoblogs.net$all
 ||technologypartners.net$all
+||thanksyoursupport.club$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
@@ -326,7 +318,6 @@
 ||trackingsys.tech$all
 ||trafficmind.pro$all
 ||trane.fun$all
-||tripleprofit-zone.life$all
 ||trustappstreamsall.digital$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
