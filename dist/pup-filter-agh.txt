@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 17 Sep 2021 12:02:48 +0000
+! Updated: Sat, 18 Sep 2021 00:23:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net^
 ||4upgradingstablesafe.work^
 ||abcscience.xyz^
 ||adguard-vpn.com^
@@ -47,6 +46,7 @@
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
+||dailyboard.org^
 ||dailyrep.net^
 ||dealmedia.club^
 ||dealmedia.website^
@@ -82,7 +82,6 @@
 ||freenationalsuperworldwide.cyou^
 ||freewareappsstreamfast-best.digital^
 ||freewareappsstreamfastall.digital^
-||funanime.me^
 ||funny-media.ru^
 ||funspine.xyz^
 ||genertellife.it^
@@ -120,6 +119,7 @@
 ||investinfo.net^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
+||java-forum.org^
 ||jetsummer.xyz^
 ||jointingifstrawberry.xyz^
 ||jojomamanbebe.ie^
@@ -131,6 +131,9 @@
 ||junemedia.xyz^
 ||junesmile.xyz^
 ||keepinfit.net^
+||koalaautumnb.xyz^
+||koalaspringc.xyz^
+||koalaspringd.xyz^
 ||kompsos.uk^
 ||ktpyzw.vip^
 ||lackystack.net^
@@ -176,6 +179,7 @@
 ||louisvillegigs.net^
 ||loveorfun.cc^
 ||lubbockeda.org^
+||mapopts.top^
 ||marketloans.net^
 ||matchyourgirl.online^
 ||mathison.io^
@@ -242,6 +246,7 @@
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
 ||runnewest-bestextremelyfile.best^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
@@ -320,6 +325,7 @@
 ||trafficmind.pro^
 ||trane.fun^
 ||trustappstreamsall.digital^
+||ubertech.shop^
 ||unitehealth.club^
 ||updatefix.xyz^
 ||upplaysite.xyz^
@@ -340,6 +346,7 @@
 ||web-security.ml^
 ||webtactics.ca^
 ||winnerbigwingiveawaysuper.cyou^
+||winnerz.icu^
 ||winnerz.site^
 ||worivo.info^
 ||worldwide-national-claim-free.cyou^

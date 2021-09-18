@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 17 Sep 2021 12:02:48 +0000
+! Updated: Sat, 18 Sep 2021 00:23:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||adguard-vpn.com$document
@@ -47,6 +46,7 @@
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
+||dailyboard.org$document
 ||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
@@ -82,7 +82,6 @@
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
-||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
@@ -120,6 +119,7 @@
 ||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
+||java-forum.org$document
 ||jetsummer.xyz$document
 ||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
@@ -131,6 +131,9 @@
 ||junemedia.xyz$document
 ||junesmile.xyz$document
 ||keepinfit.net$document
+||koalaautumnb.xyz$document
+||koalaspringc.xyz$document
+||koalaspringd.xyz$document
 ||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
@@ -176,6 +179,7 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
+||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
@@ -242,6 +246,7 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||runnewest-bestextremelyfile.best$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -320,6 +325,7 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
@@ -340,6 +346,7 @@
 ||web-security.ml$document
 ||webtactics.ca$document
 ||winnerbigwingiveawaysuper.cyou$document
+||winnerz.icu$document
 ||winnerz.site$document
 ||worivo.info$document
 ||worldwide-national-claim-free.cyou$document

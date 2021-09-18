@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 17 Sep 2021 12:02:48 +0000
+# Updated: Sat, 18 Sep 2021 00:23:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d adguard-vpn.com
@@ -50,6 +49,7 @@ msFilterList
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d dailyboard.org
 -d dailyrep.net
 -d dealmedia.club
 -d dealmedia.website
@@ -85,7 +85,6 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -123,6 +122,7 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -134,6 +134,9 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepinfit.net
+-d koalaautumnb.xyz
+-d koalaspringc.xyz
+-d koalaspringd.xyz
 -d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
@@ -179,6 +182,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -245,6 +249,7 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d runnewest-bestextremelyfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -323,6 +328,7 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d unitehealth.club
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -343,6 +349,7 @@ msFilterList
 -d web-security.ml
 -d webtactics.ca
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.icu
 -d winnerz.site
 -d worivo.info
 -d worldwide-national-claim-free.cyou

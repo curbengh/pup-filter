@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 17 Sep 2021 12:02:48 +0000
+! Updated: Sat, 18 Sep 2021 00:23:07 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||adguard-vpn.com$all
@@ -47,6 +46,7 @@
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
+||dailyboard.org$all
 ||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
@@ -82,7 +82,6 @@
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
-||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
@@ -120,6 +119,7 @@
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -131,6 +131,9 @@
 ||junemedia.xyz$all
 ||junesmile.xyz$all
 ||keepinfit.net$all
+||koalaautumnb.xyz$all
+||koalaspringc.xyz$all
+||koalaspringd.xyz$all
 ||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
@@ -176,6 +179,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -242,6 +246,7 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||runnewest-bestextremelyfile.best$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -320,6 +325,7 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -340,6 +346,7 @@
 ||web-security.ml$all
 ||webtactics.ca$all
 ||winnerbigwingiveawaysuper.cyou$all
+||winnerz.icu$all
 ||winnerz.site$all
 ||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
