@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 18 Sep 2021 00:23:07 +0000
+# Updated: Sat, 18 Sep 2021 12:02:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ auto-car-search.site
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
+beautifulplaces.life
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
@@ -179,7 +180,6 @@ loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-mapopts.top
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -191,6 +191,7 @@ meeryslotspin.xyz
 melanthios-ana.com
 mindmatch.ai
 mobileluckywinner.site
+monetizer.co
 money-hero.org
 movievod.me
 my-credit-score.xyz
@@ -235,7 +236,6 @@ prtctapp.me
 qfind.net
 quantum.work
 quatrefeuillepolonaise.xyz
-quizshein.shop
 rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
@@ -268,7 +268,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best

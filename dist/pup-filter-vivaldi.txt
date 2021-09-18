@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 18 Sep 2021 00:23:07 +0000
+! Updated: Sat, 18 Sep 2021 12:02:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
+||beautifulplaces.life$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -179,7 +180,6 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
-||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
@@ -191,6 +191,7 @@
 ||melanthios-ana.com$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
+||monetizer.co$document
 ||money-hero.org$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
@@ -235,7 +236,6 @@
 ||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||quizshein.shop$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
@@ -268,7 +268,6 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
