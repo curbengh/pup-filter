@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 19 Sep 2021 00:02:40 +0000
+# Updated: Sun, 19 Sep 2021 12:02:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,13 +10,11 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d amobil.online
 -d appsto.cloud
 -d appzfirer.biz
 -d armorprovpn.me
--d artcreative.us
 -d atprofessor.fun
 -d atwater.org
 -d auto-car-search.site
@@ -112,7 +110,6 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -233,6 +230,7 @@ msFilterList
 -d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
+-d protect-ios.com
 -d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
@@ -269,6 +267,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
@@ -300,7 +299,6 @@ msFilterList
 -d sudoo.net
 -d summermedia.club
 -d superpromotion.cyou
--d support-notify.space
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
 -d syncmostprecisethefile.vip
