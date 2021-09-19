@@ -1,24 +1,25 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 18 Sep 2021 12:02:28 +0000
+! Updated: Sun, 19 Sep 2021 00:02:40 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
-||adguard-vpn.com$document
 ||affiliateland.io$document
 ||amobil.online$document
+||appsto.cloud$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
+||artcreative.us$document
 ||atprofessor.fun$document
 ||atwater.org$document
 ||auto-car-search.site$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
-||beautifulplaces.life$document
 ||beinspired.global$document
 ||bestappland.me$document
 ||bestvideoplayerupgrades.work$document
@@ -48,10 +49,10 @@
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||dailyboard.org$document
-||dailyrep.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
+||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
 ||discoveryfeed.org$document
@@ -65,7 +66,6 @@
 ||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
-||fastspinf.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
@@ -83,8 +83,8 @@
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
+||funanime.me$document
 ||funny-media.ru$document
-||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
 ||getbril.io$document
@@ -135,7 +135,8 @@
 ||koalaautumnb.xyz$document
 ||koalaspringc.xyz$document
 ||koalaspringd.xyz$document
-||kompsos.uk$document
+||koalasummerd.xyz$document
+||koalawintera.xyz$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -193,7 +194,6 @@
 ||mobileluckywinner.site$document
 ||monetizer.co$document
 ||money-hero.org$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -214,14 +214,16 @@
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
-||pandaspringe.xyz$document
+||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
 ||performstrong-thegreatlyfile.digital$document
 ||photo-explorer.org$document
 ||placesiteb.xyz$document
-||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
+||playsummerc.xyz$document
+||playsummerf.xyz$document
+||playwinterd.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
@@ -233,7 +235,6 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
-||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
 ||rancy.xyz$document
@@ -245,14 +246,12 @@
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
-||runnewest-bestextremelyfile.best$document
 ||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
-||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -263,7 +262,6 @@
 ||smartideas.pro$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
-||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
@@ -324,13 +322,12 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trustappstreamsall.digital$document
-||ubertech.shop$document
-||unitehealth.club$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||videomixact.ru$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document

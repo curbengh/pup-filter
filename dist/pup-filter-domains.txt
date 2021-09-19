@@ -1,24 +1,25 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 18 Sep 2021 12:02:28 +0000
+# Updated: Sun, 19 Sep 2021 00:02:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 4upgradingstablesafe.work
 abcscience.xyz
-adguard-vpn.com
 affiliateland.io
 amobil.online
+appsto.cloud
 appzfirer.biz
 armorprovpn.me
+artcreative.us
 atprofessor.fun
 atwater.org
 auto-car-search.site
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
-beautifulplaces.life
 beinspired.global
 bestappland.me
 bestvideoplayerupgrades.work
@@ -48,10 +49,10 @@ crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
 dailyboard.org
-dailyrep.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
+dealsify.net
 defensepro.me
 desixxx.cloud
 discoveryfeed.org
@@ -65,7 +66,6 @@ fast-app.xyz
 fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
-fastspinf.xyz
 fastspota.xyz
 fastspotb.xyz
 fastwebb.xyz
@@ -83,8 +83,8 @@ flymedia.uno
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
+funanime.me
 funny-media.ru
-funspine.xyz
 genertellife.it
 get-your-score.club
 getbril.io
@@ -135,7 +135,8 @@ keepinfit.net
 koalaautumnb.xyz
 koalaspringc.xyz
 koalaspringd.xyz
-kompsos.uk
+koalasummerd.xyz
+koalawintera.xyz
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -193,7 +194,6 @@ mindmatch.ai
 mobileluckywinner.site
 monetizer.co
 money-hero.org
-movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -214,14 +214,16 @@ onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
-pandaspringe.xyz
+pandawintere.xyz
 pcsecurity-live.xyz
 performstrong-thegreatlyfile.digital
 photo-explorer.org
 placesiteb.xyz
-placespina.xyz
 playplanete.xyz
 playspind.xyz
+playsummerc.xyz
+playsummerf.xyz
+playwinterd.xyz
 ppploanchoices.site
 prize-messsages.casa
 profitsurvey365.online
@@ -233,7 +235,6 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
-qfind.net
 quantum.work
 quatrefeuillepolonaise.xyz
 rancy.xyz
@@ -245,14 +246,12 @@ rewardspromotionwinnersuper.cyou
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
-runnewest-bestextremelyfile.best
 savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -263,7 +262,6 @@ signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 spotmapd.xyz
 spotmapf.xyz
-spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
@@ -324,13 +322,12 @@ trackingsys.tech
 trafficmind.pro
 trane.fun
 trustappstreamsall.digital
-ubertech.shop
-unitehealth.club
 updatefix.xyz
 upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+videomixact.ru
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

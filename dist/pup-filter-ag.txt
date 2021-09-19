@@ -1,24 +1,25 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 18 Sep 2021 12:02:28 +0000
+! Updated: Sun, 19 Sep 2021 00:02:40 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
-||adguard-vpn.com$all
 ||affiliateland.io$all
 ||amobil.online$all
+||appsto.cloud$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
+||artcreative.us$all
 ||atprofessor.fun$all
 ||atwater.org$all
 ||auto-car-search.site$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
-||beautifulplaces.life$all
 ||beinspired.global$all
 ||bestappland.me$all
 ||bestvideoplayerupgrades.work$all
@@ -48,10 +49,10 @@
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||dailyboard.org$all
-||dailyrep.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
+||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
 ||discoveryfeed.org$all
@@ -65,7 +66,6 @@
 ||fastfactsonline.co$all
 ||fastmapc.xyz$all
 ||fastspinc.xyz$all
-||fastspinf.xyz$all
 ||fastspota.xyz$all
 ||fastspotb.xyz$all
 ||fastwebb.xyz$all
@@ -83,8 +83,8 @@
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
+||funanime.me$all
 ||funny-media.ru$all
-||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
 ||getbril.io$all
@@ -135,7 +135,8 @@
 ||koalaautumnb.xyz$all
 ||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
-||kompsos.uk$all
+||koalasummerd.xyz$all
+||koalawintera.xyz$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -193,7 +194,6 @@
 ||mobileluckywinner.site$all
 ||monetizer.co$all
 ||money-hero.org$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -214,14 +214,16 @@
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
-||pandaspringe.xyz$all
+||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
 ||photo-explorer.org$all
 ||placesiteb.xyz$all
-||placespina.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
+||playsummerc.xyz$all
+||playsummerf.xyz$all
+||playwinterd.xyz$all
 ||ppploanchoices.site$all
 ||prize-messsages.casa$all
 ||profitsurvey365.online$all
@@ -233,7 +235,6 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||rancy.xyz$all
@@ -245,14 +246,12 @@
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
-||runnewest-bestextremelyfile.best$all
 ||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -263,7 +262,6 @@
 ||smartideas.pro$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
-||spotplanetc.xyz$all
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
@@ -324,13 +322,12 @@
 ||trafficmind.pro$all
 ||trane.fun$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
-||unitehealth.club$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
+||videomixact.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all

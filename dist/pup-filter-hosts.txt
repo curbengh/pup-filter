@@ -1,24 +1,25 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 18 Sep 2021 12:02:28 +0000
+# Updated: Sun, 19 Sep 2021 00:02:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
-0.0.0.0 adguard-vpn.com
 0.0.0.0 affiliateland.io
 0.0.0.0 amobil.online
+0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
+0.0.0.0 artcreative.us
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
-0.0.0.0 beautifulplaces.life
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bestvideoplayerupgrades.work
@@ -48,10 +49,10 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 dailyboard.org
-0.0.0.0 dailyrep.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
+0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
 0.0.0.0 discoveryfeed.org
@@ -65,7 +66,6 @@
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
-0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
 0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
@@ -83,8 +83,8 @@
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
+0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
-0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
@@ -135,7 +135,8 @@
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
-0.0.0.0 kompsos.uk
+0.0.0.0 koalasummerd.xyz
+0.0.0.0 koalawintera.xyz
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -193,7 +194,6 @@
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 monetizer.co
 0.0.0.0 money-hero.org
-0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -214,14 +214,16 @@
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 ouldthepat.fun
-0.0.0.0 pandaspringe.xyz
+0.0.0.0 pandawintere.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performstrong-thegreatlyfile.digital
 0.0.0.0 photo-explorer.org
 0.0.0.0 placesiteb.xyz
-0.0.0.0 placespina.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
+0.0.0.0 playsummerc.xyz
+0.0.0.0 playsummerf.xyz
+0.0.0.0 playwinterd.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitsurvey365.online
@@ -233,7 +235,6 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 rancy.xyz
@@ -245,14 +246,12 @@
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
-0.0.0.0 runnewest-bestextremelyfile.best
 0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -263,7 +262,6 @@
 0.0.0.0 smartideas.pro
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
-0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
@@ -324,13 +322,12 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
-0.0.0.0 unitehealth.club
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 videomixact.ru
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me
