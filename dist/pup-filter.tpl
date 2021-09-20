@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 19 Sep 2021 12:02:24 +0000
+# Updated: Mon, 20 Sep 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ msFilterList
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
--d atwater.org
 -d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -46,10 +45,10 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
--d dailyboard.org
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -67,6 +66,7 @@ msFilterList
 -d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
+-d fastspinf.xyz
 -d fastspota.xyz
 -d fastspotb.xyz
 -d fastwebb.xyz
@@ -86,6 +86,7 @@ msFilterList
 -d freewareappsstreamfastall.digital
 -d funanime.me
 -d funny-media.ru
+-d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
 -d getbril.io
@@ -132,11 +133,15 @@ msFilterList
 -d junemedia.xyz
 -d junesmile.xyz
 -d keepinfit.net
+-d koalaautumna.xyz
 -d koalaautumnb.xyz
+-d koalaautumnf.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
+-d koalasummera.xyz
 -d koalasummerd.xyz
 -d koalawintera.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -194,6 +199,7 @@ msFilterList
 -d mobileluckywinner.site
 -d monetizer.co
 -d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -214,16 +220,22 @@ msFilterList
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
+-d pandaspringe.xyz
+-d pandasummerc.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
 -d performstrong-thegreatlyfile.digital
 -d photo-explorer.org
+-d placefortheupgradesset.work
 -d placesiteb.xyz
+-d placespina.xyz
 -d playplanete.xyz
 -d playspind.xyz
+-d playspringe.xyz
 -d playsummerc.xyz
 -d playsummerf.xyz
 -d playwinterd.xyz
+-d playwintere.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
 -d profitsurvey365.online
@@ -236,6 +248,7 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d rancy.xyz
@@ -247,7 +260,6 @@ msFilterList
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -263,6 +275,7 @@ msFilterList
 -d smartideas.pro
 -d spotmapd.xyz
 -d spotmapf.xyz
+-d spotplanetc.xyz
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
@@ -323,12 +336,12 @@ msFilterList
 -d trafficmind.pro
 -d trane.fun
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d videomixact.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me

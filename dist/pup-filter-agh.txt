@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Sep 2021 12:02:24 +0000
+! Updated: Mon, 20 Sep 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 ||appzfirer.biz^
 ||armorprovpn.me^
 ||atprofessor.fun^
-||atwater.org^
 ||auto-car-search.site^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
@@ -43,10 +42,10 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
-||dailyboard.org^
 ||dealmedia.club^
 ||dealmedia.website^
 ||dealmedia.xyz^
@@ -64,6 +63,7 @@
 ||fastfactsonline.co^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
+||fastspinf.xyz^
 ||fastspota.xyz^
 ||fastspotb.xyz^
 ||fastwebb.xyz^
@@ -83,6 +83,7 @@
 ||freewareappsstreamfastall.digital^
 ||funanime.me^
 ||funny-media.ru^
+||funspine.xyz^
 ||genertellife.it^
 ||get-your-score.club^
 ||getbril.io^
@@ -129,11 +130,15 @@
 ||junemedia.xyz^
 ||junesmile.xyz^
 ||keepinfit.net^
+||koalaautumna.xyz^
 ||koalaautumnb.xyz^
+||koalaautumnf.xyz^
 ||koalaspringc.xyz^
 ||koalaspringd.xyz^
+||koalasummera.xyz^
 ||koalasummerd.xyz^
 ||koalawintera.xyz^
+||kompsos.uk^
 ||ktpyzw.vip^
 ||lackystack.net^
 ||ligamedia.art^
@@ -191,6 +196,7 @@
 ||mobileluckywinner.site^
 ||monetizer.co^
 ||money-hero.org^
+||movievod.me^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
@@ -211,16 +217,22 @@
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
 ||ouldthepat.fun^
+||pandaspringe.xyz^
+||pandasummerc.xyz^
 ||pandawintere.xyz^
 ||pcsecurity-live.xyz^
 ||performstrong-thegreatlyfile.digital^
 ||photo-explorer.org^
+||placefortheupgradesset.work^
 ||placesiteb.xyz^
+||placespina.xyz^
 ||playplanete.xyz^
 ||playspind.xyz^
+||playspringe.xyz^
 ||playsummerc.xyz^
 ||playsummerf.xyz^
 ||playwinterd.xyz^
+||playwintere.xyz^
 ||ppploanchoices.site^
 ||prize-messsages.casa^
 ||profitsurvey365.online^
@@ -233,6 +245,7 @@
 ||provpnsecurity.me^
 ||provpnservice.me^
 ||prtctapp.me^
+||qfind.net^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
 ||rancy.xyz^
@@ -244,7 +257,6 @@
 ||robogarden.io^
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
-||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
@@ -260,6 +272,7 @@
 ||smartideas.pro^
 ||spotmapd.xyz^
 ||spotmapf.xyz^
+||spotplanetc.xyz^
 ||springplanetf.xyz^
 ||start-page.one^
 ||startos.win^
@@ -320,12 +333,12 @@
 ||trafficmind.pro^
 ||trane.fun^
 ||trustappstreamsall.digital^
+||ubertech.shop^
 ||updatefix.xyz^
 ||upplaysite.xyz^
 ||usepro.me^
 ||useprovpn.me^
 ||usevpnpro.me^
-||videomixact.ru^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
 ||vpnservice.me^

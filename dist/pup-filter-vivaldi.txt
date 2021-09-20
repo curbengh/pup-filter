@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Sep 2021 12:02:24 +0000
+! Updated: Mon, 20 Sep 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 ||appzfirer.biz$document
 ||armorprovpn.me$document
 ||atprofessor.fun$document
-||atwater.org$document
 ||auto-car-search.site$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -43,10 +42,10 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
-||dailyboard.org$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
@@ -64,6 +63,7 @@
 ||fastfactsonline.co$document
 ||fastmapc.xyz$document
 ||fastspinc.xyz$document
+||fastspinf.xyz$document
 ||fastspota.xyz$document
 ||fastspotb.xyz$document
 ||fastwebb.xyz$document
@@ -83,6 +83,7 @@
 ||freewareappsstreamfastall.digital$document
 ||funanime.me$document
 ||funny-media.ru$document
+||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
 ||getbril.io$document
@@ -129,11 +130,15 @@
 ||junemedia.xyz$document
 ||junesmile.xyz$document
 ||keepinfit.net$document
+||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
+||koalaautumnf.xyz$document
 ||koalaspringc.xyz$document
 ||koalaspringd.xyz$document
+||koalasummera.xyz$document
 ||koalasummerd.xyz$document
 ||koalawintera.xyz$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -191,6 +196,7 @@
 ||mobileluckywinner.site$document
 ||monetizer.co$document
 ||money-hero.org$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -211,16 +217,22 @@
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
+||pandaspringe.xyz$document
+||pandasummerc.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
 ||performstrong-thegreatlyfile.digital$document
 ||photo-explorer.org$document
+||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
+||placespina.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
+||playspringe.xyz$document
 ||playsummerc.xyz$document
 ||playsummerf.xyz$document
 ||playwinterd.xyz$document
+||playwintere.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
@@ -233,6 +245,7 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
 ||rancy.xyz$document
@@ -244,7 +257,6 @@
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -260,6 +272,7 @@
 ||smartideas.pro$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
+||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
@@ -320,12 +333,12 @@
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||videomixact.ru$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document
