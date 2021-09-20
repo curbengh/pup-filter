@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 20 Sep 2021 00:02:46 +0000
+! Updated: Mon, 20 Sep 2021 12:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,10 +9,8 @@
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
 ||amobil.online$document
-||appsto.cloud$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
-||atprofessor.fun$document
 ||auto-car-search.site$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -52,7 +50,6 @@
 ||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
-||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
@@ -109,7 +106,6 @@
 ||httqzq.vip$document
 ||hypezen.info$document
 ||imagefind.org$document
-||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -183,6 +179,7 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
+||mapopts.top$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
 ||mathison.io$document
@@ -194,7 +191,6 @@
 ||melanthios-ana.com$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
-||monetizer.co$document
 ||money-hero.org$document
 ||movievod.me$document
 ||my-credit-score.xyz$document
@@ -216,9 +212,7 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
-||ouldthepat.fun$document
 ||pandaspringe.xyz$document
-||pandasummerc.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
 ||performstrong-thegreatlyfile.digital$document
@@ -248,7 +242,6 @@
 ||qfind.net$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||rewards-promotion-winner-super.cyou$document
@@ -277,7 +270,6 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document

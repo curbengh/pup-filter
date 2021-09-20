@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 20 Sep 2021 00:02:46 +0000
+! Updated: Mon, 20 Sep 2021 12:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,10 +9,8 @@
 ||4upgradingstablesafe.work$all
 ||affiliateland.io$all
 ||amobil.online$all
-||appsto.cloud$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
-||atprofessor.fun$all
 ||auto-car-search.site$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -52,7 +50,6 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
@@ -109,7 +106,6 @@
 ||httqzq.vip$all
 ||hypezen.info$all
 ||imagefind.org$all
-||incing-marganic.icu$all
 ||incrediblebuzz.info$all
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
@@ -183,6 +179,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||mapopts.top$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -194,7 +191,6 @@
 ||melanthios-ana.com$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
-||monetizer.co$all
 ||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
@@ -216,9 +212,7 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pandaspringe.xyz$all
-||pandasummerc.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
@@ -248,7 +242,6 @@
 ||qfind.net$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -277,7 +270,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Sep 2021 00:02:46 +0000
+# Updated: Mon, 20 Sep 2021 12:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,10 +9,8 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 affiliateland.io
 0.0.0.0 amobil.online
-0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
-0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -52,7 +50,6 @@
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -109,7 +106,6 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 imagefind.org
-0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
@@ -183,6 +179,7 @@
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
+0.0.0.0 mapopts.top
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
@@ -194,7 +191,6 @@
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 monetizer.co
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
@@ -216,9 +212,7 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaspringe.xyz
-0.0.0.0 pandasummerc.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -248,7 +242,6 @@
 0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -277,7 +270,6 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

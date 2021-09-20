@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Sep 2021 00:02:46 +0000
+# Updated: Mon, 20 Sep 2021 12:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,10 +12,8 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d affiliateland.io
 -d amobil.online
--d appsto.cloud
 -d appzfirer.biz
 -d armorprovpn.me
--d atprofessor.fun
 -d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -55,7 +53,6 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
@@ -112,7 +109,6 @@ msFilterList
 -d httqzq.vip
 -d hypezen.info
 -d imagefind.org
--d incing-marganic.icu
 -d incrediblebuzz.info
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -186,6 +182,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -197,7 +194,6 @@ msFilterList
 -d melanthios-ana.com
 -d mindmatch.ai
 -d mobileluckywinner.site
--d monetizer.co
 -d money-hero.org
 -d movievod.me
 -d my-credit-score.xyz
@@ -219,9 +215,7 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pandaspringe.xyz
--d pandasummerc.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
 -d performstrong-thegreatlyfile.digital
@@ -251,7 +245,6 @@ msFilterList
 -d qfind.net
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
@@ -280,7 +273,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
