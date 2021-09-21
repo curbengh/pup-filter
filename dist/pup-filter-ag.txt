@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Sep 2021 00:02:30 +0000
+! Updated: Tue, 21 Sep 2021 12:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||affiliateland.io$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
+||atprofessor.fun$all
 ||auto-car-search.site$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -105,6 +105,7 @@
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
+||ientsillness.fun$all
 ||imagefind.org$all
 ||incrediblebuzz.info$all
 ||initiatecompletelyprogressivethefile.vip$all
@@ -189,7 +190,6 @@
 ||mediaevent.uno$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
-||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
 ||movievod.me$all
@@ -216,6 +216,7 @@
 ||pandaautumnc.xyz$all
 ||pandaautumnf.xyz$all
 ||pandaspringe.xyz$all
+||pandasummerc.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
@@ -246,6 +247,7 @@
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||quickdeals.online$all
+||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
 ||randomprizebigwinofficial.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -306,6 +308,7 @@
 ||sudoo.net$all
 ||summermedia.club$all
 ||superpromotion.cyou$all
+||support-notify.space$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
 ||syncmostprecisethefile.vip$all
@@ -336,7 +339,6 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||videochanelair.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all

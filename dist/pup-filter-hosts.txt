@@ -1,15 +1,15 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Sep 2021 00:02:30 +0000
+# Updated: Tue, 21 Sep 2021 12:03:12 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 affiliateland.io
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
+0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -105,6 +105,7 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incrediblebuzz.info
 0.0.0.0 initiatecompletelyprogressivethefile.vip
@@ -189,7 +190,6 @@
 0.0.0.0 mediaevent.uno
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
-0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
@@ -216,6 +216,7 @@
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringe.xyz
+0.0.0.0 pandasummerc.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -246,6 +247,7 @@
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quickdeals.online
+0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
@@ -306,6 +308,7 @@
 0.0.0.0 sudoo.net
 0.0.0.0 summermedia.club
 0.0.0.0 superpromotion.cyou
+0.0.0.0 support-notify.space
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncmostprecisethefile.vip
@@ -336,7 +339,6 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 videochanelair.ru
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

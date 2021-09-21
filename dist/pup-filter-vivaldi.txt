@@ -1,15 +1,15 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Sep 2021 00:02:30 +0000
+! Updated: Tue, 21 Sep 2021 12:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||affiliateland.io$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
+||atprofessor.fun$document
 ||auto-car-search.site$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -105,6 +105,7 @@
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||ientsillness.fun$document
 ||imagefind.org$document
 ||incrediblebuzz.info$document
 ||initiatecompletelyprogressivethefile.vip$document
@@ -189,7 +190,6 @@
 ||mediaevent.uno$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
-||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
 ||movievod.me$document
@@ -216,6 +216,7 @@
 ||pandaautumnc.xyz$document
 ||pandaautumnf.xyz$document
 ||pandaspringe.xyz$document
+||pandasummerc.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
 ||performstrong-thegreatlyfile.digital$document
@@ -246,6 +247,7 @@
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
 ||quickdeals.online$document
+||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||rewards-promotion-winner-super.cyou$document
@@ -306,6 +308,7 @@
 ||sudoo.net$document
 ||summermedia.club$document
 ||superpromotion.cyou$document
+||support-notify.space$document
 ||synccurrentmostthefile.vip$document
 ||synclatestintenselythefile.vip$document
 ||syncmostprecisethefile.vip$document
@@ -336,7 +339,6 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||videochanelair.ru$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document

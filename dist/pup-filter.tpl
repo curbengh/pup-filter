@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Sep 2021 00:02:30 +0000
+# Updated: Tue, 21 Sep 2021 12:03:12 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,9 +10,9 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d affiliateland.io
 -d appzfirer.biz
 -d armorprovpn.me
+-d atprofessor.fun
 -d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -108,6 +108,7 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incrediblebuzz.info
 -d initiatecompletelyprogressivethefile.vip
@@ -192,7 +193,6 @@ msFilterList
 -d mediaevent.uno
 -d meeryslotspin.xyz
 -d melanthios-ana.com
--d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -219,6 +219,7 @@ msFilterList
 -d pandaautumnc.xyz
 -d pandaautumnf.xyz
 -d pandaspringe.xyz
+-d pandasummerc.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
 -d performstrong-thegreatlyfile.digital
@@ -249,6 +250,7 @@ msFilterList
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
 -d quickdeals.online
+-d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
@@ -309,6 +311,7 @@ msFilterList
 -d sudoo.net
 -d summermedia.club
 -d superpromotion.cyou
+-d support-notify.space
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
 -d syncmostprecisethefile.vip
@@ -339,7 +342,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d videochanelair.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
