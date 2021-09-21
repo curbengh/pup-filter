@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Sep 2021 12:03:17 +0000
+# Updated: Tue, 21 Sep 2021 00:02:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 2021travel.net
 4upgradingstablesafe.work
 affiliateland.io
-amobil.online
 appzfirer.biz
 armorprovpn.me
 auto-car-search.site
@@ -44,6 +43,7 @@ craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
+dailyboard.org
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -114,7 +114,6 @@ intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
 jointingifstrawberry.xyz
 jojomamanbebe.ie
@@ -129,11 +128,13 @@ keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnf.xyz
+koalaspringb.xyz
 koalaspringc.xyz
 koalaspringd.xyz
 koalasummera.xyz
 koalasummerd.xyz
 koalawintera.xyz
+koalawinterd.xyz
 kompsos.uk
 ktpyzw.vip
 lackystack.net
@@ -179,7 +180,6 @@ loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
-mapopts.top
 marketloans.net
 matchyourgirl.online
 mathison.io
@@ -212,6 +212,9 @@ online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
+pandaautumna.xyz
+pandaautumnc.xyz
+pandaautumnf.xyz
 pandaspringe.xyz
 pandawintere.xyz
 pcsecurity-live.xyz
@@ -242,6 +245,7 @@ prtctapp.me
 qfind.net
 quantum.work
 quatrefeuillepolonaise.xyz
+quickdeals.online
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
 rewards-promotion-winner-super.cyou
@@ -250,6 +254,7 @@ rewardspromotionwinnersuper.cyou
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
+savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -331,6 +336,7 @@ upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+videochanelair.ru
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

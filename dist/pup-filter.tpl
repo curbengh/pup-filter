@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Sep 2021 12:03:17 +0000
+# Updated: Tue, 21 Sep 2021 00:02:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
--d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
 -d auto-car-search.site
@@ -47,6 +46,7 @@ msFilterList
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d dailyboard.org
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -117,7 +117,6 @@ msFilterList
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -132,11 +131,13 @@ msFilterList
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnf.xyz
+-d koalaspringb.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalasummera.xyz
 -d koalasummerd.xyz
 -d koalawintera.xyz
+-d koalawinterd.xyz
 -d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
@@ -182,7 +183,6 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
--d mapopts.top
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -215,6 +215,9 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d pandaautumna.xyz
+-d pandaautumnc.xyz
+-d pandaautumnf.xyz
 -d pandaspringe.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
@@ -245,6 +248,7 @@ msFilterList
 -d qfind.net
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewards-promotion-winner-super.cyou
@@ -253,6 +257,7 @@ msFilterList
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -334,6 +339,7 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d videochanelair.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
