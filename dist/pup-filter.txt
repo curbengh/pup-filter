@@ -1,13 +1,16 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 22 Sep 2021 00:03:21 +0000
+! Updated: Wed, 22 Sep 2021 12:03:24 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
+affiliateland.io
 amobil.online
+appsto.cloud
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
@@ -107,6 +110,7 @@ httqzq.vip
 hypezen.info
 ientsillness.fun
 imagefind.org
+incing-marganic.icu
 incrediblebuzz.info
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
@@ -190,6 +194,7 @@ mediaadvanced.ru
 mediaevent.club
 meeryslotspin.xyz
 melanthios-ana.com
+mindmatch.ai
 mobileluckywinner.site
 money-hero.org
 my-credit-score.xyz
@@ -211,6 +216,7 @@ online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
+ouldthepat.fun
 pandaautumna.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
@@ -250,9 +256,11 @@ provpnservice.me
 prtctapp.me
 quantum.work
 quatrefeuillepolonaise.xyz
+quizshein.shop
 rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
+rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardsluckygiveawayprize.cyou
 rewardspromotionwinnersuper.cyou
@@ -264,10 +272,12 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopadvisors.net
 shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date

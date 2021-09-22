@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 22 Sep 2021 00:03:21 +0000
+# Updated: Wed, 22 Sep 2021 12:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,10 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
+-d affiliateland.io
 -d amobil.online
+-d appsto.cloud
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
@@ -110,6 +113,7 @@ msFilterList
 -d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
+-d incing-marganic.icu
 -d incrediblebuzz.info
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -193,6 +197,7 @@ msFilterList
 -d mediaevent.club
 -d meeryslotspin.xyz
 -d melanthios-ana.com
+-d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d my-credit-score.xyz
@@ -214,6 +219,7 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
@@ -253,9 +259,11 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
+-d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -267,10 +275,12 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date

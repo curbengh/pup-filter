@@ -1,13 +1,16 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 22 Sep 2021 00:03:21 +0000
+! Updated: Wed, 22 Sep 2021 12:03:24 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
+||affiliateland.io$document
 ||amobil.online$document
+||appsto.cloud$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
 ||atprofessor.fun$document
@@ -107,6 +110,7 @@
 ||hypezen.info$document
 ||ientsillness.fun$document
 ||imagefind.org$document
+||incing-marganic.icu$document
 ||incrediblebuzz.info$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -190,6 +194,7 @@
 ||mediaevent.club$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
+||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
 ||my-credit-score.xyz$document
@@ -211,6 +216,7 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
+||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnc.xyz$document
 ||pandaautumnd.xyz$document
@@ -250,9 +256,11 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
+||quizshein.shop$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
+||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
@@ -264,10 +272,12 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
+||searchoffers.info$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
