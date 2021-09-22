@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Sep 2021 12:03:12 +0000
+# Updated: Wed, 22 Sep 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
@@ -50,6 +51,7 @@
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
@@ -83,7 +85,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -102,7 +103,6 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
-0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -115,6 +115,7 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -128,6 +129,7 @@
 0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
+0.0.0.0 koalaautumnc.xyz
 0.0.0.0 koalaautumnf.xyz
 0.0.0.0 koalaspringb.xyz
 0.0.0.0 koalaspringc.xyz
@@ -136,7 +138,6 @@
 0.0.0.0 koalasummerd.xyz
 0.0.0.0 koalawintera.xyz
 0.0.0.0 koalawinterd.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -187,12 +188,10 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 mediaevent.club
-0.0.0.0 mediaevent.uno
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
-0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -214,9 +213,12 @@
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnc.xyz
+0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
+0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummerc.xyz
+0.0.0.0 pandasummere.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -224,10 +226,13 @@
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
+0.0.0.0 playautumnf.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
+0.0.0.0 playspringd.xyz
 0.0.0.0 playspringe.xyz
 0.0.0.0 playsummerc.xyz
+0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
@@ -243,10 +248,8 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
-0.0.0.0 quickdeals.online
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
@@ -256,7 +259,6 @@
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -309,6 +311,7 @@
 0.0.0.0 summermedia.club
 0.0.0.0 superpromotion.cyou
 0.0.0.0 support-notify.space
+0.0.0.0 sweetalt.ru
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncmostprecisethefile.vip
@@ -365,5 +368,6 @@
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
+0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
