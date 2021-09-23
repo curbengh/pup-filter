@@ -1,6 +1,6 @@
 # Title: PUP Domains Suricata Ruleset
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 23 Sep 2021 00:03:21 +0000
+# Updated: Thu, 23 Sep 2021 12:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,8 +9,8 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detec
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"4upgradingstablesafe.work"; classtype:web-application-activity; sid:300000002; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"abcscience.xyz"; classtype:web-application-activity; sid:300000003; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"affiliateland.io"; classtype:web-application-activity; sid:300000004; rev:1;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"amobil.online"; classtype:web-application-activity; sid:300000005; rev:1;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"appsto.cloud"; classtype:web-application-activity; sid:300000006; rev:1;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"aikoo.club"; classtype:web-application-activity; sid:300000005; rev:1;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"amobil.online"; classtype:web-application-activity; sid:300000006; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"appzfirer.biz"; classtype:web-application-activity; sid:300000007; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"armorprovpn.me"; classtype:web-application-activity; sid:300000008; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; flow:established,from_client; http.method; content:"GET"; http.host; content:"atprofessor.fun"; classtype:web-application-activity; sid:300000009; rev:1;)

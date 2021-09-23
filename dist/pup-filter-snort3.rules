@@ -1,6 +1,6 @@
 # Title: PUP Domains Snort3 Ruleset
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 23 Sep 2021 00:03:21 +0000
+# Updated: Thu, 23 Sep 2021 12:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,8 +9,8 @@ alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detec
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"4upgradingstablesafe.work",nocase; classtype:web-application-activity; sid:300000002; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"abcscience.xyz",nocase; classtype:web-application-activity; sid:300000003; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"affiliateland.io",nocase; classtype:web-application-activity; sid:300000004; rev:1;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"amobil.online",nocase; classtype:web-application-activity; sid:300000005; rev:1;)
-alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"appsto.cloud",nocase; classtype:web-application-activity; sid:300000006; rev:1;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"aikoo.club",nocase; classtype:web-application-activity; sid:300000005; rev:1;)
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"amobil.online",nocase; classtype:web-application-activity; sid:300000006; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"appzfirer.biz",nocase; classtype:web-application-activity; sid:300000007; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"armorprovpn.me",nocase; classtype:web-application-activity; sid:300000008; rev:1;)
 alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"pup-filter PUP website detected"; http_header:field host; content:"atprofessor.fun",nocase; classtype:web-application-activity; sid:300000009; rev:1;)
