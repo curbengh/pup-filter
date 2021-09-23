@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 22 Sep 2021 12:03:24 +0000
+# Updated: Thu, 23 Sep 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -54,12 +54,12 @@
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.online
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
+0.0.0.0 exploreshops.net
 0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
@@ -88,6 +88,7 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
@@ -106,6 +107,7 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
@@ -141,7 +143,9 @@
 0.0.0.0 koalasummera.xyz
 0.0.0.0 koalasummerd.xyz
 0.0.0.0 koalawintera.xyz
+0.0.0.0 koalawinterb.xyz
 0.0.0.0 koalawinterd.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -205,7 +209,6 @@
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
-0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
@@ -240,6 +243,7 @@
 0.0.0.0 playsummerc.xyz
 0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
+0.0.0.0 playwintera.xyz
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 ppploanchoices.site
@@ -256,6 +260,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quantum.work
 0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 quickdeals.online
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
@@ -352,6 +357,7 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 usforeclosure.net
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

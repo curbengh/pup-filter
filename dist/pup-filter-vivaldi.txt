@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 22 Sep 2021 12:03:24 +0000
+! Updated: Thu, 23 Sep 2021 00:03:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -54,12 +54,12 @@
 ||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
-||discoveryfeed.org$document
 ||dollarsurvey365.online$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
+||exploreshops.net$document
 ||f7lwv2y0xb.top$document
 ||fast-app.xyz$document
 ||fastfactsonline.co$document
@@ -88,6 +88,7 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||getmoregirls.net$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
@@ -106,6 +107,7 @@
 ||healthylives.today$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
 ||ientsillness.fun$document
@@ -141,7 +143,9 @@
 ||koalasummera.xyz$document
 ||koalasummerd.xyz$document
 ||koalawintera.xyz$document
+||koalawinterb.xyz$document
 ||koalawinterd.xyz$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -205,7 +209,6 @@
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
-||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -240,6 +243,7 @@
 ||playsummerc.xyz$document
 ||playsummere.xyz$document
 ||playsummerf.xyz$document
+||playwintera.xyz$document
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||ppploanchoices.site$document
@@ -256,6 +260,7 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
+||quickdeals.online$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
@@ -352,6 +357,7 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||usforeclosure.net$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||vpnservice.me$document

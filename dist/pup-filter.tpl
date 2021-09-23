@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 22 Sep 2021 12:03:24 +0000
+# Updated: Thu, 23 Sep 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -57,12 +57,12 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.online
 -d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
+-d exploreshops.net
 -d f7lwv2y0xb.top
 -d fast-app.xyz
 -d fastfactsonline.co
@@ -91,6 +91,7 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
@@ -109,6 +110,7 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d ientsillness.fun
@@ -144,7 +146,9 @@ msFilterList
 -d koalasummera.xyz
 -d koalasummerd.xyz
 -d koalawintera.xyz
+-d koalawinterb.xyz
 -d koalawinterd.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -208,7 +212,6 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -243,6 +246,7 @@ msFilterList
 -d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
+-d playwintera.xyz
 -d playwinterd.xyz
 -d playwintere.xyz
 -d ppploanchoices.site
@@ -259,6 +263,7 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
+-d quickdeals.online
 -d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
@@ -355,6 +360,7 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d usforeclosure.net
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me

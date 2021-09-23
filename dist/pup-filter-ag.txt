@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 22 Sep 2021 12:03:24 +0000
+! Updated: Thu, 23 Sep 2021 00:03:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -54,12 +54,12 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.online$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
+||exploreshops.net$all
 ||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
@@ -88,6 +88,7 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||getmoregirls.net$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
@@ -106,6 +107,7 @@
 ||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
 ||ientsillness.fun$all
@@ -141,7 +143,9 @@
 ||koalasummera.xyz$all
 ||koalasummerd.xyz$all
 ||koalawintera.xyz$all
+||koalawinterb.xyz$all
 ||koalawinterd.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -205,7 +209,6 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
-||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -240,6 +243,7 @@
 ||playsummerc.xyz$all
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
+||playwintera.xyz$all
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||ppploanchoices.site$all
@@ -256,6 +260,7 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
+||quickdeals.online$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
@@ -352,6 +357,7 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
+||usforeclosure.net$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
