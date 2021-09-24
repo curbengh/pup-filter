@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Sep 2021 00:02:46 +0000
+! Updated: Fri, 24 Sep 2021 12:03:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||affiliateland.io$all
@@ -55,7 +54,7 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
-||dollarsurvey365.online$all
+||discoveryfeed.org$all
 ||dollarsurvey365.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
@@ -91,7 +90,6 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -119,7 +117,6 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
@@ -137,12 +134,14 @@
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
+||koalaautumnd.xyz$all
 ||koalaautumnf.xyz$all
 ||koalaspringb.xyz$all
 ||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
 ||koalasummera.xyz$all
 ||koalasummerd.xyz$all
+||koalasummerf.xyz$all
 ||koalawintera.xyz$all
 ||koalawinterb.xyz$all
 ||koalawinterd.xyz$all
@@ -201,7 +200,7 @@
 ||melanthios-ana.com$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -236,6 +235,7 @@
 ||placefortheupgradesset.work$all
 ||placesiteb.xyz$all
 ||placespina.xyz$all
+||playautumnc.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
@@ -261,7 +261,6 @@
 ||prtctapp.me$all
 ||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
-||quickdeals.online$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||random-prize-bigwin-official.cyou$all
@@ -273,6 +272,7 @@
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -295,6 +295,7 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
+||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

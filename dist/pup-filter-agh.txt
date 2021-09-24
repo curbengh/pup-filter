@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Sep 2021 00:02:46 +0000
+! Updated: Fri, 24 Sep 2021 12:03:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net^
 ||4upgradingstablesafe.work^
 ||abcscience.xyz^
 ||affiliateland.io^
@@ -55,7 +54,7 @@
 ||dealsify.net^
 ||defensepro.me^
 ||desixxx.cloud^
-||dollarsurvey365.online^
+||discoveryfeed.org^
 ||dollarsurvey365.org^
 ||earlyprogress.info^
 ||efladn.club^
@@ -91,7 +90,6 @@
 ||get-your-score.club^
 ||getbril.io^
 ||getmoregirls.net^
-||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
@@ -119,7 +117,6 @@
 ||initiatecompletelyspeedythefile.vip^
 ||initiatesophisticatedcompletelythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
 ||java-forum.org^
@@ -137,12 +134,14 @@
 ||koalaautumna.xyz^
 ||koalaautumnb.xyz^
 ||koalaautumnc.xyz^
+||koalaautumnd.xyz^
 ||koalaautumnf.xyz^
 ||koalaspringb.xyz^
 ||koalaspringc.xyz^
 ||koalaspringd.xyz^
 ||koalasummera.xyz^
 ||koalasummerd.xyz^
+||koalasummerf.xyz^
 ||koalawintera.xyz^
 ||koalawinterb.xyz^
 ||koalawinterd.xyz^
@@ -201,7 +200,7 @@
 ||melanthios-ana.com^
 ||mindmatch.ai^
 ||mobileluckywinner.site^
-||money-hero.org^
+||movievod.me^
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
@@ -236,6 +235,7 @@
 ||placefortheupgradesset.work^
 ||placesiteb.xyz^
 ||placespina.xyz^
+||playautumnc.xyz^
 ||playautumnf.xyz^
 ||playplanete.xyz^
 ||playspind.xyz^
@@ -261,7 +261,6 @@
 ||prtctapp.me^
 ||quantum.work^
 ||quatrefeuillepolonaise.xyz^
-||quickdeals.online^
 ||quizshein.shop^
 ||rancy.xyz^
 ||random-prize-bigwin-official.cyou^
@@ -273,6 +272,7 @@
 ||robogarden.io^
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
@@ -295,6 +295,7 @@
 ||start-page.one^
 ||startos.win^
 ||stickr.co^
+||stogether.fun^
 ||streamadvanced-bestcompletelyfile.best^
 ||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^

@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 24 Sep 2021 00:02:46 +0000
+# Updated: Fri, 24 Sep 2021 12:03:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d affiliateland.io
@@ -58,7 +57,7 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d dollarsurvey365.online
+-d discoveryfeed.org
 -d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
@@ -94,7 +93,6 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -122,7 +120,6 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -140,12 +137,14 @@ msFilterList
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
+-d koalaautumnd.xyz
 -d koalaautumnf.xyz
 -d koalaspringb.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalasummera.xyz
 -d koalasummerd.xyz
+-d koalasummerf.xyz
 -d koalawintera.xyz
 -d koalawinterb.xyz
 -d koalawinterd.xyz
@@ -204,7 +203,7 @@ msFilterList
 -d melanthios-ana.com
 -d mindmatch.ai
 -d mobileluckywinner.site
--d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -239,6 +238,7 @@ msFilterList
 -d placefortheupgradesset.work
 -d placesiteb.xyz
 -d placespina.xyz
+-d playautumnc.xyz
 -d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
@@ -264,7 +264,6 @@ msFilterList
 -d prtctapp.me
 -d quantum.work
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rancy.xyz
 -d random-prize-bigwin-official.cyou
@@ -276,6 +275,7 @@ msFilterList
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -298,6 +298,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best

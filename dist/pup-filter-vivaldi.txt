@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Sep 2021 00:02:46 +0000
+! Updated: Fri, 24 Sep 2021 12:03:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||affiliateland.io$document
@@ -55,7 +54,7 @@
 ||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
-||dollarsurvey365.online$document
+||discoveryfeed.org$document
 ||dollarsurvey365.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
@@ -91,7 +90,6 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -119,7 +117,6 @@
 ||initiatecompletelyspeedythefile.vip$document
 ||initiatesophisticatedcompletelythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||java-forum.org$document
@@ -137,12 +134,14 @@
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
+||koalaautumnd.xyz$document
 ||koalaautumnf.xyz$document
 ||koalaspringb.xyz$document
 ||koalaspringc.xyz$document
 ||koalaspringd.xyz$document
 ||koalasummera.xyz$document
 ||koalasummerd.xyz$document
+||koalasummerf.xyz$document
 ||koalawintera.xyz$document
 ||koalawinterb.xyz$document
 ||koalawinterd.xyz$document
@@ -201,7 +200,7 @@
 ||melanthios-ana.com$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -236,6 +235,7 @@
 ||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
 ||placespina.xyz$document
+||playautumnc.xyz$document
 ||playautumnf.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
@@ -261,7 +261,6 @@
 ||prtctapp.me$document
 ||quantum.work$document
 ||quatrefeuillepolonaise.xyz$document
-||quickdeals.online$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
@@ -273,6 +272,7 @@
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -295,6 +295,7 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamadvanced-bestextremelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
