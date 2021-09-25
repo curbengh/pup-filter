@@ -1,15 +1,17 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 25 Sep 2021 00:02:53 +0000
+! Updated: Sat, 25 Sep 2021 12:02:19 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
+||appsto.cloud$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
@@ -48,6 +50,7 @@
 ||cryptotilt.club$all
 ||dailyboard.org$all
 ||darkview.org$all
+||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
@@ -106,7 +109,6 @@
 ||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
-||horny-honey.online$all
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
@@ -118,6 +120,7 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
@@ -136,17 +139,18 @@
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
 ||koalaautumnd.xyz$all
+||koalaautumne.xyz$all
 ||koalaautumnf.xyz$all
 ||koalaspringb.xyz$all
 ||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
+||koalaspringf.xyz$all
 ||koalasummera.xyz$all
+||koalasummerc.xyz$all
 ||koalasummerd.xyz$all
 ||koalasummerf.xyz$all
 ||koalawintera.xyz$all
-||koalawinterb.xyz$all
 ||koalawinterd.xyz$all
-||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -190,17 +194,15 @@
 ||loaduberspeedyfile.digital$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
-||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
-||mediaevent.club$all
 ||meeryslotspin.xyz$all
 ||melanthios-ana.com$all
-||mindmatch.ai$all
 ||mobileluckywinner.site$all
+||money-hero.org$all
 ||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
@@ -222,6 +224,7 @@
 ||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
 ||pandaautumna.xyz$all
+||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
 ||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
@@ -229,6 +232,7 @@
 ||pandaspringe.xyz$all
 ||pandasummerc.xyz$all
 ||pandasummere.xyz$all
+||pandasummerf.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
@@ -236,6 +240,7 @@
 ||placefortheupgradesset.work$all
 ||placesiteb.xyz$all
 ||placespina.xyz$all
+||playautumna.xyz$all
 ||playautumnc.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
@@ -246,6 +251,7 @@
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
 ||playwintera.xyz$all
+||playwinterc.xyz$all
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||ppploanchoices.site$all
@@ -260,7 +266,6 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
-||quantum.work$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -273,13 +278,12 @@
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
-||savagegrowplus.net$all
+||safeguide.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -301,7 +305,6 @@
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamdevelopedintenselythefile.vip$all
-||streamextremely-bestlatestfile.best$all
 ||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
 ||streamintensely-bestadvancedfile.best$all
@@ -311,7 +314,6 @@
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
 ||streamlatest-bestextremelyfile.best$all
-||streamlatest-bestoverlyfile.best$all
 ||streamoverly-bestdevelopedfile.best$all
 ||streamoverly-bestrenewedfile.best$all
 ||streampreciseintenselythefile.vip$all

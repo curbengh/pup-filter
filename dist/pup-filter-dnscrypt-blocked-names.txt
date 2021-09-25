@@ -1,15 +1,17 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 25 Sep 2021 00:02:53 +0000
+# Updated: Sat, 25 Sep 2021 12:02:19 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 4upgradingstablesafe.work
 abcscience.xyz
 affiliateland.io
 aikoo.club
 amobil.online
+appsto.cloud
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
@@ -48,6 +50,7 @@ credit-monitoring-360.xyz
 cryptotilt.club
 dailyboard.org
 darkview.org
+dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -106,7 +109,6 @@ hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
-horny-honey.online
 hpages.net
 httqzq.vip
 hypezen.info
@@ -118,6 +120,7 @@ initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiatesophisticatedcompletelythefile.vip
 intelectaction.ru
+investinfo.net
 ironprovpn.me
 isystemupdate.cloud
 java-forum.org
@@ -136,17 +139,18 @@ koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
 koalaautumnd.xyz
+koalaautumne.xyz
 koalaautumnf.xyz
 koalaspringb.xyz
 koalaspringc.xyz
 koalaspringd.xyz
+koalaspringf.xyz
 koalasummera.xyz
+koalasummerc.xyz
 koalasummerd.xyz
 koalasummerf.xyz
 koalawintera.xyz
-koalawinterb.xyz
 koalawinterd.xyz
-kompsos.uk
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -190,17 +194,15 @@ loaduberprecisefile.digital
 loaduberspeedyfile.digital
 louisvillegigs.net
 loveorfun.cc
-lubbockeda.org
 marketloans.net
 matchyourgirl.online
 mathison.io
 media-cloud.ru
 mediaadvanced.ru
-mediaevent.club
 meeryslotspin.xyz
 melanthios-ana.com
-mindmatch.ai
 mobileluckywinner.site
+money-hero.org
 movievod.me
 my-credit-score.xyz
 mynutriplan.co
@@ -222,6 +224,7 @@ onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pandaautumna.xyz
+pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
@@ -229,6 +232,7 @@ pandaspringa.xyz
 pandaspringe.xyz
 pandasummerc.xyz
 pandasummere.xyz
+pandasummerf.xyz
 pandawintere.xyz
 pcsecurity-live.xyz
 performstrong-thegreatlyfile.digital
@@ -236,6 +240,7 @@ photo-explorer.org
 placefortheupgradesset.work
 placesiteb.xyz
 placespina.xyz
+playautumna.xyz
 playautumnc.xyz
 playautumnf.xyz
 playplanete.xyz
@@ -246,6 +251,7 @@ playsummerc.xyz
 playsummere.xyz
 playsummerf.xyz
 playwintera.xyz
+playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 ppploanchoices.site
@@ -260,7 +266,6 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
-quantum.work
 quatrefeuillepolonaise.xyz
 quizshein.shop
 rancy.xyz
@@ -273,13 +278,12 @@ rewardspromotionwinnersuper.cyou
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
-savagegrowplus.net
+safeguide.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -301,7 +305,6 @@ streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamdevelopedintenselythefile.vip
-streamextremely-bestlatestfile.best
 streamextremely-bestnewestfile.best
 streamfree-bestmostfile.best
 streamintensely-bestadvancedfile.best
@@ -311,7 +314,6 @@ streamintensely-bestquickfile.best
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
 streamlatest-bestextremelyfile.best
-streamlatest-bestoverlyfile.best
 streamoverly-bestdevelopedfile.best
 streamoverly-bestrenewedfile.best
 streampreciseintenselythefile.vip
