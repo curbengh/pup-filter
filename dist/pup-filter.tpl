@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 00:02:42 +0000
+# Updated: Sun, 26 Sep 2021 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ msFilterList
 -d appsto.cloud
 -d appzfirer.biz
 -d armorprovpn.me
--d atprofessor.fun
 -d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -57,7 +56,6 @@ msFilterList
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
--d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
 -d discoveryfeed.org
@@ -142,7 +140,6 @@ msFilterList
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
 -d koalaautumnd.xyz
--d koalaautumne.xyz
 -d koalaautumnf.xyz
 -d koalaspringb.xyz
 -d koalaspringc.xyz
@@ -220,18 +217,17 @@ msFilterList
 -d officialbigwinnationalfree.cyou
 -d officialprizenationalrandom.cyou
 -d oldharper.xyz
--d olivedinflats.space
 -d online-prize-super-promotion.cyou
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
 -d pandaautumnf.xyz
 -d pandaspringa.xyz
+-d pandaspringb.xyz
 -d pandaspringe.xyz
 -d pandasummerc.xyz
 -d pandasummere.xyz
@@ -303,7 +299,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
 -d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best

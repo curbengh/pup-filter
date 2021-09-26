@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Sep 2021 00:02:42 +0000
+! Updated: Sun, 26 Sep 2021 12:02:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
-||atprofessor.fun$all
 ||auto-car-search.site$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -54,7 +53,6 @@
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
-||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
 ||discoveryfeed.org$all
@@ -139,7 +137,6 @@
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
 ||koalaautumnd.xyz$all
-||koalaautumne.xyz$all
 ||koalaautumnf.xyz$all
 ||koalaspringb.xyz$all
 ||koalaspringc.xyz$all
@@ -217,18 +214,17 @@
 ||officialbigwinnationalfree.cyou$all
 ||officialprizenationalrandom.cyou$all
 ||oldharper.xyz$all
-||olivedinflats.space$all
 ||online-prize-super-promotion.cyou$all
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
-||ouldthepat.fun$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
 ||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
 ||pandaspringa.xyz$all
+||pandaspringb.xyz$all
 ||pandaspringe.xyz$all
 ||pandasummerc.xyz$all
 ||pandasummere.xyz$all
@@ -300,7 +296,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all

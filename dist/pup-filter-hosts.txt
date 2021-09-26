@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 00:02:42 +0000
+# Updated: Sun, 26 Sep 2021 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
-0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -54,7 +53,6 @@
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
-0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
 0.0.0.0 discoveryfeed.org
@@ -139,7 +137,6 @@
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
 0.0.0.0 koalaautumnd.xyz
-0.0.0.0 koalaautumne.xyz
 0.0.0.0 koalaautumnf.xyz
 0.0.0.0 koalaspringb.xyz
 0.0.0.0 koalaspringc.xyz
@@ -217,18 +214,17 @@
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 oldharper.xyz
-0.0.0.0 olivedinflats.space
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringa.xyz
+0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummerc.xyz
 0.0.0.0 pandasummere.xyz
@@ -300,7 +296,6 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best

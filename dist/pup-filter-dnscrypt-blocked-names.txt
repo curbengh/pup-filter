@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 00:02:42 +0000
+# Updated: Sun, 26 Sep 2021 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@ amobil.online
 appsto.cloud
 appzfirer.biz
 armorprovpn.me
-atprofessor.fun
 auto-car-search.site
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
@@ -54,7 +53,6 @@ dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
-dealsify.net
 defensepro.me
 desixxx.cloud
 discoveryfeed.org
@@ -139,7 +137,6 @@ koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
 koalaautumnd.xyz
-koalaautumne.xyz
 koalaautumnf.xyz
 koalaspringb.xyz
 koalaspringc.xyz
@@ -217,18 +214,17 @@ official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
 officialprizenationalrandom.cyou
 oldharper.xyz
-olivedinflats.space
 online-prize-super-promotion.cyou
 onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
-ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
 pandaspringa.xyz
+pandaspringb.xyz
 pandaspringe.xyz
 pandasummerc.xyz
 pandasummere.xyz
@@ -300,7 +296,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
-stogether.fun
 streamadvanced-bestcompletelyfile.best
 streamadvanced-bestextremelyfile.best
 streamdeveloped-bestoverlyfile.best
