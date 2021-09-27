@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 12:02:25 +0000
+# Updated: Mon, 27 Sep 2021 12:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,7 @@
 4upgradingstablesafe.work
 abcscience.xyz
 affiliateland.io
-aikoo.club
 amobil.online
-appsto.cloud
 appzfirer.biz
 armorprovpn.me
 auto-car-search.site
@@ -110,7 +108,6 @@ help4.info
 hpages.net
 httqzq.vip
 hypezen.info
-ientsillness.fun
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
@@ -198,6 +195,7 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 melanthios-ana.com
+mindmatch.ai
 mobileluckywinner.site
 money-hero.org
 movievod.me
@@ -219,7 +217,6 @@ onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 pandaautumna.xyz
-pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
@@ -264,7 +261,6 @@ provpnservice.me
 prtctapp.me
 quatrefeuillepolonaise.xyz
 quizshein.shop
-rancy.xyz
 random-prize-bigwin-official.cyou
 randomprizebigwinofficial.cyou
 rewardgivingrealspecialoffer.cyou
@@ -280,6 +276,7 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -347,7 +344,6 @@ timeoffers.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
-trackingsys.tech
 trafficmind.pro
 trane.fun
 trustappstreamsall.digital

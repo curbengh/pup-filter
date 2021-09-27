@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Sep 2021 12:02:25 +0000
+! Updated: Mon, 27 Sep 2021 12:03:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,7 @@
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||affiliateland.io$document
-||aikoo.club$document
 ||amobil.online$document
-||appsto.cloud$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
 ||auto-car-search.site$document
@@ -110,7 +108,6 @@
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
-||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -198,6 +195,7 @@
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
 ||melanthios-ana.com$document
+||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
 ||movievod.me$document
@@ -219,7 +217,6 @@
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||pandaautumna.xyz$document
-||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
 ||pandaautumnd.xyz$document
 ||pandaautumnf.xyz$document
@@ -264,7 +261,6 @@
 ||prtctapp.me$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||rewardgivingrealspecialoffer.cyou$document
@@ -280,6 +276,7 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
+||searchoffers.info$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
@@ -347,7 +344,6 @@
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
-||trackingsys.tech$document
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trustappstreamsall.digital$document

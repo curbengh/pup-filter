@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 12:02:25 +0000
+# Updated: Mon, 27 Sep 2021 12:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,7 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
-0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
-0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 auto-car-search.site
@@ -110,7 +108,6 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -198,6 +195,7 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 melanthios-ana.com
+0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
@@ -219,7 +217,6 @@
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 pandaautumna.xyz
-0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
@@ -264,7 +261,6 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
-0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewardgivingrealspecialoffer.cyou
@@ -280,6 +276,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 searchoffers.info
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -347,7 +344,6 @@
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
-0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trustappstreamsall.digital

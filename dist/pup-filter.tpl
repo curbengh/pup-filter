@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Sep 2021 12:02:25 +0000
+# Updated: Mon, 27 Sep 2021 12:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,9 +12,7 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d affiliateland.io
--d aikoo.club
 -d amobil.online
--d appsto.cloud
 -d appzfirer.biz
 -d armorprovpn.me
 -d auto-car-search.site
@@ -113,7 +111,6 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -201,6 +198,7 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d melanthios-ana.com
+-d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -222,7 +220,6 @@ msFilterList
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d pandaautumna.xyz
--d pandaautumnb.xyz
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
 -d pandaautumnf.xyz
@@ -267,7 +264,6 @@ msFilterList
 -d prtctapp.me
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d rancy.xyz
 -d random-prize-bigwin-official.cyou
 -d randomprizebigwinofficial.cyou
 -d rewardgivingrealspecialoffer.cyou
@@ -283,6 +279,7 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -350,7 +347,6 @@ msFilterList
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
--d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
 -d trustappstreamsall.digital
