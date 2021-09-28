@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 27 Sep 2021 12:03:28 +0000
+! Updated: Tue, 28 Sep 2021 12:03:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,11 @@
 ||4upgradingstablesafe.work^
 ||abcscience.xyz^
 ||affiliateland.io^
+||aikoo.club^
 ||amobil.online^
 ||appzfirer.biz^
 ||armorprovpn.me^
+||atprofessor.fun^
 ||auto-car-search.site^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
@@ -51,6 +53,7 @@
 ||dealmedia.club^
 ||dealmedia.website^
 ||dealmedia.xyz^
+||dealsify.net^
 ||defensepro.me^
 ||desixxx.cloud^
 ||discoveryfeed.org^
@@ -108,6 +111,7 @@
 ||hpages.net^
 ||httqzq.vip^
 ||hypezen.info^
+||ientsillness.fun^
 ||imagefind.org^
 ||incing-marganic.icu^
 ||incrediblebuzz.info^
@@ -134,6 +138,7 @@
 ||koalaautumnb.xyz^
 ||koalaautumnc.xyz^
 ||koalaautumnd.xyz^
+||koalaautumne.xyz^
 ||koalaautumnf.xyz^
 ||koalaspringb.xyz^
 ||koalaspringc.xyz^
@@ -216,7 +221,9 @@
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
+||ouldthepat.fun^
 ||pandaautumna.xyz^
+||pandaautumnb.xyz^
 ||pandaautumnc.xyz^
 ||pandaautumnd.xyz^
 ||pandaautumnf.xyz^
@@ -261,6 +268,7 @@
 ||prtctapp.me^
 ||quatrefeuillepolonaise.xyz^
 ||quizshein.shop^
+||rancy.xyz^
 ||random-prize-bigwin-official.cyou^
 ||randomprizebigwinofficial.cyou^
 ||rewardgivingrealspecialoffer.cyou^
@@ -344,6 +352,7 @@
 ||toolvpn.me^
 ||top-offers2.club^
 ||tracking-landers.xyz^
+||trackingsys.tech^
 ||trafficmind.pro^
 ||trane.fun^
 ||trustappstreamsall.digital^

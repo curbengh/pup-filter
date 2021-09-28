@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 27 Sep 2021 12:03:28 +0000
+! Updated: Tue, 28 Sep 2021 12:03:37 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,11 @@
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||affiliateland.io$document
+||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
+||atprofessor.fun$document
 ||auto-car-search.site$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
@@ -51,6 +53,7 @@
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
+||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
 ||discoveryfeed.org$document
@@ -108,6 +111,7 @@
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -134,6 +138,7 @@
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
 ||koalaautumnd.xyz$document
+||koalaautumne.xyz$document
 ||koalaautumnf.xyz$document
 ||koalaspringb.xyz$document
 ||koalaspringc.xyz$document
@@ -216,7 +221,9 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
+||ouldthepat.fun$document
 ||pandaautumna.xyz$document
+||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
 ||pandaautumnd.xyz$document
 ||pandaautumnf.xyz$document
@@ -261,6 +268,7 @@
 ||prtctapp.me$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
+||rancy.xyz$document
 ||random-prize-bigwin-official.cyou$document
 ||randomprizebigwinofficial.cyou$document
 ||rewardgivingrealspecialoffer.cyou$document
@@ -344,6 +352,7 @@
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
+||trackingsys.tech$document
 ||trafficmind.pro$document
 ||trane.fun$document
 ||trustappstreamsall.digital$document

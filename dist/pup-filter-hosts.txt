@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 27 Sep 2021 12:03:28 +0000
+# Updated: Tue, 28 Sep 2021 12:03:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,9 +9,11 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
+0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
+0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
@@ -51,6 +53,7 @@
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
+0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
 0.0.0.0 discoveryfeed.org
@@ -108,6 +111,7 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -134,6 +138,7 @@
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
 0.0.0.0 koalaautumnd.xyz
+0.0.0.0 koalaautumne.xyz
 0.0.0.0 koalaautumnf.xyz
 0.0.0.0 koalaspringb.xyz
 0.0.0.0 koalaspringc.xyz
@@ -216,7 +221,9 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
+0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
+0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
@@ -261,6 +268,7 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
+0.0.0.0 rancy.xyz
 0.0.0.0 random-prize-bigwin-official.cyou
 0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewardgivingrealspecialoffer.cyou
@@ -344,6 +352,7 @@
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
+0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 trustappstreamsall.digital
