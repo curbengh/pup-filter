@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 29 Sep 2021 00:02:46 +0000
+# Updated: Wed, 29 Sep 2021 12:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@
 0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
-0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
@@ -48,7 +47,6 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 dailyboard.org
-0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -217,6 +215,7 @@
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 officialprizenationalrandom.cyou
 0.0.0.0 oldharper.xyz
+0.0.0.0 olivedinflats.space
 0.0.0.0 online-prize-super-promotion.cyou
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
@@ -301,6 +300,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
 0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
