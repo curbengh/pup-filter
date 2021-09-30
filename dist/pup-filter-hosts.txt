@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 30 Sep 2021 00:02:59 +0000
+# Updated: Thu, 30 Sep 2021 12:03:15 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,7 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
-0.0.0.0 aikoo.club
+0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
@@ -47,6 +47,7 @@
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 dailyboard.org
+0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
@@ -106,6 +107,7 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 horny-honey.online
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -291,7 +293,6 @@
 0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
-0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
