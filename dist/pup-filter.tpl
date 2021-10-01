@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 30 Sep 2021 12:03:15 +0000
+# Updated: Fri, 01 Oct 2021 00:03:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@ msFilterList
 -d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
--d bitcoinjunction.club
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
@@ -64,7 +63,6 @@ msFilterList
 -d efladn.club
 -d elpelades.club
 -d exploreshops.net
--d f7lwv2y0xb.top
 -d fast-app.xyz
 -d fastfactsonline.co
 -d fastmapc.xyz
@@ -76,13 +74,12 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d findwith.me
+-d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
 -d flymedia.cam
--d flymedia.club
 -d flymedia.fun
--d flymedia.online
 -d flymedia.uno
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
@@ -94,6 +91,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -122,7 +120,6 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -152,7 +149,10 @@ msFilterList
 -d koalasummerd.xyz
 -d koalasummerf.xyz
 -d koalawintera.xyz
+-d koalawinterb.xyz
+-d koalawinterc.xyz
 -d koalawinterd.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -196,6 +196,7 @@ msFilterList
 -d loaduberspeedyfile.digital
 -d louisvillegigs.net
 -d loveorfun.cc
+-d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
@@ -210,10 +211,8 @@ msFilterList
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
--d naughtygirlsshowall.live
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
@@ -234,6 +233,7 @@ msFilterList
 -d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringe.xyz
+-d pandasummera.xyz
 -d pandasummerc.xyz
 -d pandasummere.xyz
 -d pandasummerf.xyz
@@ -245,6 +245,7 @@ msFilterList
 -d placesiteb.xyz
 -d placespina.xyz
 -d playautumna.xyz
+-d playautumnb.xyz
 -d playautumnc.xyz
 -d playautumnf.xyz
 -d playplanete.xyz
@@ -270,11 +271,10 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
--d random-prize-bigwin-official.cyou
--d randomprizebigwinofficial.cyou
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
@@ -283,12 +283,12 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -306,10 +306,8 @@ msFilterList
 -d stickr.co
 -d stogether.fun
 -d streamadvanced-bestcompletelyfile.best
--d streamadvanced-bestextremelyfile.best
 -d streamdeveloped-bestoverlyfile.best
 -d streamdevelopedintenselythefile.vip
--d streamextremely-bestnewestfile.best
 -d streamfree-bestmostfile.best
 -d streamintensely-bestadvancedfile.best
 -d streamintensely-bestcurrentfile.best
@@ -317,7 +315,6 @@ msFilterList
 -d streamintensely-bestquickfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
--d streamlatest-bestextremelyfile.best
 -d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
 -d streampreciseintenselythefile.vip
@@ -345,13 +342,12 @@ msFilterList
 -d syncubercurrentfiles.best
 -d systemupdateme.solutions
 -d systemupdatit.club
--d tackis.xyz
 -d technoblogs.net
--d technologypartners.net
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
+-d thrawdmn55.xyz
 -d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
@@ -359,8 +355,8 @@ msFilterList
 -d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
+-d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me

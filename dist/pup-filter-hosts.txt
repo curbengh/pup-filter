@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 30 Sep 2021 12:03:15 +0000
+# Updated: Fri, 01 Oct 2021 00:03:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@
 0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bigwinonlinefreecongrats.cyou
-0.0.0.0 bitcoinjunction.club
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
@@ -61,7 +60,6 @@
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 exploreshops.net
-0.0.0.0 f7lwv2y0xb.top
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
@@ -73,13 +71,12 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 findwith.me
+0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
 0.0.0.0 flymedia.cam
-0.0.0.0 flymedia.club
 0.0.0.0 flymedia.fun
-0.0.0.0 flymedia.online
 0.0.0.0 flymedia.uno
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
@@ -91,6 +88,7 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -119,7 +117,6 @@
 0.0.0.0 initiatecompletelyspeedythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
@@ -149,7 +146,10 @@
 0.0.0.0 koalasummerd.xyz
 0.0.0.0 koalasummerf.xyz
 0.0.0.0 koalawintera.xyz
+0.0.0.0 koalawinterb.xyz
+0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -193,6 +193,7 @@
 0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
+0.0.0.0 lubbockeda.org
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
@@ -207,10 +208,8 @@
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
-0.0.0.0 naughtygirlsshowall.live
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
@@ -231,6 +230,7 @@
 0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringe.xyz
+0.0.0.0 pandasummera.xyz
 0.0.0.0 pandasummerc.xyz
 0.0.0.0 pandasummere.xyz
 0.0.0.0 pandasummerf.xyz
@@ -242,6 +242,7 @@
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
 0.0.0.0 playautumna.xyz
+0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
 0.0.0.0 playautumnf.xyz
 0.0.0.0 playplanete.xyz
@@ -267,11 +268,10 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
+0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
-0.0.0.0 random-prize-bigwin-official.cyou
-0.0.0.0 randomprizebigwinofficial.cyou
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
@@ -280,12 +280,12 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 searchoffers.info
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -303,10 +303,8 @@
 0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 streamadvanced-bestcompletelyfile.best
-0.0.0.0 streamadvanced-bestextremelyfile.best
 0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamdevelopedintenselythefile.vip
-0.0.0.0 streamextremely-bestnewestfile.best
 0.0.0.0 streamfree-bestmostfile.best
 0.0.0.0 streamintensely-bestadvancedfile.best
 0.0.0.0 streamintensely-bestcurrentfile.best
@@ -314,7 +312,6 @@
 0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
-0.0.0.0 streamlatest-bestextremelyfile.best
 0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamoverly-bestrenewedfile.best
 0.0.0.0 streampreciseintenselythefile.vip
@@ -342,13 +339,12 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
-0.0.0.0 tackis.xyz
 0.0.0.0 technoblogs.net
-0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
+0.0.0.0 thrawdmn55.xyz
 0.0.0.0 timeoffers.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
@@ -356,8 +352,8 @@
 0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
+0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me

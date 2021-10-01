@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 30 Sep 2021 12:03:15 +0000
+! Updated: Fri, 01 Oct 2021 00:03:00 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@
 ||bestvideoplayerupgrades.work^
 ||bigwin-online-free-congrats.cyou^
 ||bigwinonlinefreecongrats.cyou^
-||bitcoinjunction.club^
 ||bluetiger.cloud^
 ||boot-upcompletely-bestprecisefile.best^
 ||boot-upcompletely-bestsophisticatedfile.best^
@@ -61,7 +60,6 @@
 ||efladn.club^
 ||elpelades.club^
 ||exploreshops.net^
-||f7lwv2y0xb.top^
 ||fast-app.xyz^
 ||fastfactsonline.co^
 ||fastmapc.xyz^
@@ -73,13 +71,12 @@
 ||findaupgradingurls.work^
 ||finditquick.online^
 ||findwith.me^
+||finreporter.net^
 ||fireapps.cloud^
 ||fisudauh.top^
 ||flash-rewards.info^
 ||flymedia.cam^
-||flymedia.club^
 ||flymedia.fun^
-||flymedia.online^
 ||flymedia.uno^
 ||freenationalsuperworldwide.cyou^
 ||freewareappsstreamfast-best.digital^
@@ -91,6 +88,7 @@
 ||get-your-score.club^
 ||getbril.io^
 ||getmoregirls.net^
+||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
@@ -119,7 +117,6 @@
 ||initiatecompletelyspeedythefile.vip^
 ||initiatesophisticatedcompletelythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
 ||java-forum.org^
@@ -149,7 +146,10 @@
 ||koalasummerd.xyz^
 ||koalasummerf.xyz^
 ||koalawintera.xyz^
+||koalawinterb.xyz^
+||koalawinterc.xyz^
 ||koalawinterd.xyz^
+||kompsos.uk^
 ||ktpyzw.vip^
 ||lackystack.net^
 ||ligamedia.art^
@@ -193,6 +193,7 @@
 ||loaduberspeedyfile.digital^
 ||louisvillegigs.net^
 ||loveorfun.cc^
+||lubbockeda.org^
 ||marketloans.net^
 ||matchyourgirl.online^
 ||mathison.io^
@@ -207,10 +208,8 @@
 ||my-credit-score.xyz^
 ||mynutriplan.co^
 ||n95o0fxvvw.top^
-||naughtygirlsshowall.live^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
-||newsinformer.net^
 ||offerpage.link^
 ||official-bigwin-national-free.cyou^
 ||official-prize-national-random.cyou^
@@ -231,6 +230,7 @@
 ||pandaspringa.xyz^
 ||pandaspringb.xyz^
 ||pandaspringe.xyz^
+||pandasummera.xyz^
 ||pandasummerc.xyz^
 ||pandasummere.xyz^
 ||pandasummerf.xyz^
@@ -242,6 +242,7 @@
 ||placesiteb.xyz^
 ||placespina.xyz^
 ||playautumna.xyz^
+||playautumnb.xyz^
 ||playautumnc.xyz^
 ||playautumnf.xyz^
 ||playplanete.xyz^
@@ -267,11 +268,10 @@
 ||provpnsecurity.me^
 ||provpnservice.me^
 ||prtctapp.me^
+||qfind.net^
 ||quatrefeuillepolonaise.xyz^
 ||quizshein.shop^
 ||rancy.xyz^
-||random-prize-bigwin-official.cyou^
-||randomprizebigwinofficial.cyou^
 ||rewardgivingrealspecialoffer.cyou^
 ||rewards-promotion-winner-super.cyou^
 ||rewardsluckygiveawayprize.cyou^
@@ -280,12 +280,12 @@
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
 ||safeguide.net^
+||savagegrowplus.net^
 ||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
 ||searchmgr.online^
-||searchoffers.info^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||sergey-tracks.xyz^
@@ -303,10 +303,8 @@
 ||stickr.co^
 ||stogether.fun^
 ||streamadvanced-bestcompletelyfile.best^
-||streamadvanced-bestextremelyfile.best^
 ||streamdeveloped-bestoverlyfile.best^
 ||streamdevelopedintenselythefile.vip^
-||streamextremely-bestnewestfile.best^
 ||streamfree-bestmostfile.best^
 ||streamintensely-bestadvancedfile.best^
 ||streamintensely-bestcurrentfile.best^
@@ -314,7 +312,6 @@
 ||streamintensely-bestquickfile.best^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
-||streamlatest-bestextremelyfile.best^
 ||streamoverly-bestdevelopedfile.best^
 ||streamoverly-bestrenewedfile.best^
 ||streampreciseintenselythefile.vip^
@@ -342,13 +339,12 @@
 ||syncubercurrentfiles.best^
 ||systemupdateme.solutions^
 ||systemupdatit.club^
-||tackis.xyz^
 ||technoblogs.net^
-||technologypartners.net^
 ||thanksyoursupport.club^
 ||thecryptozone.website^
 ||theirproviderock.top^
 ||thelastpicture.show^
+||thrawdmn55.xyz^
 ||timeoffers.net^
 ||toolvpn.me^
 ||top-offers2.club^
@@ -356,8 +352,8 @@
 ||trackingsys.tech^
 ||trafficmind.pro^
 ||trane.fun^
+||truecompassion.net^
 ||trustappstreamsall.digital^
-||ubertech.shop^
 ||updatefix.xyz^
 ||upplaysite.xyz^
 ||usepro.me^

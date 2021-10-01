@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 30 Sep 2021 12:03:15 +0000
+! Updated: Fri, 01 Oct 2021 00:03:00 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@
 ||bestvideoplayerupgrades.work$all
 ||bigwin-online-free-congrats.cyou$all
 ||bigwinonlinefreecongrats.cyou$all
-||bitcoinjunction.club$all
 ||bluetiger.cloud$all
 ||boot-upcompletely-bestprecisefile.best$all
 ||boot-upcompletely-bestsophisticatedfile.best$all
@@ -61,7 +60,6 @@
 ||efladn.club$all
 ||elpelades.club$all
 ||exploreshops.net$all
-||f7lwv2y0xb.top$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastmapc.xyz$all
@@ -73,13 +71,12 @@
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||findwith.me$all
+||finreporter.net$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
 ||flymedia.cam$all
-||flymedia.club$all
 ||flymedia.fun$all
-||flymedia.online$all
 ||flymedia.uno$all
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
@@ -91,6 +88,7 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -119,7 +117,6 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
@@ -149,7 +146,10 @@
 ||koalasummerd.xyz$all
 ||koalasummerf.xyz$all
 ||koalawintera.xyz$all
+||koalawinterb.xyz$all
+||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -193,6 +193,7 @@
 ||loaduberspeedyfile.digital$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
+||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
@@ -207,10 +208,8 @@
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
-||naughtygirlsshowall.live$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||offerpage.link$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
@@ -231,6 +230,7 @@
 ||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
 ||pandaspringe.xyz$all
+||pandasummera.xyz$all
 ||pandasummerc.xyz$all
 ||pandasummere.xyz$all
 ||pandasummerf.xyz$all
@@ -242,6 +242,7 @@
 ||placesiteb.xyz$all
 ||placespina.xyz$all
 ||playautumna.xyz$all
+||playautumnb.xyz$all
 ||playautumnc.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
@@ -267,11 +268,10 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
+||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
-||random-prize-bigwin-official.cyou$all
-||randomprizebigwinofficial.cyou$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -280,12 +280,12 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -303,10 +303,8 @@
 ||stickr.co$all
 ||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
-||streamadvanced-bestextremelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamdevelopedintenselythefile.vip$all
-||streamextremely-bestnewestfile.best$all
 ||streamfree-bestmostfile.best$all
 ||streamintensely-bestadvancedfile.best$all
 ||streamintensely-bestcurrentfile.best$all
@@ -314,7 +312,6 @@
 ||streamintensely-bestquickfile.best$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
-||streamlatest-bestextremelyfile.best$all
 ||streamoverly-bestdevelopedfile.best$all
 ||streamoverly-bestrenewedfile.best$all
 ||streampreciseintenselythefile.vip$all
@@ -342,13 +339,12 @@
 ||syncubercurrentfiles.best$all
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
-||tackis.xyz$all
 ||technoblogs.net$all
-||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
+||thrawdmn55.xyz$all
 ||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
@@ -356,8 +352,8 @@
 ||trackingsys.tech$all
 ||trafficmind.pro$all
 ||trane.fun$all
+||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
