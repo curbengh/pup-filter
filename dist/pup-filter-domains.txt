@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 01 Oct 2021 00:03:00 +0000
+# Updated: Fri, 01 Oct 2021 12:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,7 @@
 4upgradingstablesafe.work
 abcscience.xyz
 affiliateland.io
-appsto.cloud
+amobil.online
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
@@ -105,7 +105,6 @@ hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
-horny-honey.online
 hpages.net
 httqzq.vip
 hypezen.info
