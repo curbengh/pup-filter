@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 01 Oct 2021 12:03:28 +0000
+# Updated: Sat, 02 Oct 2021 00:30:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -151,7 +151,7 @@ msFilterList
 -d koalawinterb.xyz
 -d koalawinterc.xyz
 -d koalawinterd.xyz
--d kompsos.uk
+-d koalawintere.xyz
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -206,13 +206,14 @@ msFilterList
 -d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d official-prize-national-random.cyou
 -d officialbigwinnationalfree.cyou
@@ -288,12 +289,12 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
--d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d spotmapd.xyz
@@ -342,20 +343,21 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
 -d thrawdmn55.xyz
--d timeoffers.net
+-d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
 -d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
--d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me

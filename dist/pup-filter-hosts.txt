@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 01 Oct 2021 12:03:28 +0000
+# Updated: Sat, 02 Oct 2021 00:30:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -148,7 +148,7 @@
 0.0.0.0 koalawinterb.xyz
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
-0.0.0.0 kompsos.uk
+0.0.0.0 koalawintere.xyz
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 ligamedia.art
@@ -203,13 +203,14 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
-0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
+0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 official-prize-national-random.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
@@ -285,12 +286,12 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 searchoffers.info
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopadvisors.net
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
 0.0.0.0 spotmapd.xyz
@@ -339,20 +340,21 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
+0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
 0.0.0.0 thrawdmn55.xyz
-0.0.0.0 timeoffers.net
+0.0.0.0 timesamerica.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
-0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
+0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me

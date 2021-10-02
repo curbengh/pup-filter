@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 01 Oct 2021 12:03:28 +0000
+! Updated: Sat, 02 Oct 2021 00:30:05 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -148,7 +148,7 @@
 ||koalawinterb.xyz$document
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
-||kompsos.uk$document
+||koalawintere.xyz$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -203,13 +203,14 @@
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
+||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||official-prize-national-random.cyou$document
 ||officialbigwinnationalfree.cyou$document
@@ -285,12 +286,12 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
+||searchoffers.info$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
 ||shopadvisors.net$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||spotmapd.xyz$document
@@ -339,20 +340,21 @@
 ||systemupdateme.solutions$document
 ||systemupdatit.club$document
 ||technoblogs.net$document
+||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
 ||thrawdmn55.xyz$document
-||timeoffers.net$document
+||timesamerica.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
 ||trackingsys.tech$document
 ||trafficmind.pro$document
 ||trane.fun$document
-||truecompassion.net$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document

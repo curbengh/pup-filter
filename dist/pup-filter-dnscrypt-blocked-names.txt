@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 01 Oct 2021 12:03:28 +0000
+# Updated: Sat, 02 Oct 2021 00:30:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -148,7 +148,7 @@ koalawintera.xyz
 koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
-kompsos.uk
+koalawintere.xyz
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -203,13 +203,14 @@ melanthios-ana.com
 mindmatch.ai
 mobileluckywinner.site
 money-hero.org
-movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
+newsinformer.net
 offerpage.link
+offersearch.info
 official-bigwin-national-free.cyou
 official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
@@ -285,12 +286,12 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+searchoffers.info
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
-shopin.nyc
 shopnsave.world
 smartideas.pro
 spotmapd.xyz
@@ -339,20 +340,21 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
+technologypartners.net
 thanksyoursupport.club
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
-timeoffers.net
+timesamerica.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
 trackingsys.tech
 trafficmind.pro
 trane.fun
-truecompassion.net
 trustappstreamsall.digital
+ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me

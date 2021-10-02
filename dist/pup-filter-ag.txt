@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 01 Oct 2021 12:03:28 +0000
+! Updated: Sat, 02 Oct 2021 00:30:05 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -148,7 +148,7 @@
 ||koalawinterb.xyz$all
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
-||kompsos.uk$all
+||koalawintere.xyz$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -203,13 +203,14 @@
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
+||newsinformer.net$all
 ||offerpage.link$all
+||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
@@ -285,12 +286,12 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||searchoffers.info$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
 ||shopadvisors.net$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||spotmapd.xyz$all
@@ -339,20 +340,21 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||thrawdmn55.xyz$all
-||timeoffers.net$all
+||timesamerica.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
 ||trackingsys.tech$all
 ||trafficmind.pro$all
 ||trane.fun$all
-||truecompassion.net$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
