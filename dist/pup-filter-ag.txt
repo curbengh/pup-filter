@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 02 Oct 2021 00:30:05 +0000
+! Updated: Sat, 02 Oct 2021 12:02:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||affiliateland.io$all
+||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
 ||armorprovpn.me$all
@@ -271,7 +272,6 @@
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
-||rancy.xyz$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -301,7 +301,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamadvanced-bestcompletelyfile.best$all
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamdevelopedintenselythefile.vip$all
@@ -352,7 +351,6 @@
 ||tracking-landers.xyz$all
 ||trackingsys.tech$all
 ||trafficmind.pro$all
-||trane.fun$all
 ||trustappstreamsall.digital$all
 ||ubertech.shop$all
 ||updatefix.xyz$all

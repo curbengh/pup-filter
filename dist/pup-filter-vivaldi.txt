@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 02 Oct 2021 00:30:05 +0000
+! Updated: Sat, 02 Oct 2021 12:02:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||affiliateland.io$document
+||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
@@ -271,7 +272,6 @@
 ||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||rancy.xyz$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
@@ -301,7 +301,6 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamadvanced-bestcompletelyfile.best$document
 ||streamdeveloped-bestoverlyfile.best$document
 ||streamdevelopedintenselythefile.vip$document
@@ -352,7 +351,6 @@
 ||tracking-landers.xyz$document
 ||trackingsys.tech$document
 ||trafficmind.pro$document
-||trane.fun$document
 ||trustappstreamsall.digital$document
 ||ubertech.shop$document
 ||updatefix.xyz$document
