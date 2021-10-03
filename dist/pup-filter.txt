@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 02 Oct 2021 12:02:21 +0000
+! Updated: Sun, 03 Oct 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@ craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
-dailyboard.org
 darkview.org
 dayinlife.net
 dealmedia.club
@@ -78,7 +77,6 @@ fisudauh.top
 flash-rewards.info
 flymedia.cam
 flymedia.fun
-flymedia.uno
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
@@ -89,7 +87,6 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -130,7 +127,6 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -150,6 +146,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -204,18 +201,16 @@ melanthios-ana.com
 mindmatch.ai
 mobileluckywinner.site
 money-hero.org
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
-nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
-official-prize-national-random.cyou
 officialbigwinnationalfree.cyou
-officialprizenationalrandom.cyou
 oldharper.xyz
 olivedinflats.space
 online-prize-super-promotion.cyou
@@ -235,6 +230,7 @@ pandasummera.xyz
 pandasummerc.xyz
 pandasummere.xyz
 pandasummerf.xyz
+pandawintera.xyz
 pandawintere.xyz
 pcsecurity-live.xyz
 performstrong-thegreatlyfile.digital
@@ -254,6 +250,7 @@ playsummerc.xyz
 playsummere.xyz
 playsummerf.xyz
 playwintera.xyz
+playwinterb.xyz
 playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
@@ -271,6 +268,7 @@ provpnservice.me
 prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
+quickdeals.online
 quizshein.shop
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
@@ -292,6 +290,7 @@ securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
+shopin.nyc
 shopnsave.world
 smartideas.pro
 spotmapd.xyz
@@ -345,20 +344,21 @@ thecryptozone.website
 theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
+timeoffers.net
 timesamerica.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
 trackingsys.tech
 trafficmind.pro
+truecompassion.net
 trustappstreamsall.digital
-ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
-usforeclosure.net
+videoauthor.ru
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

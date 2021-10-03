@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 02 Oct 2021 12:02:21 +0000
+! Updated: Sun, 03 Oct 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
-||dailyboard.org$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -78,7 +77,6 @@
 ||flash-rewards.info$all
 ||flymedia.cam$all
 ||flymedia.fun$all
-||flymedia.uno$all
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
@@ -89,7 +87,6 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -130,7 +127,6 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
-||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -150,6 +146,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -204,18 +201,16 @@
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
-||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
-||official-prize-national-random.cyou$all
 ||officialbigwinnationalfree.cyou$all
-||officialprizenationalrandom.cyou$all
 ||oldharper.xyz$all
 ||olivedinflats.space$all
 ||online-prize-super-promotion.cyou$all
@@ -235,6 +230,7 @@
 ||pandasummerc.xyz$all
 ||pandasummere.xyz$all
 ||pandasummerf.xyz$all
+||pandawintera.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
@@ -254,6 +250,7 @@
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
 ||playwintera.xyz$all
+||playwinterb.xyz$all
 ||playwinterc.xyz$all
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
@@ -271,6 +268,7 @@
 ||prtctapp.me$all
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
+||quickdeals.online$all
 ||quizshein.shop$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -292,6 +290,7 @@
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
 ||shopadvisors.net$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||spotmapd.xyz$all
@@ -345,20 +344,21 @@
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||thrawdmn55.xyz$all
+||timeoffers.net$all
 ||timesamerica.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
 ||trackingsys.tech$all
 ||trafficmind.pro$all
+||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||usforeclosure.net$all
+||videoauthor.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all
