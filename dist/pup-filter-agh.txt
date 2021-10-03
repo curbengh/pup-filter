@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 03 Oct 2021 00:02:59 +0000
+! Updated: Sun, 03 Oct 2021 12:02:38 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -34,7 +34,6 @@
 ||boot-upsophisticated-bestoverlyfile.best^
 ||boot-upuber-bestfreefile.best^
 ||breaking-news.digital^
-||calledbellc.fun^
 ||checkstableaupdatinglinks.work^
 ||connectionapplication.com^
 ||connecttheupgradingurls.work^
@@ -54,7 +53,6 @@
 ||dealsify.net^
 ||defensepro.me^
 ||desixxx.cloud^
-||discoveryfeed.org^
 ||dollarsurvey365.org^
 ||earlyprogress.info^
 ||efladn.club^
@@ -106,7 +104,6 @@
 ||hpages.net^
 ||httqzq.vip^
 ||hypezen.info^
-||ientsillness.fun^
 ||imagefind.org^
 ||incing-marganic.icu^
 ||incrediblebuzz.info^
@@ -249,9 +246,7 @@
 ||playsummerc.xyz^
 ||playsummere.xyz^
 ||playsummerf.xyz^
-||playwintera.xyz^
 ||playwinterb.xyz^
-||playwinterc.xyz^
 ||playwinterd.xyz^
 ||playwintere.xyz^
 ||ppploanchoices.site^
@@ -268,7 +263,6 @@
 ||prtctapp.me^
 ||qfind.net^
 ||quatrefeuillepolonaise.xyz^
-||quickdeals.online^
 ||quizshein.shop^
 ||rewardgivingrealspecialoffer.cyou^
 ||rewards-promotion-winner-super.cyou^
@@ -284,12 +278,10 @@
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
 ||searchmgr.online^
-||searchoffers.info^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||sergey-tracks.xyz^
 ||settothereliableupgradingnew.work^
-||shopadvisors.net^
 ||shopin.nyc^
 ||shopnsave.world^
 ||smartideas.pro^
@@ -345,7 +337,6 @@
 ||thelastpicture.show^
 ||thrawdmn55.xyz^
 ||timeoffers.net^
-||timesamerica.net^
 ||toolvpn.me^
 ||top-offers2.club^
 ||tracking-landers.xyz^

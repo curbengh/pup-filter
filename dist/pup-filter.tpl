@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 03 Oct 2021 00:02:59 +0000
+# Updated: Sun, 03 Oct 2021 12:02:38 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -37,7 +37,6 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
--d calledbellc.fun
 -d checkstableaupdatinglinks.work
 -d connectionapplication.com
 -d connecttheupgradingurls.work
@@ -57,7 +56,6 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.org
 -d earlyprogress.info
 -d efladn.club
@@ -109,7 +107,6 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -252,9 +249,7 @@ msFilterList
 -d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
--d playwintera.xyz
 -d playwinterb.xyz
--d playwinterc.xyz
 -d playwinterd.xyz
 -d playwintere.xyz
 -d ppploanchoices.site
@@ -271,7 +266,6 @@ msFilterList
 -d prtctapp.me
 -d qfind.net
 -d quatrefeuillepolonaise.xyz
--d quickdeals.online
 -d quizshein.shop
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
@@ -287,12 +281,10 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d searchoffers.info
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
@@ -348,7 +340,6 @@ msFilterList
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
--d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
