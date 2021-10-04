@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 03 Oct 2021 12:02:38 +0000
+! Updated: Mon, 04 Oct 2021 00:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -41,10 +41,10 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
+||curiositydstream.com$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealmedia.club$document
@@ -74,7 +74,6 @@
 ||fisudauh.top$document
 ||flash-rewards.info$document
 ||flymedia.cam$document
-||flymedia.fun$document
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
@@ -85,6 +84,7 @@
 ||get-your-score.club$document
 ||getbril.io$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -124,6 +124,7 @@
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
+||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -150,6 +151,7 @@
 ||ligamedia.casa$document
 ||ligamedia.club$document
 ||listenthisso.top$document
+||lltrsknoob.click$document
 ||loadadvancedextremelythefile.vip$document
 ||loaddevelopeduberfile.digital$document
 ||loadextremelycurrentthefile.vip$document
@@ -194,14 +196,13 @@
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
-||melanthios-ana.com$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
+||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
@@ -225,9 +226,11 @@
 ||pandaspringe.xyz$document
 ||pandasummera.xyz$document
 ||pandasummerc.xyz$document
+||pandasummerd.xyz$document
 ||pandasummere.xyz$document
 ||pandasummerf.xyz$document
 ||pandawintera.xyz$document
+||pandawinterd.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
 ||performstrong-thegreatlyfile.digital$document
@@ -238,6 +241,7 @@
 ||playautumna.xyz$document
 ||playautumnb.xyz$document
 ||playautumnc.xyz$document
+||playautumnd.xyz$document
 ||playautumnf.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
@@ -249,6 +253,7 @@
 ||playwinterb.xyz$document
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
+||playwinterf.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
@@ -272,7 +277,6 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -296,9 +300,6 @@
 ||streamdeveloped-bestoverlyfile.best$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamfree-bestmostfile.best$document
-||streamintensely-bestadvancedfile.best$document
-||streamintensely-bestcurrentfile.best$document
-||streamintensely-bestlatestfile.best$document
 ||streamintensely-bestquickfile.best$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
@@ -307,11 +308,9 @@
 ||streampreciseintenselythefile.vip$document
 ||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
-||streamrecent-bestintenselyfile.best$document
 ||streamrecent-bestuberfile.best$document
 ||streamrenewed-bestoverlyfile.best$document
 ||streamspeedyintenselythefile.vip$document
-||streamstrong-bestuberfile.best$document
 ||streamuber-bestspeedyfile.best$document
 ||streamuber-bestswiftfile.best$document
 ||subeamy.pw$document
@@ -344,11 +343,13 @@
 ||trafficmind.pro$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||usforeclosure.net$document
 ||videoauthor.ru$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document

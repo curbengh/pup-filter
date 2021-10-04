@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 03 Oct 2021 12:02:38 +0000
+# Updated: Mon, 04 Oct 2021 00:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -41,10 +41,10 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
+0.0.0.0 curiositydstream.com
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
@@ -74,7 +74,6 @@
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
 0.0.0.0 flymedia.cam
-0.0.0.0 flymedia.fun
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
@@ -85,6 +84,7 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -124,6 +124,7 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
+0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -150,6 +151,7 @@
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
 0.0.0.0 listenthisso.top
+0.0.0.0 lltrsknoob.click
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loaddevelopeduberfile.digital
 0.0.0.0 loadextremelycurrentthefile.vip
@@ -194,14 +196,13 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
-0.0.0.0 melanthios-ana.com
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
-0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
+0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
@@ -225,9 +226,11 @@
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummera.xyz
 0.0.0.0 pandasummerc.xyz
+0.0.0.0 pandasummerd.xyz
 0.0.0.0 pandasummere.xyz
 0.0.0.0 pandasummerf.xyz
 0.0.0.0 pandawintera.xyz
+0.0.0.0 pandawinterd.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performstrong-thegreatlyfile.digital
@@ -238,6 +241,7 @@
 0.0.0.0 playautumna.xyz
 0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
+0.0.0.0 playautumnd.xyz
 0.0.0.0 playautumnf.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
@@ -249,6 +253,7 @@
 0.0.0.0 playwinterb.xyz
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
+0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitsurvey365.online
@@ -272,7 +277,6 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
-0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -296,9 +300,6 @@
 0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamfree-bestmostfile.best
-0.0.0.0 streamintensely-bestadvancedfile.best
-0.0.0.0 streamintensely-bestcurrentfile.best
-0.0.0.0 streamintensely-bestlatestfile.best
 0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
@@ -307,11 +308,9 @@
 0.0.0.0 streampreciseintenselythefile.vip
 0.0.0.0 streamprogressive-bestoverlyfile.best
 0.0.0.0 streamquick-bestmostfile.best
-0.0.0.0 streamrecent-bestintenselyfile.best
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
 0.0.0.0 streamspeedyintenselythefile.vip
-0.0.0.0 streamstrong-bestuberfile.best
 0.0.0.0 streamuber-bestspeedyfile.best
 0.0.0.0 streamuber-bestswiftfile.best
 0.0.0.0 subeamy.pw
@@ -344,11 +343,13 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
+0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 usforeclosure.net
 0.0.0.0 videoauthor.ru
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me

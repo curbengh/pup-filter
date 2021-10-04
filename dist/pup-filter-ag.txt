@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 03 Oct 2021 12:02:38 +0000
+! Updated: Mon, 04 Oct 2021 00:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -41,10 +41,10 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
+||curiositydstream.com$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -74,7 +74,6 @@
 ||fisudauh.top$all
 ||flash-rewards.info$all
 ||flymedia.cam$all
-||flymedia.fun$all
 ||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
@@ -85,6 +84,7 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -124,6 +124,7 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
+||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -150,6 +151,7 @@
 ||ligamedia.casa$all
 ||ligamedia.club$all
 ||listenthisso.top$all
+||lltrsknoob.click$all
 ||loadadvancedextremelythefile.vip$all
 ||loaddevelopeduberfile.digital$all
 ||loadextremelycurrentthefile.vip$all
@@ -194,14 +196,13 @@
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
-||melanthios-ana.com$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
+||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
@@ -225,9 +226,11 @@
 ||pandaspringe.xyz$all
 ||pandasummera.xyz$all
 ||pandasummerc.xyz$all
+||pandasummerd.xyz$all
 ||pandasummere.xyz$all
 ||pandasummerf.xyz$all
 ||pandawintera.xyz$all
+||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
 ||performstrong-thegreatlyfile.digital$all
@@ -238,6 +241,7 @@
 ||playautumna.xyz$all
 ||playautumnb.xyz$all
 ||playautumnc.xyz$all
+||playautumnd.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
@@ -249,6 +253,7 @@
 ||playwinterb.xyz$all
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
+||playwinterf.xyz$all
 ||ppploanchoices.site$all
 ||prize-messsages.casa$all
 ||profitsurvey365.online$all
@@ -272,7 +277,6 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -296,9 +300,6 @@
 ||streamdeveloped-bestoverlyfile.best$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamfree-bestmostfile.best$all
-||streamintensely-bestadvancedfile.best$all
-||streamintensely-bestcurrentfile.best$all
-||streamintensely-bestlatestfile.best$all
 ||streamintensely-bestquickfile.best$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
@@ -307,11 +308,9 @@
 ||streampreciseintenselythefile.vip$all
 ||streamprogressive-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
-||streamrecent-bestintenselyfile.best$all
 ||streamrecent-bestuberfile.best$all
 ||streamrenewed-bestoverlyfile.best$all
 ||streamspeedyintenselythefile.vip$all
-||streamstrong-bestuberfile.best$all
 ||streamuber-bestspeedyfile.best$all
 ||streamuber-bestswiftfile.best$all
 ||subeamy.pw$all
@@ -344,11 +343,13 @@
 ||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
+||usforeclosure.net$all
 ||videoauthor.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 03 Oct 2021 12:02:38 +0000
+# Updated: Mon, 04 Oct 2021 00:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -44,10 +44,10 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d curiositydstream.com
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
@@ -77,7 +77,6 @@ msFilterList
 -d fisudauh.top
 -d flash-rewards.info
 -d flymedia.cam
--d flymedia.fun
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
@@ -88,6 +87,7 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -127,6 +127,7 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
+-d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -153,6 +154,7 @@ msFilterList
 -d ligamedia.casa
 -d ligamedia.club
 -d listenthisso.top
+-d lltrsknoob.click
 -d loadadvancedextremelythefile.vip
 -d loaddevelopeduberfile.digital
 -d loadextremelycurrentthefile.vip
@@ -197,14 +199,13 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
--d melanthios-ana.com
 -d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
+-d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
@@ -228,9 +229,11 @@ msFilterList
 -d pandaspringe.xyz
 -d pandasummera.xyz
 -d pandasummerc.xyz
+-d pandasummerd.xyz
 -d pandasummere.xyz
 -d pandasummerf.xyz
 -d pandawintera.xyz
+-d pandawinterd.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
 -d performstrong-thegreatlyfile.digital
@@ -241,6 +244,7 @@ msFilterList
 -d playautumna.xyz
 -d playautumnb.xyz
 -d playautumnc.xyz
+-d playautumnd.xyz
 -d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
@@ -252,6 +256,7 @@ msFilterList
 -d playwinterb.xyz
 -d playwinterd.xyz
 -d playwintere.xyz
+-d playwinterf.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
 -d profitsurvey365.online
@@ -275,7 +280,6 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -299,9 +303,6 @@ msFilterList
 -d streamdeveloped-bestoverlyfile.best
 -d streamdevelopedintenselythefile.vip
 -d streamfree-bestmostfile.best
--d streamintensely-bestadvancedfile.best
--d streamintensely-bestcurrentfile.best
--d streamintensely-bestlatestfile.best
 -d streamintensely-bestquickfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -310,11 +311,9 @@ msFilterList
 -d streampreciseintenselythefile.vip
 -d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
--d streamrecent-bestintenselyfile.best
 -d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamspeedyintenselythefile.vip
--d streamstrong-bestuberfile.best
 -d streamuber-bestspeedyfile.best
 -d streamuber-bestswiftfile.best
 -d subeamy.pw
@@ -347,11 +346,13 @@ msFilterList
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d usforeclosure.net
 -d videoauthor.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me

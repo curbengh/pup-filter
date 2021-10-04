@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 03 Oct 2021 12:02:38 +0000
+! Updated: Mon, 04 Oct 2021 00:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -41,10 +41,10 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
+curiositydstream.com
 darkview.org
 dayinlife.net
 dealmedia.club
@@ -74,7 +74,6 @@ fireapps.cloud
 fisudauh.top
 flash-rewards.info
 flymedia.cam
-flymedia.fun
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
@@ -85,6 +84,7 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -124,6 +124,7 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
+keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -150,6 +151,7 @@ ligamedia.art
 ligamedia.casa
 ligamedia.club
 listenthisso.top
+lltrsknoob.click
 loadadvancedextremelythefile.vip
 loaddevelopeduberfile.digital
 loadextremelycurrentthefile.vip
@@ -194,14 +196,13 @@ mathison.io
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
-melanthios-ana.com
 mindmatch.ai
 mobileluckywinner.site
 money-hero.org
-movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
+nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
@@ -225,9 +226,11 @@ pandaspringb.xyz
 pandaspringe.xyz
 pandasummera.xyz
 pandasummerc.xyz
+pandasummerd.xyz
 pandasummere.xyz
 pandasummerf.xyz
 pandawintera.xyz
+pandawinterd.xyz
 pandawintere.xyz
 pcsecurity-live.xyz
 performstrong-thegreatlyfile.digital
@@ -238,6 +241,7 @@ placespina.xyz
 playautumna.xyz
 playautumnb.xyz
 playautumnc.xyz
+playautumnd.xyz
 playautumnf.xyz
 playplanete.xyz
 playspind.xyz
@@ -249,6 +253,7 @@ playsummerf.xyz
 playwinterb.xyz
 playwinterd.xyz
 playwintere.xyz
+playwinterf.xyz
 ppploanchoices.site
 prize-messsages.casa
 profitsurvey365.online
@@ -272,7 +277,6 @@ robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
-savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
@@ -296,9 +300,6 @@ streamadvanced-bestcompletelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamdevelopedintenselythefile.vip
 streamfree-bestmostfile.best
-streamintensely-bestadvancedfile.best
-streamintensely-bestcurrentfile.best
-streamintensely-bestlatestfile.best
 streamintensely-bestquickfile.best
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
@@ -307,11 +308,9 @@ streamoverly-bestrenewedfile.best
 streampreciseintenselythefile.vip
 streamprogressive-bestoverlyfile.best
 streamquick-bestmostfile.best
-streamrecent-bestintenselyfile.best
 streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
 streamspeedyintenselythefile.vip
-streamstrong-bestuberfile.best
 streamuber-bestspeedyfile.best
 streamuber-bestswiftfile.best
 subeamy.pw
@@ -344,11 +343,13 @@ trackingsys.tech
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
+ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+usforeclosure.net
 videoauthor.ru
 vpnprosecurity.me
 vpnsecurity.me
