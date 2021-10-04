@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 04 Oct 2021 00:02:41 +0000
+# Updated: Mon, 04 Oct 2021 12:04:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -37,6 +36,7 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
+-d calledbellc.fun
 -d checkstableaupdatinglinks.work
 -d connectionapplication.com
 -d connecttheupgradingurls.work
@@ -218,13 +218,10 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
--d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
--d pandaautumnd.xyz
 -d pandaautumnf.xyz
--d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringe.xyz
 -d pandasummera.xyz
@@ -254,6 +251,7 @@ msFilterList
 -d playsummere.xyz
 -d playsummerf.xyz
 -d playwinterb.xyz
+-d playwinterc.xyz
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
@@ -339,6 +337,7 @@ msFilterList
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
+-d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz

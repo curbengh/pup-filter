@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 04 Oct 2021 00:02:41 +0000
+! Updated: Mon, 04 Oct 2021 12:04:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net^
 ||4upgradingstablesafe.work^
-||abcscience.xyz^
 ||affiliateland.io^
 ||aikoo.club^
 ||amobil.online^
@@ -34,6 +33,7 @@
 ||boot-upsophisticated-bestoverlyfile.best^
 ||boot-upuber-bestfreefile.best^
 ||breaking-news.digital^
+||calledbellc.fun^
 ||checkstableaupdatinglinks.work^
 ||connectionapplication.com^
 ||connecttheupgradingurls.work^
@@ -215,13 +215,10 @@
 ||onlineprize.cyou^
 ||onlineprizesuperpromotion.cyou^
 ||onlinewinnerluckyrewards.cyou^
-||ouldthepat.fun^
 ||pandaautumna.xyz^
 ||pandaautumnb.xyz^
 ||pandaautumnc.xyz^
-||pandaautumnd.xyz^
 ||pandaautumnf.xyz^
-||pandaspringa.xyz^
 ||pandaspringb.xyz^
 ||pandaspringe.xyz^
 ||pandasummera.xyz^
@@ -251,6 +248,7 @@
 ||playsummere.xyz^
 ||playsummerf.xyz^
 ||playwinterb.xyz^
+||playwinterc.xyz^
 ||playwinterd.xyz^
 ||playwintere.xyz^
 ||playwinterf.xyz^
@@ -336,6 +334,7 @@
 ||thelastpicture.show^
 ||thrawdmn55.xyz^
 ||timeoffers.net^
+||timesamerica.net^
 ||toolvpn.me^
 ||top-offers2.club^
 ||tracking-landers.xyz^

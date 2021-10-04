@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 04 Oct 2021 00:02:41 +0000
+# Updated: Mon, 04 Oct 2021 12:04:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
@@ -34,6 +33,7 @@
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
+0.0.0.0 calledbellc.fun
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
@@ -215,13 +215,10 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
-0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
-0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummera.xyz
@@ -251,6 +248,7 @@
 0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
 0.0.0.0 playwinterb.xyz
+0.0.0.0 playwinterc.xyz
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
@@ -336,6 +334,7 @@
 0.0.0.0 thelastpicture.show
 0.0.0.0 thrawdmn55.xyz
 0.0.0.0 timeoffers.net
+0.0.0.0 timesamerica.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz

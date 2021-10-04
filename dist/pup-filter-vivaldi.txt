@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 04 Oct 2021 00:02:41 +0000
+! Updated: Mon, 04 Oct 2021 12:04:27 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||amobil.online$document
@@ -34,6 +33,7 @@
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||boot-upuber-bestfreefile.best$document
 ||breaking-news.digital$document
+||calledbellc.fun$document
 ||checkstableaupdatinglinks.work$document
 ||connectionapplication.com$document
 ||connecttheupgradingurls.work$document
@@ -215,13 +215,10 @@
 ||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
-||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
-||pandaautumnd.xyz$document
 ||pandaautumnf.xyz$document
-||pandaspringa.xyz$document
 ||pandaspringb.xyz$document
 ||pandaspringe.xyz$document
 ||pandasummera.xyz$document
@@ -251,6 +248,7 @@
 ||playsummere.xyz$document
 ||playsummerf.xyz$document
 ||playwinterb.xyz$document
+||playwinterc.xyz$document
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
@@ -336,6 +334,7 @@
 ||thelastpicture.show$document
 ||thrawdmn55.xyz$document
 ||timeoffers.net$document
+||timesamerica.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
