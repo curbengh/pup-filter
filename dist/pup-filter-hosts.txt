@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 05 Oct 2021 00:02:57 +0000
+# Updated: Tue, 05 Oct 2021 12:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
@@ -104,6 +105,7 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -218,10 +220,13 @@
 0.0.0.0 onlineprize.cyou
 0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
+0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
+0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
+0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringd.xyz
 0.0.0.0 pandaspringe.xyz
@@ -251,6 +256,7 @@
 0.0.0.0 playsummerc.xyz
 0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
+0.0.0.0 playwintera.xyz
 0.0.0.0 playwinterb.xyz
 0.0.0.0 playwinterc.xyz
 0.0.0.0 playwinterd.xyz
@@ -284,7 +290,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -351,7 +356,6 @@
 0.0.0.0 usevpnpro.me
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoauthor.ru
-0.0.0.0 videolookace.ru
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

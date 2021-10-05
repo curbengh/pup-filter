@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 05 Oct 2021 00:02:57 +0000
+! Updated: Tue, 05 Oct 2021 12:03:24 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
@@ -104,6 +105,7 @@
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
+||ientsillness.fun$all
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -218,10 +220,13 @@
 ||onlineprize.cyou$all
 ||onlineprizesuperpromotion.cyou$all
 ||onlinewinnerluckyrewards.cyou$all
+||ouldthepat.fun$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
+||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
+||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
 ||pandaspringd.xyz$all
 ||pandaspringe.xyz$all
@@ -251,6 +256,7 @@
 ||playsummerc.xyz$all
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
+||playwintera.xyz$all
 ||playwinterb.xyz$all
 ||playwinterc.xyz$all
 ||playwinterd.xyz$all
@@ -284,7 +290,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -351,7 +356,6 @@
 ||usevpnpro.me$all
 ||usforeclosure.net$all
 ||videoauthor.ru$all
-||videolookace.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all

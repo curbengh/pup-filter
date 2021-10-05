@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 05 Oct 2021 00:02:57 +0000
+# Updated: Tue, 05 Oct 2021 12:03:24 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -107,6 +108,7 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -221,10 +223,13 @@ msFilterList
 -d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
+-d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
+-d pandaautumnd.xyz
 -d pandaautumnf.xyz
+-d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringd.xyz
 -d pandaspringe.xyz
@@ -254,6 +259,7 @@ msFilterList
 -d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
+-d playwintera.xyz
 -d playwinterb.xyz
 -d playwinterc.xyz
 -d playwinterd.xyz
@@ -287,7 +293,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -354,7 +359,6 @@ msFilterList
 -d usevpnpro.me
 -d usforeclosure.net
 -d videoauthor.ru
--d videolookace.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
