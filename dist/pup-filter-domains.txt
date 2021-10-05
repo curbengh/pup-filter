@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 04 Oct 2021 12:04:27 +0000
+# Updated: Tue, 05 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@ be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
 beinspired.global
 bestappland.me
-bestvideoplayerupgrades.work
 bigwin-online-free-congrats.cyou
 bigwinonlinefreecongrats.cyou
 bluetiger.cloud
@@ -41,6 +40,7 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
+craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
@@ -111,6 +111,7 @@ initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiatesophisticatedcompletelythefile.vip
 intelectaction.ru
+investinfo.net
 ironprovpn.me
 isystemupdate.cloud
 java-forum.org
@@ -134,6 +135,7 @@ koalaautumnf.xyz
 koalaspringb.xyz
 koalaspringc.xyz
 koalaspringd.xyz
+koalaspringe.xyz
 koalaspringf.xyz
 koalasummera.xyz
 koalasummerc.xyz
@@ -199,6 +201,7 @@ meeryslotspin.xyz
 mindmatch.ai
 mobileluckywinner.site
 money-hero.org
+movievod.me
 my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
@@ -220,6 +223,7 @@ pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnf.xyz
 pandaspringb.xyz
+pandaspringd.xyz
 pandaspringe.xyz
 pandasummera.xyz
 pandasummerc.xyz
@@ -264,7 +268,6 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
-qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
 rewardgivingrealspecialoffer.cyou
@@ -275,11 +278,13 @@ robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
+savagegrowplus.net
 scoopswoop.info
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -298,10 +303,8 @@ streamadvanced-bestcompletelyfile.best
 streamdeveloped-bestoverlyfile.best
 streamdevelopedintenselythefile.vip
 streamfree-bestmostfile.best
-streamintensely-bestquickfile.best
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
-streamoverly-bestdevelopedfile.best
 streamoverly-bestrenewedfile.best
 streampreciseintenselythefile.vip
 streamprogressive-bestoverlyfile.best
@@ -309,8 +312,6 @@ streamquick-bestmostfile.best
 streamrecent-bestuberfile.best
 streamrenewed-bestoverlyfile.best
 streamspeedyintenselythefile.vip
-streamuber-bestspeedyfile.best
-streamuber-bestswiftfile.best
 subeamy.pw
 sudoo.net
 summermedia.club
@@ -350,6 +351,7 @@ useprovpn.me
 usevpnpro.me
 usforeclosure.net
 videoauthor.ru
+videolookace.ru
 vpnprosecurity.me
 vpnsecurity.me
 vpnservice.me

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 04 Oct 2021 12:04:27 +0000
+# Updated: Tue, 05 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -19,7 +19,6 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
-0.0.0.0 bestvideoplayerupgrades.work
 0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bigwinonlinefreecongrats.cyou
 0.0.0.0 bluetiger.cloud
@@ -41,6 +40,7 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
@@ -111,6 +111,7 @@
 0.0.0.0 initiatecompletelyspeedythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
@@ -134,6 +135,7 @@
 0.0.0.0 koalaspringb.xyz
 0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
+0.0.0.0 koalaspringe.xyz
 0.0.0.0 koalaspringf.xyz
 0.0.0.0 koalasummera.xyz
 0.0.0.0 koalasummerc.xyz
@@ -199,6 +201,7 @@
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
+0.0.0.0 movievod.me
 0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
@@ -220,6 +223,7 @@
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringb.xyz
+0.0.0.0 pandaspringd.xyz
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummera.xyz
 0.0.0.0 pandasummerc.xyz
@@ -264,7 +268,6 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
 0.0.0.0 rewardgivingrealspecialoffer.cyou
@@ -275,11 +278,13 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
+0.0.0.0 savagegrowplus.net
 0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -298,10 +303,8 @@
 0.0.0.0 streamdeveloped-bestoverlyfile.best
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamfree-bestmostfile.best
-0.0.0.0 streamintensely-bestquickfile.best
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
-0.0.0.0 streamoverly-bestdevelopedfile.best
 0.0.0.0 streamoverly-bestrenewedfile.best
 0.0.0.0 streampreciseintenselythefile.vip
 0.0.0.0 streamprogressive-bestoverlyfile.best
@@ -309,8 +312,6 @@
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamrenewed-bestoverlyfile.best
 0.0.0.0 streamspeedyintenselythefile.vip
-0.0.0.0 streamuber-bestspeedyfile.best
-0.0.0.0 streamuber-bestswiftfile.best
 0.0.0.0 subeamy.pw
 0.0.0.0 sudoo.net
 0.0.0.0 summermedia.club
@@ -350,6 +351,7 @@
 0.0.0.0 usevpnpro.me
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoauthor.ru
+0.0.0.0 videolookace.ru
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 vpnservice.me

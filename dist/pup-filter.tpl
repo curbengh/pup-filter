@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 04 Oct 2021 12:04:27 +0000
+# Updated: Tue, 05 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
 -d bestappland.me
--d bestvideoplayerupgrades.work
 -d bigwin-online-free-congrats.cyou
 -d bigwinonlinefreecongrats.cyou
 -d bluetiger.cloud
@@ -44,6 +43,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
@@ -114,6 +114,7 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -137,6 +138,7 @@ msFilterList
 -d koalaspringb.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
+-d koalaspringe.xyz
 -d koalaspringf.xyz
 -d koalasummera.xyz
 -d koalasummerc.xyz
@@ -202,6 +204,7 @@ msFilterList
 -d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -223,6 +226,7 @@ msFilterList
 -d pandaautumnc.xyz
 -d pandaautumnf.xyz
 -d pandaspringb.xyz
+-d pandaspringd.xyz
 -d pandaspringe.xyz
 -d pandasummera.xyz
 -d pandasummerc.xyz
@@ -267,7 +271,6 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
--d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rewardgivingrealspecialoffer.cyou
@@ -278,11 +281,13 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -301,10 +306,8 @@ msFilterList
 -d streamdeveloped-bestoverlyfile.best
 -d streamdevelopedintenselythefile.vip
 -d streamfree-bestmostfile.best
--d streamintensely-bestquickfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
--d streamoverly-bestdevelopedfile.best
 -d streamoverly-bestrenewedfile.best
 -d streampreciseintenselythefile.vip
 -d streamprogressive-bestoverlyfile.best
@@ -312,8 +315,6 @@ msFilterList
 -d streamrecent-bestuberfile.best
 -d streamrenewed-bestoverlyfile.best
 -d streamspeedyintenselythefile.vip
--d streamuber-bestspeedyfile.best
--d streamuber-bestswiftfile.best
 -d subeamy.pw
 -d sudoo.net
 -d summermedia.club
@@ -353,6 +354,7 @@ msFilterList
 -d usevpnpro.me
 -d usforeclosure.net
 -d videoauthor.ru
+-d videolookace.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
