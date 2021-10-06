@@ -1,13 +1,11 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 05 Oct 2021 12:03:24 +0000
+! Updated: Wed, 06 Oct 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||amobil.online$document
@@ -55,6 +53,7 @@
 ||defensepro.me$document
 ||desixxx.cloud$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -148,7 +147,6 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -196,14 +194,12 @@
 ||lubbockeda.org$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
-||mathison.io$document
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
-||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -211,7 +207,6 @@
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
-||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||oldharper.xyz$document
@@ -251,8 +246,10 @@
 ||playautumnf.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
+||playspringc.xyz$document
 ||playspringd.xyz$document
 ||playspringe.xyz$document
+||playsummerb.xyz$document
 ||playsummerc.xyz$document
 ||playsummere.xyz$document
 ||playsummerf.xyz$document
@@ -274,6 +271,7 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
 ||rewardgivingrealspecialoffer.cyou$document
@@ -284,7 +282,6 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
-||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -355,6 +352,7 @@
 ||useprovpn.me$document
 ||usevpnpro.me$document
 ||usforeclosure.net$document
+||videoau.ru$document
 ||videoauthor.ru$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document

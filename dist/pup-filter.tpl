@@ -1,16 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 05 Oct 2021 12:03:24 +0000
+# Updated: Wed, 06 Oct 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -58,6 +56,7 @@ msFilterList
 -d defensepro.me
 -d desixxx.cloud
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -151,7 +150,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -199,14 +197,12 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
--d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -214,7 +210,6 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
--d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
 -d oldharper.xyz
@@ -254,8 +249,10 @@ msFilterList
 -d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
+-d playspringc.xyz
 -d playspringd.xyz
 -d playspringe.xyz
+-d playsummerb.xyz
 -d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
@@ -277,6 +274,7 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rewardgivingrealspecialoffer.cyou
@@ -287,7 +285,6 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
--d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -358,6 +355,7 @@ msFilterList
 -d useprovpn.me
 -d usevpnpro.me
 -d usforeclosure.net
+-d videoau.ru
 -d videoauthor.ru
 -d vpnprosecurity.me
 -d vpnsecurity.me

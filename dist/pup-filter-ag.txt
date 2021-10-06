@@ -1,13 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 05 Oct 2021 12:03:24 +0000
+! Updated: Wed, 06 Oct 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
@@ -55,6 +53,7 @@
 ||defensepro.me$all
 ||desixxx.cloud$all
 ||dollarsurvey365.org$all
+||dollarsurvey366.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -148,7 +147,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -196,14 +194,12 @@
 ||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
-||mathison.io$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
-||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -211,7 +207,6 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
-||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||oldharper.xyz$all
@@ -251,8 +246,10 @@
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
+||playspringc.xyz$all
 ||playspringd.xyz$all
 ||playspringe.xyz$all
+||playsummerb.xyz$all
 ||playsummerc.xyz$all
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
@@ -274,6 +271,7 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
+||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rewardgivingrealspecialoffer.cyou$all
@@ -284,7 +282,6 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
-||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -355,6 +352,7 @@
 ||useprovpn.me$all
 ||usevpnpro.me$all
 ||usforeclosure.net$all
+||videoau.ru$all
 ||videoauthor.ru$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
