@@ -1,12 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 06 Oct 2021 00:02:54 +0000
+! Updated: Wed, 06 Oct 2021 12:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||4upgradingstablesafe.work$all
-||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
@@ -52,6 +51,7 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
+||discoveryfeed.org$all
 ||dollarsurvey365.org$all
 ||dollarsurvey366.org$all
 ||earlyprogress.info$all
@@ -274,6 +274,7 @@
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
+||rancy.xyz$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -287,6 +288,7 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
