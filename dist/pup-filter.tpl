@@ -1,14 +1,16 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 06 Oct 2021 12:02:41 +0000
+# Updated: Thu, 07 Oct 2021 00:03:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d appzfirer.biz
@@ -21,7 +23,6 @@ msFilterList
 -d beinspired.global
 -d bestappland.me
 -d bigwin-online-free-congrats.cyou
--d bigwinonlinefreecongrats.cyou
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
@@ -41,11 +42,11 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d curiositydstream.com
+-d dailyboard.org
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
@@ -56,7 +57,6 @@ msFilterList
 -d desixxx.cloud
 -d discoveryfeed.org
 -d dollarsurvey365.org
--d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -115,7 +115,6 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -150,6 +149,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -197,12 +197,13 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
+-d mathison.io
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
 -d mobileluckywinner.site
--d money-hero.org
+-d movievod.me
 -d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
@@ -210,6 +211,7 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
 -d oldharper.xyz
@@ -234,6 +236,7 @@ msFilterList
 -d pandasummere.xyz
 -d pandasummerf.xyz
 -d pandawintera.xyz
+-d pandawinterc.xyz
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
@@ -286,6 +289,7 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
+-d savagegrowplus.net
 -d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -307,17 +311,13 @@ msFilterList
 -d startos.win
 -d stickr.co
 -d streamadvanced-bestcompletelyfile.best
--d streamdeveloped-bestoverlyfile.best
 -d streamdevelopedintenselythefile.vip
 -d streamfree-bestmostfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
--d streamoverly-bestrenewedfile.best
 -d streampreciseintenselythefile.vip
--d streamprogressive-bestoverlyfile.best
 -d streamquick-bestmostfile.best
 -d streamrecent-bestuberfile.best
--d streamrenewed-bestoverlyfile.best
 -d streamspeedyintenselythefile.vip
 -d subeamy.pw
 -d sudoo.net
@@ -346,7 +346,6 @@ msFilterList
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
--d trackingsys.tech
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
@@ -356,7 +355,6 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d vpnprosecurity.me

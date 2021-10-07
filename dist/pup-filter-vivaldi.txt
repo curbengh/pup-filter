@@ -1,11 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 06 Oct 2021 12:02:41 +0000
+! Updated: Thu, 07 Oct 2021 00:03:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
@@ -18,7 +20,6 @@
 ||beinspired.global$document
 ||bestappland.me$document
 ||bigwin-online-free-congrats.cyou$document
-||bigwinonlinefreecongrats.cyou$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
@@ -38,11 +39,11 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||curiositydstream.com$document
+||dailyboard.org$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealmedia.club$document
@@ -53,7 +54,6 @@
 ||desixxx.cloud$document
 ||discoveryfeed.org$document
 ||dollarsurvey365.org$document
-||dollarsurvey366.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -112,7 +112,6 @@
 ||initiatecompletelyspeedythefile.vip$document
 ||initiatesophisticatedcompletelythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||java-forum.org$document
@@ -147,6 +146,7 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -194,12 +194,13 @@
 ||lubbockeda.org$document
 ||marketloans.net$document
 ||matchyourgirl.online$document
+||mathison.io$document
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
 ||mindmatch.ai$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
+||movievod.me$document
 ||my-credit-score.xyz$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
@@ -207,6 +208,7 @@
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
+||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||oldharper.xyz$document
@@ -231,6 +233,7 @@
 ||pandasummere.xyz$document
 ||pandasummerf.xyz$document
 ||pandawintera.xyz$document
+||pandawinterc.xyz$document
 ||pandawinterd.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
@@ -283,6 +286,7 @@
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
+||savagegrowplus.net$document
 ||scoopswoop.info$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -304,17 +308,13 @@
 ||startos.win$document
 ||stickr.co$document
 ||streamadvanced-bestcompletelyfile.best$document
-||streamdeveloped-bestoverlyfile.best$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamfree-bestmostfile.best$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
-||streamoverly-bestrenewedfile.best$document
 ||streampreciseintenselythefile.vip$document
-||streamprogressive-bestoverlyfile.best$document
 ||streamquick-bestmostfile.best$document
 ||streamrecent-bestuberfile.best$document
-||streamrenewed-bestoverlyfile.best$document
 ||streamspeedyintenselythefile.vip$document
 ||subeamy.pw$document
 ||sudoo.net$document
@@ -343,7 +343,6 @@
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
-||trackingsys.tech$document
 ||trafficmind.pro$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
@@ -353,7 +352,6 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||vpnprosecurity.me$document

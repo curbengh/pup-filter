@@ -1,11 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 06 Oct 2021 12:02:41 +0000
+! Updated: Thu, 07 Oct 2021 00:03:25 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
@@ -18,7 +20,6 @@
 ||beinspired.global$all
 ||bestappland.me$all
 ||bigwin-online-free-congrats.cyou$all
-||bigwinonlinefreecongrats.cyou$all
 ||bluetiger.cloud$all
 ||boot-upcompletely-bestprecisefile.best$all
 ||boot-upcompletely-bestsophisticatedfile.best$all
@@ -38,11 +39,11 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||curiositydstream.com$all
+||dailyboard.org$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -53,7 +54,6 @@
 ||desixxx.cloud$all
 ||discoveryfeed.org$all
 ||dollarsurvey365.org$all
-||dollarsurvey366.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -112,7 +112,6 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
@@ -147,6 +146,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||ligamedia.art$all
@@ -194,12 +194,13 @@
 ||lubbockeda.org$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
+||mathison.io$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
+||movievod.me$all
 ||my-credit-score.xyz$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
@@ -207,6 +208,7 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
+||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||oldharper.xyz$all
@@ -231,6 +233,7 @@
 ||pandasummere.xyz$all
 ||pandasummerf.xyz$all
 ||pandawintera.xyz$all
+||pandawinterc.xyz$all
 ||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pcsecurity-live.xyz$all
@@ -283,6 +286,7 @@
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
+||savagegrowplus.net$all
 ||scoopswoop.info$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -304,17 +308,13 @@
 ||startos.win$all
 ||stickr.co$all
 ||streamadvanced-bestcompletelyfile.best$all
-||streamdeveloped-bestoverlyfile.best$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamfree-bestmostfile.best$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
-||streamoverly-bestrenewedfile.best$all
 ||streampreciseintenselythefile.vip$all
-||streamprogressive-bestoverlyfile.best$all
 ||streamquick-bestmostfile.best$all
 ||streamrecent-bestuberfile.best$all
-||streamrenewed-bestoverlyfile.best$all
 ||streamspeedyintenselythefile.vip$all
 ||subeamy.pw$all
 ||sudoo.net$all
@@ -343,7 +343,6 @@
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
-||trackingsys.tech$all
 ||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
@@ -353,7 +352,6 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||vpnprosecurity.me$all
