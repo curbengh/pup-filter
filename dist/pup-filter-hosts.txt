@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 08 Oct 2021 00:03:01 +0000
+# Updated: Fri, 08 Oct 2021 12:03:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -95,7 +95,6 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
-0.0.0.0 horny-honey.online
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
