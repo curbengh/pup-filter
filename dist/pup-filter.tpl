@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 07 Oct 2021 12:03:57 +0000
+# Updated: Fri, 08 Oct 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d appzfirer.biz
@@ -22,7 +21,6 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
 -d bestappland.me
--d bigwin-online-free-congrats.cyou
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
@@ -36,7 +34,6 @@ msFilterList
 -d breaking-news.digital
 -d calledbellc.fun
 -d checkstableaupdatinglinks.work
--d connectionapplication.com
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
@@ -48,7 +45,6 @@ msFilterList
 -d curiositydstream.com
 -d dailyboard.org
 -d darkview.org
--d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -76,7 +72,6 @@ msFilterList
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
--d flymedia.cam
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
@@ -98,12 +93,12 @@ msFilterList
 -d goalmedia.monster
 -d golddellifewonder.rest
 -d gonesteeldouble.top
--d googsistem.live
 -d grandencryptions.me
 -d hailso.xyz
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d horny-honey.online
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
@@ -124,6 +119,7 @@ msFilterList
 -d joyspotmap.xyz
 -d jtkszl.vip
 -d juicydataage.ru
+-d juicydataair.ru
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
@@ -155,6 +151,7 @@ msFilterList
 -d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
+-d link4updatingcentral.work
 -d listenthisso.top
 -d lltrsknoob.click
 -d loadadvancedextremelythefile.vip
@@ -202,8 +199,8 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mobileluckywinner.site
+-d money-hero.org
 -d movievod.me
--d my-credit-score.xyz
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -294,7 +291,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -339,13 +335,12 @@ msFilterList
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
--d thelastpicture.show
 -d thrawdmn55.xyz
--d timeoffers.net
 -d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
+-d trackingsys.tech
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
@@ -355,6 +350,7 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d vpnprosecurity.me

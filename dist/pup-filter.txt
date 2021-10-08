@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 07 Oct 2021 12:03:57 +0000
+! Updated: Fri, 08 Oct 2021 00:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
-abcscience.xyz
 aikoo.club
 amobil.online
 appzfirer.biz
@@ -19,7 +18,6 @@ be-n9lnns3n-ok.live
 be-us-exercise-bikes-ok.live
 beinspired.global
 bestappland.me
-bigwin-online-free-congrats.cyou
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
 boot-upcompletely-bestsophisticatedfile.best
@@ -33,7 +31,6 @@ boot-upuber-bestfreefile.best
 breaking-news.digital
 calledbellc.fun
 checkstableaupdatinglinks.work
-connectionapplication.com
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
@@ -45,7 +42,6 @@ cryptotilt.club
 curiositydstream.com
 dailyboard.org
 darkview.org
-dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -73,7 +69,6 @@ finreporter.net
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
-flymedia.cam
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
@@ -95,12 +90,12 @@ goalmedia.club
 goalmedia.monster
 golddellifewonder.rest
 gonesteeldouble.top
-googsistem.live
 grandencryptions.me
 hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
+horny-honey.online
 hpages.net
 httqzq.vip
 hypezen.info
@@ -121,6 +116,7 @@ jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
 juicydataage.ru
+juicydataair.ru
 junemedia.bar
 junemedia.club
 junemedia.xyz
@@ -152,6 +148,7 @@ lackystack.net
 ligamedia.art
 ligamedia.casa
 ligamedia.club
+link4updatingcentral.work
 listenthisso.top
 lltrsknoob.click
 loadadvancedextremelythefile.vip
@@ -199,8 +196,8 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mobileluckywinner.site
+money-hero.org
 movievod.me
-my-credit-score.xyz
 mynutriplan.co
 n95o0fxvvw.top
 nettrafficpartners.net
@@ -291,7 +288,6 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -336,13 +332,12 @@ technologypartners.net
 thanksyoursupport.club
 thecryptozone.website
 theirproviderock.top
-thelastpicture.show
 thrawdmn55.xyz
-timeoffers.net
 timesamerica.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
+trackingsys.tech
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
@@ -352,6 +347,7 @@ upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+usforeclosure.net
 videoau.ru
 videoauthor.ru
 vpnprosecurity.me

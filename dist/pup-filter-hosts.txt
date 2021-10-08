@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 07 Oct 2021 12:03:57 +0000
+# Updated: Fri, 08 Oct 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 appzfirer.biz
@@ -19,7 +18,6 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
-0.0.0.0 bigwin-online-free-congrats.cyou
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
@@ -33,7 +31,6 @@
 0.0.0.0 breaking-news.digital
 0.0.0.0 calledbellc.fun
 0.0.0.0 checkstableaupdatinglinks.work
-0.0.0.0 connectionapplication.com
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
@@ -45,7 +42,6 @@
 0.0.0.0 curiositydstream.com
 0.0.0.0 dailyboard.org
 0.0.0.0 darkview.org
-0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
@@ -73,7 +69,6 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
-0.0.0.0 flymedia.cam
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
@@ -95,12 +90,12 @@
 0.0.0.0 goalmedia.monster
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
-0.0.0.0 googsistem.live
 0.0.0.0 grandencryptions.me
 0.0.0.0 hailso.xyz
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 horny-honey.online
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
@@ -121,6 +116,7 @@
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 juicydataage.ru
+0.0.0.0 juicydataair.ru
 0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
@@ -152,6 +148,7 @@
 0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
+0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
 0.0.0.0 lltrsknoob.click
 0.0.0.0 loadadvancedextremelythefile.vip
@@ -199,8 +196,8 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
-0.0.0.0 my-credit-score.xyz
 0.0.0.0 mynutriplan.co
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
@@ -291,7 +288,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -336,13 +332,12 @@
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
-0.0.0.0 thelastpicture.show
 0.0.0.0 thrawdmn55.xyz
-0.0.0.0 timeoffers.net
 0.0.0.0 timesamerica.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
+0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
@@ -352,6 +347,7 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 vpnprosecurity.me
