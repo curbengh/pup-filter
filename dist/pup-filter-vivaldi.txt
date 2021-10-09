@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 09 Oct 2021 00:23:41 +0000
+! Updated: Sat, 09 Oct 2021 12:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -131,8 +131,6 @@
 ||koalaautumnd.xyz$document
 ||koalaautumne.xyz$document
 ||koalaautumnf.xyz$document
-||koalaspringb.xyz$document
-||koalaspringc.xyz$document
 ||koalaspringd.xyz$document
 ||koalaspringe.xyz$document
 ||koalaspringf.xyz$document
@@ -218,7 +216,6 @@
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
-||pandaautumnd.xyz$document
 ||pandaautumnf.xyz$document
 ||pandaspringa.xyz$document
 ||pandaspringb.xyz$document
@@ -239,10 +236,8 @@
 ||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
 ||placespina.xyz$document
-||playautumna.xyz$document
 ||playautumnb.xyz$document
 ||playautumnc.xyz$document
-||playautumnd.xyz$document
 ||playautumnf.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
@@ -274,7 +269,6 @@
 ||prtctapp.me$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||rancy.xyz$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardsluckygiveawayprize.cyou$document
@@ -294,6 +288,7 @@
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopadvisors.net$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||spotmapd.xyz$document

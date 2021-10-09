@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 09 Oct 2021 00:23:41 +0000
+# Updated: Sat, 09 Oct 2021 12:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -134,8 +134,6 @@ msFilterList
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
 -d koalaautumnf.xyz
--d koalaspringb.xyz
--d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalaspringe.xyz
 -d koalaspringf.xyz
@@ -221,7 +219,6 @@ msFilterList
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
--d pandaautumnd.xyz
 -d pandaautumnf.xyz
 -d pandaspringa.xyz
 -d pandaspringb.xyz
@@ -242,10 +239,8 @@ msFilterList
 -d placefortheupgradesset.work
 -d placesiteb.xyz
 -d placespina.xyz
--d playautumna.xyz
 -d playautumnb.xyz
 -d playautumnc.xyz
--d playautumnd.xyz
 -d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
@@ -277,7 +272,6 @@ msFilterList
 -d prtctapp.me
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d rancy.xyz
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardsluckygiveawayprize.cyou
@@ -297,6 +291,7 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopadvisors.net
 -d shopnsave.world
 -d smartideas.pro
 -d spotmapd.xyz

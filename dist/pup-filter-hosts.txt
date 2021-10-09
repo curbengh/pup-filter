@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 09 Oct 2021 00:23:41 +0000
+# Updated: Sat, 09 Oct 2021 12:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -131,8 +131,6 @@
 0.0.0.0 koalaautumnd.xyz
 0.0.0.0 koalaautumne.xyz
 0.0.0.0 koalaautumnf.xyz
-0.0.0.0 koalaspringb.xyz
-0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
 0.0.0.0 koalaspringe.xyz
 0.0.0.0 koalaspringf.xyz
@@ -218,7 +216,6 @@
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
-0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
@@ -239,10 +236,8 @@
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
-0.0.0.0 playautumna.xyz
 0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
-0.0.0.0 playautumnd.xyz
 0.0.0.0 playautumnf.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
@@ -274,7 +269,6 @@
 0.0.0.0 prtctapp.me
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
-0.0.0.0 rancy.xyz
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardsluckygiveawayprize.cyou
@@ -294,6 +288,7 @@
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopadvisors.net
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
 0.0.0.0 spotmapd.xyz

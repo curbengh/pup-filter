@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 09 Oct 2021 00:23:41 +0000
+! Updated: Sat, 09 Oct 2021 12:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -131,8 +131,6 @@
 ||koalaautumnd.xyz$all
 ||koalaautumne.xyz$all
 ||koalaautumnf.xyz$all
-||koalaspringb.xyz$all
-||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
 ||koalaspringe.xyz$all
 ||koalaspringf.xyz$all
@@ -218,7 +216,6 @@
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
-||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
 ||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
@@ -239,10 +236,8 @@
 ||placefortheupgradesset.work$all
 ||placesiteb.xyz$all
 ||placespina.xyz$all
-||playautumna.xyz$all
 ||playautumnb.xyz$all
 ||playautumnc.xyz$all
-||playautumnd.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
@@ -274,7 +269,6 @@
 ||prtctapp.me$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
-||rancy.xyz$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardsluckygiveawayprize.cyou$all
@@ -294,6 +288,7 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
+||shopadvisors.net$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||spotmapd.xyz$all
