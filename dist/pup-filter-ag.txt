@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 08 Oct 2021 12:03:00 +0000
+! Updated: Sat, 09 Oct 2021 00:23:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appzfirer.biz$all
@@ -15,6 +16,7 @@
 ||auto-car-search.site$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
+||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
 ||beinspired.global$all
 ||bestappland.me$all
@@ -36,12 +38,14 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
+||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||curiositydstream.com$all
 ||dailyboard.org$all
 ||darkview.org$all
+||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
@@ -94,7 +98,6 @@
 ||hailso.xyz$all
 ||healthylives.today$all
 ||heatwavereporter.org$all
-||help4.info$all
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
@@ -106,6 +109,7 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||java-forum.org$all
@@ -195,8 +199,6 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mobileluckywinner.site$all
-||money-hero.org$all
-||movievod.me$all
 ||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
@@ -244,6 +246,7 @@
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
+||playspringa.xyz$all
 ||playspringc.xyz$all
 ||playspringd.xyz$all
 ||playspringe.xyz$all
@@ -269,7 +272,6 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -287,11 +289,11 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||spotmapd.xyz$all
@@ -331,8 +333,9 @@
 ||thanksyoursupport.club$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
+||thelastpicture.show$all
 ||thrawdmn55.xyz$all
-||timesamerica.net$all
+||timeoffers.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
@@ -349,6 +352,7 @@
 ||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
+||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
 ||vpnservice.me$all

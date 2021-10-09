@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 08 Oct 2021 12:03:00 +0000
+# Updated: Sat, 09 Oct 2021 00:23:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d appzfirer.biz
@@ -18,6 +19,7 @@ msFilterList
 -d auto-car-search.site
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
+-d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
 -d bestappland.me
@@ -39,12 +41,14 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d curiositydstream.com
 -d dailyboard.org
 -d darkview.org
+-d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -97,7 +101,6 @@ msFilterList
 -d hailso.xyz
 -d healthylives.today
 -d heatwavereporter.org
--d help4.info
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
@@ -109,6 +112,7 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -198,8 +202,6 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mobileluckywinner.site
--d money-hero.org
--d movievod.me
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -247,6 +249,7 @@ msFilterList
 -d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
+-d playspringa.xyz
 -d playspringc.xyz
 -d playspringd.xyz
 -d playspringe.xyz
@@ -272,7 +275,6 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
--d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
@@ -290,11 +292,11 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d spotmapd.xyz
@@ -334,8 +336,9 @@ msFilterList
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
+-d thelastpicture.show
 -d thrawdmn55.xyz
--d timesamerica.net
+-d timeoffers.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -352,6 +355,7 @@ msFilterList
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
+-d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
 -d vpnservice.me
