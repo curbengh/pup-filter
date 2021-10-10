@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 09 Oct 2021 12:02:31 +0000
+# Updated: Sun, 10 Oct 2021 00:02:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -38,14 +38,12 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
 curiositydstream.com
 dailyboard.org
 darkview.org
-dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -54,6 +52,7 @@ defensepro.me
 desixxx.cloud
 discoveryfeed.org
 dollarsurvey365.org
+dollarsurvey366.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -90,7 +89,6 @@ gladplacespin.xyz
 global-track.space
 goalmedia.bar
 goalmedia.cam
-goalmedia.club
 goalmedia.monster
 golddellifewonder.rest
 gonesteeldouble.top
@@ -98,6 +96,7 @@ grandencryptions.me
 hailso.xyz
 healthylives.today
 heatwavereporter.org
+help4.info
 hpages.net
 httqzq.vip
 hypezen.info
@@ -120,6 +119,7 @@ joyspotmap.xyz
 jtkszl.vip
 juicydataage.ru
 juicydataair.ru
+juicydataalt.ru
 junemedia.bar
 junemedia.club
 junemedia.xyz
@@ -143,7 +143,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 ktpyzw.vip
 lackystack.net
 ligamedia.art
@@ -196,12 +195,14 @@ mathison.io
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
+mindmatch.ai
 mobileluckywinner.site
+money-hero.org
+movievod.me
 mynutriplan.co
 n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
-newsinformer.net
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -283,12 +284,12 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
+shopin.nyc
 shopnsave.world
 smartideas.pro
 spotmapd.xyz
@@ -297,15 +298,12 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stickr.co
 stogether.fun
-streamadvanced-bestcompletelyfile.best
 streamdevelopedintenselythefile.vip
 streamfree-bestmostfile.best
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
 streampreciseintenselythefile.vip
-streamquick-bestmostfile.best
 streamrecent-bestuberfile.best
 streamspeedyintenselythefile.vip
 subeamy.pw
@@ -324,17 +322,16 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
-technologypartners.net
 thanksyoursupport.club
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
 timeoffers.net
+timesamerica.net
 toolvpn.me
 top-offers2.club
 tracking-landers.xyz
-trackingsys.tech
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
@@ -347,6 +344,7 @@ usevpnpro.me
 usforeclosure.net
 videoau.ru
 videoauthor.ru
+videolookalt.ru
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me

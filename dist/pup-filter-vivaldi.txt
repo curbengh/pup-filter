@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 09 Oct 2021 12:02:31 +0000
+! Updated: Sun, 10 Oct 2021 00:02:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -38,14 +38,12 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||curiositydstream.com$document
 ||dailyboard.org$document
 ||darkview.org$document
-||dayinlife.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
@@ -54,6 +52,7 @@
 ||desixxx.cloud$document
 ||discoveryfeed.org$document
 ||dollarsurvey365.org$document
+||dollarsurvey366.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -90,7 +89,6 @@
 ||global-track.space$document
 ||goalmedia.bar$document
 ||goalmedia.cam$document
-||goalmedia.club$document
 ||goalmedia.monster$document
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
@@ -98,6 +96,7 @@
 ||hailso.xyz$document
 ||healthylives.today$document
 ||heatwavereporter.org$document
+||help4.info$document
 ||hpages.net$document
 ||httqzq.vip$document
 ||hypezen.info$document
@@ -120,6 +119,7 @@
 ||jtkszl.vip$document
 ||juicydataage.ru$document
 ||juicydataair.ru$document
+||juicydataalt.ru$document
 ||junemedia.bar$document
 ||junemedia.club$document
 ||junemedia.xyz$document
@@ -143,7 +143,6 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||ligamedia.art$document
@@ -196,12 +195,14 @@
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
+||mindmatch.ai$document
 ||mobileluckywinner.site$document
+||money-hero.org$document
+||movievod.me$document
 ||mynutriplan.co$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -283,12 +284,12 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
-||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
 ||shopadvisors.net$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||spotmapd.xyz$document
@@ -297,15 +298,12 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
-||stickr.co$document
 ||stogether.fun$document
-||streamadvanced-bestcompletelyfile.best$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamfree-bestmostfile.best$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
 ||streampreciseintenselythefile.vip$document
-||streamquick-bestmostfile.best$document
 ||streamrecent-bestuberfile.best$document
 ||streamspeedyintenselythefile.vip$document
 ||subeamy.pw$document
@@ -324,17 +322,16 @@
 ||systemupdateme.solutions$document
 ||systemupdatit.club$document
 ||technoblogs.net$document
-||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
 ||thrawdmn55.xyz$document
 ||timeoffers.net$document
+||timesamerica.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
-||trackingsys.tech$document
 ||trafficmind.pro$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
@@ -347,6 +344,7 @@
 ||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
+||videolookalt.ru$document
 ||vpn-pro.club$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document

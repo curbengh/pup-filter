@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 09 Oct 2021 12:02:31 +0000
+# Updated: Sun, 10 Oct 2021 00:02:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -41,14 +41,12 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d curiositydstream.com
 -d dailyboard.org
 -d darkview.org
--d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -57,6 +55,7 @@ msFilterList
 -d desixxx.cloud
 -d discoveryfeed.org
 -d dollarsurvey365.org
+-d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -93,7 +92,6 @@ msFilterList
 -d global-track.space
 -d goalmedia.bar
 -d goalmedia.cam
--d goalmedia.club
 -d goalmedia.monster
 -d golddellifewonder.rest
 -d gonesteeldouble.top
@@ -101,6 +99,7 @@ msFilterList
 -d hailso.xyz
 -d healthylives.today
 -d heatwavereporter.org
+-d help4.info
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
@@ -123,6 +122,7 @@ msFilterList
 -d jtkszl.vip
 -d juicydataage.ru
 -d juicydataair.ru
+-d juicydataalt.ru
 -d junemedia.bar
 -d junemedia.club
 -d junemedia.xyz
@@ -146,7 +146,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -199,12 +198,14 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
+-d mindmatch.ai
 -d mobileluckywinner.site
+-d money-hero.org
+-d movievod.me
 -d mynutriplan.co
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -286,12 +287,12 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
+-d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d spotmapd.xyz
@@ -300,15 +301,12 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d stogether.fun
--d streamadvanced-bestcompletelyfile.best
 -d streamdevelopedintenselythefile.vip
 -d streamfree-bestmostfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
--d streamquick-bestmostfile.best
 -d streamrecent-bestuberfile.best
 -d streamspeedyintenselythefile.vip
 -d subeamy.pw
@@ -327,17 +325,16 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
--d technologypartners.net
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
+-d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d tracking-landers.xyz
--d trackingsys.tech
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
@@ -350,6 +347,7 @@ msFilterList
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
+-d videolookalt.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
