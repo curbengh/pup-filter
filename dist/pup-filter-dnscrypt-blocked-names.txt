@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 10 Oct 2021 00:02:36 +0000
+# Updated: Sun, 10 Oct 2021 12:02:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,7 +50,6 @@ dealmedia.xyz
 dealsify.net
 defensepro.me
 desixxx.cloud
-discoveryfeed.org
 dollarsurvey365.org
 dollarsurvey366.org
 earlyprogress.info
@@ -131,13 +130,13 @@ koalaautumnc.xyz
 koalaautumnd.xyz
 koalaautumne.xyz
 koalaautumnf.xyz
+koalaspringc.xyz
 koalaspringd.xyz
 koalaspringe.xyz
 koalaspringf.xyz
 koalasummera.xyz
 koalasummerc.xyz
 koalasummerd.xyz
-koalasummerf.xyz
 koalawintera.xyz
 koalawinterb.xyz
 koalawinterc.xyz
@@ -217,6 +216,7 @@ ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
+pandaautumnd.xyz
 pandaautumnf.xyz
 pandaspringa.xyz
 pandaspringb.xyz
@@ -298,7 +298,6 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stogether.fun
 streamdevelopedintenselythefile.vip
 streamfree-bestmostfile.best
 streamintenselyrefinedthefile.vip
@@ -333,6 +332,7 @@ toolvpn.me
 top-offers2.club
 tracking-landers.xyz
 trafficmind.pro
+trane.fun
 truecompassion.net
 trustappstreamsall.digital
 ubertech.shop

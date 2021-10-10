@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 10 Oct 2021 00:02:36 +0000
+! Updated: Sun, 10 Oct 2021 12:02:11 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,7 +50,6 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
-||discoveryfeed.org$all
 ||dollarsurvey365.org$all
 ||dollarsurvey366.org$all
 ||earlyprogress.info$all
@@ -131,13 +130,13 @@
 ||koalaautumnd.xyz$all
 ||koalaautumne.xyz$all
 ||koalaautumnf.xyz$all
+||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
 ||koalaspringe.xyz$all
 ||koalaspringf.xyz$all
 ||koalasummera.xyz$all
 ||koalasummerc.xyz$all
 ||koalasummerd.xyz$all
-||koalasummerf.xyz$all
 ||koalawintera.xyz$all
 ||koalawinterb.xyz$all
 ||koalawinterc.xyz$all
@@ -217,6 +216,7 @@
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
+||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
 ||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
@@ -298,7 +298,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
-||stogether.fun$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamfree-bestmostfile.best$all
 ||streamintenselyrefinedthefile.vip$all
@@ -333,6 +332,7 @@
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
 ||trafficmind.pro$all
+||trane.fun$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
 ||ubertech.shop$all

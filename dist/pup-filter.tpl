@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 10 Oct 2021 00:02:36 +0000
+# Updated: Sun, 10 Oct 2021 12:02:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -53,7 +53,6 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d discoveryfeed.org
 -d dollarsurvey365.org
 -d dollarsurvey366.org
 -d earlyprogress.info
@@ -134,13 +133,13 @@ msFilterList
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
 -d koalaautumnf.xyz
+-d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalaspringe.xyz
 -d koalaspringf.xyz
 -d koalasummera.xyz
 -d koalasummerc.xyz
 -d koalasummerd.xyz
--d koalasummerf.xyz
 -d koalawintera.xyz
 -d koalawinterb.xyz
 -d koalawinterc.xyz
@@ -220,6 +219,7 @@ msFilterList
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
+-d pandaautumnd.xyz
 -d pandaautumnf.xyz
 -d pandaspringa.xyz
 -d pandaspringb.xyz
@@ -301,7 +301,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamfree-bestmostfile.best
 -d streamintenselyrefinedthefile.vip
@@ -336,6 +335,7 @@ msFilterList
 -d top-offers2.club
 -d tracking-landers.xyz
 -d trafficmind.pro
+-d trane.fun
 -d truecompassion.net
 -d trustappstreamsall.digital
 -d ubertech.shop

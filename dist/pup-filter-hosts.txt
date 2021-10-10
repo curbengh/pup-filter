@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 10 Oct 2021 00:02:36 +0000
+# Updated: Sun, 10 Oct 2021 12:02:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -50,7 +50,6 @@
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey365.org
 0.0.0.0 dollarsurvey366.org
 0.0.0.0 earlyprogress.info
@@ -131,13 +130,13 @@
 0.0.0.0 koalaautumnd.xyz
 0.0.0.0 koalaautumne.xyz
 0.0.0.0 koalaautumnf.xyz
+0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
 0.0.0.0 koalaspringe.xyz
 0.0.0.0 koalaspringf.xyz
 0.0.0.0 koalasummera.xyz
 0.0.0.0 koalasummerc.xyz
 0.0.0.0 koalasummerd.xyz
-0.0.0.0 koalasummerf.xyz
 0.0.0.0 koalawintera.xyz
 0.0.0.0 koalawinterb.xyz
 0.0.0.0 koalawinterc.xyz
@@ -217,6 +216,7 @@
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
+0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
@@ -298,7 +298,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
-0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamfree-bestmostfile.best
 0.0.0.0 streamintenselyrefinedthefile.vip
@@ -333,6 +332,7 @@
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficmind.pro
+0.0.0.0 trane.fun
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
 0.0.0.0 ubertech.shop
