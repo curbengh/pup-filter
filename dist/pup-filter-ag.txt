@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 11 Oct 2021 00:02:45 +0000
+! Updated: Mon, 11 Oct 2021 12:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -98,7 +98,6 @@
 ||hpages.net$all
 ||httqzq.vip$all
 ||hypezen.info$all
-||ientsillness.fun$all
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -127,7 +126,6 @@
 ||koalaautumnc.xyz$all
 ||koalaautumnd.xyz$all
 ||koalaautumne.xyz$all
-||koalaautumnf.xyz$all
 ||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
 ||koalaspringe.xyz$all
@@ -239,16 +237,13 @@
 ||placespina.xyz$all
 ||playautumnb.xyz$all
 ||playautumnc.xyz$all
-||playautumnf.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||playspringa.xyz$all
 ||playspringc.xyz$all
 ||playspringd.xyz$all
 ||playspringe.xyz$all
-||playsummera.xyz$all
 ||playsummerb.xyz$all
-||playsummerc.xyz$all
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
 ||playwintera.xyz$all
@@ -289,7 +284,6 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all

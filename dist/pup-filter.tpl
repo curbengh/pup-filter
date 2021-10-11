@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 11 Oct 2021 00:02:45 +0000
+# Updated: Mon, 11 Oct 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -101,7 +101,6 @@ msFilterList
 -d hpages.net
 -d httqzq.vip
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -130,7 +129,6 @@ msFilterList
 -d koalaautumnc.xyz
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
--d koalaautumnf.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalaspringe.xyz
@@ -242,16 +240,13 @@ msFilterList
 -d placespina.xyz
 -d playautumnb.xyz
 -d playautumnc.xyz
--d playautumnf.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d playspringa.xyz
 -d playspringc.xyz
 -d playspringd.xyz
 -d playspringe.xyz
--d playsummera.xyz
 -d playsummerb.xyz
--d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
 -d playwintera.xyz
@@ -292,7 +287,6 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro

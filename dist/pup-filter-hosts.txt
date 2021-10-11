@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 11 Oct 2021 00:02:45 +0000
+# Updated: Mon, 11 Oct 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -98,7 +98,6 @@
 0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -127,7 +126,6 @@
 0.0.0.0 koalaautumnc.xyz
 0.0.0.0 koalaautumnd.xyz
 0.0.0.0 koalaautumne.xyz
-0.0.0.0 koalaautumnf.xyz
 0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
 0.0.0.0 koalaspringe.xyz
@@ -239,16 +237,13 @@
 0.0.0.0 placespina.xyz
 0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
-0.0.0.0 playautumnf.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspringa.xyz
 0.0.0.0 playspringc.xyz
 0.0.0.0 playspringd.xyz
 0.0.0.0 playspringe.xyz
-0.0.0.0 playsummera.xyz
 0.0.0.0 playsummerb.xyz
-0.0.0.0 playsummerc.xyz
 0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
 0.0.0.0 playwintera.xyz
@@ -289,7 +284,6 @@
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
