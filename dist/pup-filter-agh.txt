@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 10 Oct 2021 12:02:11 +0000
+! Updated: Mon, 11 Oct 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -38,9 +38,11 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
+||curfiositystream.com^
 ||curiositydstream.com^
 ||dailyboard.org^
 ||darkview.org^
@@ -50,8 +52,6 @@
 ||dealsify.net^
 ||defensepro.me^
 ||desixxx.cloud^
-||dollarsurvey365.org^
-||dollarsurvey366.org^
 ||earlyprogress.info^
 ||efladn.club^
 ||elpelades.club^
@@ -82,7 +82,6 @@
 ||getbril.io^
 ||getmoregirls.net^
 ||gettheraiceheadreliefhat.io^
-||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
 ||global-track.space^
@@ -107,7 +106,6 @@
 ||initiatecompletelyspeedythefile.vip^
 ||initiatesophisticatedcompletelythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
 ||java-forum.org^
@@ -137,11 +135,13 @@
 ||koalasummera.xyz^
 ||koalasummerc.xyz^
 ||koalasummerd.xyz^
+||koalasummere.xyz^
 ||koalawintera.xyz^
 ||koalawinterb.xyz^
 ||koalawinterc.xyz^
 ||koalawinterd.xyz^
 ||koalawintere.xyz^
+||kompsos.uk^
 ||ktpyzw.vip^
 ||lackystack.net^
 ||ligamedia.art^
@@ -202,6 +202,7 @@
 ||n95o0fxvvw.top^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
+||newsinformer.net^
 ||offerpage.link^
 ||offersearch.info^
 ||official-bigwin-national-free.cyou^
@@ -232,7 +233,6 @@
 ||pandawinterd.xyz^
 ||pandawintere.xyz^
 ||pcsecurity-live.xyz^
-||performstrong-thegreatlyfile.digital^
 ||photo-explorer.org^
 ||placefortheupgradesset.work^
 ||placesiteb.xyz^
@@ -246,6 +246,7 @@
 ||playspringc.xyz^
 ||playspringd.xyz^
 ||playspringe.xyz^
+||playsummera.xyz^
 ||playsummerb.xyz^
 ||playsummerc.xyz^
 ||playsummere.xyz^
@@ -268,11 +269,11 @@
 ||provpnsecurity.me^
 ||provpnservice.me^
 ||prtctapp.me^
+||qfind.net^
 ||quatrefeuillepolonaise.xyz^
 ||quizshein.shop^
 ||rewardgivingrealspecialoffer.cyou^
 ||rewards-promotion-winner-super.cyou^
-||rewardsluckygiveawayprize.cyou^
 ||rewardspromotionwinnersuper.cyou^
 ||robogarden.io^
 ||runadvanced-bestgreatlyfile.best^
@@ -298,8 +299,8 @@
 ||springplanetf.xyz^
 ||start-page.one^
 ||startos.win^
+||stickr.co^
 ||streamdevelopedintenselythefile.vip^
-||streamfree-bestmostfile.best^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
 ||streampreciseintenselythefile.vip^
@@ -321,15 +322,16 @@
 ||systemupdateme.solutions^
 ||systemupdatit.club^
 ||technoblogs.net^
+||technologypartners.net^
 ||thanksyoursupport.club^
 ||thecryptozone.website^
 ||theirproviderock.top^
 ||thelastpicture.show^
 ||thrawdmn55.xyz^
 ||timeoffers.net^
-||timesamerica.net^
 ||toolvpn.me^
 ||top-offers2.club^
+||topdating.online^
 ||tracking-landers.xyz^
 ||trafficmind.pro^
 ||trane.fun^
@@ -344,7 +346,6 @@
 ||usforeclosure.net^
 ||videoau.ru^
 ||videoauthor.ru^
-||videolookalt.ru^
 ||vpn-pro.club^
 ||vpnprosecurity.me^
 ||vpnsecurity.me^
@@ -368,7 +369,6 @@
 ||worldwideluckypromotionfree.cyou^
 ||worldwidenationalclaimfree.cyou^
 ||worldwideofficialpromotion.cyou^
-||worldwideofficialrewardssuper.cyou^
 ||worldwideprizegiveawayfree.cyou^
 ||yourlegendarysystemsupgrade.work^
 ||yourlinkplaceupdatingfree.work^

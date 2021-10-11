@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 10 Oct 2021 12:02:11 +0000
+# Updated: Mon, 11 Oct 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -41,9 +41,11 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
+-d curfiositystream.com
 -d curiositydstream.com
 -d dailyboard.org
 -d darkview.org
@@ -53,8 +55,6 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
--d dollarsurvey365.org
--d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -85,7 +85,6 @@ msFilterList
 -d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
--d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d global-track.space
@@ -110,7 +109,6 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -140,11 +138,13 @@ msFilterList
 -d koalasummera.xyz
 -d koalasummerc.xyz
 -d koalasummerd.xyz
+-d koalasummere.xyz
 -d koalawintera.xyz
 -d koalawinterb.xyz
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d ligamedia.art
@@ -205,6 +205,7 @@ msFilterList
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -235,7 +236,6 @@ msFilterList
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
--d performstrong-thegreatlyfile.digital
 -d photo-explorer.org
 -d placefortheupgradesset.work
 -d placesiteb.xyz
@@ -249,6 +249,7 @@ msFilterList
 -d playspringc.xyz
 -d playspringd.xyz
 -d playspringe.xyz
+-d playsummera.xyz
 -d playsummerb.xyz
 -d playsummerc.xyz
 -d playsummere.xyz
@@ -271,11 +272,11 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
--d rewardsluckygiveawayprize.cyou
 -d rewardspromotionwinnersuper.cyou
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
@@ -301,8 +302,8 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d streamdevelopedintenselythefile.vip
--d streamfree-bestmostfile.best
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -324,15 +325,16 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
--d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
+-d topdating.online
 -d tracking-landers.xyz
 -d trafficmind.pro
 -d trane.fun
@@ -347,7 +349,6 @@ msFilterList
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
--d videolookalt.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -371,7 +372,6 @@ msFilterList
 -d worldwideluckypromotionfree.cyou
 -d worldwidenationalclaimfree.cyou
 -d worldwideofficialpromotion.cyou
--d worldwideofficialrewardssuper.cyou
 -d worldwideprizegiveawayfree.cyou
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
