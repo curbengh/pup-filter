@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 11 Oct 2021 12:02:57 +0000
+# Updated: Tue, 12 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@ appzfirer.biz
 armorprovpn.me
 atprofessor.fun
 auto-car-search.site
+axisradio.ca
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
@@ -32,6 +33,7 @@ boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
 calledbellc.fun
+chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -46,6 +48,7 @@ curfiositystream.com
 curiositydstream.com
 dailyboard.org
 darkview.org
+dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -82,6 +85,7 @@ get-your-score.club
 getbril.io
 getmoregirls.net
 gettheraiceheadreliefhat.io
+girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 global-track.space
@@ -95,7 +99,6 @@ hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
-hpages.net
 httqzq.vip
 hypezen.info
 imagefind.org
@@ -105,6 +108,7 @@ initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiatesophisticatedcompletelythefile.vip
 intelectaction.ru
+investinfo.net
 ironprovpn.me
 isystemupdate.cloud
 java-forum.org
@@ -113,6 +117,7 @@ jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
+juicydataadvance.ru
 juicydataage.ru
 juicydataair.ru
 juicydataalt.ru
@@ -126,6 +131,7 @@ koalaautumnb.xyz
 koalaautumnc.xyz
 koalaautumnd.xyz
 koalaautumne.xyz
+koalaspringa.xyz
 koalaspringc.xyz
 koalaspringd.xyz
 koalaspringe.xyz
@@ -192,7 +198,6 @@ mathison.io
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
-mindmatch.ai
 mobileluckywinner.site
 money-hero.org
 movievod.me
@@ -219,6 +224,7 @@ pandaautumnd.xyz
 pandaautumnf.xyz
 pandaspringa.xyz
 pandaspringb.xyz
+pandaspringc.xyz
 pandaspringd.xyz
 pandaspringe.xyz
 pandasummera.xyz
@@ -237,6 +243,7 @@ placesiteb.xyz
 placespina.xyz
 playautumnb.xyz
 playautumnc.xyz
+playautumne.xyz
 playplanete.xyz
 playspind.xyz
 playspringa.xyz
@@ -323,10 +330,12 @@ theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
 timeoffers.net
+timesamerica.net
 toolvpn.me
 top-offers2.club
 topdating.online
 tracking-landers.xyz
+trackingsys.tech
 trafficmind.pro
 trane.fun
 truecompassion.net

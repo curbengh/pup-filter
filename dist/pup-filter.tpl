@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 11 Oct 2021 12:02:57 +0000
+# Updated: Tue, 12 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ msFilterList
 -d armorprovpn.me
 -d atprofessor.fun
 -d auto-car-search.site
+-d axisradio.ca
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
@@ -35,6 +36,7 @@ msFilterList
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
 -d calledbellc.fun
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -49,6 +51,7 @@ msFilterList
 -d curiositydstream.com
 -d dailyboard.org
 -d darkview.org
+-d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -85,6 +88,7 @@ msFilterList
 -d getbril.io
 -d getmoregirls.net
 -d gettheraiceheadreliefhat.io
+-d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d global-track.space
@@ -98,7 +102,6 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d hypezen.info
 -d imagefind.org
@@ -108,6 +111,7 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -116,6 +120,7 @@ msFilterList
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
+-d juicydataadvance.ru
 -d juicydataage.ru
 -d juicydataair.ru
 -d juicydataalt.ru
@@ -129,6 +134,7 @@ msFilterList
 -d koalaautumnc.xyz
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
+-d koalaspringa.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalaspringe.xyz
@@ -195,7 +201,6 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
--d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -222,6 +227,7 @@ msFilterList
 -d pandaautumnf.xyz
 -d pandaspringa.xyz
 -d pandaspringb.xyz
+-d pandaspringc.xyz
 -d pandaspringd.xyz
 -d pandaspringe.xyz
 -d pandasummera.xyz
@@ -240,6 +246,7 @@ msFilterList
 -d placespina.xyz
 -d playautumnb.xyz
 -d playautumnc.xyz
+-d playautumne.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d playspringa.xyz
@@ -326,10 +333,12 @@ msFilterList
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
+-d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
+-d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
 -d truecompassion.net

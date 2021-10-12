@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 11 Oct 2021 12:02:57 +0000
+# Updated: Tue, 12 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
+0.0.0.0 axisradio.ca
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
@@ -32,6 +33,7 @@
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
 0.0.0.0 calledbellc.fun
+0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -46,6 +48,7 @@
 0.0.0.0 curiositydstream.com
 0.0.0.0 dailyboard.org
 0.0.0.0 darkview.org
+0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
@@ -82,6 +85,7 @@
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
+0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 global-track.space
@@ -95,7 +99,6 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
-0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
 0.0.0.0 imagefind.org
@@ -105,6 +108,7 @@
 0.0.0.0 initiatecompletelyspeedythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 java-forum.org
@@ -113,6 +117,7 @@
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
+0.0.0.0 juicydataadvance.ru
 0.0.0.0 juicydataage.ru
 0.0.0.0 juicydataair.ru
 0.0.0.0 juicydataalt.ru
@@ -126,6 +131,7 @@
 0.0.0.0 koalaautumnc.xyz
 0.0.0.0 koalaautumnd.xyz
 0.0.0.0 koalaautumne.xyz
+0.0.0.0 koalaspringa.xyz
 0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
 0.0.0.0 koalaspringe.xyz
@@ -192,7 +198,6 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
-0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
@@ -219,6 +224,7 @@
 0.0.0.0 pandaautumnf.xyz
 0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
+0.0.0.0 pandaspringc.xyz
 0.0.0.0 pandaspringd.xyz
 0.0.0.0 pandaspringe.xyz
 0.0.0.0 pandasummera.xyz
@@ -237,6 +243,7 @@
 0.0.0.0 placespina.xyz
 0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
+0.0.0.0 playautumne.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspringa.xyz
@@ -323,10 +330,12 @@
 0.0.0.0 thelastpicture.show
 0.0.0.0 thrawdmn55.xyz
 0.0.0.0 timeoffers.net
+0.0.0.0 timesamerica.net
 0.0.0.0 toolvpn.me
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
+0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 truecompassion.net
