@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 12 Oct 2021 00:02:57 +0000
+# Updated: Tue, 12 Oct 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -49,7 +49,6 @@ msFilterList
 -d cryptotilt.club
 -d curfiositystream.com
 -d curiositydstream.com
--d dailyboard.org
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
@@ -58,6 +57,7 @@ msFilterList
 -d dealsify.net
 -d defensepro.me
 -d desixxx.cloud
+-d discoveryfeed.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -104,6 +104,7 @@ msFilterList
 -d help4.info
 -d httqzq.vip
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -135,6 +136,7 @@ msFilterList
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
 -d koalaspringa.xyz
+-d koalaspringb.xyz
 -d koalaspringc.xyz
 -d koalaspringd.xyz
 -d koalaspringe.xyz
@@ -143,6 +145,7 @@ msFilterList
 -d koalasummerc.xyz
 -d koalasummerd.xyz
 -d koalasummere.xyz
+-d koalasummerf.xyz
 -d koalawintera.xyz
 -d koalawinterb.xyz
 -d koalawinterc.xyz
@@ -244,16 +247,21 @@ msFilterList
 -d placefortheupgradesset.work
 -d placesiteb.xyz
 -d placespina.xyz
+-d playautumna.xyz
 -d playautumnb.xyz
 -d playautumnc.xyz
+-d playautumnd.xyz
 -d playautumne.xyz
 -d playplanete.xyz
 -d playspind.xyz
 -d playspringa.xyz
+-d playspringb.xyz
 -d playspringc.xyz
 -d playspringd.xyz
 -d playspringe.xyz
+-d playsummera.xyz
 -d playsummerb.xyz
+-d playsummerc.xyz
 -d playsummere.xyz
 -d playsummerf.xyz
 -d playwintera.xyz
@@ -277,6 +285,7 @@ msFilterList
 -d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
+-d rancy.xyz
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -294,6 +303,7 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
@@ -304,6 +314,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip

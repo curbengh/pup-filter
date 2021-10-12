@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 12 Oct 2021 00:02:57 +0000
+! Updated: Tue, 12 Oct 2021 12:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@
 ||cryptotilt.club$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
-||dailyboard.org$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealmedia.club$document
@@ -55,6 +54,7 @@
 ||dealsify.net$document
 ||defensepro.me$document
 ||desixxx.cloud$document
+||discoveryfeed.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -101,6 +101,7 @@
 ||help4.info$document
 ||httqzq.vip$document
 ||hypezen.info$document
+||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -132,6 +133,7 @@
 ||koalaautumnd.xyz$document
 ||koalaautumne.xyz$document
 ||koalaspringa.xyz$document
+||koalaspringb.xyz$document
 ||koalaspringc.xyz$document
 ||koalaspringd.xyz$document
 ||koalaspringe.xyz$document
@@ -140,6 +142,7 @@
 ||koalasummerc.xyz$document
 ||koalasummerd.xyz$document
 ||koalasummere.xyz$document
+||koalasummerf.xyz$document
 ||koalawintera.xyz$document
 ||koalawinterb.xyz$document
 ||koalawinterc.xyz$document
@@ -241,16 +244,21 @@
 ||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
 ||placespina.xyz$document
+||playautumna.xyz$document
 ||playautumnb.xyz$document
 ||playautumnc.xyz$document
+||playautumnd.xyz$document
 ||playautumne.xyz$document
 ||playplanete.xyz$document
 ||playspind.xyz$document
 ||playspringa.xyz$document
+||playspringb.xyz$document
 ||playspringc.xyz$document
 ||playspringd.xyz$document
 ||playspringe.xyz$document
+||playsummera.xyz$document
 ||playsummerb.xyz$document
+||playsummerc.xyz$document
 ||playsummere.xyz$document
 ||playsummerf.xyz$document
 ||playwintera.xyz$document
@@ -274,6 +282,7 @@
 ||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
+||rancy.xyz$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
@@ -291,6 +300,7 @@
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
@@ -301,6 +311,7 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document

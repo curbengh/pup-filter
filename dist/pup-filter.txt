@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 12 Oct 2021 00:02:57 +0000
+! Updated: Tue, 12 Oct 2021 12:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@ credit-monitoring-360.xyz
 cryptotilt.club
 curfiositystream.com
 curiositydstream.com
-dailyboard.org
 darkview.org
 dayinlife.net
 dealmedia.club
@@ -55,6 +54,7 @@ dealmedia.xyz
 dealsify.net
 defensepro.me
 desixxx.cloud
+discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -101,6 +101,7 @@ heatwavereporter.org
 help4.info
 httqzq.vip
 hypezen.info
+ientsillness.fun
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
@@ -132,6 +133,7 @@ koalaautumnc.xyz
 koalaautumnd.xyz
 koalaautumne.xyz
 koalaspringa.xyz
+koalaspringb.xyz
 koalaspringc.xyz
 koalaspringd.xyz
 koalaspringe.xyz
@@ -140,6 +142,7 @@ koalasummera.xyz
 koalasummerc.xyz
 koalasummerd.xyz
 koalasummere.xyz
+koalasummerf.xyz
 koalawintera.xyz
 koalawinterb.xyz
 koalawinterc.xyz
@@ -241,16 +244,21 @@ photo-explorer.org
 placefortheupgradesset.work
 placesiteb.xyz
 placespina.xyz
+playautumna.xyz
 playautumnb.xyz
 playautumnc.xyz
+playautumnd.xyz
 playautumne.xyz
 playplanete.xyz
 playspind.xyz
 playspringa.xyz
+playspringb.xyz
 playspringc.xyz
 playspringd.xyz
 playspringe.xyz
+playsummera.xyz
 playsummerb.xyz
+playsummerc.xyz
 playsummere.xyz
 playsummerf.xyz
 playwintera.xyz
@@ -274,6 +282,7 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
+rancy.xyz
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
@@ -291,6 +300,7 @@ securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopadvisors.net
 shopin.nyc
 shopnsave.world
 smartideas.pro
@@ -301,6 +311,7 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
+stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip

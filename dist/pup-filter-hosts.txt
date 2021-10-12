@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 12 Oct 2021 00:02:57 +0000
+# Updated: Tue, 12 Oct 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@
 0.0.0.0 cryptotilt.club
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
-0.0.0.0 dailyboard.org
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
@@ -55,6 +54,7 @@
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 desixxx.cloud
+0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -101,6 +101,7 @@
 0.0.0.0 help4.info
 0.0.0.0 httqzq.vip
 0.0.0.0 hypezen.info
+0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -132,6 +133,7 @@
 0.0.0.0 koalaautumnd.xyz
 0.0.0.0 koalaautumne.xyz
 0.0.0.0 koalaspringa.xyz
+0.0.0.0 koalaspringb.xyz
 0.0.0.0 koalaspringc.xyz
 0.0.0.0 koalaspringd.xyz
 0.0.0.0 koalaspringe.xyz
@@ -140,6 +142,7 @@
 0.0.0.0 koalasummerc.xyz
 0.0.0.0 koalasummerd.xyz
 0.0.0.0 koalasummere.xyz
+0.0.0.0 koalasummerf.xyz
 0.0.0.0 koalawintera.xyz
 0.0.0.0 koalawinterb.xyz
 0.0.0.0 koalawinterc.xyz
@@ -241,16 +244,21 @@
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placesiteb.xyz
 0.0.0.0 placespina.xyz
+0.0.0.0 playautumna.xyz
 0.0.0.0 playautumnb.xyz
 0.0.0.0 playautumnc.xyz
+0.0.0.0 playautumnd.xyz
 0.0.0.0 playautumne.xyz
 0.0.0.0 playplanete.xyz
 0.0.0.0 playspind.xyz
 0.0.0.0 playspringa.xyz
+0.0.0.0 playspringb.xyz
 0.0.0.0 playspringc.xyz
 0.0.0.0 playspringd.xyz
 0.0.0.0 playspringe.xyz
+0.0.0.0 playsummera.xyz
 0.0.0.0 playsummerb.xyz
+0.0.0.0 playsummerc.xyz
 0.0.0.0 playsummere.xyz
 0.0.0.0 playsummerf.xyz
 0.0.0.0 playwintera.xyz
@@ -274,6 +282,7 @@
 0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
+0.0.0.0 rancy.xyz
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
@@ -291,6 +300,7 @@
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
@@ -301,6 +311,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip

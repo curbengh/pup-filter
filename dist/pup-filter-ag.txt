@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 12 Oct 2021 00:02:57 +0000
+! Updated: Tue, 12 Oct 2021 12:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,7 +46,6 @@
 ||cryptotilt.club$all
 ||curfiositystream.com$all
 ||curiositydstream.com$all
-||dailyboard.org$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -55,6 +54,7 @@
 ||dealsify.net$all
 ||defensepro.me$all
 ||desixxx.cloud$all
+||discoveryfeed.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -101,6 +101,7 @@
 ||help4.info$all
 ||httqzq.vip$all
 ||hypezen.info$all
+||ientsillness.fun$all
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
@@ -132,6 +133,7 @@
 ||koalaautumnd.xyz$all
 ||koalaautumne.xyz$all
 ||koalaspringa.xyz$all
+||koalaspringb.xyz$all
 ||koalaspringc.xyz$all
 ||koalaspringd.xyz$all
 ||koalaspringe.xyz$all
@@ -140,6 +142,7 @@
 ||koalasummerc.xyz$all
 ||koalasummerd.xyz$all
 ||koalasummere.xyz$all
+||koalasummerf.xyz$all
 ||koalawintera.xyz$all
 ||koalawinterb.xyz$all
 ||koalawinterc.xyz$all
@@ -241,16 +244,21 @@
 ||placefortheupgradesset.work$all
 ||placesiteb.xyz$all
 ||placespina.xyz$all
+||playautumna.xyz$all
 ||playautumnb.xyz$all
 ||playautumnc.xyz$all
+||playautumnd.xyz$all
 ||playautumne.xyz$all
 ||playplanete.xyz$all
 ||playspind.xyz$all
 ||playspringa.xyz$all
+||playspringb.xyz$all
 ||playspringc.xyz$all
 ||playspringd.xyz$all
 ||playspringe.xyz$all
+||playsummera.xyz$all
 ||playsummerb.xyz$all
+||playsummerc.xyz$all
 ||playsummere.xyz$all
 ||playsummerf.xyz$all
 ||playwintera.xyz$all
@@ -274,6 +282,7 @@
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
+||rancy.xyz$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
@@ -291,6 +300,7 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
+||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
@@ -301,6 +311,7 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
+||stogether.fun$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
