@@ -1,13 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 13 Oct 2021 00:02:41 +0000
+! Updated: Wed, 13 Oct 2021 12:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net^
 ||4upgradingstablesafe.work^
-||abcscience.xyz^
+||affiliateland.io^
 ||aikoo.club^
 ||amobil.online^
 ||appzfirer.biz^
@@ -79,7 +79,6 @@
 ||funspine.xyz^
 ||genertellife.it^
 ||get-your-score.club^
-||getbril.io^
 ||getmoregirls.net^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
@@ -246,6 +245,7 @@
 ||playautumnc.xyz^
 ||playautumnd.xyz^
 ||playautumne.xyz^
+||playautumnf.xyz^
 ||playplanete.xyz^
 ||playspind.xyz^
 ||playspringa.xyz^
@@ -293,7 +293,6 @@
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
 ||searchmgr.online^
-||seasoned.co^
 ||securitevpn.me^
 ||securityvpnpro.me^
 ||sergey-tracks.xyz^
@@ -301,6 +300,7 @@
 ||shopadvisors.net^
 ||shopin.nyc^
 ||shopnsave.world^
+||signupandturnyourscreenoffsafepowernow.date^
 ||smartideas.pro^
 ||spotmapd.xyz^
 ||spotmapf.xyz^
