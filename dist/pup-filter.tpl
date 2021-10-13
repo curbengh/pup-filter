@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 12 Oct 2021 12:02:57 +0000
+# Updated: Wed, 13 Oct 2021 00:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -36,21 +36,18 @@ msFilterList
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
 -d calledbellc.fun
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d curfiositystream.com
 -d curiositydstream.com
 -d darkview.org
--d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
@@ -87,12 +84,10 @@ msFilterList
 -d get-your-score.club
 -d getbril.io
 -d getmoregirls.net
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d global-track.space
--d goalmedia.bar
 -d goalmedia.cam
 -d goalmedia.monster
 -d golddellifewonder.rest
@@ -108,16 +103,16 @@ msFilterList
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
+-d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
+-d initiateprogressivecompletelythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d intelectaction.ru
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -204,6 +199,7 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
+-d mindmatch.ai
 -d mobileluckywinner.site
 -d money-hero.org
 -d movievod.me
@@ -239,6 +235,7 @@ msFilterList
 -d pandasummere.xyz
 -d pandasummerf.xyz
 -d pandawintera.xyz
+-d pandawinterb.xyz
 -d pandawinterc.xyz
 -d pandawinterd.xyz
 -d pandawintere.xyz
@@ -299,6 +296,7 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
@@ -327,6 +325,7 @@ msFilterList
 -d superpromotion.cyou
 -d support-notify.space
 -d sweetalt.ru
+-d sweetgirls.buzz
 -d synccurrentmostthefile.vip
 -d synclatestintenselythefile.vip
 -d syncmostprecisethefile.vip
@@ -349,12 +348,10 @@ msFilterList
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
--d trackingsys.tech
 -d trafficmind.pro
 -d trane.fun
 -d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me

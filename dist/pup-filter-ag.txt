@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 12 Oct 2021 12:02:57 +0000
+! Updated: Wed, 13 Oct 2021 00:02:41 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -33,21 +33,18 @@
 ||boot-upuber-bestfreefile.best$all
 ||breaking-news.digital$all
 ||calledbellc.fun$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||cryptotilt.club$all
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||darkview.org$all
-||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
@@ -84,12 +81,10 @@
 ||get-your-score.club$all
 ||getbril.io$all
 ||getmoregirls.net$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
 ||global-track.space$all
-||goalmedia.bar$all
 ||goalmedia.cam$all
 ||goalmedia.monster$all
 ||golddellifewonder.rest$all
@@ -105,16 +100,16 @@
 ||imagefind.org$all
 ||incing-marganic.icu$all
 ||incrediblebuzz.info$all
+||initiatecompletelyprecisethefile.vip$all
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
+||initiateprogressivecompletelythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||intelectaction.ru$all
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
-||java-forum.org$all
 ||jetsummer.xyz$all
-||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -201,6 +196,7 @@
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
+||mindmatch.ai$all
 ||mobileluckywinner.site$all
 ||money-hero.org$all
 ||movievod.me$all
@@ -236,6 +232,7 @@
 ||pandasummere.xyz$all
 ||pandasummerf.xyz$all
 ||pandawintera.xyz$all
+||pandawinterb.xyz$all
 ||pandawinterc.xyz$all
 ||pandawinterd.xyz$all
 ||pandawintere.xyz$all
@@ -296,6 +293,7 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||seasoned.co$all
 ||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
@@ -324,6 +322,7 @@
 ||superpromotion.cyou$all
 ||support-notify.space$all
 ||sweetalt.ru$all
+||sweetgirls.buzz$all
 ||synccurrentmostthefile.vip$all
 ||synclatestintenselythefile.vip$all
 ||syncmostprecisethefile.vip$all
@@ -346,12 +345,10 @@
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
-||trackingsys.tech$all
 ||trafficmind.pro$all
 ||trane.fun$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all

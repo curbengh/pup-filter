@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 12 Oct 2021 12:02:57 +0000
+# Updated: Wed, 13 Oct 2021 00:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,21 +33,18 @@
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
 0.0.0.0 calledbellc.fun
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 darkview.org
-0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
@@ -84,12 +81,10 @@
 0.0.0.0 get-your-score.club
 0.0.0.0 getbril.io
 0.0.0.0 getmoregirls.net
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 global-track.space
-0.0.0.0 goalmedia.bar
 0.0.0.0 goalmedia.cam
 0.0.0.0 goalmedia.monster
 0.0.0.0 golddellifewonder.rest
@@ -105,16 +100,16 @@
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
+0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
+0.0.0.0 initiateprogressivecompletelythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -201,6 +196,7 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
+0.0.0.0 mindmatch.ai
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
@@ -236,6 +232,7 @@
 0.0.0.0 pandasummere.xyz
 0.0.0.0 pandasummerf.xyz
 0.0.0.0 pandawintera.xyz
+0.0.0.0 pandawinterb.xyz
 0.0.0.0 pandawinterc.xyz
 0.0.0.0 pandawinterd.xyz
 0.0.0.0 pandawintere.xyz
@@ -296,6 +293,7 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
@@ -324,6 +322,7 @@
 0.0.0.0 superpromotion.cyou
 0.0.0.0 support-notify.space
 0.0.0.0 sweetalt.ru
+0.0.0.0 sweetgirls.buzz
 0.0.0.0 synccurrentmostthefile.vip
 0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncmostprecisethefile.vip
@@ -346,12 +345,10 @@
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
-0.0.0.0 trackingsys.tech
 0.0.0.0 trafficmind.pro
 0.0.0.0 trane.fun
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me

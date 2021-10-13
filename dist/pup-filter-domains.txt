@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 12 Oct 2021 12:02:57 +0000
+# Updated: Wed, 13 Oct 2021 00:02:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,21 +33,18 @@ boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
 calledbellc.fun
-chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
 curfiositystream.com
 curiositydstream.com
 darkview.org
-dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
@@ -84,12 +81,10 @@ genertellife.it
 get-your-score.club
 getbril.io
 getmoregirls.net
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
 global-track.space
-goalmedia.bar
 goalmedia.cam
 goalmedia.monster
 golddellifewonder.rest
@@ -105,16 +100,16 @@ ientsillness.fun
 imagefind.org
 incing-marganic.icu
 incrediblebuzz.info
+initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
+initiateprogressivecompletelythefile.vip
 initiatesophisticatedcompletelythefile.vip
 intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
-java-forum.org
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -201,6 +196,7 @@ mathison.io
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
+mindmatch.ai
 mobileluckywinner.site
 money-hero.org
 movievod.me
@@ -236,6 +232,7 @@ pandasummerd.xyz
 pandasummere.xyz
 pandasummerf.xyz
 pandawintera.xyz
+pandawinterb.xyz
 pandawinterc.xyz
 pandawinterd.xyz
 pandawintere.xyz
@@ -296,6 +293,7 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
+seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
@@ -324,6 +322,7 @@ summermedia.club
 superpromotion.cyou
 support-notify.space
 sweetalt.ru
+sweetgirls.buzz
 synccurrentmostthefile.vip
 synclatestintenselythefile.vip
 syncmostprecisethefile.vip
@@ -346,12 +345,10 @@ toolvpn.me
 top-offers2.club
 topdating.online
 tracking-landers.xyz
-trackingsys.tech
 trafficmind.pro
 trane.fun
 truecompassion.net
 trustappstreamsall.digital
-ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me
