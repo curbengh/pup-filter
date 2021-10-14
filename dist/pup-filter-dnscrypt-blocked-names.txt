@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 13 Oct 2021 12:03:08 +0000
+# Updated: Thu, 14 Oct 2021 00:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@ appzfirer.biz
 armorprovpn.me
 atprofessor.fun
 auto-car-search.site
-axisradio.ca
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
@@ -33,6 +32,7 @@ boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
 calledbellc.fun
+center7ocean.xyz
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -50,11 +50,11 @@ dealmedia.website
 dealmedia.xyz
 dealsify.net
 defensepro.me
-desixxx.cloud
 discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
+enjoyacrater.xyz
 exploreshops.net
 fast-app.xyz
 fastfactsonline.co
@@ -94,6 +94,7 @@ healthylives.today
 heatwavereporter.org
 help4.info
 httqzq.vip
+huge2upgradescentral.work
 hypezen.info
 ientsillness.fun
 imagefind.org
@@ -104,11 +105,19 @@ initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiateprogressivecompletelythefile.vip
 initiatesophisticatedcompletelythefile.vip
+initiateswiftcompletelythefile.vip
+installcurrentintenselythefile.vip
+installintenselyoriginalthefile.vip
+installintenselyrefinedthefile.vip
+installprecisehighlythefile.vip
+installprogressiveintenselythefile.vip
 intelectaction.ru
 investinfo.net
 ironprovpn.me
 isystemupdate.cloud
+java-forum.org
 jetsummer.xyz
+jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -192,11 +201,16 @@ lubbockeda.org
 marketloans.net
 matchyourgirl.online
 mathison.io
+mazestation.games
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mindmatch.ai
+mobi7volcano.xyz
+mobiaplanet.xyz
+mobiastar.xyz
 mobileluckywinner.site
+mobyfox.shop
 money-hero.org
 movievod.me
 mynutriplan.co
@@ -276,7 +290,6 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
-qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
 rancy.xyz
@@ -298,7 +311,6 @@ securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
-shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
@@ -308,7 +320,6 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
-stickr.co
 stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
@@ -335,6 +346,7 @@ systemupdatit.club
 technoblogs.net
 technologypartners.net
 thanksyoursupport.club
+the7plains.xyz
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
@@ -357,6 +369,7 @@ usevpnpro.me
 usforeclosure.net
 videoau.ru
 videoauthor.ru
+videomixable.ru
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me
@@ -371,6 +384,7 @@ watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca
+west1ocean.xyz
 winnerbigwingiveawaysuper.cyou
 winnerz.icu
 winnerz.site

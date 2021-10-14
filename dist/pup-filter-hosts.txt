@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 13 Oct 2021 12:03:08 +0000
+# Updated: Thu, 14 Oct 2021 00:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
 0.0.0.0 auto-car-search.site
-0.0.0.0 axisradio.ca
 0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
@@ -33,6 +32,7 @@
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
 0.0.0.0 calledbellc.fun
+0.0.0.0 center7ocean.xyz
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -50,11 +50,11 @@
 0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
-0.0.0.0 desixxx.cloud
 0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
+0.0.0.0 enjoyacrater.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
@@ -94,6 +94,7 @@
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
 0.0.0.0 httqzq.vip
+0.0.0.0 huge2upgradescentral.work
 0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
@@ -104,11 +105,19 @@
 0.0.0.0 initiatecompletelyspeedythefile.vip
 0.0.0.0 initiateprogressivecompletelythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
+0.0.0.0 initiateswiftcompletelythefile.vip
+0.0.0.0 installcurrentintenselythefile.vip
+0.0.0.0 installintenselyoriginalthefile.vip
+0.0.0.0 installintenselyrefinedthefile.vip
+0.0.0.0 installprecisehighlythefile.vip
+0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
+0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
+0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -192,11 +201,16 @@
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
 0.0.0.0 mathison.io
+0.0.0.0 mazestation.games
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mindmatch.ai
+0.0.0.0 mobi7volcano.xyz
+0.0.0.0 mobiaplanet.xyz
+0.0.0.0 mobiastar.xyz
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 mynutriplan.co
@@ -276,7 +290,6 @@
 0.0.0.0 provpnsecurity.me
 0.0.0.0 provpnservice.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
@@ -298,7 +311,6 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopadvisors.net
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
@@ -308,7 +320,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
-0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
@@ -335,6 +346,7 @@
 0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
+0.0.0.0 the7plains.xyz
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
@@ -357,6 +369,7 @@
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
+0.0.0.0 videomixable.ru
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -371,6 +384,7 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca
+0.0.0.0 west1ocean.xyz
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.icu
 0.0.0.0 winnerz.site

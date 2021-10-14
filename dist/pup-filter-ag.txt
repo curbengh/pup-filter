@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 13 Oct 2021 12:03:08 +0000
+! Updated: Thu, 14 Oct 2021 00:03:05 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@
 ||armorprovpn.me$all
 ||atprofessor.fun$all
 ||auto-car-search.site$all
-||axisradio.ca$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
@@ -33,6 +32,7 @@
 ||boot-upuber-bestfreefile.best$all
 ||breaking-news.digital$all
 ||calledbellc.fun$all
+||center7ocean.xyz$all
 ||checkstableaupdatinglinks.work$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
@@ -50,11 +50,11 @@
 ||dealmedia.xyz$all
 ||dealsify.net$all
 ||defensepro.me$all
-||desixxx.cloud$all
 ||discoveryfeed.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
+||enjoyacrater.xyz$all
 ||exploreshops.net$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
@@ -94,6 +94,7 @@
 ||heatwavereporter.org$all
 ||help4.info$all
 ||httqzq.vip$all
+||huge2upgradescentral.work$all
 ||hypezen.info$all
 ||ientsillness.fun$all
 ||imagefind.org$all
@@ -104,11 +105,19 @@
 ||initiatecompletelyspeedythefile.vip$all
 ||initiateprogressivecompletelythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
+||initiateswiftcompletelythefile.vip$all
+||installcurrentintenselythefile.vip$all
+||installintenselyoriginalthefile.vip$all
+||installintenselyrefinedthefile.vip$all
+||installprecisehighlythefile.vip$all
+||installprogressiveintenselythefile.vip$all
 ||intelectaction.ru$all
 ||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
+||java-forum.org$all
 ||jetsummer.xyz$all
+||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -192,11 +201,16 @@
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mathison.io$all
+||mazestation.games$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
+||mobi7volcano.xyz$all
+||mobiaplanet.xyz$all
+||mobiastar.xyz$all
 ||mobileluckywinner.site$all
+||mobyfox.shop$all
 ||money-hero.org$all
 ||movievod.me$all
 ||mynutriplan.co$all
@@ -276,7 +290,6 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -298,7 +311,6 @@
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
 ||shopadvisors.net$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
@@ -308,7 +320,6 @@
 ||springplanetf.xyz$all
 ||start-page.one$all
 ||startos.win$all
-||stickr.co$all
 ||stogether.fun$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
@@ -335,6 +346,7 @@
 ||technoblogs.net$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
+||the7plains.xyz$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
@@ -357,6 +369,7 @@
 ||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
+||videomixable.ru$all
 ||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
@@ -371,6 +384,7 @@
 ||watchrefined-bestextremelyfile.best$all
 ||web-security.ml$all
 ||webtactics.ca$all
+||west1ocean.xyz$all
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.icu$all
 ||winnerz.site$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 13 Oct 2021 12:03:08 +0000
+# Updated: Thu, 14 Oct 2021 00:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ msFilterList
 -d armorprovpn.me
 -d atprofessor.fun
 -d auto-car-search.site
--d axisradio.ca
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
@@ -36,6 +35,7 @@ msFilterList
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
 -d calledbellc.fun
+-d center7ocean.xyz
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -53,11 +53,11 @@ msFilterList
 -d dealmedia.xyz
 -d dealsify.net
 -d defensepro.me
--d desixxx.cloud
 -d discoveryfeed.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
+-d enjoyacrater.xyz
 -d exploreshops.net
 -d fast-app.xyz
 -d fastfactsonline.co
@@ -97,6 +97,7 @@ msFilterList
 -d heatwavereporter.org
 -d help4.info
 -d httqzq.vip
+-d huge2upgradescentral.work
 -d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
@@ -107,11 +108,19 @@ msFilterList
 -d initiatecompletelyspeedythefile.vip
 -d initiateprogressivecompletelythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
+-d initiateswiftcompletelythefile.vip
+-d installcurrentintenselythefile.vip
+-d installintenselyoriginalthefile.vip
+-d installintenselyrefinedthefile.vip
+-d installprecisehighlythefile.vip
+-d installprogressiveintenselythefile.vip
 -d intelectaction.ru
 -d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
+-d java-forum.org
 -d jetsummer.xyz
+-d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -195,11 +204,16 @@ msFilterList
 -d marketloans.net
 -d matchyourgirl.online
 -d mathison.io
+-d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
+-d mobi7volcano.xyz
+-d mobiaplanet.xyz
+-d mobiastar.xyz
 -d mobileluckywinner.site
+-d mobyfox.shop
 -d money-hero.org
 -d movievod.me
 -d mynutriplan.co
@@ -279,7 +293,6 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
--d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
@@ -301,7 +314,6 @@ msFilterList
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
--d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -311,7 +323,6 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
--d stickr.co
 -d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -338,6 +349,7 @@ msFilterList
 -d technoblogs.net
 -d technologypartners.net
 -d thanksyoursupport.club
+-d the7plains.xyz
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
@@ -360,6 +372,7 @@ msFilterList
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
+-d videomixable.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -374,6 +387,7 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d web-security.ml
 -d webtactics.ca
+-d west1ocean.xyz
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
 -d winnerz.site
