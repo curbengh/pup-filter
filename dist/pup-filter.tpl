@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 14 Oct 2021 00:03:05 +0000
+# Updated: Thu, 14 Oct 2021 12:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d affiliateland.io
--d aikoo.club
 -d amobil.online
 -d appzfirer.biz
 -d armorprovpn.me
@@ -138,6 +137,7 @@ msFilterList
 -d koalaautumnc.xyz
 -d koalaautumnd.xyz
 -d koalaautumne.xyz
+-d koalaautumnf.xyz
 -d koalaspringa.xyz
 -d koalaspringb.xyz
 -d koalaspringc.xyz
@@ -280,7 +280,6 @@ msFilterList
 -d playwinterc.xyz
 -d playwinterd.xyz
 -d playwintere.xyz
--d playwinterf.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
 -d profitsurvey365.online
@@ -295,7 +294,6 @@ msFilterList
 -d prtctapp.me
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d rancy.xyz
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -315,7 +313,6 @@ msFilterList
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
 -d shopnsave.world
--d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d spotmapd.xyz
 -d spotmapf.xyz
@@ -355,7 +352,6 @@ msFilterList
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timeoffers.net
--d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
 -d topdating.online

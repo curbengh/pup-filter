@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 14 Oct 2021 00:03:05 +0000
+! Updated: Thu, 14 Oct 2021 12:02:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 2021travel.net
 4upgradingstablesafe.work
 affiliateland.io
-aikoo.club
 amobil.online
 appzfirer.biz
 armorprovpn.me
@@ -135,6 +134,7 @@ koalaautumnb.xyz
 koalaautumnc.xyz
 koalaautumnd.xyz
 koalaautumne.xyz
+koalaautumnf.xyz
 koalaspringa.xyz
 koalaspringb.xyz
 koalaspringc.xyz
@@ -277,7 +277,6 @@ playwinterb.xyz
 playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
-playwinterf.xyz
 ppploanchoices.site
 prize-messsages.casa
 profitsurvey365.online
@@ -292,7 +291,6 @@ provpnservice.me
 prtctapp.me
 quatrefeuillepolonaise.xyz
 quizshein.shop
-rancy.xyz
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
@@ -312,7 +310,6 @@ sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
 shopnsave.world
-signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 spotmapd.xyz
 spotmapf.xyz
@@ -352,7 +349,6 @@ theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
 timeoffers.net
-timesamerica.net
 toolvpn.me
 top-offers2.club
 topdating.online

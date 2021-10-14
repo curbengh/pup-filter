@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 14 Oct 2021 00:03:05 +0000
+! Updated: Thu, 14 Oct 2021 12:02:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||affiliateland.io$document
-||aikoo.club$document
 ||amobil.online$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
@@ -135,6 +134,7 @@
 ||koalaautumnc.xyz$document
 ||koalaautumnd.xyz$document
 ||koalaautumne.xyz$document
+||koalaautumnf.xyz$document
 ||koalaspringa.xyz$document
 ||koalaspringb.xyz$document
 ||koalaspringc.xyz$document
@@ -277,7 +277,6 @@
 ||playwinterc.xyz$document
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
-||playwinterf.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
@@ -292,7 +291,6 @@
 ||prtctapp.me$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||rancy.xyz$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
@@ -312,7 +310,6 @@
 ||settothereliableupgradingnew.work$document
 ||shopadvisors.net$document
 ||shopnsave.world$document
-||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
@@ -352,7 +349,6 @@
 ||thelastpicture.show$document
 ||thrawdmn55.xyz$document
 ||timeoffers.net$document
-||timesamerica.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||topdating.online$document
