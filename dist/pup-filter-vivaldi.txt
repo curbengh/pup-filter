@@ -1,14 +1,14 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 15 Oct 2021 00:03:04 +0000
+! Updated: Fri, 15 Oct 2021 12:02:26 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||affiliateland.io$document
 ||amobil.online$document
+||appsto.cloud$document
 ||appzfirer.biz$document
 ||armorprovpn.me$document
 ||atprofessor.fun$document
@@ -211,7 +211,6 @@
 ||mindmatch.ai$document
 ||mobi7sky.xyz$document
 ||mobi7volcano.xyz$document
-||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobileluckywinner.site$document
 ||money-hero.org$document
@@ -279,6 +278,7 @@
 ||playwinterc.xyz$document
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
+||playwinterf.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
 ||profitsurvey365.online$document
@@ -307,12 +307,14 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
+||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
 ||shopadvisors.net$document
 ||shopnsave.world$document
+||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
@@ -352,6 +354,7 @@
 ||thelastpicture.show$document
 ||thrawdmn55.xyz$document
 ||timeoffers.net$document
+||timesamerica.net$document
 ||toolvpn.me$document
 ||top-offers2.club$document
 ||topdating.online$document
