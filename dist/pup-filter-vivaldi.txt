@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 14 Oct 2021 12:02:53 +0000
+! Updated: Fri, 15 Oct 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,12 +13,14 @@
 ||armorprovpn.me$document
 ||atprofessor.fun$document
 ||auto-car-search.site$document
+||axisradio.ca$document
 ||be-5hdo32xes-ok.live$document
 ||be-n9lnns3n-ok.live$document
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
 ||beinspired.global$document
 ||bestappland.me$document
+||bkk755.biz$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
 ||boot-upcompletely-bestsophisticatedfile.best$document
@@ -31,25 +33,28 @@
 ||boot-upuber-bestfreefile.best$document
 ||breaking-news.digital$document
 ||calledbellc.fun$document
+||center1plains.xyz$document
 ||center7ocean.xyz$document
+||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||connecttheupgradingurls.work$document
 ||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||darkview.org$document
-||dealmedia.club$document
+||dayinlife.net$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
 ||dealsify.net$document
 ||defensepro.me$document
-||discoveryfeed.org$document
+||dollarsurvey366.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -65,7 +70,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||findwith.me$document
 ||finreporter.net$document
 ||fireapps.cloud$document
 ||fisudauh.top$document
@@ -79,6 +83,7 @@
 ||genertellife.it$document
 ||get-your-score.club$document
 ||getmoregirls.net$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -88,7 +93,6 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grandencryptions.me$document
-||hailso.xyz$document
 ||healthylives.today$document
 ||heatwavereporter.org$document
 ||help4.info$document
@@ -111,7 +115,6 @@
 ||installprecisehighlythefile.vip$document
 ||installprogressiveintenselythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ironprovpn.me$document
 ||isystemupdate.cloud$document
 ||java-forum.org$document
@@ -206,11 +209,11 @@
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
 ||mindmatch.ai$document
+||mobi7sky.xyz$document
 ||mobi7volcano.xyz$document
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobileluckywinner.site$document
-||mobyfox.shop$document
 ||money-hero.org$document
 ||movievod.me$document
 ||mynutriplan.co$document
@@ -225,7 +228,6 @@
 ||oldharper.xyz$document
 ||olivedinflats.space$document
 ||online-prize-super-promotion.cyou$document
-||onlineprize.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
@@ -289,6 +291,7 @@
 ||provpnsecurity.me$document
 ||provpnservice.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
 ||rewardgivingrealspecialoffer.cyou$document
@@ -317,6 +320,7 @@
 ||springplanetf.xyz$document
 ||start-page.one$document
 ||startos.win$document
+||stickr.co$document
 ||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
@@ -327,7 +331,6 @@
 ||subeamy.pw$document
 ||sudoo.net$document
 ||summermedia.club$document
-||superpromotion.cyou$document
 ||support-notify.space$document
 ||sweetalt.ru$document
 ||sweetgirls.buzz$document
@@ -341,8 +344,8 @@
 ||systemupdateme.solutions$document
 ||systemupdatit.club$document
 ||technoblogs.net$document
-||technologypartners.net$document
 ||thanksyoursupport.club$document
+||the1star.xyz$document
 ||the7plains.xyz$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
@@ -381,6 +384,7 @@
 ||web-security.ml$document
 ||webtactics.ca$document
 ||west1ocean.xyz$document
+||westasea.xyz$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.icu$document
 ||winnerz.site$document

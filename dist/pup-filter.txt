@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 14 Oct 2021 12:02:53 +0000
+! Updated: Fri, 15 Oct 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,12 +13,14 @@ appzfirer.biz
 armorprovpn.me
 atprofessor.fun
 auto-car-search.site
+axisradio.ca
 be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beinspired.global
 bestappland.me
+bkk755.biz
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
 boot-upcompletely-bestsophisticatedfile.best
@@ -31,25 +33,28 @@ boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
 calledbellc.fun
+center1plains.xyz
 center7ocean.xyz
+chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
+craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 cryptotilt.club
 curfiositystream.com
 curiositydstream.com
 darkview.org
-dealmedia.club
+dayinlife.net
 dealmedia.website
 dealmedia.xyz
 dealsify.net
 defensepro.me
-discoveryfeed.org
+dollarsurvey366.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -65,7 +70,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findwith.me
 finreporter.net
 fireapps.cloud
 fisudauh.top
@@ -79,6 +83,7 @@ funspine.xyz
 genertellife.it
 get-your-score.club
 getmoregirls.net
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -88,7 +93,6 @@ goalmedia.monster
 golddellifewonder.rest
 gonesteeldouble.top
 grandencryptions.me
-hailso.xyz
 healthylives.today
 heatwavereporter.org
 help4.info
@@ -111,7 +115,6 @@ installintenselyrefinedthefile.vip
 installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 intelectaction.ru
-investinfo.net
 ironprovpn.me
 isystemupdate.cloud
 java-forum.org
@@ -206,11 +209,11 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mindmatch.ai
+mobi7sky.xyz
 mobi7volcano.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobileluckywinner.site
-mobyfox.shop
 money-hero.org
 movievod.me
 mynutriplan.co
@@ -225,7 +228,6 @@ officialbigwinnationalfree.cyou
 oldharper.xyz
 olivedinflats.space
 online-prize-super-promotion.cyou
-onlineprize.cyou
 onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
@@ -289,6 +291,7 @@ provpn.me
 provpnsecurity.me
 provpnservice.me
 prtctapp.me
+qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
 rewardgivingrealspecialoffer.cyou
@@ -317,6 +320,7 @@ spotplanetc.xyz
 springplanetf.xyz
 start-page.one
 startos.win
+stickr.co
 stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
@@ -327,7 +331,6 @@ streamspeedyintenselythefile.vip
 subeamy.pw
 sudoo.net
 summermedia.club
-superpromotion.cyou
 support-notify.space
 sweetalt.ru
 sweetgirls.buzz
@@ -341,8 +344,8 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
-technologypartners.net
 thanksyoursupport.club
+the1star.xyz
 the7plains.xyz
 thecryptozone.website
 theirproviderock.top
@@ -381,6 +384,7 @@ watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca
 west1ocean.xyz
+westasea.xyz
 winnerbigwingiveawaysuper.cyou
 winnerz.icu
 winnerz.site

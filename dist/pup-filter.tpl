@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 14 Oct 2021 12:02:53 +0000
+# Updated: Fri, 15 Oct 2021 00:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,12 +16,14 @@ msFilterList
 -d armorprovpn.me
 -d atprofessor.fun
 -d auto-car-search.site
+-d axisradio.ca
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
 -d bestappland.me
+-d bkk755.biz
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
@@ -34,25 +36,28 @@ msFilterList
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
 -d calledbellc.fun
+-d center1plains.xyz
 -d center7ocean.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
 -d curfiositystream.com
 -d curiositydstream.com
 -d darkview.org
--d dealmedia.club
+-d dayinlife.net
 -d dealmedia.website
 -d dealmedia.xyz
 -d dealsify.net
 -d defensepro.me
--d discoveryfeed.org
+-d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -68,7 +73,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findwith.me
 -d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
@@ -82,6 +86,7 @@ msFilterList
 -d genertellife.it
 -d get-your-score.club
 -d getmoregirls.net
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -91,7 +96,6 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
--d hailso.xyz
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
@@ -114,7 +118,6 @@ msFilterList
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d java-forum.org
@@ -209,11 +212,11 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
+-d mobi7sky.xyz
 -d mobi7volcano.xyz
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobileluckywinner.site
--d mobyfox.shop
 -d money-hero.org
 -d movievod.me
 -d mynutriplan.co
@@ -228,7 +231,6 @@ msFilterList
 -d oldharper.xyz
 -d olivedinflats.space
 -d online-prize-super-promotion.cyou
--d onlineprize.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
@@ -292,6 +294,7 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rewardgivingrealspecialoffer.cyou
@@ -320,6 +323,7 @@ msFilterList
 -d springplanetf.xyz
 -d start-page.one
 -d startos.win
+-d stickr.co
 -d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -330,7 +334,6 @@ msFilterList
 -d subeamy.pw
 -d sudoo.net
 -d summermedia.club
--d superpromotion.cyou
 -d support-notify.space
 -d sweetalt.ru
 -d sweetgirls.buzz
@@ -344,8 +347,8 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
--d technologypartners.net
 -d thanksyoursupport.club
+-d the1star.xyz
 -d the7plains.xyz
 -d thecryptozone.website
 -d theirproviderock.top
@@ -384,6 +387,7 @@ msFilterList
 -d web-security.ml
 -d webtactics.ca
 -d west1ocean.xyz
+-d westasea.xyz
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
 -d winnerz.site
