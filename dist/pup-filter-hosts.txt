@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 15 Oct 2021 12:02:26 +0000
+# Updated: Sat, 16 Oct 2021 00:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 cryptotilt.club
@@ -50,18 +49,21 @@
 0.0.0.0 curiositydstream.com
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
+0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dollarsurvey366.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
+0.0.0.0 enjoy1mountain.xyz
+0.0.0.0 enjoy1volcano.xyz
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
-0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
@@ -70,6 +72,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 findwith.me
 0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
@@ -77,25 +80,23 @@
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
-0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getmoregirls.net
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
 0.0.0.0 global-track.space
 0.0.0.0 goalmedia.cam
-0.0.0.0 goalmedia.monster
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grandencryptions.me
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
+0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 hypezen.info
@@ -115,9 +116,9 @@
 0.0.0.0 installprecisehighlythefile.vip
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
-0.0.0.0 java-forum.org
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -164,7 +165,6 @@
 0.0.0.0 listenthisso.top
 0.0.0.0 lltrsknoob.click
 0.0.0.0 loadadvancedextremelythefile.vip
-0.0.0.0 loaddevelopeduberfile.digital
 0.0.0.0 loadextremelycurrentthefile.vip
 0.0.0.0 loadextremelyquickfile.digital
 0.0.0.0 loadextremelyrecentthefile.vip
@@ -184,20 +184,14 @@
 0.0.0.0 loadoriginalextremelythefile.vip
 0.0.0.0 loadoriginalgreatlythefile.vip
 0.0.0.0 loadpreciseintenselythefile.vip
-0.0.0.0 loadpreciseuberfile.digital
 0.0.0.0 loadprogressivegreatlythefile.vip
 0.0.0.0 loadquickextremelyfile.digital
 0.0.0.0 loadrecentextremelythefile.vip
-0.0.0.0 loadrecentoverlyfile.digital
-0.0.0.0 loadrefineduberfile.digital
 0.0.0.0 loadrenewedgreatlythefile.vip
-0.0.0.0 loadsophisticateduberfile.digital
 0.0.0.0 loadstreamlaunch.digital
 0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loadstrongintenselythefile.vip
 0.0.0.0 loadswiftintenselythefile.vip
-0.0.0.0 loaduberprecisefile.digital
-0.0.0.0 loaduberspeedyfile.digital
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
@@ -212,7 +206,9 @@
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
 0.0.0.0 mobiastar.xyz
+0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
+0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 movievod.me
 0.0.0.0 mynutriplan.co
@@ -301,8 +297,6 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
-0.0.0.0 savagegrowplus.net
-0.0.0.0 scoopswoop.info
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -346,9 +340,11 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
+0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the1star.xyz
 0.0.0.0 the7plains.xyz
+0.0.0.0 the7volcano.xyz
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
@@ -360,9 +356,9 @@
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trafficmind.pro
-0.0.0.0 trane.fun
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
+0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
@@ -387,6 +383,7 @@
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca
 0.0.0.0 west1ocean.xyz
+0.0.0.0 west1sky.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.icu

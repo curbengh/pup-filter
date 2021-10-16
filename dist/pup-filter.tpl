@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 15 Oct 2021 12:02:26 +0000
+# Updated: Sat, 16 Oct 2021 00:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -45,7 +45,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
@@ -53,18 +52,21 @@ msFilterList
 -d curiositydstream.com
 -d darkview.org
 -d dayinlife.net
+-d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
 -d dealsify.net
 -d defensepro.me
+-d discoveryfeed.org
 -d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
+-d enjoy1mountain.xyz
+-d enjoy1volcano.xyz
 -d enjoyacrater.xyz
 -d exploreshops.net
 -d fast-app.xyz
--d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -73,6 +75,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d findwith.me
 -d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
@@ -80,25 +83,23 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d getmoregirls.net
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d global-track.space
 -d goalmedia.cam
--d goalmedia.monster
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
@@ -118,9 +119,9 @@ msFilterList
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
--d java-forum.org
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -167,7 +168,6 @@ msFilterList
 -d listenthisso.top
 -d lltrsknoob.click
 -d loadadvancedextremelythefile.vip
--d loaddevelopeduberfile.digital
 -d loadextremelycurrentthefile.vip
 -d loadextremelyquickfile.digital
 -d loadextremelyrecentthefile.vip
@@ -187,20 +187,14 @@ msFilterList
 -d loadoriginalextremelythefile.vip
 -d loadoriginalgreatlythefile.vip
 -d loadpreciseintenselythefile.vip
--d loadpreciseuberfile.digital
 -d loadprogressivegreatlythefile.vip
 -d loadquickextremelyfile.digital
 -d loadrecentextremelythefile.vip
--d loadrecentoverlyfile.digital
--d loadrefineduberfile.digital
 -d loadrenewedgreatlythefile.vip
--d loadsophisticateduberfile.digital
 -d loadstreamlaunch.digital
 -d loadstrongextremelyfile.digital
 -d loadstrongintenselythefile.vip
 -d loadswiftintenselythefile.vip
--d loaduberprecisefile.digital
--d loaduberspeedyfile.digital
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
@@ -215,7 +209,9 @@ msFilterList
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
 -d mobiastar.xyz
+-d mobiavolcano.xyz
 -d mobileluckywinner.site
+-d mobyfox.shop
 -d money-hero.org
 -d movievod.me
 -d mynutriplan.co
@@ -304,8 +300,6 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
--d savagegrowplus.net
--d scoopswoop.info
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -349,9 +343,11 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d the1star.xyz
 -d the7plains.xyz
+-d the7volcano.xyz
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
@@ -363,9 +359,9 @@ msFilterList
 -d topdating.online
 -d tracking-landers.xyz
 -d trafficmind.pro
--d trane.fun
 -d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -390,6 +386,7 @@ msFilterList
 -d web-security.ml
 -d webtactics.ca
 -d west1ocean.xyz
+-d west1sky.xyz
 -d westasea.xyz
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 15 Oct 2021 12:02:26 +0000
+! Updated: Sat, 16 Oct 2021 00:03:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,7 +42,6 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
-||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||cryptotilt.club^
@@ -50,18 +49,21 @@
 ||curiositydstream.com^
 ||darkview.org^
 ||dayinlife.net^
+||dealmedia.club^
 ||dealmedia.website^
 ||dealmedia.xyz^
 ||dealsify.net^
 ||defensepro.me^
+||discoveryfeed.org^
 ||dollarsurvey366.org^
 ||earlyprogress.info^
 ||efladn.club^
 ||elpelades.club^
+||enjoy1mountain.xyz^
+||enjoy1volcano.xyz^
 ||enjoyacrater.xyz^
 ||exploreshops.net^
 ||fast-app.xyz^
-||fastfactsonline.co^
 ||fastmapc.xyz^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
@@ -70,6 +72,7 @@
 ||fastwebb.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
+||findwith.me^
 ||finreporter.net^
 ||fireapps.cloud^
 ||fisudauh.top^
@@ -77,25 +80,23 @@
 ||freenationalsuperworldwide.cyou^
 ||freewareappsstreamfast-best.digital^
 ||freewareappsstreamfastall.digital^
-||funanime.me^
 ||funny-media.ru^
 ||funspine.xyz^
 ||genertellife.it^
 ||get-your-score.club^
-||getmoregirls.net^
 ||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
 ||gladplacespin.xyz^
 ||global-track.space^
 ||goalmedia.cam^
-||goalmedia.monster^
 ||golddellifewonder.rest^
 ||gonesteeldouble.top^
 ||grandencryptions.me^
 ||healthylives.today^
 ||heatwavereporter.org^
 ||help4.info^
+||hpages.net^
 ||httqzq.vip^
 ||huge2upgradescentral.work^
 ||hypezen.info^
@@ -115,9 +116,9 @@
 ||installprecisehighlythefile.vip^
 ||installprogressiveintenselythefile.vip^
 ||intelectaction.ru^
+||investinfo.net^
 ||ironprovpn.me^
 ||isystemupdate.cloud^
-||java-forum.org^
 ||jetsummer.xyz^
 ||jointingifstrawberry.xyz^
 ||jojomamanbebe.ie^
@@ -164,7 +165,6 @@
 ||listenthisso.top^
 ||lltrsknoob.click^
 ||loadadvancedextremelythefile.vip^
-||loaddevelopeduberfile.digital^
 ||loadextremelycurrentthefile.vip^
 ||loadextremelyquickfile.digital^
 ||loadextremelyrecentthefile.vip^
@@ -184,20 +184,14 @@
 ||loadoriginalextremelythefile.vip^
 ||loadoriginalgreatlythefile.vip^
 ||loadpreciseintenselythefile.vip^
-||loadpreciseuberfile.digital^
 ||loadprogressivegreatlythefile.vip^
 ||loadquickextremelyfile.digital^
 ||loadrecentextremelythefile.vip^
-||loadrecentoverlyfile.digital^
-||loadrefineduberfile.digital^
 ||loadrenewedgreatlythefile.vip^
-||loadsophisticateduberfile.digital^
 ||loadstreamlaunch.digital^
 ||loadstrongextremelyfile.digital^
 ||loadstrongintenselythefile.vip^
 ||loadswiftintenselythefile.vip^
-||loaduberprecisefile.digital^
-||loaduberspeedyfile.digital^
 ||louisvillegigs.net^
 ||loveorfun.cc^
 ||lubbockeda.org^
@@ -212,7 +206,9 @@
 ||mobi7sky.xyz^
 ||mobi7volcano.xyz^
 ||mobiastar.xyz^
+||mobiavolcano.xyz^
 ||mobileluckywinner.site^
+||mobyfox.shop^
 ||money-hero.org^
 ||movievod.me^
 ||mynutriplan.co^
@@ -301,8 +297,6 @@
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
 ||safeguide.net^
-||savagegrowplus.net^
-||scoopswoop.info^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
@@ -346,9 +340,11 @@
 ||systemupdateme.solutions^
 ||systemupdatit.club^
 ||technoblogs.net^
+||technologypartners.net^
 ||thanksyoursupport.club^
 ||the1star.xyz^
 ||the7plains.xyz^
+||the7volcano.xyz^
 ||thecryptozone.website^
 ||theirproviderock.top^
 ||thelastpicture.show^
@@ -360,9 +356,9 @@
 ||topdating.online^
 ||tracking-landers.xyz^
 ||trafficmind.pro^
-||trane.fun^
 ||truecompassion.net^
 ||trustappstreamsall.digital^
+||ubertech.shop^
 ||updatefix.xyz^
 ||upplaysite.xyz^
 ||usepro.me^
@@ -387,6 +383,7 @@
 ||web-security.ml^
 ||webtactics.ca^
 ||west1ocean.xyz^
+||west1sky.xyz^
 ||westasea.xyz^
 ||winnerbigwingiveawaysuper.cyou^
 ||winnerz.icu^
