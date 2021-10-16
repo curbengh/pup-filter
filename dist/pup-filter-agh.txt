@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 16 Oct 2021 00:03:47 +0000
+! Updated: Sat, 16 Oct 2021 12:02:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net^
 ||4upgradingstablesafe.work^
+||aikoo.club^
 ||amobil.online^
 ||appsto.cloud^
 ||appzfirer.biz^
@@ -205,6 +206,7 @@
 ||mindmatch.ai^
 ||mobi7sky.xyz^
 ||mobi7volcano.xyz^
+||mobiaplanet.xyz^
 ||mobiastar.xyz^
 ||mobiavolcano.xyz^
 ||mobileluckywinner.site^
@@ -217,7 +219,6 @@
 ||newbuy.xyz^
 ||newsinformer.net^
 ||offerpage.link^
-||offersearch.info^
 ||official-bigwin-national-free.cyou^
 ||officialbigwinnationalfree.cyou^
 ||oldharper.xyz^
@@ -290,6 +291,7 @@
 ||qfind.net^
 ||quatrefeuillepolonaise.xyz^
 ||quizshein.shop^
+||rancy.xyz^
 ||rewardgivingrealspecialoffer.cyou^
 ||rewards-promotion-winner-super.cyou^
 ||rewardspromotionwinnersuper.cyou^
@@ -307,6 +309,7 @@
 ||sergey-tracks.xyz^
 ||settothereliableupgradingnew.work^
 ||shopadvisors.net^
+||shopin.nyc^
 ||shopnsave.world^
 ||signupandturnyourscreenoffsafepowernow.date^
 ||smartideas.pro^
