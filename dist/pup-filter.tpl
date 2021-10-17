@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 16 Oct 2021 12:02:16 +0000
+# Updated: Sun, 17 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,6 +25,7 @@ msFilterList
 -d beinspired.global
 -d bestappland.me
 -d bkk755.biz
+-d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
 -d boot-upcompletely-bestsophisticatedfile.best
@@ -39,6 +40,7 @@ msFilterList
 -d calledbellc.fun
 -d center1plains.xyz
 -d center7ocean.xyz
+-d center7planet.xyz
 -d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
@@ -58,16 +60,16 @@ msFilterList
 -d dealmedia.xyz
 -d dealsify.net
 -d defensepro.me
--d discoveryfeed.org
--d dollarsurvey366.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
 -d enjoy1mountain.xyz
+-d enjoy1ocean.xyz
 -d enjoy1volcano.xyz
 -d enjoyacrater.xyz
 -d exploreshops.net
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -76,7 +78,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findwith.me
 -d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
@@ -88,7 +89,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -100,7 +100,6 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
@@ -201,7 +200,6 @@ msFilterList
 -d lubbockeda.org
 -d marketloans.net
 -d matchyourgirl.online
--d mathison.io
 -d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
@@ -281,6 +279,7 @@ msFilterList
 -d playwinterf.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
+-d producthunter.club
 -d profitsurvey365.online
 -d profitsurvey365.org
 -d proprotect.me
@@ -295,6 +294,7 @@ msFilterList
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
+-d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -302,6 +302,7 @@ msFilterList
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
+-d savagegrowplus.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -351,6 +352,7 @@ msFilterList
 -d the1star.xyz
 -d the7plains.xyz
 -d the7volcano.xyz
+-d theastar.xyz
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
@@ -364,7 +366,7 @@ msFilterList
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
+-d trustedsear.ch
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -374,6 +376,7 @@ msFilterList
 -d videoau.ru
 -d videoauthor.ru
 -d videomixable.ru
+-d videomixace.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -388,6 +391,7 @@ msFilterList
 -d watchrefined-bestextremelyfile.best
 -d web-security.ml
 -d webtactics.ca
+-d west1asteroid.xyz
 -d west1ocean.xyz
 -d west1sky.xyz
 -d westasea.xyz

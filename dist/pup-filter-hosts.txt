@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 16 Oct 2021 12:02:16 +0000
+# Updated: Sun, 17 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,6 +22,7 @@
 0.0.0.0 beinspired.global
 0.0.0.0 bestappland.me
 0.0.0.0 bkk755.biz
+0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
 0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
@@ -36,6 +37,7 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 center1plains.xyz
 0.0.0.0 center7ocean.xyz
+0.0.0.0 center7planet.xyz
 0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connecttheupgradingurls.work
@@ -55,16 +57,16 @@
 0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
-0.0.0.0 discoveryfeed.org
-0.0.0.0 dollarsurvey366.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy1mountain.xyz
+0.0.0.0 enjoy1ocean.xyz
 0.0.0.0 enjoy1volcano.xyz
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastmapc.xyz
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
@@ -73,7 +75,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 findwith.me
 0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
@@ -85,7 +86,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -97,7 +97,6 @@
 0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
-0.0.0.0 hpages.net
 0.0.0.0 httqzq.vip
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 hypezen.info
@@ -198,7 +197,6 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 marketloans.net
 0.0.0.0 matchyourgirl.online
-0.0.0.0 mathison.io
 0.0.0.0 mazestation.games
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
@@ -278,6 +276,7 @@
 0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
+0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey365.online
 0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
@@ -292,6 +291,7 @@
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
+0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
@@ -299,6 +299,7 @@
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
+0.0.0.0 savagegrowplus.net
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -348,6 +349,7 @@
 0.0.0.0 the1star.xyz
 0.0.0.0 the7plains.xyz
 0.0.0.0 the7volcano.xyz
+0.0.0.0 theastar.xyz
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
@@ -361,7 +363,7 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
+0.0.0.0 trustedsear.ch
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
@@ -371,6 +373,7 @@
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videomixable.ru
+0.0.0.0 videomixace.ru
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -385,6 +388,7 @@
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca
+0.0.0.0 west1asteroid.xyz
 0.0.0.0 west1ocean.xyz
 0.0.0.0 west1sky.xyz
 0.0.0.0 westasea.xyz

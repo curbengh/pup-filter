@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 16 Oct 2021 12:02:16 +0000
+# Updated: Sun, 17 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -22,6 +22,7 @@ be-us-exercise-bikes-ok.live
 beinspired.global
 bestappland.me
 bkk755.biz
+bleu-bonheur.fr
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
 boot-upcompletely-bestsophisticatedfile.best
@@ -36,6 +37,7 @@ breaking-news.digital
 calledbellc.fun
 center1plains.xyz
 center7ocean.xyz
+center7planet.xyz
 chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
@@ -55,16 +57,16 @@ dealmedia.website
 dealmedia.xyz
 dealsify.net
 defensepro.me
-discoveryfeed.org
-dollarsurvey366.org
 earlyprogress.info
 efladn.club
 elpelades.club
 enjoy1mountain.xyz
+enjoy1ocean.xyz
 enjoy1volcano.xyz
 enjoyacrater.xyz
 exploreshops.net
 fast-app.xyz
+fastfactsonline.co
 fastmapc.xyz
 fastspinc.xyz
 fastspinf.xyz
@@ -73,7 +75,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findwith.me
 finreporter.net
 fireapps.cloud
 fisudauh.top
@@ -85,7 +86,6 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -97,7 +97,6 @@ grandencryptions.me
 healthylives.today
 heatwavereporter.org
 help4.info
-hpages.net
 httqzq.vip
 huge2upgradescentral.work
 hypezen.info
@@ -198,7 +197,6 @@ loveorfun.cc
 lubbockeda.org
 marketloans.net
 matchyourgirl.online
-mathison.io
 mazestation.games
 media-cloud.ru
 mediaadvanced.ru
@@ -278,6 +276,7 @@ playwintere.xyz
 playwinterf.xyz
 ppploanchoices.site
 prize-messsages.casa
+producthunter.club
 profitsurvey365.online
 profitsurvey365.org
 proprotect.me
@@ -292,6 +291,7 @@ qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
 rancy.xyz
+real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
@@ -299,6 +299,7 @@ robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
+savagegrowplus.net
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -348,6 +349,7 @@ thanksyoursupport.club
 the1star.xyz
 the7plains.xyz
 the7volcano.xyz
+theastar.xyz
 thecryptozone.website
 theirproviderock.top
 thelastpicture.show
@@ -361,7 +363,7 @@ tracking-landers.xyz
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
-ubertech.shop
+trustedsear.ch
 updatefix.xyz
 upplaysite.xyz
 usepro.me
@@ -371,6 +373,7 @@ usforeclosure.net
 videoau.ru
 videoauthor.ru
 videomixable.ru
+videomixace.ru
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me
@@ -385,6 +388,7 @@ watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca
+west1asteroid.xyz
 west1ocean.xyz
 west1sky.xyz
 westasea.xyz
