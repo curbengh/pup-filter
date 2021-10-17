@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 17 Oct 2021 00:02:43 +0000
+! Updated: Sun, 17 Oct 2021 12:02:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
 ||appsto.cloud$all
@@ -21,7 +22,6 @@
 ||be-us-exercise-bikes-ok.live$all
 ||beinspired.global$all
 ||bestappland.me$all
-||bkk755.biz$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
 ||boot-upcompletely-bestprecisefile.best$all
@@ -37,7 +37,6 @@
 ||calledbellc.fun$all
 ||center1plains.xyz$all
 ||center7ocean.xyz$all
-||center7planet.xyz$all
 ||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||connecttheupgradingurls.work$all
@@ -50,6 +49,7 @@
 ||cryptotilt.club$all
 ||curfiositystream.com$all
 ||curiositydstream.com$all
+||dailyboard.org$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -290,7 +290,6 @@
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
-||rancy.xyz$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
@@ -309,7 +308,6 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
@@ -321,7 +319,6 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
-||stogether.fun$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
@@ -363,7 +360,6 @@
 ||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||trustedsear.ch$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all

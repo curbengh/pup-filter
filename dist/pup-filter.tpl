@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 17 Oct 2021 00:02:43 +0000
+# Updated: Sun, 17 Oct 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d affiliateland.io
 -d aikoo.club
 -d amobil.online
 -d appsto.cloud
@@ -24,7 +25,6 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
 -d bestappland.me
--d bkk755.biz
 -d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
@@ -40,7 +40,6 @@ msFilterList
 -d calledbellc.fun
 -d center1plains.xyz
 -d center7ocean.xyz
--d center7planet.xyz
 -d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
@@ -53,6 +52,7 @@ msFilterList
 -d cryptotilt.club
 -d curfiositystream.com
 -d curiositydstream.com
+-d dailyboard.org
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
@@ -293,7 +293,6 @@ msFilterList
 -d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d rancy.xyz
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
@@ -312,7 +311,6 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
@@ -324,7 +322,6 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -366,7 +363,6 @@ msFilterList
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
--d trustedsear.ch
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me

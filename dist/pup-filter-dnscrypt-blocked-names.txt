@@ -1,12 +1,13 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 17 Oct 2021 00:02:43 +0000
+# Updated: Sun, 17 Oct 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+affiliateland.io
 aikoo.club
 amobil.online
 appsto.cloud
@@ -21,7 +22,6 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beinspired.global
 bestappland.me
-bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
@@ -37,7 +37,6 @@ breaking-news.digital
 calledbellc.fun
 center1plains.xyz
 center7ocean.xyz
-center7planet.xyz
 chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
@@ -50,6 +49,7 @@ credit-monitoring-360.xyz
 cryptotilt.club
 curfiositystream.com
 curiositydstream.com
+dailyboard.org
 darkview.org
 dayinlife.net
 dealmedia.club
@@ -290,7 +290,6 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
-rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
@@ -309,7 +308,6 @@ securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
-shopadvisors.net
 shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
@@ -321,7 +319,6 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
-stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
@@ -363,7 +360,6 @@ tracking-landers.xyz
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
-trustedsear.ch
 updatefix.xyz
 upplaysite.xyz
 usepro.me
