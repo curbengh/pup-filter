@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 17 Oct 2021 12:02:18 +0000
+# Updated: Mon, 18 Oct 2021 00:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,7 +24,6 @@ msFilterList
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beinspired.global
--d bestappland.me
 -d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
@@ -39,7 +38,9 @@ msFilterList
 -d breaking-news.digital
 -d calledbellc.fun
 -d center1plains.xyz
+-d center1sky.xyz
 -d center7ocean.xyz
+-d centeravolcano.xyz
 -d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
@@ -47,6 +48,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d cryptotilt.club
@@ -78,6 +80,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d findwith.me
 -d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
@@ -89,17 +92,18 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
 -d global-track.space
--d goalmedia.cam
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
@@ -222,9 +226,7 @@ msFilterList
 -d offerpage.link
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
--d oldharper.xyz
 -d olivedinflats.space
--d online-prize-super-promotion.cyou
 -d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
@@ -249,6 +251,7 @@ msFilterList
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pcsecurity-live.xyz
+-d peterhahn.be
 -d photo-explorer.org
 -d placefortheupgradesset.work
 -d placesiteb.xyz
@@ -315,6 +318,7 @@ msFilterList
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
+-d sonic1ocean.xyz
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
@@ -331,7 +335,6 @@ msFilterList
 -d subeamy.pw
 -d sudoo.net
 -d summermedia.club
--d support-notify.space
 -d sweetalt.ru
 -d sweetgirls.buzz
 -d synccurrentmostthefile.vip
@@ -346,9 +349,11 @@ msFilterList
 -d technoblogs.net
 -d technologypartners.net
 -d thanksyoursupport.club
+-d the-star.xyz
 -d the1star.xyz
 -d the7plains.xyz
 -d the7volcano.xyz
+-d theaasteroid.xyz
 -d theastar.xyz
 -d thecryptozone.website
 -d theirproviderock.top
@@ -363,6 +368,7 @@ msFilterList
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -390,7 +396,10 @@ msFilterList
 -d west1asteroid.xyz
 -d west1ocean.xyz
 -d west1sky.xyz
+-d west1star.xyz
+-d westaocean.xyz
 -d westasea.xyz
+-d westastar.xyz
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
 -d winnerz.site

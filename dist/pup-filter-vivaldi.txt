@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 17 Oct 2021 12:02:18 +0000
+! Updated: Mon, 18 Oct 2021 00:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -21,7 +21,6 @@
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
 ||beinspired.global$document
-||bestappland.me$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
@@ -36,7 +35,9 @@
 ||breaking-news.digital$document
 ||calledbellc.fun$document
 ||center1plains.xyz$document
+||center1sky.xyz$document
 ||center7ocean.xyz$document
+||centeravolcano.xyz$document
 ||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||connecttheupgradingurls.work$document
@@ -44,6 +45,7 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||cryptotilt.club$document
@@ -75,6 +77,7 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
+||findwith.me$document
 ||finreporter.net$document
 ||fireapps.cloud$document
 ||fisudauh.top$document
@@ -86,17 +89,18 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
 ||global-track.space$document
-||goalmedia.cam$document
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grandencryptions.me$document
 ||healthylives.today$document
 ||heatwavereporter.org$document
 ||help4.info$document
+||hpages.net$document
 ||httqzq.vip$document
 ||huge2upgradescentral.work$document
 ||hypezen.info$document
@@ -219,9 +223,7 @@
 ||offerpage.link$document
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
-||oldharper.xyz$document
 ||olivedinflats.space$document
-||online-prize-super-promotion.cyou$document
 ||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
@@ -246,6 +248,7 @@
 ||pandawinterd.xyz$document
 ||pandawintere.xyz$document
 ||pcsecurity-live.xyz$document
+||peterhahn.be$document
 ||photo-explorer.org$document
 ||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
@@ -312,6 +315,7 @@
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
+||sonic1ocean.xyz$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
@@ -328,7 +332,6 @@
 ||subeamy.pw$document
 ||sudoo.net$document
 ||summermedia.club$document
-||support-notify.space$document
 ||sweetalt.ru$document
 ||sweetgirls.buzz$document
 ||synccurrentmostthefile.vip$document
@@ -343,9 +346,11 @@
 ||technoblogs.net$document
 ||technologypartners.net$document
 ||thanksyoursupport.club$document
+||the-star.xyz$document
 ||the1star.xyz$document
 ||the7plains.xyz$document
 ||the7volcano.xyz$document
+||theaasteroid.xyz$document
 ||theastar.xyz$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
@@ -360,6 +365,7 @@
 ||trafficmind.pro$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
+||ubertech.shop$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
@@ -387,7 +393,10 @@
 ||west1asteroid.xyz$document
 ||west1ocean.xyz$document
 ||west1sky.xyz$document
+||west1star.xyz$document
+||westaocean.xyz$document
 ||westasea.xyz$document
+||westastar.xyz$document
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.icu$document
 ||winnerz.site$document
