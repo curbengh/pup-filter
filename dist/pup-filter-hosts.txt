@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 18 Oct 2021 00:02:31 +0000
+# Updated: Mon, 18 Oct 2021 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -37,6 +37,7 @@
 0.0.0.0 center1plains.xyz
 0.0.0.0 center1sky.xyz
 0.0.0.0 center7ocean.xyz
+0.0.0.0 center7planet.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
@@ -51,7 +52,6 @@
 0.0.0.0 cryptotilt.club
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
-0.0.0.0 dailyboard.org
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
