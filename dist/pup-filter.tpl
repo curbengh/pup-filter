@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 18 Oct 2021 12:02:25 +0000
+# Updated: Tue, 19 Oct 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -41,6 +41,7 @@ msFilterList
 -d center1sky.xyz
 -d center7ocean.xyz
 -d center7planet.xyz
+-d centeracoast.xyz
 -d centeravolcano.xyz
 -d chatverse.net
 -d checkstableaupdatinglinks.work
@@ -52,7 +53,6 @@ msFilterList
 -d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
--d cryptotilt.club
 -d curfiositystream.com
 -d curiositydstream.com
 -d darkview.org
@@ -65,9 +65,11 @@ msFilterList
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
+-d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
 -d enjoy1volcano.xyz
+-d enjoy7mountain.xyz
 -d enjoyacrater.xyz
 -d exploreshops.net
 -d fast-app.xyz
@@ -88,6 +90,7 @@ msFilterList
 -d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
+-d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -139,7 +142,6 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -227,7 +229,6 @@ msFilterList
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
 -d olivedinflats.space
--d onlineprizesuperpromotion.cyou
 -d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
 -d pandaautumna.xyz
@@ -284,7 +285,6 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitsurvey365.online
--d profitsurvey365.org
 -d proprotect.me
 -d prosecurityvpn.me
 -d protect-ios.com
@@ -296,7 +296,6 @@ msFilterList
 -d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
--d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -309,15 +308,14 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d seasoned.co
 -d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
+-d sonic1coast.xyz
 -d sonic1ocean.xyz
 -d spotmapd.xyz
 -d spotmapf.xyz
@@ -333,7 +331,6 @@ msFilterList
 -d streamrecent-bestuberfile.best
 -d streamspeedyintenselythefile.vip
 -d subeamy.pw
--d sudoo.net
 -d summermedia.club
 -d sweetalt.ru
 -d sweetgirls.buzz
@@ -397,6 +394,7 @@ msFilterList
 -d west1ocean.xyz
 -d west1sky.xyz
 -d west1star.xyz
+-d westaasteroid.xyz
 -d westaocean.xyz
 -d westasea.xyz
 -d westastar.xyz

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 18 Oct 2021 12:02:25 +0000
+# Updated: Tue, 19 Oct 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -38,6 +38,7 @@
 0.0.0.0 center1sky.xyz
 0.0.0.0 center7ocean.xyz
 0.0.0.0 center7planet.xyz
+0.0.0.0 centeracoast.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
@@ -49,7 +50,6 @@
 0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
-0.0.0.0 cryptotilt.club
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 darkview.org
@@ -62,9 +62,11 @@
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
+0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
 0.0.0.0 enjoy1volcano.xyz
+0.0.0.0 enjoy7mountain.xyz
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
@@ -85,6 +87,7 @@
 0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
+0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
@@ -136,7 +139,6 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
-0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -224,7 +226,6 @@
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 olivedinflats.space
-0.0.0.0 onlineprizesuperpromotion.cyou
 0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
@@ -281,7 +282,6 @@
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey365.online
-0.0.0.0 profitsurvey365.org
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-ios.com
@@ -293,7 +293,6 @@
 0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
-0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
@@ -306,15 +305,14 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 seasoned.co
 0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
+0.0.0.0 sonic1coast.xyz
 0.0.0.0 sonic1ocean.xyz
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
@@ -330,7 +328,6 @@
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamspeedyintenselythefile.vip
 0.0.0.0 subeamy.pw
-0.0.0.0 sudoo.net
 0.0.0.0 summermedia.club
 0.0.0.0 sweetalt.ru
 0.0.0.0 sweetgirls.buzz
@@ -394,6 +391,7 @@
 0.0.0.0 west1ocean.xyz
 0.0.0.0 west1sky.xyz
 0.0.0.0 west1star.xyz
+0.0.0.0 westaasteroid.xyz
 0.0.0.0 westaocean.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz

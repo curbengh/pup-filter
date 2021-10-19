@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 18 Oct 2021 12:02:25 +0000
+# Updated: Tue, 19 Oct 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -38,6 +38,7 @@ center1plains.xyz
 center1sky.xyz
 center7ocean.xyz
 center7planet.xyz
+centeracoast.xyz
 centeravolcano.xyz
 chatverse.net
 checkstableaupdatinglinks.work
@@ -49,7 +50,6 @@ country-news.live
 craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
-cryptotilt.club
 curfiositystream.com
 curiositydstream.com
 darkview.org
@@ -62,9 +62,11 @@ defensepro.me
 earlyprogress.info
 efladn.club
 elpelades.club
+enjoy-star.xyz
 enjoy1mountain.xyz
 enjoy1ocean.xyz
 enjoy1volcano.xyz
+enjoy7mountain.xyz
 enjoyacrater.xyz
 exploreshops.net
 fast-app.xyz
@@ -85,6 +87,7 @@ flash-rewards.info
 freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
+funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
@@ -136,7 +139,6 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -224,7 +226,6 @@ offerpage.link
 official-bigwin-national-free.cyou
 officialbigwinnationalfree.cyou
 olivedinflats.space
-onlineprizesuperpromotion.cyou
 onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pandaautumna.xyz
@@ -281,7 +282,6 @@ ppploanchoices.site
 prize-messsages.casa
 producthunter.club
 profitsurvey365.online
-profitsurvey365.org
 proprotect.me
 prosecurityvpn.me
 protect-ios.com
@@ -293,7 +293,6 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
-real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
@@ -306,15 +305,14 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-seasoned.co
 securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
-shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
+sonic1coast.xyz
 sonic1ocean.xyz
 spotmapd.xyz
 spotmapf.xyz
@@ -330,7 +328,6 @@ streampreciseintenselythefile.vip
 streamrecent-bestuberfile.best
 streamspeedyintenselythefile.vip
 subeamy.pw
-sudoo.net
 summermedia.club
 sweetalt.ru
 sweetgirls.buzz
@@ -394,6 +391,7 @@ west1asteroid.xyz
 west1ocean.xyz
 west1sky.xyz
 west1star.xyz
+westaasteroid.xyz
 westaocean.xyz
 westasea.xyz
 westastar.xyz

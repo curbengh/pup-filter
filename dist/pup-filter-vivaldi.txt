@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 18 Oct 2021 12:02:25 +0000
+! Updated: Tue, 19 Oct 2021 00:02:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -38,6 +38,7 @@
 ||center1sky.xyz$document
 ||center7ocean.xyz$document
 ||center7planet.xyz$document
+||centeracoast.xyz$document
 ||centeravolcano.xyz$document
 ||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
@@ -49,7 +50,6 @@
 ||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
-||cryptotilt.club$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||darkview.org$document
@@ -62,9 +62,11 @@
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
+||enjoy-star.xyz$document
 ||enjoy1mountain.xyz$document
 ||enjoy1ocean.xyz$document
 ||enjoy1volcano.xyz$document
+||enjoy7mountain.xyz$document
 ||enjoyacrater.xyz$document
 ||exploreshops.net$document
 ||fast-app.xyz$document
@@ -85,6 +87,7 @@
 ||freenationalsuperworldwide.cyou$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
+||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
@@ -136,7 +139,6 @@
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
-||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -224,7 +226,6 @@
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
 ||olivedinflats.space$document
-||onlineprizesuperpromotion.cyou$document
 ||onlinewinnerluckyrewards.cyou$document
 ||ouldthepat.fun$document
 ||pandaautumna.xyz$document
@@ -281,7 +282,6 @@
 ||prize-messsages.casa$document
 ||producthunter.club$document
 ||profitsurvey365.online$document
-||profitsurvey365.org$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
 ||protect-ios.com$document
@@ -293,7 +293,6 @@
 ||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
 ||rewardspromotionwinnersuper.cyou$document
@@ -306,15 +305,14 @@
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
-||seasoned.co$document
 ||securitevpn.me$document
 ||securityvpnpro.me$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
+||sonic1coast.xyz$document
 ||sonic1ocean.xyz$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
@@ -330,7 +328,6 @@
 ||streamrecent-bestuberfile.best$document
 ||streamspeedyintenselythefile.vip$document
 ||subeamy.pw$document
-||sudoo.net$document
 ||summermedia.club$document
 ||sweetalt.ru$document
 ||sweetgirls.buzz$document
@@ -394,6 +391,7 @@
 ||west1ocean.xyz$document
 ||west1sky.xyz$document
 ||west1star.xyz$document
+||westaasteroid.xyz$document
 ||westaocean.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
