@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 20 Oct 2021 00:02:59 +0000
+# Updated: Wed, 20 Oct 2021 12:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -61,6 +61,7 @@ dealmedia.website
 dealmedia.xyz
 dealsify.net
 defensepro.me
+discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -291,6 +292,7 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
+rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
@@ -321,6 +323,7 @@ springplanetf.xyz
 start-page.one
 startos.win
 stickr.co
+stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
