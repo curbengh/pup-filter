@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 19 Oct 2021 12:03:09 +0000
+! Updated: Wed, 20 Oct 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 ||appzfirer.biz$all
 ||armorprovpn.me$all
 ||atprofessor.fun$all
+||atwater.org$all
 ||auto-car-search.site$all
 ||axisradio.ca$all
 ||be-5hdo32xes-ok.live$all
@@ -37,11 +38,11 @@
 ||calledbellc.fun$all
 ||center1plains.xyz$all
 ||center1sky.xyz$all
+||center1star.xyz$all
 ||center7ocean.xyz$all
 ||center7planet.xyz$all
 ||centeracoast.xyz$all
 ||centeravolcano.xyz$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
@@ -80,8 +81,6 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
-||findwith.me$all
-||finreporter.net$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
@@ -124,7 +123,6 @@
 ||installprecisehighlythefile.vip$all
 ||installprogressiveintenselythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
@@ -140,6 +138,7 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
+||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -162,10 +161,8 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
-||ligamedia.art$all
 ||ligamedia.casa$all
 ||ligamedia.club$all
 ||link4updatingcentral.work$all
@@ -294,6 +291,7 @@
 ||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
+||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
@@ -310,6 +308,7 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
@@ -342,7 +341,6 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
-||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
 ||the1star.xyz$all
@@ -363,7 +361,6 @@
 ||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
@@ -377,7 +374,6 @@
 ||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
-||vpnservice.me$all
 ||watchadvanced-bestgreatlyfile.best$all
 ||watchextremely-bestsophisticatedfile.best$all
 ||watchgreatly-bestcurrentfile.best$all

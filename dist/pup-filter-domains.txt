@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 19 Oct 2021 12:03:09 +0000
+# Updated: Wed, 20 Oct 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@ appsto.cloud
 appzfirer.biz
 armorprovpn.me
 atprofessor.fun
+atwater.org
 auto-car-search.site
 axisradio.ca
 be-5hdo32xes-ok.live
@@ -37,11 +38,11 @@ breaking-news.digital
 calledbellc.fun
 center1plains.xyz
 center1sky.xyz
+center1star.xyz
 center7ocean.xyz
 center7planet.xyz
 centeracoast.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -80,8 +81,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findwith.me
-finreporter.net
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
@@ -124,7 +123,6 @@ installintenselyrefinedthefile.vip
 installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 intelectaction.ru
-investinfo.net
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
@@ -140,6 +138,7 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
+keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -162,10 +161,8 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 ktpyzw.vip
 lackystack.net
-ligamedia.art
 ligamedia.casa
 ligamedia.club
 link4updatingcentral.work
@@ -294,6 +291,7 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
+real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
@@ -310,6 +308,7 @@ securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopin.nyc
 shopnsave.world
 signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
@@ -342,7 +341,6 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
-technologypartners.net
 thanksyoursupport.club
 the-star.xyz
 the1star.xyz
@@ -363,7 +361,6 @@ tracking-landers.xyz
 trafficmind.pro
 truecompassion.net
 trustappstreamsall.digital
-ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me
@@ -377,7 +374,6 @@ videomixace.ru
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me
-vpnservice.me
 watchadvanced-bestgreatlyfile.best
 watchextremely-bestsophisticatedfile.best
 watchgreatly-bestcurrentfile.best

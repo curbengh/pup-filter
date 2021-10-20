@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 19 Oct 2021 12:03:09 +0000
+# Updated: Wed, 20 Oct 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@ msFilterList
 -d appzfirer.biz
 -d armorprovpn.me
 -d atprofessor.fun
+-d atwater.org
 -d auto-car-search.site
 -d axisradio.ca
 -d be-5hdo32xes-ok.live
@@ -40,11 +41,11 @@ msFilterList
 -d calledbellc.fun
 -d center1plains.xyz
 -d center1sky.xyz
+-d center1star.xyz
 -d center7ocean.xyz
 -d center7planet.xyz
 -d centeracoast.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -83,8 +84,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findwith.me
--d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
@@ -127,7 +126,6 @@ msFilterList
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
@@ -143,6 +141,7 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
+-d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -165,10 +164,8 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
--d ligamedia.art
 -d ligamedia.casa
 -d ligamedia.club
 -d link4updatingcentral.work
@@ -297,6 +294,7 @@ msFilterList
 -d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
+-d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
@@ -313,6 +311,7 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -345,7 +344,6 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
--d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
 -d the1star.xyz
@@ -366,7 +364,6 @@ msFilterList
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -380,7 +377,6 @@ msFilterList
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
--d vpnservice.me
 -d watchadvanced-bestgreatlyfile.best
 -d watchextremely-bestsophisticatedfile.best
 -d watchgreatly-bestcurrentfile.best

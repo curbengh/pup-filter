@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 19 Oct 2021 12:03:09 +0000
+# Updated: Wed, 20 Oct 2021 00:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 appzfirer.biz
 0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
+0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 axisradio.ca
 0.0.0.0 be-5hdo32xes-ok.live
@@ -37,11 +38,11 @@
 0.0.0.0 calledbellc.fun
 0.0.0.0 center1plains.xyz
 0.0.0.0 center1sky.xyz
+0.0.0.0 center1star.xyz
 0.0.0.0 center7ocean.xyz
 0.0.0.0 center7planet.xyz
 0.0.0.0 centeracoast.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -80,8 +81,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 findwith.me
-0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
@@ -124,7 +123,6 @@
 0.0.0.0 installprecisehighlythefile.vip
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
@@ -140,6 +138,7 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
+0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -162,10 +161,8 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
-0.0.0.0 ligamedia.art
 0.0.0.0 ligamedia.casa
 0.0.0.0 ligamedia.club
 0.0.0.0 link4updatingcentral.work
@@ -294,6 +291,7 @@
 0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
+0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
@@ -310,6 +308,7 @@
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
@@ -342,7 +341,6 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
-0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
 0.0.0.0 the1star.xyz
@@ -363,7 +361,6 @@
 0.0.0.0 trafficmind.pro
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
@@ -377,7 +374,6 @@
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
-0.0.0.0 vpnservice.me
 0.0.0.0 watchadvanced-bestgreatlyfile.best
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchgreatly-bestcurrentfile.best
