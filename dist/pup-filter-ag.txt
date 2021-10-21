@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 20 Oct 2021 12:03:04 +0000
+! Updated: Thu, 21 Oct 2021 00:03:13 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -35,6 +35,7 @@
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||breaking-news.digital$all
+||brightlifestyle.org$all
 ||calledbellc.fun$all
 ||center1plains.xyz$all
 ||center1sky.xyz$all
@@ -42,7 +43,9 @@
 ||center7ocean.xyz$all
 ||center7planet.xyz$all
 ||centeracoast.xyz$all
+||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
@@ -59,7 +62,6 @@
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
-||dealsify.net$all
 ||defensepro.me$all
 ||discoveryfeed.org$all
 ||earlyprogress.info$all
@@ -74,7 +76,6 @@
 ||exploreshops.net$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
-||fastmapc.xyz$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
 ||fastspota.xyz$all
@@ -82,6 +83,8 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
+||findwith.me$all
+||finreporter.net$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
@@ -93,7 +96,6 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -104,7 +106,6 @@
 ||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
-||hpages.net$all
 ||httqzq.vip$all
 ||huge2upgradescentral.work$all
 ||hypezen.info$all
@@ -124,6 +125,7 @@
 ||installprecisehighlythefile.vip$all
 ||installprogressiveintenselythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
@@ -207,6 +209,7 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
+||mobi7sea.xyz$all
 ||mobi7sky.xyz$all
 ||mobi7volcano.xyz$all
 ||mobiaplanet.xyz$all
@@ -214,9 +217,6 @@
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
 ||mobyfox.shop$all
-||money-hero.org$all
-||movievod.me$all
-||mynutriplan.co$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
@@ -289,7 +289,6 @@
 ||provpnsecurity.me$all
 ||provpnservice.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -310,7 +309,6 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
@@ -359,11 +357,11 @@
 ||timesamerica.net$all
 ||toolvpn.me$all
 ||top-offers2.club$all
-||topdating.online$all
 ||tracking-landers.xyz$all
 ||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
@@ -374,6 +372,7 @@
 ||videoauthor.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all
+||videomixact.ru$all
 ||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 20 Oct 2021 12:03:04 +0000
+# Updated: Thu, 21 Oct 2021 00:03:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -38,6 +38,7 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
+-d brightlifestyle.org
 -d calledbellc.fun
 -d center1plains.xyz
 -d center1sky.xyz
@@ -45,7 +46,9 @@ msFilterList
 -d center7ocean.xyz
 -d center7planet.xyz
 -d centeracoast.xyz
+-d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -62,7 +65,6 @@ msFilterList
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
--d dealsify.net
 -d defensepro.me
 -d discoveryfeed.org
 -d earlyprogress.info
@@ -77,7 +79,6 @@ msFilterList
 -d exploreshops.net
 -d fast-app.xyz
 -d fastfactsonline.co
--d fastmapc.xyz
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
@@ -85,6 +86,8 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d findwith.me
+-d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
@@ -96,7 +99,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -107,7 +109,6 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
@@ -127,6 +128,7 @@ msFilterList
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
@@ -210,6 +212,7 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
+-d mobi7sea.xyz
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
 -d mobiaplanet.xyz
@@ -217,9 +220,6 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
 -d mobyfox.shop
--d money-hero.org
--d movievod.me
--d mynutriplan.co
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -292,7 +292,6 @@ msFilterList
 -d provpnsecurity.me
 -d provpnservice.me
 -d prtctapp.me
--d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
@@ -313,7 +312,6 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
@@ -362,11 +360,11 @@ msFilterList
 -d timesamerica.net
 -d toolvpn.me
 -d top-offers2.club
--d topdating.online
 -d tracking-landers.xyz
 -d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -377,6 +375,7 @@ msFilterList
 -d videoauthor.ru
 -d videomixable.ru
 -d videomixace.ru
+-d videomixact.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
