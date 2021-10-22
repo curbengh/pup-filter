@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 21 Oct 2021 12:03:35 +0000
+! Updated: Fri, 22 Oct 2021 00:03:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -37,6 +37,7 @@
 ||breaking-news.digital$all
 ||brightlifestyle.org$all
 ||calledbellc.fun$all
+||center-plains.xyz$all
 ||center1plains.xyz$all
 ||center1sky.xyz$all
 ||center1star.xyz$all
@@ -57,6 +58,7 @@
 ||credit-monitoring-360.xyz$all
 ||curfiositystream.com$all
 ||curiositydstream.com$all
+||curuiositystream.com$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
@@ -71,6 +73,7 @@
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
 ||enjoy1volcano.xyz$all
+||enjoy7crater.xyz$all
 ||enjoy7mountain.xyz$all
 ||enjoyacrater.xyz$all
 ||exploreshops.net$all
@@ -96,6 +99,7 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -106,6 +110,7 @@
 ||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
+||hpages.net$all
 ||httqzq.vip$all
 ||huge2upgradescentral.work$all
 ||hypezen.info$all
@@ -164,9 +169,9 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
-||ligamedia.casa$all
 ||ligamedia.club$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -202,6 +207,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||luckyworldwideprizerandom.rest$all
 ||marketloans.net$all
 ||matchyourgirl.online$all
 ||mazestation.games$all
@@ -217,6 +223,7 @@
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
 ||mobyfox.shop$all
+||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
@@ -284,11 +291,10 @@
 ||proprotect.me$all
 ||prosecurityvpn.me$all
 ||protect-ios.com$all
-||protecttool.me$all
 ||provpn.me$all
 ||provpnsecurity.me$all
-||provpnservice.me$all
 ||prtctapp.me$all
+||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -309,11 +315,15 @@
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
+||software-dealz.de$all
+||sonic-ocean.xyz$all
 ||sonic1coast.xyz$all
 ||sonic1ocean.xyz$all
+||sonicacrater.xyz$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
@@ -342,6 +352,7 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
 ||the1star.xyz$all
@@ -355,13 +366,11 @@
 ||thrawdmn55.xyz$all
 ||timeoffers.net$all
 ||timesamerica.net$all
-||toolvpn.me$all
 ||top-offers2.club$all
+||topdating.online$all
 ||tracking-landers.xyz$all
-||trafficmind.pro$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all

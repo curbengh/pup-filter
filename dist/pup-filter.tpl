@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 21 Oct 2021 12:03:35 +0000
+# Updated: Fri, 22 Oct 2021 00:03:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -40,6 +40,7 @@ msFilterList
 -d breaking-news.digital
 -d brightlifestyle.org
 -d calledbellc.fun
+-d center-plains.xyz
 -d center1plains.xyz
 -d center1sky.xyz
 -d center1star.xyz
@@ -60,6 +61,7 @@ msFilterList
 -d credit-monitoring-360.xyz
 -d curfiositystream.com
 -d curiositydstream.com
+-d curuiositystream.com
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
@@ -74,6 +76,7 @@ msFilterList
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
 -d enjoy1volcano.xyz
+-d enjoy7crater.xyz
 -d enjoy7mountain.xyz
 -d enjoyacrater.xyz
 -d exploreshops.net
@@ -99,6 +102,7 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -109,6 +113,7 @@ msFilterList
 -d healthylives.today
 -d heatwavereporter.org
 -d help4.info
+-d hpages.net
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
@@ -167,9 +172,9 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
--d ligamedia.casa
 -d ligamedia.club
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -205,6 +210,7 @@ msFilterList
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
+-d luckyworldwideprizerandom.rest
 -d marketloans.net
 -d matchyourgirl.online
 -d mazestation.games
@@ -220,6 +226,7 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
 -d mobyfox.shop
+-d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -287,11 +294,10 @@ msFilterList
 -d proprotect.me
 -d prosecurityvpn.me
 -d protect-ios.com
--d protecttool.me
 -d provpn.me
 -d provpnsecurity.me
--d provpnservice.me
 -d prtctapp.me
+-d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d rancy.xyz
@@ -312,11 +318,15 @@ msFilterList
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
+-d software-dealz.de
+-d sonic-ocean.xyz
 -d sonic1coast.xyz
 -d sonic1ocean.xyz
+-d sonicacrater.xyz
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
@@ -345,6 +355,7 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
 -d the1star.xyz
@@ -358,13 +369,11 @@ msFilterList
 -d thrawdmn55.xyz
 -d timeoffers.net
 -d timesamerica.net
--d toolvpn.me
 -d top-offers2.club
+-d topdating.online
 -d tracking-landers.xyz
--d trafficmind.pro
 -d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
