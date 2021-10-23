@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 22 Oct 2021 12:02:41 +0000
+# Updated: Sat, 23 Oct 2021 00:27:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,6 +63,7 @@
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
+0.0.0.0 dealsify.net
 0.0.0.0 defensepro.me
 0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
@@ -90,7 +91,6 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
-0.0.0.0 freenationalsuperworldwide.cyou
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
 0.0.0.0 funanime.me
@@ -98,7 +98,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -177,10 +176,8 @@
 0.0.0.0 lltrsknoob.click
 0.0.0.0 loadadvancedextremelythefile.vip
 0.0.0.0 loadextremelycurrentthefile.vip
-0.0.0.0 loadextremelyquickfile.digital
 0.0.0.0 loadextremelyrecentthefile.vip
 0.0.0.0 loadfree-bestheavilyfile.best
-0.0.0.0 loadfreeextremelyfile.digital
 0.0.0.0 loadgreatlynewestthefile.vip
 0.0.0.0 loadgreatlyoriginalthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
@@ -196,11 +193,9 @@
 0.0.0.0 loadoriginalgreatlythefile.vip
 0.0.0.0 loadpreciseintenselythefile.vip
 0.0.0.0 loadprogressivegreatlythefile.vip
-0.0.0.0 loadquickextremelyfile.digital
 0.0.0.0 loadrecentextremelythefile.vip
 0.0.0.0 loadrenewedgreatlythefile.vip
 0.0.0.0 loadstreamlaunch.digital
-0.0.0.0 loadstrongextremelyfile.digital
 0.0.0.0 loadstrongintenselythefile.vip
 0.0.0.0 loadswiftintenselythefile.vip
 0.0.0.0 louisvillegigs.net
@@ -214,6 +209,7 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mindmatch.ai
+0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi7sea.xyz
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
@@ -228,10 +224,10 @@
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
+0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 olivedinflats.space
-0.0.0.0 onlinewinnerluckyrewards.cyou
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
@@ -351,7 +347,6 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
-0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
 0.0.0.0 the1star.xyz
@@ -370,6 +365,7 @@
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
+0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
@@ -378,17 +374,14 @@
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
+0.0.0.0 videochanelair.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
-0.0.0.0 watchadvanced-bestgreatlyfile.best
 0.0.0.0 watchextremely-bestsophisticatedfile.best
-0.0.0.0 watchgreatly-bestcurrentfile.best
-0.0.0.0 watchgreatly-bestlatestfile.best
-0.0.0.0 watchlatest-bestgreatlyfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 watchquick-bestheavilyfile.best
 0.0.0.0 watchrefined-bestextremelyfile.best
@@ -417,3 +410,4 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es

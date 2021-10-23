@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 22 Oct 2021 12:02:41 +0000
+# Updated: Sat, 23 Oct 2021 00:27:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,6 +63,7 @@ dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
+dealsify.net
 defensepro.me
 discoveryfeed.org
 earlyprogress.info
@@ -90,7 +91,6 @@ finreporter.net
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
-freenationalsuperworldwide.cyou
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
 funanime.me
@@ -98,7 +98,6 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 gladplacespin.xyz
@@ -177,10 +176,8 @@ listenthisso.top
 lltrsknoob.click
 loadadvancedextremelythefile.vip
 loadextremelycurrentthefile.vip
-loadextremelyquickfile.digital
 loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
-loadfreeextremelyfile.digital
 loadgreatlynewestthefile.vip
 loadgreatlyoriginalthefile.vip
 loadgreatlyprogressivethefile.vip
@@ -196,11 +193,9 @@ loadoriginalextremelythefile.vip
 loadoriginalgreatlythefile.vip
 loadpreciseintenselythefile.vip
 loadprogressivegreatlythefile.vip
-loadquickextremelyfile.digital
 loadrecentextremelythefile.vip
 loadrenewedgreatlythefile.vip
 loadstreamlaunch.digital
-loadstrongextremelyfile.digital
 loadstrongintenselythefile.vip
 loadswiftintenselythefile.vip
 louisvillegigs.net
@@ -214,6 +209,7 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mindmatch.ai
+mobi1mountain.xyz
 mobi7sea.xyz
 mobi7sky.xyz
 mobi7volcano.xyz
@@ -228,10 +224,10 @@ nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
+offersearch.info
 official-bigwin-national-free.cyou
 officialbigwinnationalfree.cyou
 olivedinflats.space
-onlinewinnerluckyrewards.cyou
 ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -351,7 +347,6 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
-technologypartners.net
 thanksyoursupport.club
 the-star.xyz
 the1star.xyz
@@ -370,6 +365,7 @@ topdating.online
 tracking-landers.xyz
 truecompassion.net
 trustappstreamsall.digital
+ubertech.shop
 updatefix.xyz
 upplaysite.xyz
 usepro.me
@@ -378,17 +374,14 @@ usevpnpro.me
 usforeclosure.net
 videoau.ru
 videoauthor.ru
+videochanelair.ru
 videomixable.ru
 videomixace.ru
 videomixact.ru
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me
-watchadvanced-bestgreatlyfile.best
 watchextremely-bestsophisticatedfile.best
-watchgreatly-bestcurrentfile.best
-watchgreatly-bestlatestfile.best
-watchlatest-bestgreatlyfile.best
 watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
@@ -417,3 +410,4 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es

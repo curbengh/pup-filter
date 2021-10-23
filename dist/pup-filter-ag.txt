@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 22 Oct 2021 12:02:41 +0000
+! Updated: Sat, 23 Oct 2021 00:27:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -63,6 +63,7 @@
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
+||dealsify.net$all
 ||defensepro.me$all
 ||discoveryfeed.org$all
 ||earlyprogress.info$all
@@ -90,7 +91,6 @@
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
-||freenationalsuperworldwide.cyou$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
 ||funanime.me$all
@@ -98,7 +98,6 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -177,10 +176,8 @@
 ||lltrsknoob.click$all
 ||loadadvancedextremelythefile.vip$all
 ||loadextremelycurrentthefile.vip$all
-||loadextremelyquickfile.digital$all
 ||loadextremelyrecentthefile.vip$all
 ||loadfree-bestheavilyfile.best$all
-||loadfreeextremelyfile.digital$all
 ||loadgreatlynewestthefile.vip$all
 ||loadgreatlyoriginalthefile.vip$all
 ||loadgreatlyprogressivethefile.vip$all
@@ -196,11 +193,9 @@
 ||loadoriginalgreatlythefile.vip$all
 ||loadpreciseintenselythefile.vip$all
 ||loadprogressivegreatlythefile.vip$all
-||loadquickextremelyfile.digital$all
 ||loadrecentextremelythefile.vip$all
 ||loadrenewedgreatlythefile.vip$all
 ||loadstreamlaunch.digital$all
-||loadstrongextremelyfile.digital$all
 ||loadstrongintenselythefile.vip$all
 ||loadswiftintenselythefile.vip$all
 ||louisvillegigs.net$all
@@ -214,6 +209,7 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
+||mobi1mountain.xyz$all
 ||mobi7sea.xyz$all
 ||mobi7sky.xyz$all
 ||mobi7volcano.xyz$all
@@ -228,10 +224,10 @@
 ||newbuy.xyz$all
 ||newsinformer.net$all
 ||offerpage.link$all
+||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||officialbigwinnationalfree.cyou$all
 ||olivedinflats.space$all
-||onlinewinnerluckyrewards.cyou$all
 ||ouldthepat.fun$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
@@ -351,7 +347,6 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
-||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
 ||the1star.xyz$all
@@ -370,6 +365,7 @@
 ||tracking-landers.xyz$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
+||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
@@ -378,17 +374,14 @@
 ||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
+||videochanelair.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all
 ||videomixact.ru$all
 ||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
-||watchadvanced-bestgreatlyfile.best$all
 ||watchextremely-bestsophisticatedfile.best$all
-||watchgreatly-bestcurrentfile.best$all
-||watchgreatly-bestlatestfile.best$all
-||watchlatest-bestgreatlyfile.best$all
 ||watchprogressive-bestmostfile.best$all
 ||watchquick-bestheavilyfile.best$all
 ||watchrefined-bestextremelyfile.best$all
@@ -417,3 +410,4 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all

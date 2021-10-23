@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 22 Oct 2021 12:02:41 +0000
+# Updated: Sat, 23 Oct 2021 00:27:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -66,6 +66,7 @@ msFilterList
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
+-d dealsify.net
 -d defensepro.me
 -d discoveryfeed.org
 -d earlyprogress.info
@@ -93,7 +94,6 @@ msFilterList
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
--d freenationalsuperworldwide.cyou
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
 -d funanime.me
@@ -101,7 +101,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -180,10 +179,8 @@ msFilterList
 -d lltrsknoob.click
 -d loadadvancedextremelythefile.vip
 -d loadextremelycurrentthefile.vip
--d loadextremelyquickfile.digital
 -d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
--d loadfreeextremelyfile.digital
 -d loadgreatlynewestthefile.vip
 -d loadgreatlyoriginalthefile.vip
 -d loadgreatlyprogressivethefile.vip
@@ -199,11 +196,9 @@ msFilterList
 -d loadoriginalgreatlythefile.vip
 -d loadpreciseintenselythefile.vip
 -d loadprogressivegreatlythefile.vip
--d loadquickextremelyfile.digital
 -d loadrecentextremelythefile.vip
 -d loadrenewedgreatlythefile.vip
 -d loadstreamlaunch.digital
--d loadstrongextremelyfile.digital
 -d loadstrongintenselythefile.vip
 -d loadswiftintenselythefile.vip
 -d louisvillegigs.net
@@ -217,6 +212,7 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mindmatch.ai
+-d mobi1mountain.xyz
 -d mobi7sea.xyz
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
@@ -231,10 +227,10 @@ msFilterList
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
+-d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
 -d olivedinflats.space
--d onlinewinnerluckyrewards.cyou
 -d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -354,7 +350,6 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
--d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
 -d the1star.xyz
@@ -373,6 +368,7 @@ msFilterList
 -d tracking-landers.xyz
 -d truecompassion.net
 -d trustappstreamsall.digital
+-d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
@@ -381,17 +377,14 @@ msFilterList
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
+-d videochanelair.ru
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
--d watchadvanced-bestgreatlyfile.best
 -d watchextremely-bestsophisticatedfile.best
--d watchgreatly-bestcurrentfile.best
--d watchgreatly-bestlatestfile.best
--d watchlatest-bestgreatlyfile.best
 -d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
@@ -420,3 +413,4 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es
