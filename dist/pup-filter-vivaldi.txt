@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 24 Oct 2021 00:02:57 +0000
+! Updated: Sun, 24 Oct 2021 12:02:56 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,7 +22,6 @@
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
 ||beinspired.global$document
-||bkk755.biz$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
@@ -58,14 +57,12 @@
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
-||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealmedia.xyz$document
 ||dealsify.net$document
-||discoveryfeed.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -293,7 +290,6 @@
 ||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
-||rancy.xyz$document
 ||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||rewards-promotion-winner-super.cyou$document
@@ -325,7 +321,6 @@
 ||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
-||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
