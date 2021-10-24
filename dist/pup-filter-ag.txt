@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 23 Oct 2021 12:02:25 +0000
+! Updated: Sun, 24 Oct 2021 00:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 ||amobil.online$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
-||armorprovpn.me$all
 ||atprofessor.fun$all
 ||atwater.org$all
 ||auto-car-search.site$all
@@ -59,17 +58,18 @@
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
+||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
 ||dealsify.net$all
-||defensepro.me$all
 ||discoveryfeed.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
+||enjoy-asteroid.xyz$all
 ||enjoy-star.xyz$all
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
@@ -94,7 +94,6 @@
 ||flash-rewards.info$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
-||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
@@ -130,6 +129,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||intelectaction.ru$all
 ||investinfo.net$all
+||ipaint.us$all
 ||ironprovpn.me$all
 ||isystemupdate.cloud$all
 ||jetsummer.xyz$all
@@ -250,6 +250,7 @@
 ||pandawinterc.xyz$all
 ||pandawinterd.xyz$all
 ||pandawintere.xyz$all
+||pandawinterf.xyz$all
 ||pcsecurity-live.xyz$all
 ||peterhahn.be$all
 ||photo-explorer.org$all
@@ -282,7 +283,6 @@
 ||playwinterf.xyz$all
 ||ppploanchoices.site$all
 ||prize-messsages.casa$all
-||producthunter.club$all
 ||profitsurvey365.online$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -298,7 +298,6 @@
 ||rewardgivingrealspecialoffer.cyou$all
 ||rewards-promotion-winner-super.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
-||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
@@ -307,7 +306,6 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
-||securitevpn.me$all
 ||securityvpnpro.me$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
@@ -348,9 +346,11 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
 ||the1star.xyz$all
+||the1volcano.xyz$all
 ||the7plains.xyz$all
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
@@ -390,10 +390,12 @@
 ||webtactics.ca$all
 ||west1asteroid.xyz$all
 ||west1ocean.xyz$all
+||west1plains.xyz$all
 ||west1sky.xyz$all
 ||west1star.xyz$all
 ||westaasteroid.xyz$all
 ||westaocean.xyz$all
+||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
 ||winnerbigwingiveawaysuper.cyou$all

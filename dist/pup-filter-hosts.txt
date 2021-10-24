@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 23 Oct 2021 12:02:25 +0000
+# Updated: Sun, 24 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@
 0.0.0.0 amobil.online
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
-0.0.0.0 armorprovpn.me
 0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
@@ -59,17 +58,18 @@
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
+0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
-0.0.0.0 defensepro.me
 0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
+0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
@@ -94,7 +94,6 @@
 0.0.0.0 flash-rewards.info
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
-0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
@@ -130,6 +129,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
+0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
@@ -250,6 +250,7 @@
 0.0.0.0 pandawinterc.xyz
 0.0.0.0 pandawinterd.xyz
 0.0.0.0 pandawintere.xyz
+0.0.0.0 pandawinterf.xyz
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 peterhahn.be
 0.0.0.0 photo-explorer.org
@@ -282,7 +283,6 @@
 0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey365.online
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -298,7 +298,6 @@
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
-0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -307,7 +306,6 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
-0.0.0.0 securitevpn.me
 0.0.0.0 securityvpnpro.me
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
@@ -348,9 +346,11 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
+0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
 0.0.0.0 the1star.xyz
+0.0.0.0 the1volcano.xyz
 0.0.0.0 the7plains.xyz
 0.0.0.0 the7volcano.xyz
 0.0.0.0 theaasteroid.xyz
@@ -390,10 +390,12 @@
 0.0.0.0 webtactics.ca
 0.0.0.0 west1asteroid.xyz
 0.0.0.0 west1ocean.xyz
+0.0.0.0 west1plains.xyz
 0.0.0.0 west1sky.xyz
 0.0.0.0 west1star.xyz
 0.0.0.0 westaasteroid.xyz
 0.0.0.0 westaocean.xyz
+0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 winnerbigwingiveawaysuper.cyou

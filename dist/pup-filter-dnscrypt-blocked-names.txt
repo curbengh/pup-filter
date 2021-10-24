@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 23 Oct 2021 12:02:25 +0000
+# Updated: Sun, 24 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,7 +13,6 @@ aikoo.club
 amobil.online
 appsto.cloud
 appzfirer.biz
-armorprovpn.me
 atprofessor.fun
 atwater.org
 auto-car-search.site
@@ -59,17 +58,18 @@ credit-monitoring-360.xyz
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
+dailyrep.net
 darkview.org
 dayinlife.net
 dealmedia.club
 dealmedia.website
 dealmedia.xyz
 dealsify.net
-defensepro.me
 discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
+enjoy-asteroid.xyz
 enjoy-star.xyz
 enjoy1mountain.xyz
 enjoy1ocean.xyz
@@ -94,7 +94,6 @@ fisudauh.top
 flash-rewards.info
 freewareappsstreamfast-best.digital
 freewareappsstreamfastall.digital
-funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
@@ -130,6 +129,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 intelectaction.ru
 investinfo.net
+ipaint.us
 ironprovpn.me
 isystemupdate.cloud
 jetsummer.xyz
@@ -250,6 +250,7 @@ pandawinterb.xyz
 pandawinterc.xyz
 pandawinterd.xyz
 pandawintere.xyz
+pandawinterf.xyz
 pcsecurity-live.xyz
 peterhahn.be
 photo-explorer.org
@@ -282,7 +283,6 @@ playwintere.xyz
 playwinterf.xyz
 ppploanchoices.site
 prize-messsages.casa
-producthunter.club
 profitsurvey365.online
 proprotect.me
 prosecurityvpn.me
@@ -298,7 +298,6 @@ real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
-robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
@@ -307,7 +306,6 @@ search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
-securitevpn.me
 securityvpnpro.me
 sergey-tracks.xyz
 settothereliableupgradingnew.work
@@ -348,9 +346,11 @@ syncubercurrentfiles.best
 systemupdateme.solutions
 systemupdatit.club
 technoblogs.net
+technologypartners.net
 thanksyoursupport.club
 the-star.xyz
 the1star.xyz
+the1volcano.xyz
 the7plains.xyz
 the7volcano.xyz
 theaasteroid.xyz
@@ -390,10 +390,12 @@ web-security.ml
 webtactics.ca
 west1asteroid.xyz
 west1ocean.xyz
+west1plains.xyz
 west1sky.xyz
 west1star.xyz
 westaasteroid.xyz
 westaocean.xyz
+westaplanet.xyz
 westasea.xyz
 westastar.xyz
 winnerbigwingiveawaysuper.cyou

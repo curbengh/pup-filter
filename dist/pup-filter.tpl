@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 23 Oct 2021 12:02:25 +0000
+# Updated: Sun, 24 Oct 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,7 +16,6 @@ msFilterList
 -d amobil.online
 -d appsto.cloud
 -d appzfirer.biz
--d armorprovpn.me
 -d atprofessor.fun
 -d atwater.org
 -d auto-car-search.site
@@ -62,17 +61,18 @@ msFilterList
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
+-d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
 -d dealsify.net
--d defensepro.me
 -d discoveryfeed.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
+-d enjoy-asteroid.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -97,7 +97,6 @@ msFilterList
 -d flash-rewards.info
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
--d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -133,6 +132,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d intelectaction.ru
 -d investinfo.net
+-d ipaint.us
 -d ironprovpn.me
 -d isystemupdate.cloud
 -d jetsummer.xyz
@@ -253,6 +253,7 @@ msFilterList
 -d pandawinterc.xyz
 -d pandawinterd.xyz
 -d pandawintere.xyz
+-d pandawinterf.xyz
 -d pcsecurity-live.xyz
 -d peterhahn.be
 -d photo-explorer.org
@@ -285,7 +286,6 @@ msFilterList
 -d playwinterf.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
--d producthunter.club
 -d profitsurvey365.online
 -d proprotect.me
 -d prosecurityvpn.me
@@ -301,7 +301,6 @@ msFilterList
 -d rewardgivingrealspecialoffer.cyou
 -d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
--d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -310,7 +309,6 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
--d securitevpn.me
 -d securityvpnpro.me
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
@@ -351,9 +349,11 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
 -d the1star.xyz
+-d the1volcano.xyz
 -d the7plains.xyz
 -d the7volcano.xyz
 -d theaasteroid.xyz
@@ -393,10 +393,12 @@ msFilterList
 -d webtactics.ca
 -d west1asteroid.xyz
 -d west1ocean.xyz
+-d west1plains.xyz
 -d west1sky.xyz
 -d west1star.xyz
 -d westaasteroid.xyz
 -d westaocean.xyz
+-d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
 -d winnerbigwingiveawaysuper.cyou
