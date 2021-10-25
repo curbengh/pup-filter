@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 24 Oct 2021 12:02:56 +0000
+! Updated: Mon, 25 Oct 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -36,6 +36,7 @@
 ||breaking-news.digital$all
 ||calledbellc.fun$all
 ||center-plains.xyz$all
+||center-planet.xyz$all
 ||center1plains.xyz$all
 ||center1sky.xyz$all
 ||center1star.xyz$all
@@ -46,6 +47,7 @@
 ||centeravolcano.xyz$all
 ||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
+||coatofarms.nyc$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
@@ -91,10 +93,12 @@
 ||flash-rewards.info$all
 ||freewareappsstreamfast-best.digital$all
 ||freewareappsstreamfastall.digital$all
+||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
 ||gladplacespin.xyz$all
@@ -128,7 +132,6 @@
 ||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
-||isystemupdate.cloud$all
 ||jetsummer.xyz$all
 ||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
@@ -193,7 +196,6 @@
 ||loadprogressivegreatlythefile.vip$all
 ||loadrecentextremelythefile.vip$all
 ||loadrenewedgreatlythefile.vip$all
-||loadstreamlaunch.digital$all
 ||loadstrongintenselythefile.vip$all
 ||loadswiftintenselythefile.vip$all
 ||louisvillegigs.net$all
@@ -215,7 +217,6 @@
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
-||mobyfox.shop$all
 ||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
@@ -280,6 +281,7 @@
 ||playwinterf.xyz$all
 ||ppploanchoices.site$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||profitsurvey365.online$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
@@ -350,6 +352,7 @@
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
 ||theastar.xyz$all
+||theavolcano.xyz$all
 ||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
@@ -361,15 +364,14 @@
 ||tracking-landers.xyz$all
 ||truecompassion.net$all
 ||trustappstreamsall.digital$all
-||ubertech.shop$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
+||videochanelace.ru$all
 ||videochanelair.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all

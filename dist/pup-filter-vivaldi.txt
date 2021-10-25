@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 24 Oct 2021 12:02:56 +0000
+! Updated: Mon, 25 Oct 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -36,6 +36,7 @@
 ||breaking-news.digital$document
 ||calledbellc.fun$document
 ||center-plains.xyz$document
+||center-planet.xyz$document
 ||center1plains.xyz$document
 ||center1sky.xyz$document
 ||center1star.xyz$document
@@ -46,6 +47,7 @@
 ||centeravolcano.xyz$document
 ||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
+||coatofarms.nyc$document
 ||connecttheupgradingurls.work$document
 ||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
@@ -91,10 +93,12 @@
 ||flash-rewards.info$document
 ||freewareappsstreamfast-best.digital$document
 ||freewareappsstreamfastall.digital$document
+||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||gladplacespin.xyz$document
@@ -128,7 +132,6 @@
 ||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
-||isystemupdate.cloud$document
 ||jetsummer.xyz$document
 ||jointingifstrawberry.xyz$document
 ||jojomamanbebe.ie$document
@@ -193,7 +196,6 @@
 ||loadprogressivegreatlythefile.vip$document
 ||loadrecentextremelythefile.vip$document
 ||loadrenewedgreatlythefile.vip$document
-||loadstreamlaunch.digital$document
 ||loadstrongintenselythefile.vip$document
 ||loadswiftintenselythefile.vip$document
 ||louisvillegigs.net$document
@@ -215,7 +217,6 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
-||mobyfox.shop$document
 ||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
@@ -280,6 +281,7 @@
 ||playwinterf.xyz$document
 ||ppploanchoices.site$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||profitsurvey365.online$document
 ||proprotect.me$document
 ||prosecurityvpn.me$document
@@ -350,6 +352,7 @@
 ||the7volcano.xyz$document
 ||theaasteroid.xyz$document
 ||theastar.xyz$document
+||theavolcano.xyz$document
 ||thecryptozone.website$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
@@ -361,15 +364,14 @@
 ||tracking-landers.xyz$document
 ||truecompassion.net$document
 ||trustappstreamsall.digital$document
-||ubertech.shop$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
-||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
+||videochanelace.ru$document
 ||videochanelair.ru$document
 ||videomixable.ru$document
 ||videomixace.ru$document

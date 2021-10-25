@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 24 Oct 2021 12:02:56 +0000
+# Updated: Mon, 25 Oct 2021 00:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -36,6 +36,7 @@
 0.0.0.0 breaking-news.digital
 0.0.0.0 calledbellc.fun
 0.0.0.0 center-plains.xyz
+0.0.0.0 center-planet.xyz
 0.0.0.0 center1plains.xyz
 0.0.0.0 center1sky.xyz
 0.0.0.0 center1star.xyz
@@ -46,6 +47,7 @@
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
+0.0.0.0 coatofarms.nyc
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
@@ -91,10 +93,12 @@
 0.0.0.0 flash-rewards.info
 0.0.0.0 freewareappsstreamfast-best.digital
 0.0.0.0 freewareappsstreamfastall.digital
+0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 gladplacespin.xyz
@@ -128,7 +132,6 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
-0.0.0.0 isystemupdate.cloud
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
@@ -193,7 +196,6 @@
 0.0.0.0 loadprogressivegreatlythefile.vip
 0.0.0.0 loadrecentextremelythefile.vip
 0.0.0.0 loadrenewedgreatlythefile.vip
-0.0.0.0 loadstreamlaunch.digital
 0.0.0.0 loadstrongintenselythefile.vip
 0.0.0.0 loadswiftintenselythefile.vip
 0.0.0.0 louisvillegigs.net
@@ -215,7 +217,6 @@
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
@@ -280,6 +281,7 @@
 0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
 0.0.0.0 prize-messsages.casa
+0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey365.online
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
@@ -350,6 +352,7 @@
 0.0.0.0 the7volcano.xyz
 0.0.0.0 theaasteroid.xyz
 0.0.0.0 theastar.xyz
+0.0.0.0 theavolcano.xyz
 0.0.0.0 thecryptozone.website
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
@@ -361,15 +364,14 @@
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 truecompassion.net
 0.0.0.0 trustappstreamsall.digital
-0.0.0.0 ubertech.shop
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
-0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
+0.0.0.0 videochanelace.ru
 0.0.0.0 videochanelair.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru

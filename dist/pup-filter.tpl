@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 24 Oct 2021 12:02:56 +0000
+# Updated: Mon, 25 Oct 2021 00:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -39,6 +39,7 @@ msFilterList
 -d breaking-news.digital
 -d calledbellc.fun
 -d center-plains.xyz
+-d center-planet.xyz
 -d center1plains.xyz
 -d center1sky.xyz
 -d center1star.xyz
@@ -49,6 +50,7 @@ msFilterList
 -d centeravolcano.xyz
 -d chatverse.net
 -d checkstableaupdatinglinks.work
+-d coatofarms.nyc
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
@@ -94,10 +96,12 @@ msFilterList
 -d flash-rewards.info
 -d freewareappsstreamfast-best.digital
 -d freewareappsstreamfastall.digital
+-d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d gladplacespin.xyz
@@ -131,7 +135,6 @@ msFilterList
 -d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
--d isystemupdate.cloud
 -d jetsummer.xyz
 -d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
@@ -196,7 +199,6 @@ msFilterList
 -d loadprogressivegreatlythefile.vip
 -d loadrecentextremelythefile.vip
 -d loadrenewedgreatlythefile.vip
--d loadstreamlaunch.digital
 -d loadstrongintenselythefile.vip
 -d loadswiftintenselythefile.vip
 -d louisvillegigs.net
@@ -218,7 +220,6 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
--d mobyfox.shop
 -d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -283,6 +284,7 @@ msFilterList
 -d playwinterf.xyz
 -d ppploanchoices.site
 -d prize-messsages.casa
+-d producthunter.club
 -d profitsurvey365.online
 -d proprotect.me
 -d prosecurityvpn.me
@@ -353,6 +355,7 @@ msFilterList
 -d the7volcano.xyz
 -d theaasteroid.xyz
 -d theastar.xyz
+-d theavolcano.xyz
 -d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
@@ -364,15 +367,14 @@ msFilterList
 -d tracking-landers.xyz
 -d truecompassion.net
 -d trustappstreamsall.digital
--d ubertech.shop
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
+-d videochanelace.ru
 -d videochanelair.ru
 -d videomixable.ru
 -d videomixace.ru
