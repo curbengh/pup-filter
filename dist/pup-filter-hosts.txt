@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 26 Oct 2021 00:02:52 +0000
+# Updated: Tue, 26 Oct 2021 12:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,6 +13,7 @@
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
+0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 axisradio.ca
@@ -33,6 +34,7 @@
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
+0.0.0.0 brightlifestyle.org
 0.0.0.0 calledbellc.fun
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
@@ -59,12 +61,14 @@
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
+0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
+0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -96,7 +100,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 getbril.io
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
@@ -304,7 +307,9 @@
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
+0.0.0.0 searchoffers.info
 0.0.0.0 securityvpnpro.me
+0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopin.nyc
@@ -322,6 +327,7 @@
 0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
@@ -342,6 +348,7 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
 0.0.0.0 technoblogs.net
+0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
 0.0.0.0 the1star.xyz

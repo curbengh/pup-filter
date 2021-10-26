@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 26 Oct 2021 00:02:52 +0000
+! Updated: Tue, 26 Oct 2021 12:03:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,6 +13,7 @@
 ||appsto.cloud^
 ||appzfirer.biz^
 ||arre.work^
+||atprofessor.fun^
 ||atwater.org^
 ||auto-car-search.site^
 ||axisradio.ca^
@@ -33,6 +34,7 @@
 ||boot-upsophisticated-bestoverlyfile.best^
 ||boot-upuber-bestfreefile.best^
 ||breaking-news.digital^
+||brightlifestyle.org^
 ||calledbellc.fun^
 ||center-plains.xyz^
 ||center-planet.xyz^
@@ -59,12 +61,14 @@
 ||curfiositystream.com^
 ||curiositydstream.com^
 ||curuiositystream.com^
+||dailyrep.net^
 ||darkview.org^
 ||dayinlife.net^
 ||dealmedia.club^
 ||dealmedia.website^
 ||dealmedia.xyz^
 ||dealsify.net^
+||discoveryfeed.org^
 ||earlyprogress.info^
 ||efladn.club^
 ||elpelades.club^
@@ -96,7 +100,6 @@
 ||funspine.xyz^
 ||genertellife.it^
 ||get-your-score.club^
-||getbril.io^
 ||gettheraiceheadreliefhat.io^
 ||girlsnearyou.online^
 ||gladmstreet.xyz^
@@ -304,7 +307,9 @@
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
 ||searchmgr.online^
+||searchoffers.info^
 ||securityvpnpro.me^
+||selectedlab.buzz^
 ||sergey-tracks.xyz^
 ||settothereliableupgradingnew.work^
 ||shopin.nyc^
@@ -322,6 +327,7 @@
 ||start-page.one^
 ||startos.win^
 ||stickr.co^
+||stogether.fun^
 ||streamdevelopedintenselythefile.vip^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
@@ -342,6 +348,7 @@
 ||systemupdateme.solutions^
 ||systemupdatit.club^
 ||technoblogs.net^
+||technologypartners.net^
 ||thanksyoursupport.club^
 ||the-star.xyz^
 ||the1star.xyz^

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 26 Oct 2021 00:02:52 +0000
+! Updated: Tue, 26 Oct 2021 12:03:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,6 +13,7 @@
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||arre.work$all
+||atprofessor.fun$all
 ||atwater.org$all
 ||auto-car-search.site$all
 ||axisradio.ca$all
@@ -33,6 +34,7 @@
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
 ||breaking-news.digital$all
+||brightlifestyle.org$all
 ||calledbellc.fun$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -59,12 +61,14 @@
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
+||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
 ||dealmedia.xyz$all
 ||dealsify.net$all
+||discoveryfeed.org$all
 ||earlyprogress.info$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -96,7 +100,6 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||getbril.io$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
@@ -304,7 +307,9 @@
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
+||searchoffers.info$all
 ||securityvpnpro.me$all
+||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
 ||shopin.nyc$all
@@ -322,6 +327,7 @@
 ||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
+||stogether.fun$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
@@ -342,6 +348,7 @@
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
 ||technoblogs.net$all
+||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
 ||the1star.xyz$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 26 Oct 2021 00:02:52 +0000
+# Updated: Tue, 26 Oct 2021 12:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@ msFilterList
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
+-d atprofessor.fun
 -d atwater.org
 -d auto-car-search.site
 -d axisradio.ca
@@ -36,6 +37,7 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
+-d brightlifestyle.org
 -d calledbellc.fun
 -d center-plains.xyz
 -d center-planet.xyz
@@ -62,12 +64,14 @@ msFilterList
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
+-d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealmedia.xyz
 -d dealsify.net
+-d discoveryfeed.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -99,7 +103,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d getbril.io
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -307,7 +310,9 @@ msFilterList
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
+-d searchoffers.info
 -d securityvpnpro.me
+-d selectedlab.buzz
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopin.nyc
@@ -325,6 +330,7 @@ msFilterList
 -d start-page.one
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -345,6 +351,7 @@ msFilterList
 -d systemupdateme.solutions
 -d systemupdatit.club
 -d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
 -d the1star.xyz
