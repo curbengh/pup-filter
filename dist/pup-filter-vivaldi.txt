@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 25 Oct 2021 12:03:18 +0000
+! Updated: Tue, 26 Oct 2021 00:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,6 +42,7 @@
 ||center7ocean.xyz$document
 ||center7planet.xyz$document
 ||centeracoast.xyz$document
+||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
 ||chatverse.net$document
@@ -91,12 +92,11 @@
 ||fisudauh.top$document
 ||flash-rewards.info$document
 ||freewareappsstreamfast-best.digital$document
-||freewareappsstreamfastall.digital$document
-||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||getbril.io$document
 ||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
@@ -216,6 +216,7 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
+||mobyfox.shop$document
 ||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
@@ -345,6 +346,7 @@
 ||the-star.xyz$document
 ||the1star.xyz$document
 ||the1volcano.xyz$document
+||the7coast.xyz$document
 ||the7plains.xyz$document
 ||the7volcano.xyz$document
 ||theaasteroid.xyz$document
@@ -359,15 +361,16 @@
 ||topdating.online$document
 ||tracking-landers.xyz$document
 ||truecompassion.net$document
-||trustappstreamsall.digital$document
 ||updatefix.xyz$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||videochanelace.ru$document
+||videochanelact.ru$document
 ||videochanelair.ru$document
 ||videomixable.ru$document
 ||videomixace.ru$document
@@ -387,6 +390,7 @@
 ||west1sky.xyz$document
 ||west1star.xyz$document
 ||westaasteroid.xyz$document
+||westamountain.xyz$document
 ||westaocean.xyz$document
 ||westaplanet.xyz$document
 ||westasea.xyz$document
@@ -394,7 +398,6 @@
 ||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.icu$document
 ||winnerz.site$document
-||worivo.info$document
 ||worldwide-national-claim-free.cyou$document
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideluckypromotionfree.cyou$document
@@ -406,4 +409,3 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||zalando-prive.es$document

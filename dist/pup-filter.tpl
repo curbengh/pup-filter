@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 25 Oct 2021 12:03:18 +0000
+# Updated: Tue, 26 Oct 2021 00:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -45,6 +45,7 @@ msFilterList
 -d center7ocean.xyz
 -d center7planet.xyz
 -d centeracoast.xyz
+-d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d chatverse.net
@@ -94,12 +95,11 @@ msFilterList
 -d fisudauh.top
 -d flash-rewards.info
 -d freewareappsstreamfast-best.digital
--d freewareappsstreamfastall.digital
--d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d getbril.io
 -d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
@@ -219,6 +219,7 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
+-d mobyfox.shop
 -d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -348,6 +349,7 @@ msFilterList
 -d the-star.xyz
 -d the1star.xyz
 -d the1volcano.xyz
+-d the7coast.xyz
 -d the7plains.xyz
 -d the7volcano.xyz
 -d theaasteroid.xyz
@@ -362,15 +364,16 @@ msFilterList
 -d topdating.online
 -d tracking-landers.xyz
 -d truecompassion.net
--d trustappstreamsall.digital
 -d updatefix.xyz
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
+-d videochanelact.ru
 -d videochanelair.ru
 -d videomixable.ru
 -d videomixace.ru
@@ -390,6 +393,7 @@ msFilterList
 -d west1sky.xyz
 -d west1star.xyz
 -d westaasteroid.xyz
+-d westamountain.xyz
 -d westaocean.xyz
 -d westaplanet.xyz
 -d westasea.xyz
@@ -397,7 +401,6 @@ msFilterList
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
 -d winnerz.site
--d worivo.info
 -d worldwide-national-claim-free.cyou
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou
@@ -409,4 +412,3 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d zalando-prive.es

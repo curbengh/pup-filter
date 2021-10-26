@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 25 Oct 2021 12:03:18 +0000
+! Updated: Tue, 26 Oct 2021 00:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -42,6 +42,7 @@
 ||center7ocean.xyz$all
 ||center7planet.xyz$all
 ||centeracoast.xyz$all
+||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
 ||chatverse.net$all
@@ -91,12 +92,11 @@
 ||fisudauh.top$all
 ||flash-rewards.info$all
 ||freewareappsstreamfast-best.digital$all
-||freewareappsstreamfastall.digital$all
-||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
+||getbril.io$all
 ||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
@@ -216,6 +216,7 @@
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
+||mobyfox.shop$all
 ||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
@@ -345,6 +346,7 @@
 ||the-star.xyz$all
 ||the1star.xyz$all
 ||the1volcano.xyz$all
+||the7coast.xyz$all
 ||the7plains.xyz$all
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
@@ -359,15 +361,16 @@
 ||topdating.online$all
 ||tracking-landers.xyz$all
 ||truecompassion.net$all
-||trustappstreamsall.digital$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
+||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||videochanelace.ru$all
+||videochanelact.ru$all
 ||videochanelair.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all
@@ -387,6 +390,7 @@
 ||west1sky.xyz$all
 ||west1star.xyz$all
 ||westaasteroid.xyz$all
+||westamountain.xyz$all
 ||westaocean.xyz$all
 ||westaplanet.xyz$all
 ||westasea.xyz$all
@@ -394,7 +398,6 @@
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.icu$all
 ||winnerz.site$all
-||worivo.info$all
 ||worldwide-national-claim-free.cyou$all
 ||worldwide-prize-giveaway-free.cyou$all
 ||worldwideluckypromotionfree.cyou$all
@@ -406,4 +409,3 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||zalando-prive.es$all

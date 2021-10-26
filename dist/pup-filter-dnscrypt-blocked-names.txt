@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 25 Oct 2021 12:03:18 +0000
+# Updated: Tue, 26 Oct 2021 00:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -42,6 +42,7 @@ center1star.xyz
 center7ocean.xyz
 center7planet.xyz
 centeracoast.xyz
+centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
 chatverse.net
@@ -91,12 +92,11 @@ fireapps.cloud
 fisudauh.top
 flash-rewards.info
 freewareappsstreamfast-best.digital
-freewareappsstreamfastall.digital
-funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
+getbril.io
 gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
@@ -216,6 +216,7 @@ mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 mobileluckywinner.site
+mobyfox.shop
 money-hero.org
 n95o0fxvvw.top
 nettrafficpartners.net
@@ -345,6 +346,7 @@ thanksyoursupport.club
 the-star.xyz
 the1star.xyz
 the1volcano.xyz
+the7coast.xyz
 the7plains.xyz
 the7volcano.xyz
 theaasteroid.xyz
@@ -359,15 +361,16 @@ top-offers2.club
 topdating.online
 tracking-landers.xyz
 truecompassion.net
-trustappstreamsall.digital
 updatefix.xyz
 upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru
+videochanelact.ru
 videochanelair.ru
 videomixable.ru
 videomixace.ru
@@ -387,6 +390,7 @@ west1plains.xyz
 west1sky.xyz
 west1star.xyz
 westaasteroid.xyz
+westamountain.xyz
 westaocean.xyz
 westaplanet.xyz
 westasea.xyz
@@ -394,7 +398,6 @@ westastar.xyz
 winnerbigwingiveawaysuper.cyou
 winnerz.icu
 winnerz.site
-worivo.info
 worldwide-national-claim-free.cyou
 worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
@@ -406,4 +409,3 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-zalando-prive.es
