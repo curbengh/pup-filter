@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 27 Oct 2021 00:03:21 +0000
+! Updated: Wed, 27 Oct 2021 12:03:23 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,7 @@
 2021travel.net
 4upgradingstablesafe.work
 abcscience.xyz
-affiliateland.io
+aikoo.club
 amobil.online
 appsto.cloud
 appzfirer.biz
@@ -295,6 +295,7 @@ prtctapp.me
 qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
+rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
@@ -314,6 +315,7 @@ sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopin.nyc
 shopnsave.world
+signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 software-dealz.de
 sonic-ocean.xyz
@@ -364,6 +366,7 @@ theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
 timeoffers.net
+timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
