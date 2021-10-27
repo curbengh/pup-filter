@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 26 Oct 2021 12:03:06 +0000
+! Updated: Wed, 27 Oct 2021 00:03:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
+||beautinow.nl$all
 ||beinspired.global$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
@@ -96,6 +97,7 @@
 ||fisudauh.top$all
 ||flash-rewards.info$all
 ||freewareappsstreamfast-best.digital$all
+||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
@@ -135,7 +137,6 @@
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jetsummer.xyz$all
-||jointingifstrawberry.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
@@ -173,7 +174,6 @@
 ||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
-||ligamedia.club$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
 ||lltrsknoob.click$all
@@ -367,6 +367,7 @@
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
+||trotineo.fr$all
 ||truecompassion.net$all
 ||updatefix.xyz$all
 ||upplaysite.xyz$all
@@ -405,10 +406,9 @@
 ||winnerbigwingiveawaysuper.cyou$all
 ||winnerz.icu$all
 ||winnerz.site$all
-||worldwide-national-claim-free.cyou$all
+||worivo.info$all
 ||worldwide-prize-giveaway-free.cyou$all
 ||worldwideluckypromotionfree.cyou$all
-||worldwidenationalclaimfree.cyou$all
 ||worldwideofficialpromotion.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
 ||yourlegendarysystemsupgrade.work$all
@@ -416,3 +416,4 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all

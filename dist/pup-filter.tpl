@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 26 Oct 2021 12:03:06 +0000
+# Updated: Wed, 27 Oct 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -24,6 +24,7 @@ msFilterList
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
+-d beautinow.nl
 -d beinspired.global
 -d bleu-bonheur.fr
 -d bluetiger.cloud
@@ -99,6 +100,7 @@ msFilterList
 -d fisudauh.top
 -d flash-rewards.info
 -d freewareappsstreamfast-best.digital
+-d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -138,7 +140,6 @@ msFilterList
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
--d jointingifstrawberry.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
@@ -176,7 +177,6 @@ msFilterList
 -d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
--d ligamedia.club
 -d link4updatingcentral.work
 -d listenthisso.top
 -d lltrsknoob.click
@@ -370,6 +370,7 @@ msFilterList
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
+-d trotineo.fr
 -d truecompassion.net
 -d updatefix.xyz
 -d upplaysite.xyz
@@ -408,10 +409,9 @@ msFilterList
 -d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
 -d winnerz.site
--d worldwide-national-claim-free.cyou
+-d worivo.info
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideluckypromotionfree.cyou
--d worldwidenationalclaimfree.cyou
 -d worldwideofficialpromotion.cyou
 -d worldwideprizegiveawayfree.cyou
 -d yourlegendarysystemsupgrade.work
@@ -419,3 +419,4 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es

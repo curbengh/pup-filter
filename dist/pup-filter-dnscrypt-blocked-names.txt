@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 26 Oct 2021 12:03:06 +0000
+# Updated: Wed, 27 Oct 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@ be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
+beautinow.nl
 beinspired.global
 bleu-bonheur.fr
 bluetiger.cloud
@@ -96,6 +97,7 @@ fireapps.cloud
 fisudauh.top
 flash-rewards.info
 freewareappsstreamfast-best.digital
+funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
@@ -135,7 +137,6 @@ investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
-jointingifstrawberry.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
@@ -173,7 +174,6 @@ koalawintere.xyz
 kompsos.uk
 ktpyzw.vip
 lackystack.net
-ligamedia.club
 link4updatingcentral.work
 listenthisso.top
 lltrsknoob.click
@@ -367,6 +367,7 @@ timeoffers.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
+trotineo.fr
 truecompassion.net
 updatefix.xyz
 upplaysite.xyz
@@ -405,10 +406,9 @@ westastar.xyz
 winnerbigwingiveawaysuper.cyou
 winnerz.icu
 winnerz.site
-worldwide-national-claim-free.cyou
+worivo.info
 worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
-worldwidenationalclaimfree.cyou
 worldwideofficialpromotion.cyou
 worldwideprizegiveawayfree.cyou
 yourlegendarysystemsupgrade.work
@@ -416,3 +416,4 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es

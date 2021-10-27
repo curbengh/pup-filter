@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 26 Oct 2021 12:03:06 +0000
+# Updated: Wed, 27 Oct 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -21,6 +21,7 @@
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
+0.0.0.0 beautinow.nl
 0.0.0.0 beinspired.global
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
@@ -96,6 +97,7 @@
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
 0.0.0.0 freewareappsstreamfast-best.digital
+0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
@@ -135,7 +137,6 @@
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jointingifstrawberry.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
@@ -173,7 +174,6 @@
 0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
-0.0.0.0 ligamedia.club
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
 0.0.0.0 lltrsknoob.click
@@ -367,6 +367,7 @@
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
+0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 updatefix.xyz
 0.0.0.0 upplaysite.xyz
@@ -405,10 +406,9 @@
 0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.icu
 0.0.0.0 winnerz.site
-0.0.0.0 worldwide-national-claim-free.cyou
+0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou
 0.0.0.0 worldwideluckypromotionfree.cyou
-0.0.0.0 worldwidenationalclaimfree.cyou
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 yourlegendarysystemsupgrade.work
@@ -416,3 +416,4 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es
