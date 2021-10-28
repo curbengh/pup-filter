@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 27 Oct 2021 12:03:23 +0000
+! Updated: Thu, 28 Oct 2021 00:02:59 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -50,6 +50,7 @@ centerastar.xyz
 centeravolcano.xyz
 chatverse.net
 checkstableaupdatinglinks.work
+chipovysta.pro
 coatofarms.nyc
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -297,6 +298,7 @@ quatrefeuillepolonaise.xyz
 quizshein.shop
 rancy.xyz
 real-buy.net
+recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
 rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
