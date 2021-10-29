@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 28 Oct 2021 12:02:53 +0000
+! Updated: Fri, 29 Oct 2021 00:03:10 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@
 ||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
+||claimrewards.rest$all
 ||coatofarms.nyc$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
@@ -92,13 +93,11 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
-||findwith.me$all
 ||finreporter.net$all
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
 ||freewareappsstreamfast-best.digital$all
-||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
@@ -125,14 +124,19 @@
 ||initiatecompletelyprecisethefile.vip$all
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
+||initiategreatlyfreethefile.vip$all
+||initiategreatlyrecentthefile.vip$all
 ||initiateprogressivecompletelythefile.vip$all
+||initiaterecentgreatlythefile.vip$all
 ||initiatesophisticatedcompletelythefile.vip$all
 ||initiateswiftcompletelythefile.vip$all
 ||installcurrentintenselythefile.vip$all
+||installhighlyrefinedthefile.vip$all
 ||installintenselyoriginalthefile.vip$all
 ||installintenselyrefinedthefile.vip$all
 ||installprecisehighlythefile.vip$all
 ||installprogressiveintenselythefile.vip$all
+||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
 ||investinfo.net$all
 ||ipaint.us$all
@@ -254,6 +258,8 @@
 ||pandawintere.xyz$all
 ||pandawinterf.xyz$all
 ||pcsecurity-live.xyz$all
+||performhighlyspeedythefile.vip$all
+||performhighlyswiftthefile.vip$all
 ||peterhahn.be$all
 ||photo-explorer.org$all
 ||placefortheupgradesset.work$all
@@ -287,6 +293,7 @@
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitsurvey365.online$all
+||promotionclaim.rest$all
 ||proprotect.me$all
 ||prosecurityvpn.me$all
 ||protect-ios.com$all
@@ -299,11 +306,9 @@
 ||real-buy.net$all
 ||recommended-vpns.com$all
 ||rewardgivingrealspecialoffer.cyou$all
-||rewards-promotion-winner-super.cyou$all
 ||rewardspromotionwinnersuper.cyou$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
-||safeguide.net$all
 ||savagegrowplus.net$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -348,9 +353,9 @@
 ||syncnewestuberthefile.vip$all
 ||syncrecentintenselythefile.vip$all
 ||syncubercurrentfiles.best$all
+||syssysupdate.top$all
 ||systemupdateme.solutions$all
 ||systemupdatit.club$all
-||technoblogs.net$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
@@ -366,6 +371,7 @@
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||thrawdmn55.xyz$all
+||timefornews.online$all
 ||timeoffers.net$all
 ||timesamerica.net$all
 ||top-offers2.club$all
@@ -415,6 +421,7 @@
 ||worldwideluckypromotionfree.cyou$all
 ||worldwideofficialpromotion.cyou$all
 ||worldwideprizegiveawayfree.cyou$all
+||your-magazine.me$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all

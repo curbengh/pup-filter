@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 28 Oct 2021 12:02:53 +0000
+# Updated: Fri, 29 Oct 2021 00:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@ centeravolcano.xyz
 chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
+claimrewards.rest
 coatofarms.nyc
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -92,13 +93,11 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-findwith.me
 finreporter.net
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
 freewareappsstreamfast-best.digital
-funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
@@ -125,14 +124,19 @@ incrediblebuzz.info
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
+initiategreatlyfreethefile.vip
+initiategreatlyrecentthefile.vip
 initiateprogressivecompletelythefile.vip
+initiaterecentgreatlythefile.vip
 initiatesophisticatedcompletelythefile.vip
 initiateswiftcompletelythefile.vip
 installcurrentintenselythefile.vip
+installhighlyrefinedthefile.vip
 installintenselyoriginalthefile.vip
 installintenselyrefinedthefile.vip
 installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
+installstronghighlythefile.vip
 intelectaction.ru
 investinfo.net
 ipaint.us
@@ -254,6 +258,8 @@ pandawinterd.xyz
 pandawintere.xyz
 pandawinterf.xyz
 pcsecurity-live.xyz
+performhighlyspeedythefile.vip
+performhighlyswiftthefile.vip
 peterhahn.be
 photo-explorer.org
 placefortheupgradesset.work
@@ -287,6 +293,7 @@ ppploanchoices.site
 prize-messsages.casa
 producthunter.club
 profitsurvey365.online
+promotionclaim.rest
 proprotect.me
 prosecurityvpn.me
 protect-ios.com
@@ -299,11 +306,9 @@ quizshein.shop
 real-buy.net
 recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
-rewards-promotion-winner-super.cyou
 rewardspromotionwinnersuper.cyou
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
-safeguide.net
 savagegrowplus.net
 search4theupdatefree.work
 search4theupgradeset.info
@@ -348,9 +353,9 @@ syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncubercurrentfiles.best
+syssysupdate.top
 systemupdateme.solutions
 systemupdatit.club
-technoblogs.net
 technologypartners.net
 thanksyoursupport.club
 the-star.xyz
@@ -366,6 +371,7 @@ thecryptozone.website
 theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
+timefornews.online
 timeoffers.net
 timesamerica.net
 top-offers2.club
@@ -415,6 +421,7 @@ worldwide-prize-giveaway-free.cyou
 worldwideluckypromotionfree.cyou
 worldwideofficialpromotion.cyou
 worldwideprizegiveawayfree.cyou
+your-magazine.me
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
 yourluckytoday.club

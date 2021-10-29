@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 28 Oct 2021 12:02:53 +0000
+# Updated: Fri, 29 Oct 2021 00:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@
 0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
+0.0.0.0 claimrewards.rest
 0.0.0.0 coatofarms.nyc
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -92,13 +93,11 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 findwith.me
 0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
 0.0.0.0 freewareappsstreamfast-best.digital
-0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
@@ -125,14 +124,19 @@
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
+0.0.0.0 initiategreatlyfreethefile.vip
+0.0.0.0 initiategreatlyrecentthefile.vip
 0.0.0.0 initiateprogressivecompletelythefile.vip
+0.0.0.0 initiaterecentgreatlythefile.vip
 0.0.0.0 initiatesophisticatedcompletelythefile.vip
 0.0.0.0 initiateswiftcompletelythefile.vip
 0.0.0.0 installcurrentintenselythefile.vip
+0.0.0.0 installhighlyrefinedthefile.vip
 0.0.0.0 installintenselyoriginalthefile.vip
 0.0.0.0 installintenselyrefinedthefile.vip
 0.0.0.0 installprecisehighlythefile.vip
 0.0.0.0 installprogressiveintenselythefile.vip
+0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
@@ -254,6 +258,8 @@
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pandawinterf.xyz
 0.0.0.0 pcsecurity-live.xyz
+0.0.0.0 performhighlyspeedythefile.vip
+0.0.0.0 performhighlyswiftthefile.vip
 0.0.0.0 peterhahn.be
 0.0.0.0 photo-explorer.org
 0.0.0.0 placefortheupgradesset.work
@@ -287,6 +293,7 @@
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey365.online
+0.0.0.0 promotionclaim.rest
 0.0.0.0 proprotect.me
 0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-ios.com
@@ -299,11 +306,9 @@
 0.0.0.0 real-buy.net
 0.0.0.0 recommended-vpns.com
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 rewards-promotion-winner-super.cyou
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
-0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -348,9 +353,9 @@
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncubercurrentfiles.best
+0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 systemupdatit.club
-0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
@@ -366,6 +371,7 @@
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
 0.0.0.0 thrawdmn55.xyz
+0.0.0.0 timefornews.online
 0.0.0.0 timeoffers.net
 0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
@@ -415,6 +421,7 @@
 0.0.0.0 worldwideluckypromotionfree.cyou
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
+0.0.0.0 your-magazine.me
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club

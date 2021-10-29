@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 28 Oct 2021 12:02:53 +0000
+# Updated: Fri, 29 Oct 2021 00:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -54,6 +54,7 @@ msFilterList
 -d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
+-d claimrewards.rest
 -d coatofarms.nyc
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -95,13 +96,11 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findwith.me
 -d finreporter.net
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
 -d freewareappsstreamfast-best.digital
--d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -128,14 +127,19 @@ msFilterList
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
+-d initiategreatlyfreethefile.vip
+-d initiategreatlyrecentthefile.vip
 -d initiateprogressivecompletelythefile.vip
+-d initiaterecentgreatlythefile.vip
 -d initiatesophisticatedcompletelythefile.vip
 -d initiateswiftcompletelythefile.vip
 -d installcurrentintenselythefile.vip
+-d installhighlyrefinedthefile.vip
 -d installintenselyoriginalthefile.vip
 -d installintenselyrefinedthefile.vip
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
+-d installstronghighlythefile.vip
 -d intelectaction.ru
 -d investinfo.net
 -d ipaint.us
@@ -257,6 +261,8 @@ msFilterList
 -d pandawintere.xyz
 -d pandawinterf.xyz
 -d pcsecurity-live.xyz
+-d performhighlyspeedythefile.vip
+-d performhighlyswiftthefile.vip
 -d peterhahn.be
 -d photo-explorer.org
 -d placefortheupgradesset.work
@@ -290,6 +296,7 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitsurvey365.online
+-d promotionclaim.rest
 -d proprotect.me
 -d prosecurityvpn.me
 -d protect-ios.com
@@ -302,11 +309,9 @@ msFilterList
 -d real-buy.net
 -d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
--d rewards-promotion-winner-super.cyou
 -d rewardspromotionwinnersuper.cyou
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
--d safeguide.net
 -d savagegrowplus.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -351,9 +356,9 @@ msFilterList
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
 -d syncubercurrentfiles.best
+-d syssysupdate.top
 -d systemupdateme.solutions
 -d systemupdatit.club
--d technoblogs.net
 -d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
@@ -369,6 +374,7 @@ msFilterList
 -d theirproviderock.top
 -d thelastpicture.show
 -d thrawdmn55.xyz
+-d timefornews.online
 -d timeoffers.net
 -d timesamerica.net
 -d top-offers2.club
@@ -418,6 +424,7 @@ msFilterList
 -d worldwideluckypromotionfree.cyou
 -d worldwideofficialpromotion.cyou
 -d worldwideprizegiveawayfree.cyou
+-d your-magazine.me
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
