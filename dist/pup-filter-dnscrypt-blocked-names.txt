@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 30 Oct 2021 00:34:45 +0000
+# Updated: Sat, 30 Oct 2021 12:02:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
 beinspired.global
+bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
@@ -35,7 +36,6 @@ boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
-brightlifestyle.org
 calledbellc.fun
 center-plains.xyz
 center-planet.xyz
@@ -298,6 +298,7 @@ provpnsecurity.me
 prtctapp.me
 quatrefeuillepolonaise.xyz
 quizshein.shop
+rancy.xyz
 real-buy.net
 recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
