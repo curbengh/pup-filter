@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 29 Oct 2021 12:03:06 +0000
+# Updated: Sat, 30 Oct 2021 00:34:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
@@ -70,7 +69,6 @@
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
-0.0.0.0 dealmedia.xyz
 0.0.0.0 dealsify.net
 0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
@@ -84,6 +82,7 @@
 0.0.0.0 enjoy7crater.xyz
 0.0.0.0 enjoy7mountain.xyz
 0.0.0.0 enjoyacrater.xyz
+0.0.0.0 enjoyastar.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
@@ -97,7 +96,7 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
-0.0.0.0 freewareappsstreamfast-best.digital
+0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
@@ -176,7 +175,6 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
@@ -224,7 +222,6 @@
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
@@ -299,7 +296,6 @@
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quatrefeuillepolonaise.xyz
 0.0.0.0 quizshein.shop
 0.0.0.0 real-buy.net
@@ -308,6 +304,7 @@
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
+0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
@@ -324,6 +321,7 @@
 0.0.0.0 smartideas.pro
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
+0.0.0.0 sonic1asteroid.xyz
 0.0.0.0 sonic1coast.xyz
 0.0.0.0 sonic1ocean.xyz
 0.0.0.0 sonicacrater.xyz
@@ -354,7 +352,6 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
-0.0.0.0 systemupdatit.club
 0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
@@ -364,6 +361,7 @@
 0.0.0.0 the7plains.xyz
 0.0.0.0 the7volcano.xyz
 0.0.0.0 theaasteroid.xyz
+0.0.0.0 theacrater.xyz
 0.0.0.0 theastar.xyz
 0.0.0.0 theavolcano.xyz
 0.0.0.0 thecryptozone.website
@@ -426,4 +424,3 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 zalando-prive.es

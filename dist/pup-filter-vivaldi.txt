@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 29 Oct 2021 12:03:06 +0000
+! Updated: Sat, 30 Oct 2021 00:34:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||amobil.online$document
@@ -70,7 +69,6 @@
 ||dayinlife.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
-||dealmedia.xyz$document
 ||dealsify.net$document
 ||discoveryfeed.org$document
 ||earlyprogress.info$document
@@ -84,6 +82,7 @@
 ||enjoy7crater.xyz$document
 ||enjoy7mountain.xyz$document
 ||enjoyacrater.xyz$document
+||enjoyastar.xyz$document
 ||exploreshops.net$document
 ||fast-app.xyz$document
 ||fastfactsonline.co$document
@@ -97,7 +96,7 @@
 ||fireapps.cloud$document
 ||fisudauh.top$document
 ||flash-rewards.info$document
-||freewareappsstreamfast-best.digital$document
+||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
@@ -176,7 +175,6 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
@@ -224,7 +222,6 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
-||mobyfox.shop$document
 ||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
@@ -299,7 +296,6 @@
 ||provpn.me$document
 ||provpnsecurity.me$document
 ||prtctapp.me$document
-||qfind.net$document
 ||quatrefeuillepolonaise.xyz$document
 ||quizshein.shop$document
 ||real-buy.net$document
@@ -308,6 +304,7 @@
 ||rewardspromotionwinnersuper.cyou$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
+||safeguide.net$document
 ||savagegrowplus.net$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
@@ -324,6 +321,7 @@
 ||smartideas.pro$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
+||sonic1asteroid.xyz$document
 ||sonic1coast.xyz$document
 ||sonic1ocean.xyz$document
 ||sonicacrater.xyz$document
@@ -354,7 +352,6 @@
 ||syncubercurrentfiles.best$document
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
-||systemupdatit.club$document
 ||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||the-star.xyz$document
@@ -364,6 +361,7 @@
 ||the7plains.xyz$document
 ||the7volcano.xyz$document
 ||theaasteroid.xyz$document
+||theacrater.xyz$document
 ||theastar.xyz$document
 ||theavolcano.xyz$document
 ||thecryptozone.website$document
@@ -426,4 +424,3 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||zalando-prive.es$document

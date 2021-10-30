@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 29 Oct 2021 12:03:06 +0000
+# Updated: Sat, 30 Oct 2021 00:34:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -73,7 +72,6 @@ msFilterList
 -d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
--d dealmedia.xyz
 -d dealsify.net
 -d discoveryfeed.org
 -d earlyprogress.info
@@ -87,6 +85,7 @@ msFilterList
 -d enjoy7crater.xyz
 -d enjoy7mountain.xyz
 -d enjoyacrater.xyz
+-d enjoyastar.xyz
 -d exploreshops.net
 -d fast-app.xyz
 -d fastfactsonline.co
@@ -100,7 +99,7 @@ msFilterList
 -d fireapps.cloud
 -d fisudauh.top
 -d flash-rewards.info
--d freewareappsstreamfast-best.digital
+-d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
@@ -179,7 +178,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d link4updatingcentral.work
@@ -227,7 +225,6 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
--d mobyfox.shop
 -d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -302,7 +299,6 @@ msFilterList
 -d provpn.me
 -d provpnsecurity.me
 -d prtctapp.me
--d qfind.net
 -d quatrefeuillepolonaise.xyz
 -d quizshein.shop
 -d real-buy.net
@@ -311,6 +307,7 @@ msFilterList
 -d rewardspromotionwinnersuper.cyou
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
+-d safeguide.net
 -d savagegrowplus.net
 -d search4theupdatefree.work
 -d search4theupgradeset.info
@@ -327,6 +324,7 @@ msFilterList
 -d smartideas.pro
 -d software-dealz.de
 -d sonic-ocean.xyz
+-d sonic1asteroid.xyz
 -d sonic1coast.xyz
 -d sonic1ocean.xyz
 -d sonicacrater.xyz
@@ -357,7 +355,6 @@ msFilterList
 -d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
--d systemupdatit.club
 -d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
@@ -367,6 +364,7 @@ msFilterList
 -d the7plains.xyz
 -d the7volcano.xyz
 -d theaasteroid.xyz
+-d theacrater.xyz
 -d theastar.xyz
 -d theavolcano.xyz
 -d thecryptozone.website
@@ -429,4 +427,3 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d zalando-prive.es

@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 29 Oct 2021 12:03:06 +0000
+! Updated: Sat, 30 Oct 2021 00:34:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
@@ -70,7 +69,6 @@
 ||dayinlife.net$all
 ||dealmedia.club$all
 ||dealmedia.website$all
-||dealmedia.xyz$all
 ||dealsify.net$all
 ||discoveryfeed.org$all
 ||earlyprogress.info$all
@@ -84,6 +82,7 @@
 ||enjoy7crater.xyz$all
 ||enjoy7mountain.xyz$all
 ||enjoyacrater.xyz$all
+||enjoyastar.xyz$all
 ||exploreshops.net$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
@@ -97,7 +96,7 @@
 ||fireapps.cloud$all
 ||fisudauh.top$all
 ||flash-rewards.info$all
-||freewareappsstreamfast-best.digital$all
+||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
@@ -176,7 +175,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
@@ -224,7 +222,6 @@
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
-||mobyfox.shop$all
 ||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
@@ -299,7 +296,6 @@
 ||provpn.me$all
 ||provpnsecurity.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quatrefeuillepolonaise.xyz$all
 ||quizshein.shop$all
 ||real-buy.net$all
@@ -308,6 +304,7 @@
 ||rewardspromotionwinnersuper.cyou$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
+||safeguide.net$all
 ||savagegrowplus.net$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
@@ -324,6 +321,7 @@
 ||smartideas.pro$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
+||sonic1asteroid.xyz$all
 ||sonic1coast.xyz$all
 ||sonic1ocean.xyz$all
 ||sonicacrater.xyz$all
@@ -354,7 +352,6 @@
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
-||systemupdatit.club$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
@@ -364,6 +361,7 @@
 ||the7plains.xyz$all
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
+||theacrater.xyz$all
 ||theastar.xyz$all
 ||theavolcano.xyz$all
 ||thecryptozone.website$all
@@ -426,4 +424,3 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||zalando-prive.es$all

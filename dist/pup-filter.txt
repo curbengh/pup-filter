@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 29 Oct 2021 12:03:06 +0000
+! Updated: Sat, 30 Oct 2021 00:34:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
-abcscience.xyz
 affiliateland.io
 aikoo.club
 amobil.online
@@ -70,7 +69,6 @@ darkview.org
 dayinlife.net
 dealmedia.club
 dealmedia.website
-dealmedia.xyz
 dealsify.net
 discoveryfeed.org
 earlyprogress.info
@@ -84,6 +82,7 @@ enjoy1volcano.xyz
 enjoy7crater.xyz
 enjoy7mountain.xyz
 enjoyacrater.xyz
+enjoyastar.xyz
 exploreshops.net
 fast-app.xyz
 fastfactsonline.co
@@ -97,7 +96,7 @@ finditquick.online
 fireapps.cloud
 fisudauh.top
 flash-rewards.info
-freewareappsstreamfast-best.digital
+funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
@@ -176,7 +175,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 ktpyzw.vip
 lackystack.net
 link4updatingcentral.work
@@ -224,7 +222,6 @@ mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 mobileluckywinner.site
-mobyfox.shop
 money-hero.org
 n95o0fxvvw.top
 nettrafficpartners.net
@@ -299,7 +296,6 @@ protect-ios.com
 provpn.me
 provpnsecurity.me
 prtctapp.me
-qfind.net
 quatrefeuillepolonaise.xyz
 quizshein.shop
 real-buy.net
@@ -308,6 +304,7 @@ rewardgivingrealspecialoffer.cyou
 rewardspromotionwinnersuper.cyou
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
+safeguide.net
 savagegrowplus.net
 search4theupdatefree.work
 search4theupgradeset.info
@@ -324,6 +321,7 @@ signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 software-dealz.de
 sonic-ocean.xyz
+sonic1asteroid.xyz
 sonic1coast.xyz
 sonic1ocean.xyz
 sonicacrater.xyz
@@ -354,7 +352,6 @@ syncrecentintenselythefile.vip
 syncubercurrentfiles.best
 syssysupdate.top
 systemupdateme.solutions
-systemupdatit.club
 technologypartners.net
 thanksyoursupport.club
 the-star.xyz
@@ -364,6 +361,7 @@ the7coast.xyz
 the7plains.xyz
 the7volcano.xyz
 theaasteroid.xyz
+theacrater.xyz
 theastar.xyz
 theavolcano.xyz
 thecryptozone.website
@@ -426,4 +424,3 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-zalando-prive.es
