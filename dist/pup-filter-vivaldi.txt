@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 30 Oct 2021 12:02:32 +0000
+! Updated: Sun, 31 Oct 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||amobil.online$document
@@ -31,7 +32,6 @@
 ||boot-upfree-bestuberfile.best$document
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
-||boot-upoverly-bestadvancedfile.best$document
 ||boot-uprenewed-bestuberfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||boot-upuber-bestfreefile.best$document
@@ -42,6 +42,7 @@
 ||center1plains.xyz$document
 ||center1sky.xyz$document
 ||center1star.xyz$document
+||center7mountain.xyz$document
 ||center7ocean.xyz$document
 ||center7planet.xyz$document
 ||centeracoast.xyz$document
@@ -58,7 +59,6 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||curfiositystream.com$document
@@ -75,17 +75,18 @@
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
+||enjoy-coast.xyz$document
 ||enjoy-star.xyz$document
 ||enjoy1mountain.xyz$document
 ||enjoy1ocean.xyz$document
 ||enjoy1volcano.xyz$document
+||enjoy7asteroid.xyz$document
 ||enjoy7crater.xyz$document
 ||enjoy7mountain.xyz$document
 ||enjoyacrater.xyz$document
 ||enjoyastar.xyz$document
 ||exploreshops.net$document
 ||fast-app.xyz$document
-||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
 ||fastspota.xyz$document
@@ -94,17 +95,14 @@
 ||findaupgradingurls.work$document
 ||finditquick.online$document
 ||fireapps.cloud$document
-||fisudauh.top$document
 ||flash-rewards.info$document
 ||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
-||gladplacespin.xyz$document
 ||global-track.space$document
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
@@ -141,7 +139,6 @@
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
-||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
 ||juicydataadvance.ru$document
@@ -152,7 +149,6 @@
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
-||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -175,6 +171,7 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||ktpyzw.vip$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
@@ -218,6 +215,7 @@
 ||mobi7sea.xyz$document
 ||mobi7sky.xyz$document
 ||mobi7volcano.xyz$document
+||mobiacrater.xyz$document
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
@@ -242,6 +240,7 @@
 ||pandaspringc.xyz$document
 ||pandaspringd.xyz$document
 ||pandaspringe.xyz$document
+||pandaspringf.xyz$document
 ||pandasummera.xyz$document
 ||pandasummerc.xyz$document
 ||pandasummerd.xyz$document
@@ -296,13 +295,12 @@
 ||provpn.me$document
 ||provpnsecurity.me$document
 ||prtctapp.me$document
-||quatrefeuillepolonaise.xyz$document
+||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
 ||recommended-vpns.com$document
 ||rewardgivingrealspecialoffer.cyou$document
-||rewardspromotionwinnersuper.cyou$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
@@ -316,12 +314,11 @@
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
-||shopin.nyc$document
 ||shopnsave.world$document
-||signupandturnyourscreenoffsafepowernow.date$document
 ||smartideas.pro$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
+||sonic-plains.xyz$document
 ||sonic1asteroid.xyz$document
 ||sonic1coast.xyz$document
 ||sonic1ocean.xyz$document
@@ -330,7 +327,6 @@
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
-||start-page.one$document
 ||startos.win$document
 ||stickr.co$document
 ||stogether.fun$document
@@ -353,6 +349,7 @@
 ||syncubercurrentfiles.best$document
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
+||technoblogs.net$document
 ||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||the-star.xyz$document
@@ -384,7 +381,6 @@
 ||usevpnpro.me$document
 ||usforeclosure.net$document
 ||videoau.ru$document
-||videoauthor.ru$document
 ||videochanelace.ru$document
 ||videochanelact.ru$document
 ||videochanelair.ru$document
@@ -425,3 +421,4 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 30 Oct 2021 12:02:32 +0000
+# Updated: Sun, 31 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -34,7 +35,6 @@ msFilterList
 -d boot-upfree-bestuberfile.best
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
--d boot-upoverly-bestadvancedfile.best
 -d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
@@ -45,6 +45,7 @@ msFilterList
 -d center1plains.xyz
 -d center1sky.xyz
 -d center1star.xyz
+-d center7mountain.xyz
 -d center7ocean.xyz
 -d center7planet.xyz
 -d centeracoast.xyz
@@ -61,7 +62,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d curfiositystream.com
@@ -78,17 +78,18 @@ msFilterList
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
+-d enjoy-coast.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
 -d enjoy1volcano.xyz
+-d enjoy7asteroid.xyz
 -d enjoy7crater.xyz
 -d enjoy7mountain.xyz
 -d enjoyacrater.xyz
 -d enjoyastar.xyz
 -d exploreshops.net
 -d fast-app.xyz
--d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
@@ -97,17 +98,14 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d fireapps.cloud
--d fisudauh.top
 -d flash-rewards.info
 -d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
--d gladplacespin.xyz
 -d global-track.space
 -d golddellifewonder.rest
 -d gonesteeldouble.top
@@ -144,7 +142,6 @@ msFilterList
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
--d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
 -d juicydataadvance.ru
@@ -155,7 +152,6 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -178,6 +174,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d ktpyzw.vip
 -d lackystack.net
 -d link4updatingcentral.work
@@ -221,6 +218,7 @@ msFilterList
 -d mobi7sea.xyz
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
+-d mobiacrater.xyz
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
@@ -245,6 +243,7 @@ msFilterList
 -d pandaspringc.xyz
 -d pandaspringd.xyz
 -d pandaspringe.xyz
+-d pandaspringf.xyz
 -d pandasummera.xyz
 -d pandasummerc.xyz
 -d pandasummerd.xyz
@@ -299,13 +298,12 @@ msFilterList
 -d provpn.me
 -d provpnsecurity.me
 -d prtctapp.me
--d quatrefeuillepolonaise.xyz
+-d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
 -d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
--d rewardspromotionwinnersuper.cyou
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -319,12 +317,11 @@ msFilterList
 -d selectedlab.buzz
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
--d shopin.nyc
 -d shopnsave.world
--d signupandturnyourscreenoffsafepowernow.date
 -d smartideas.pro
 -d software-dealz.de
 -d sonic-ocean.xyz
+-d sonic-plains.xyz
 -d sonic1asteroid.xyz
 -d sonic1coast.xyz
 -d sonic1ocean.xyz
@@ -333,7 +330,6 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d start-page.one
 -d startos.win
 -d stickr.co
 -d stogether.fun
@@ -356,6 +352,7 @@ msFilterList
 -d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
+-d technoblogs.net
 -d technologypartners.net
 -d thanksyoursupport.club
 -d the-star.xyz
@@ -387,7 +384,6 @@ msFilterList
 -d usevpnpro.me
 -d usforeclosure.net
 -d videoau.ru
--d videoauthor.ru
 -d videochanelace.ru
 -d videochanelact.ru
 -d videochanelair.ru
@@ -428,3 +424,4 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es

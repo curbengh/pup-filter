@@ -1,12 +1,13 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 30 Oct 2021 12:02:32 +0000
+# Updated: Sun, 31 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 affiliateland.io
 aikoo.club
 amobil.online
@@ -31,7 +32,6 @@ boot-upcompletely-bestsophisticatedfile.best
 boot-upfree-bestuberfile.best
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
-boot-upoverly-bestadvancedfile.best
 boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
@@ -42,6 +42,7 @@ center-planet.xyz
 center1plains.xyz
 center1sky.xyz
 center1star.xyz
+center7mountain.xyz
 center7ocean.xyz
 center7planet.xyz
 centeracoast.xyz
@@ -58,7 +59,6 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 curfiositystream.com
@@ -75,17 +75,18 @@ earlyprogress.info
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
+enjoy-coast.xyz
 enjoy-star.xyz
 enjoy1mountain.xyz
 enjoy1ocean.xyz
 enjoy1volcano.xyz
+enjoy7asteroid.xyz
 enjoy7crater.xyz
 enjoy7mountain.xyz
 enjoyacrater.xyz
 enjoyastar.xyz
 exploreshops.net
 fast-app.xyz
-fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastspota.xyz
@@ -94,17 +95,14 @@ fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
 fireapps.cloud
-fisudauh.top
 flash-rewards.info
 funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
-gladplacespin.xyz
 global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
@@ -141,7 +139,6 @@ investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
-jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
 juicydataadvance.ru
@@ -152,7 +149,6 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -175,6 +171,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 ktpyzw.vip
 lackystack.net
 link4updatingcentral.work
@@ -218,6 +215,7 @@ mobi1mountain.xyz
 mobi7sea.xyz
 mobi7sky.xyz
 mobi7volcano.xyz
+mobiacrater.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
@@ -242,6 +240,7 @@ pandaspringb.xyz
 pandaspringc.xyz
 pandaspringd.xyz
 pandaspringe.xyz
+pandaspringf.xyz
 pandasummera.xyz
 pandasummerc.xyz
 pandasummerd.xyz
@@ -296,13 +295,12 @@ protect-ios.com
 provpn.me
 provpnsecurity.me
 prtctapp.me
-quatrefeuillepolonaise.xyz
+qfind.net
 quizshein.shop
 rancy.xyz
 real-buy.net
 recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
-rewardspromotionwinnersuper.cyou
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
@@ -316,12 +314,11 @@ securityvpnpro.me
 selectedlab.buzz
 sergey-tracks.xyz
 settothereliableupgradingnew.work
-shopin.nyc
 shopnsave.world
-signupandturnyourscreenoffsafepowernow.date
 smartideas.pro
 software-dealz.de
 sonic-ocean.xyz
+sonic-plains.xyz
 sonic1asteroid.xyz
 sonic1coast.xyz
 sonic1ocean.xyz
@@ -330,7 +327,6 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
-start-page.one
 startos.win
 stickr.co
 stogether.fun
@@ -353,6 +349,7 @@ syncrecentintenselythefile.vip
 syncubercurrentfiles.best
 syssysupdate.top
 systemupdateme.solutions
+technoblogs.net
 technologypartners.net
 thanksyoursupport.club
 the-star.xyz
@@ -384,7 +381,6 @@ useprovpn.me
 usevpnpro.me
 usforeclosure.net
 videoau.ru
-videoauthor.ru
 videochanelace.ru
 videochanelact.ru
 videochanelair.ru
@@ -425,3 +421,4 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es

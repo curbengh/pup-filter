@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 30 Oct 2021 12:02:32 +0000
+! Updated: Sun, 31 Oct 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
@@ -31,7 +32,6 @@
 ||boot-upfree-bestuberfile.best$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
-||boot-upoverly-bestadvancedfile.best$all
 ||boot-uprenewed-bestuberfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
@@ -42,6 +42,7 @@
 ||center1plains.xyz$all
 ||center1sky.xyz$all
 ||center1star.xyz$all
+||center7mountain.xyz$all
 ||center7ocean.xyz$all
 ||center7planet.xyz$all
 ||centeracoast.xyz$all
@@ -58,7 +59,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||curfiositystream.com$all
@@ -75,17 +75,18 @@
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
+||enjoy-coast.xyz$all
 ||enjoy-star.xyz$all
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
 ||enjoy1volcano.xyz$all
+||enjoy7asteroid.xyz$all
 ||enjoy7crater.xyz$all
 ||enjoy7mountain.xyz$all
 ||enjoyacrater.xyz$all
 ||enjoyastar.xyz$all
 ||exploreshops.net$all
 ||fast-app.xyz$all
-||fastfactsonline.co$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
 ||fastspota.xyz$all
@@ -94,17 +95,14 @@
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||fireapps.cloud$all
-||fisudauh.top$all
 ||flash-rewards.info$all
 ||funanime.me$all
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||gettheraiceheadreliefhat.io$all
 ||girlsnearyou.online$all
 ||gladmstreet.xyz$all
-||gladplacespin.xyz$all
 ||global-track.space$all
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
@@ -141,7 +139,6 @@
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jetsummer.xyz$all
-||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||jtkszl.vip$all
 ||juicydataadvance.ru$all
@@ -152,7 +149,6 @@
 ||junemedia.club$all
 ||junemedia.xyz$all
 ||junesmile.xyz$all
-||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -175,6 +171,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||ktpyzw.vip$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
@@ -218,6 +215,7 @@
 ||mobi7sea.xyz$all
 ||mobi7sky.xyz$all
 ||mobi7volcano.xyz$all
+||mobiacrater.xyz$all
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
@@ -242,6 +240,7 @@
 ||pandaspringc.xyz$all
 ||pandaspringd.xyz$all
 ||pandaspringe.xyz$all
+||pandaspringf.xyz$all
 ||pandasummera.xyz$all
 ||pandasummerc.xyz$all
 ||pandasummerd.xyz$all
@@ -296,13 +295,12 @@
 ||provpn.me$all
 ||provpnsecurity.me$all
 ||prtctapp.me$all
-||quatrefeuillepolonaise.xyz$all
+||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||real-buy.net$all
 ||recommended-vpns.com$all
 ||rewardgivingrealspecialoffer.cyou$all
-||rewardspromotionwinnersuper.cyou$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
@@ -316,12 +314,11 @@
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
-||shopin.nyc$all
 ||shopnsave.world$all
-||signupandturnyourscreenoffsafepowernow.date$all
 ||smartideas.pro$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
+||sonic-plains.xyz$all
 ||sonic1asteroid.xyz$all
 ||sonic1coast.xyz$all
 ||sonic1ocean.xyz$all
@@ -330,7 +327,6 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
-||start-page.one$all
 ||startos.win$all
 ||stickr.co$all
 ||stogether.fun$all
@@ -353,6 +349,7 @@
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
+||technoblogs.net$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-star.xyz$all
@@ -384,7 +381,6 @@
 ||usevpnpro.me$all
 ||usforeclosure.net$all
 ||videoau.ru$all
-||videoauthor.ru$all
 ||videochanelace.ru$all
 ||videochanelact.ru$all
 ||videochanelair.ru$all
@@ -425,3 +421,4 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all

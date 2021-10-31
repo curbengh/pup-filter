@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 30 Oct 2021 12:02:32 +0000
+# Updated: Sun, 31 Oct 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
@@ -31,7 +32,6 @@
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
-0.0.0.0 boot-upoverly-bestadvancedfile.best
 0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
@@ -42,6 +42,7 @@
 0.0.0.0 center1plains.xyz
 0.0.0.0 center1sky.xyz
 0.0.0.0 center1star.xyz
+0.0.0.0 center7mountain.xyz
 0.0.0.0 center7ocean.xyz
 0.0.0.0 center7planet.xyz
 0.0.0.0 centeracoast.xyz
@@ -58,7 +59,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 curfiositystream.com
@@ -75,17 +75,18 @@
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
+0.0.0.0 enjoy-coast.xyz
 0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
 0.0.0.0 enjoy1volcano.xyz
+0.0.0.0 enjoy7asteroid.xyz
 0.0.0.0 enjoy7crater.xyz
 0.0.0.0 enjoy7mountain.xyz
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
-0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
@@ -94,17 +95,14 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 fireapps.cloud
-0.0.0.0 fisudauh.top
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
-0.0.0.0 gladplacespin.xyz
 0.0.0.0 global-track.space
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
@@ -141,7 +139,6 @@
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
-0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 juicydataadvance.ru
@@ -152,7 +149,6 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
-0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -175,6 +171,7 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 ktpyzw.vip
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
@@ -218,6 +215,7 @@
 0.0.0.0 mobi7sea.xyz
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
+0.0.0.0 mobiacrater.xyz
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
@@ -242,6 +240,7 @@
 0.0.0.0 pandaspringc.xyz
 0.0.0.0 pandaspringd.xyz
 0.0.0.0 pandaspringe.xyz
+0.0.0.0 pandaspringf.xyz
 0.0.0.0 pandasummera.xyz
 0.0.0.0 pandasummerc.xyz
 0.0.0.0 pandasummerd.xyz
@@ -296,13 +295,12 @@
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
 0.0.0.0 prtctapp.me
-0.0.0.0 quatrefeuillepolonaise.xyz
+0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
 0.0.0.0 recommended-vpns.com
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -316,12 +314,11 @@
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
-0.0.0.0 signupandturnyourscreenoffsafepowernow.date
 0.0.0.0 smartideas.pro
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
+0.0.0.0 sonic-plains.xyz
 0.0.0.0 sonic1asteroid.xyz
 0.0.0.0 sonic1coast.xyz
 0.0.0.0 sonic1ocean.xyz
@@ -330,7 +327,6 @@
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
-0.0.0.0 start-page.one
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
@@ -353,6 +349,7 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
+0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-star.xyz
@@ -384,7 +381,6 @@
 0.0.0.0 usevpnpro.me
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
-0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
 0.0.0.0 videochanelact.ru
 0.0.0.0 videochanelair.ru
@@ -425,3 +421,4 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es
