@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 31 Oct 2021 00:02:43 +0000
+# Updated: Sun, 31 Oct 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -39,6 +39,7 @@ msFilterList
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
 -d breaking-news.digital
+-d brightlifestyle.org
 -d calledbellc.fun
 -d center-plains.xyz
 -d center-planet.xyz
@@ -67,13 +68,11 @@ msFilterList
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
--d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealmedia.club
 -d dealmedia.website
 -d dealsify.net
--d discoveryfeed.org
 -d earlyprogress.info
 -d efladn.club
 -d elpelades.club
@@ -138,7 +137,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
@@ -232,6 +230,7 @@ msFilterList
 -d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
+-d olivedinflats.space
 -d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -332,7 +331,6 @@ msFilterList
 -d springplanetf.xyz
 -d startos.win
 -d stickr.co
--d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -350,7 +348,6 @@ msFilterList
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
 -d syncubercurrentfiles.best
--d syssysupdate.top
 -d systemupdateme.solutions
 -d technoblogs.net
 -d technologypartners.net
@@ -424,4 +421,3 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d zalando-prive.es

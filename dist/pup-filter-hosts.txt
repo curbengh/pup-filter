@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 31 Oct 2021 00:02:43 +0000
+# Updated: Sun, 31 Oct 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -36,6 +36,7 @@
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 breaking-news.digital
+0.0.0.0 brightlifestyle.org
 0.0.0.0 calledbellc.fun
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
@@ -64,13 +65,11 @@
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
-0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealsify.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -135,7 +134,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
@@ -229,6 +227,7 @@
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
+0.0.0.0 olivedinflats.space
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
@@ -329,7 +328,6 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
-0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
@@ -347,7 +345,6 @@
 0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncubercurrentfiles.best
-0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
@@ -421,4 +418,3 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 zalando-prive.es

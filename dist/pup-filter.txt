@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 31 Oct 2021 00:02:43 +0000
+! Updated: Sun, 31 Oct 2021 12:02:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -36,6 +36,7 @@ boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
 breaking-news.digital
+brightlifestyle.org
 calledbellc.fun
 center-plains.xyz
 center-planet.xyz
@@ -64,13 +65,11 @@ credit-monitoring-360.xyz
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
-dailyrep.net
 darkview.org
 dayinlife.net
 dealmedia.club
 dealmedia.website
 dealsify.net
-discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -135,7 +134,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
@@ -229,6 +227,7 @@ offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
 officialbigwinnationalfree.cyou
+olivedinflats.space
 ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -329,7 +328,6 @@ spotplanetc.xyz
 springplanetf.xyz
 startos.win
 stickr.co
-stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
@@ -347,7 +345,6 @@ syncnewestmostthefile.vip
 syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncubercurrentfiles.best
-syssysupdate.top
 systemupdateme.solutions
 technoblogs.net
 technologypartners.net
@@ -421,4 +418,3 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-zalando-prive.es
