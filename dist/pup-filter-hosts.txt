@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 31 Oct 2021 12:02:18 +0000
+# Updated: Mon, 01 Nov 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 0.0.0.0 center7mountain.xyz
 0.0.0.0 center7ocean.xyz
 0.0.0.0 center7planet.xyz
+0.0.0.0 center7sky.xyz
 0.0.0.0 centeracoast.xyz
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
@@ -60,6 +61,7 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 curfiositystream.com
@@ -83,9 +85,11 @@
 0.0.0.0 enjoy7crater.xyz
 0.0.0.0 enjoy7mountain.xyz
 0.0.0.0 enjoyacrater.xyz
+0.0.0.0 enjoyaocean.xyz
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
@@ -100,6 +104,7 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 global-track.space
@@ -137,6 +142,7 @@
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
+0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 jtkszl.vip
 0.0.0.0 juicydataadvance.ru
@@ -214,11 +220,12 @@
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
 0.0.0.0 mobiacrater.xyz
+0.0.0.0 mobiaocean.xyz
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 money-hero.org
+0.0.0.0 mobyfox.shop
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
@@ -313,6 +320,7 @@
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
 0.0.0.0 software-dealz.de
@@ -353,6 +361,7 @@
 0.0.0.0 the1star.xyz
 0.0.0.0 the1volcano.xyz
 0.0.0.0 the7coast.xyz
+0.0.0.0 the7crater.xyz
 0.0.0.0 the7plains.xyz
 0.0.0.0 the7volcano.xyz
 0.0.0.0 theaasteroid.xyz
@@ -378,12 +387,14 @@
 0.0.0.0 usevpnpro.me
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
+0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
 0.0.0.0 videochanelact.ru
 0.0.0.0 videochanelair.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -405,7 +416,6 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 winnerbigwingiveawaysuper.cyou
-0.0.0.0 winnerz.icu
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou

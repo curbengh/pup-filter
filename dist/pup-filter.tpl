@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 31 Oct 2021 12:02:18 +0000
+# Updated: Mon, 01 Nov 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -49,6 +49,7 @@ msFilterList
 -d center7mountain.xyz
 -d center7ocean.xyz
 -d center7planet.xyz
+-d center7sky.xyz
 -d centeracoast.xyz
 -d centeramountain.xyz
 -d centerastar.xyz
@@ -63,6 +64,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d curfiositystream.com
@@ -86,9 +88,11 @@ msFilterList
 -d enjoy7crater.xyz
 -d enjoy7mountain.xyz
 -d enjoyacrater.xyz
+-d enjoyaocean.xyz
 -d enjoyastar.xyz
 -d exploreshops.net
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
@@ -103,6 +107,7 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d global-track.space
@@ -140,6 +145,7 @@ msFilterList
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
+-d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d jtkszl.vip
 -d juicydataadvance.ru
@@ -217,11 +223,12 @@ msFilterList
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
 -d mobiacrater.xyz
+-d mobiaocean.xyz
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
--d money-hero.org
+-d mobyfox.shop
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -316,6 +323,7 @@ msFilterList
 -d selectedlab.buzz
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d software-dealz.de
@@ -356,6 +364,7 @@ msFilterList
 -d the1star.xyz
 -d the1volcano.xyz
 -d the7coast.xyz
+-d the7crater.xyz
 -d the7plains.xyz
 -d the7volcano.xyz
 -d theaasteroid.xyz
@@ -381,12 +390,14 @@ msFilterList
 -d usevpnpro.me
 -d usforeclosure.net
 -d videoau.ru
+-d videoauthor.ru
 -d videochanelace.ru
 -d videochanelact.ru
 -d videochanelair.ru
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -408,7 +419,6 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d winnerbigwingiveawaysuper.cyou
--d winnerz.icu
 -d winnerz.site
 -d worivo.info
 -d worldwide-prize-giveaway-free.cyou

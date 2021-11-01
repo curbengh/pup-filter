@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 31 Oct 2021 12:02:18 +0000
+! Updated: Mon, 01 Nov 2021 00:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 ||center7mountain.xyz$document
 ||center7ocean.xyz$document
 ||center7planet.xyz$document
+||center7sky.xyz$document
 ||centeracoast.xyz$document
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
@@ -60,6 +61,7 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||curfiositystream.com$document
@@ -83,9 +85,11 @@
 ||enjoy7crater.xyz$document
 ||enjoy7mountain.xyz$document
 ||enjoyacrater.xyz$document
+||enjoyaocean.xyz$document
 ||enjoyastar.xyz$document
 ||exploreshops.net$document
 ||fast-app.xyz$document
+||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
 ||fastspota.xyz$document
@@ -100,6 +104,7 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||global-track.space$document
@@ -137,6 +142,7 @@
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
+||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||jtkszl.vip$document
 ||juicydataadvance.ru$document
@@ -214,11 +220,12 @@
 ||mobi7sky.xyz$document
 ||mobi7volcano.xyz$document
 ||mobiacrater.xyz$document
+||mobiaocean.xyz$document
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
-||money-hero.org$document
+||mobyfox.shop$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
@@ -313,6 +320,7 @@
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||software-dealz.de$document
@@ -353,6 +361,7 @@
 ||the1star.xyz$document
 ||the1volcano.xyz$document
 ||the7coast.xyz$document
+||the7crater.xyz$document
 ||the7plains.xyz$document
 ||the7volcano.xyz$document
 ||theaasteroid.xyz$document
@@ -378,12 +387,14 @@
 ||usevpnpro.me$document
 ||usforeclosure.net$document
 ||videoau.ru$document
+||videoauthor.ru$document
 ||videochanelace.ru$document
 ||videochanelact.ru$document
 ||videochanelair.ru$document
 ||videomixable.ru$document
 ||videomixace.ru$document
 ||videomixact.ru$document
+||viralsharks.net$document
 ||vpn-pro.club$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
@@ -405,7 +416,6 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||winnerbigwingiveawaysuper.cyou$document
-||winnerz.icu$document
 ||winnerz.site$document
 ||worivo.info$document
 ||worldwide-prize-giveaway-free.cyou$document

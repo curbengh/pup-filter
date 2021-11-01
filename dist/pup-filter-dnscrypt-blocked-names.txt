@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 31 Oct 2021 12:02:18 +0000
+# Updated: Mon, 01 Nov 2021 00:03:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@ center1star.xyz
 center7mountain.xyz
 center7ocean.xyz
 center7planet.xyz
+center7sky.xyz
 centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
@@ -60,6 +61,7 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
+craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 curfiositystream.com
@@ -83,9 +85,11 @@ enjoy7asteroid.xyz
 enjoy7crater.xyz
 enjoy7mountain.xyz
 enjoyacrater.xyz
+enjoyaocean.xyz
 enjoyastar.xyz
 exploreshops.net
 fast-app.xyz
+fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastspota.xyz
@@ -100,6 +104,7 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 global-track.space
@@ -137,6 +142,7 @@ intelectaction.ru
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
+jojomamanbebe.ie
 joyspotmap.xyz
 jtkszl.vip
 juicydataadvance.ru
@@ -214,11 +220,12 @@ mobi7sea.xyz
 mobi7sky.xyz
 mobi7volcano.xyz
 mobiacrater.xyz
+mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 mobileluckywinner.site
-money-hero.org
+mobyfox.shop
 n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
@@ -313,6 +320,7 @@ securityvpnpro.me
 selectedlab.buzz
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopin.nyc
 shopnsave.world
 smartideas.pro
 software-dealz.de
@@ -353,6 +361,7 @@ the-star.xyz
 the1star.xyz
 the1volcano.xyz
 the7coast.xyz
+the7crater.xyz
 the7plains.xyz
 the7volcano.xyz
 theaasteroid.xyz
@@ -378,12 +387,14 @@ useprovpn.me
 usevpnpro.me
 usforeclosure.net
 videoau.ru
+videoauthor.ru
 videochanelace.ru
 videochanelact.ru
 videochanelair.ru
 videomixable.ru
 videomixace.ru
 videomixact.ru
+viralsharks.net
 vpn-pro.club
 vpnprosecurity.me
 vpnsecurity.me
@@ -405,7 +416,6 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 winnerbigwingiveawaysuper.cyou
-winnerz.icu
 winnerz.site
 worivo.info
 worldwide-prize-giveaway-free.cyou
