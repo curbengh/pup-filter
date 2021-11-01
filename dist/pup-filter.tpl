@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 01 Nov 2021 00:03:17 +0000
+# Updated: Mon, 01 Nov 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
 -d amobil.online
@@ -27,7 +26,6 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beautinow.nl
 -d beinspired.global
--d bkk755.biz
 -d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upcompletely-bestprecisefile.best
@@ -121,7 +119,6 @@ msFilterList
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
--d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -139,7 +136,6 @@ msFilterList
 -d installintenselyoriginalthefile.vip
 -d installintenselyrefinedthefile.vip
 -d installprecisehighlythefile.vip
--d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
 -d ipaint.us
@@ -156,6 +152,7 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
+-d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -237,8 +234,6 @@ msFilterList
 -d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
--d olivedinflats.space
--d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -397,7 +392,6 @@ msFilterList
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru
--d viralsharks.net
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me

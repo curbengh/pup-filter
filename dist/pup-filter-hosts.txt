@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 01 Nov 2021 00:03:17 +0000
+# Updated: Mon, 01 Nov 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
@@ -24,7 +23,6 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautinow.nl
 0.0.0.0 beinspired.global
-0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upcompletely-bestprecisefile.best
@@ -118,7 +116,6 @@
 0.0.0.0 httqzq.vip
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 hypezen.info
-0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
 0.0.0.0 incrediblebuzz.info
@@ -136,7 +133,6 @@
 0.0.0.0 installintenselyoriginalthefile.vip
 0.0.0.0 installintenselyrefinedthefile.vip
 0.0.0.0 installprecisehighlythefile.vip
-0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 ipaint.us
@@ -153,6 +149,7 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
+0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -234,8 +231,6 @@
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 officialbigwinnationalfree.cyou
-0.0.0.0 olivedinflats.space
-0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
@@ -394,7 +389,6 @@
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
