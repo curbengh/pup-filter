@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 01 Nov 2021 12:03:03 +0000
+! Updated: Tue, 02 Nov 2021 00:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||curfiositystream.com$document
@@ -95,6 +94,7 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
+||findwith.me$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -213,6 +213,7 @@
 ||meeryslotspin.xyz$document
 ||mindmatch.ai$document
 ||mobi1mountain.xyz$document
+||mobi1planet.xyz$document
 ||mobi7sea.xyz$document
 ||mobi7sky.xyz$document
 ||mobi7volcano.xyz$document
@@ -223,6 +224,7 @@
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
 ||mobyfox.shop$document
+||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
@@ -296,7 +298,6 @@
 ||provpn.me$document
 ||provpnsecurity.me$document
 ||prtctapp.me$document
-||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
@@ -324,6 +325,7 @@
 ||sonic1asteroid.xyz$document
 ||sonic1coast.xyz$document
 ||sonic1ocean.xyz$document
+||sonic7sea.xyz$document
 ||sonicacrater.xyz$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
@@ -349,9 +351,10 @@
 ||syncrecentintenselythefile.vip$document
 ||syncubercurrentfiles.best$document
 ||systemupdateme.solutions$document
-||technoblogs.net$document
 ||technologypartners.net$document
 ||thanksyoursupport.club$document
+||the-crater.xyz$document
+||the-sky.xyz$document
 ||the-star.xyz$document
 ||the1star.xyz$document
 ||the1volcano.xyz$document
@@ -389,6 +392,7 @@
 ||videomixable.ru$document
 ||videomixace.ru$document
 ||videomixact.ru$document
+||videovoiceable.ru$document
 ||vpn-pro.club$document
 ||vpnprosecurity.me$document
 ||vpnsecurity.me$document
@@ -410,6 +414,7 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||winnerbigwingiveawaysuper.cyou$document
+||winnerz.icu$document
 ||winnerz.site$document
 ||worivo.info$document
 ||worldwide-prize-giveaway-free.cyou$document
@@ -422,3 +427,4 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zeusmedia.info$document

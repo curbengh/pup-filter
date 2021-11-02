@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 01 Nov 2021 12:03:03 +0000
+! Updated: Tue, 02 Nov 2021 00:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||curfiositystream.com$all
@@ -95,6 +94,7 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
+||findwith.me$all
 ||fireapps.cloud$all
 ||flash-rewards.info$all
 ||funanime.me$all
@@ -213,6 +213,7 @@
 ||meeryslotspin.xyz$all
 ||mindmatch.ai$all
 ||mobi1mountain.xyz$all
+||mobi1planet.xyz$all
 ||mobi7sea.xyz$all
 ||mobi7sky.xyz$all
 ||mobi7volcano.xyz$all
@@ -223,6 +224,7 @@
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
 ||mobyfox.shop$all
+||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
@@ -296,7 +298,6 @@
 ||provpn.me$all
 ||provpnsecurity.me$all
 ||prtctapp.me$all
-||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||real-buy.net$all
@@ -324,6 +325,7 @@
 ||sonic1asteroid.xyz$all
 ||sonic1coast.xyz$all
 ||sonic1ocean.xyz$all
+||sonic7sea.xyz$all
 ||sonicacrater.xyz$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
@@ -349,9 +351,10 @@
 ||syncrecentintenselythefile.vip$all
 ||syncubercurrentfiles.best$all
 ||systemupdateme.solutions$all
-||technoblogs.net$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
+||the-crater.xyz$all
+||the-sky.xyz$all
 ||the-star.xyz$all
 ||the1star.xyz$all
 ||the1volcano.xyz$all
@@ -389,6 +392,7 @@
 ||videomixable.ru$all
 ||videomixace.ru$all
 ||videomixact.ru$all
+||videovoiceable.ru$all
 ||vpn-pro.club$all
 ||vpnprosecurity.me$all
 ||vpnsecurity.me$all
@@ -410,6 +414,7 @@
 ||westasea.xyz$all
 ||westastar.xyz$all
 ||winnerbigwingiveawaysuper.cyou$all
+||winnerz.icu$all
 ||winnerz.site$all
 ||worivo.info$all
 ||worldwide-prize-giveaway-free.cyou$all
@@ -422,3 +427,4 @@
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zeusmedia.info$all

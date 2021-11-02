@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 01 Nov 2021 12:03:03 +0000
+# Updated: Tue, 02 Nov 2021 00:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -62,7 +62,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d curfiositystream.com
@@ -98,6 +97,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d findwith.me
 -d fireapps.cloud
 -d flash-rewards.info
 -d funanime.me
@@ -216,6 +216,7 @@ msFilterList
 -d meeryslotspin.xyz
 -d mindmatch.ai
 -d mobi1mountain.xyz
+-d mobi1planet.xyz
 -d mobi7sea.xyz
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
@@ -226,6 +227,7 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
 -d mobyfox.shop
+-d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -299,7 +301,6 @@ msFilterList
 -d provpn.me
 -d provpnsecurity.me
 -d prtctapp.me
--d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
@@ -327,6 +328,7 @@ msFilterList
 -d sonic1asteroid.xyz
 -d sonic1coast.xyz
 -d sonic1ocean.xyz
+-d sonic7sea.xyz
 -d sonicacrater.xyz
 -d spotmapd.xyz
 -d spotmapf.xyz
@@ -352,9 +354,10 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syncubercurrentfiles.best
 -d systemupdateme.solutions
--d technoblogs.net
 -d technologypartners.net
 -d thanksyoursupport.club
+-d the-crater.xyz
+-d the-sky.xyz
 -d the-star.xyz
 -d the1star.xyz
 -d the1volcano.xyz
@@ -392,6 +395,7 @@ msFilterList
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru
+-d videovoiceable.ru
 -d vpn-pro.club
 -d vpnprosecurity.me
 -d vpnsecurity.me
@@ -413,6 +417,7 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d winnerbigwingiveawaysuper.cyou
+-d winnerz.icu
 -d winnerz.site
 -d worivo.info
 -d worldwide-prize-giveaway-free.cyou
@@ -425,3 +430,4 @@ msFilterList
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zeusmedia.info

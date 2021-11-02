@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 01 Nov 2021 12:03:03 +0000
+# Updated: Tue, 02 Nov 2021 00:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -59,7 +59,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 curfiositystream.com
@@ -95,6 +94,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 findwith.me
 0.0.0.0 fireapps.cloud
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
@@ -213,6 +213,7 @@
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mindmatch.ai
 0.0.0.0 mobi1mountain.xyz
+0.0.0.0 mobi1planet.xyz
 0.0.0.0 mobi7sea.xyz
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
@@ -223,6 +224,7 @@
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 mobyfox.shop
+0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
@@ -296,7 +298,6 @@
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
 0.0.0.0 prtctapp.me
-0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
@@ -324,6 +325,7 @@
 0.0.0.0 sonic1asteroid.xyz
 0.0.0.0 sonic1coast.xyz
 0.0.0.0 sonic1ocean.xyz
+0.0.0.0 sonic7sea.xyz
 0.0.0.0 sonicacrater.xyz
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
@@ -349,9 +351,10 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 systemupdateme.solutions
-0.0.0.0 technoblogs.net
 0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
+0.0.0.0 the-crater.xyz
+0.0.0.0 the-sky.xyz
 0.0.0.0 the-star.xyz
 0.0.0.0 the1star.xyz
 0.0.0.0 the1volcano.xyz
@@ -389,6 +392,7 @@
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
+0.0.0.0 videovoiceable.ru
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
@@ -410,6 +414,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 winnerbigwingiveawaysuper.cyou
+0.0.0.0 winnerz.icu
 0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou
@@ -422,3 +427,4 @@
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zeusmedia.info
