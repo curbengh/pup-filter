@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 02 Nov 2021 00:03:03 +0000
+# Updated: Tue, 02 Nov 2021 12:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d affiliateland.io
+-d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d appsto.cloud
@@ -97,7 +97,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d findwith.me
 -d fireapps.cloud
 -d flash-rewards.info
 -d funanime.me
@@ -119,6 +118,7 @@ msFilterList
 -d httqzq.vip
 -d huge2upgradescentral.work
 -d hypezen.info
+-d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
 -d incrediblebuzz.info
@@ -136,6 +136,7 @@ msFilterList
 -d installintenselyoriginalthefile.vip
 -d installintenselyrefinedthefile.vip
 -d installprecisehighlythefile.vip
+-d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
 -d ipaint.us
@@ -236,6 +237,7 @@ msFilterList
 -d offersearch.info
 -d official-bigwin-national-free.cyou
 -d officialbigwinnationalfree.cyou
+-d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -336,6 +338,7 @@ msFilterList
 -d springplanetf.xyz
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -353,6 +356,7 @@ msFilterList
 -d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
 -d syncubercurrentfiles.best
+-d syssysupdate.top
 -d systemupdateme.solutions
 -d technologypartners.net
 -d thanksyoursupport.club

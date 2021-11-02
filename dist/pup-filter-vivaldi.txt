@@ -1,13 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 02 Nov 2021 00:03:03 +0000
+! Updated: Tue, 02 Nov 2021 12:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||affiliateland.io$document
+||abcscience.xyz$document
 ||aikoo.club$document
 ||amobil.online$document
 ||appsto.cloud$document
@@ -94,7 +94,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||findwith.me$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -116,6 +115,7 @@
 ||httqzq.vip$document
 ||huge2upgradescentral.work$document
 ||hypezen.info$document
+||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
 ||incrediblebuzz.info$document
@@ -133,6 +133,7 @@
 ||installintenselyoriginalthefile.vip$document
 ||installintenselyrefinedthefile.vip$document
 ||installprecisehighlythefile.vip$document
+||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
 ||ipaint.us$document
@@ -233,6 +234,7 @@
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
+||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
@@ -333,6 +335,7 @@
 ||springplanetf.xyz$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
@@ -350,6 +353,7 @@
 ||syncnewestuberthefile.vip$document
 ||syncrecentintenselythefile.vip$document
 ||syncubercurrentfiles.best$document
+||syssysupdate.top$document
 ||systemupdateme.solutions$document
 ||technologypartners.net$document
 ||thanksyoursupport.club$document
