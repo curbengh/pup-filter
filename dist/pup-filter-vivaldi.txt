@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 03 Nov 2021 00:02:44 +0000
+! Updated: Wed, 03 Nov 2021 12:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@
 ||be-us-exercise-bikes-ok.live$document
 ||beautinow.nl$document
 ||beinspired.global$document
+||bkk755.biz$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
 ||boot-upcompletely-bestprecisefile.best$document
@@ -65,11 +66,13 @@
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
+||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealmedia.club$document
 ||dealmedia.website$document
 ||dealsify.net$document
+||discoveryfeed.org$document
 ||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -235,6 +238,7 @@
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
 ||officialbigwinnationalfree.cyou$document
+||olivedinflats.space$document
 ||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
@@ -305,12 +309,12 @@
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
-||recommended-vpns.com$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
 ||savagegrowplus.net$document
+||search-exp.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -434,4 +438,5 @@
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document
 ||zeusmedia.info$document

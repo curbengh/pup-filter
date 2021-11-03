@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 03 Nov 2021 00:02:44 +0000
+! Updated: Wed, 03 Nov 2021 12:02:49 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,6 +23,7 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
 beinspired.global
+bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
@@ -65,11 +66,13 @@ credit-monitoring-360.xyz
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
+dailyrep.net
 darkview.org
 dayinlife.net
 dealmedia.club
 dealmedia.website
 dealsify.net
+discoveryfeed.org
 earlyprogress.info
 efladn.club
 elpelades.club
@@ -235,6 +238,7 @@ offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
 officialbigwinnationalfree.cyou
+olivedinflats.space
 ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -305,12 +309,12 @@ qfind.net
 quizshein.shop
 rancy.xyz
 real-buy.net
-recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
+search-exp.online
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -434,4 +438,5 @@ yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es
 zeusmedia.info
