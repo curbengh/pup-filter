@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 02 Nov 2021 12:02:46 +0000
+# Updated: Wed, 03 Nov 2021 00:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -59,6 +59,7 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 curfiositystream.com
@@ -84,6 +85,7 @@
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 enjoyaocean.xyz
 0.0.0.0 enjoyastar.xyz
+0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
@@ -229,7 +231,6 @@
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -300,6 +301,7 @@
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
 0.0.0.0 prtctapp.me
+0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
@@ -397,6 +399,7 @@
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
