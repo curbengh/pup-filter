@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 04 Nov 2021 00:06:00 +0000
+# Updated: Thu, 04 Nov 2021 12:02:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -140,6 +140,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
@@ -401,7 +402,6 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
