@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 03 Nov 2021 12:02:49 +0000
+# Updated: Thu, 04 Nov 2021 00:06:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -66,10 +66,10 @@
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
+0.0.0.0 dailyboard.org
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 dealmedia.club
 0.0.0.0 dealmedia.website
 0.0.0.0 dealsify.net
 0.0.0.0 discoveryfeed.org
@@ -106,7 +106,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 global-track.space
@@ -217,7 +216,6 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
-0.0.0.0 mindmatch.ai
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
 0.0.0.0 mobi7sea.xyz
@@ -230,10 +228,10 @@
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
 0.0.0.0 mobyfox.shop
-0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -314,7 +312,6 @@
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
-0.0.0.0 search-exp.online
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -324,6 +321,7 @@
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
+0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
@@ -361,11 +359,11 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
-0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
 0.0.0.0 the-star.xyz
+0.0.0.0 the1planet.xyz
 0.0.0.0 the1star.xyz
 0.0.0.0 the1volcano.xyz
 0.0.0.0 the7coast.xyz
@@ -382,7 +380,6 @@
 0.0.0.0 thrawdmn55.xyz
 0.0.0.0 timefornews.online
 0.0.0.0 timeoffers.net
-0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -403,6 +400,7 @@
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
+0.0.0.0 videovoiceace.ru
 0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnprosecurity.me
@@ -424,12 +422,9 @@
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
-0.0.0.0 winnerbigwingiveawaysuper.cyou
 0.0.0.0 winnerz.icu
-0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou
-0.0.0.0 worldwideluckypromotionfree.cyou
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 your-magazine.me

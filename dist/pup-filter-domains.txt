@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 03 Nov 2021 12:02:49 +0000
+# Updated: Thu, 04 Nov 2021 00:06:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -66,10 +66,10 @@ credit-monitoring-360.xyz
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
+dailyboard.org
 dailyrep.net
 darkview.org
 dayinlife.net
-dealmedia.club
 dealmedia.website
 dealsify.net
 discoveryfeed.org
@@ -106,7 +106,6 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
-gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 global-track.space
@@ -217,7 +216,6 @@ mazestation.games
 media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
-mindmatch.ai
 mobi1mountain.xyz
 mobi1planet.xyz
 mobi7sea.xyz
@@ -230,10 +228,10 @@ mobiastar.xyz
 mobiavolcano.xyz
 mobileluckywinner.site
 mobyfox.shop
-money-hero.org
 n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
+newsinformer.net
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -314,7 +312,6 @@ runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
-search-exp.online
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -324,6 +321,7 @@ securityvpnpro.me
 selectedlab.buzz
 sergey-tracks.xyz
 settothereliableupgradingnew.work
+shopadvisors.net
 shopin.nyc
 shopnsave.world
 smartideas.pro
@@ -361,11 +359,11 @@ syncrecentintenselythefile.vip
 syncubercurrentfiles.best
 syssysupdate.top
 systemupdateme.solutions
-technologypartners.net
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
 the-star.xyz
+the1planet.xyz
 the1star.xyz
 the1volcano.xyz
 the7coast.xyz
@@ -382,7 +380,6 @@ thelastpicture.show
 thrawdmn55.xyz
 timefornews.online
 timeoffers.net
-timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -403,6 +400,7 @@ videomixable.ru
 videomixace.ru
 videomixact.ru
 videovoiceable.ru
+videovoiceace.ru
 viralsharks.net
 vpn-pro.club
 vpnprosecurity.me
@@ -424,12 +422,9 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-winnerbigwingiveawaysuper.cyou
 winnerz.icu
-winnerz.site
 worivo.info
 worldwide-prize-giveaway-free.cyou
-worldwideluckypromotionfree.cyou
 worldwideofficialpromotion.cyou
 worldwideprizegiveawayfree.cyou
 your-magazine.me

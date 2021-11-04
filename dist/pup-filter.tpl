@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 03 Nov 2021 12:02:49 +0000
+# Updated: Thu, 04 Nov 2021 00:06:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -69,10 +69,10 @@ msFilterList
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
+-d dailyboard.org
 -d dailyrep.net
 -d darkview.org
 -d dayinlife.net
--d dealmedia.club
 -d dealmedia.website
 -d dealsify.net
 -d discoveryfeed.org
@@ -109,7 +109,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d global-track.space
@@ -220,7 +219,6 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
--d mindmatch.ai
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
 -d mobi7sea.xyz
@@ -233,10 +231,10 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
 -d mobyfox.shop
--d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -317,7 +315,6 @@ msFilterList
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
 -d savagegrowplus.net
--d search-exp.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -327,6 +324,7 @@ msFilterList
 -d selectedlab.buzz
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
+-d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
@@ -364,11 +362,11 @@ msFilterList
 -d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
--d technologypartners.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
 -d the-star.xyz
+-d the1planet.xyz
 -d the1star.xyz
 -d the1volcano.xyz
 -d the7coast.xyz
@@ -385,7 +383,6 @@ msFilterList
 -d thrawdmn55.xyz
 -d timefornews.online
 -d timeoffers.net
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -406,6 +403,7 @@ msFilterList
 -d videomixace.ru
 -d videomixact.ru
 -d videovoiceable.ru
+-d videovoiceace.ru
 -d viralsharks.net
 -d vpn-pro.club
 -d vpnprosecurity.me
@@ -427,12 +425,9 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerbigwingiveawaysuper.cyou
 -d winnerz.icu
--d winnerz.site
 -d worivo.info
 -d worldwide-prize-giveaway-free.cyou
--d worldwideluckypromotionfree.cyou
 -d worldwideofficialpromotion.cyou
 -d worldwideprizegiveawayfree.cyou
 -d your-magazine.me

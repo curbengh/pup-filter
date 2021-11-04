@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 03 Nov 2021 12:02:49 +0000
+! Updated: Thu, 04 Nov 2021 00:06:00 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -66,10 +66,10 @@
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
+||dailyboard.org$document
 ||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
-||dealmedia.club$document
 ||dealmedia.website$document
 ||dealsify.net$document
 ||discoveryfeed.org$document
@@ -106,7 +106,6 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||global-track.space$document
@@ -217,7 +216,6 @@
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||meeryslotspin.xyz$document
-||mindmatch.ai$document
 ||mobi1mountain.xyz$document
 ||mobi1planet.xyz$document
 ||mobi7sea.xyz$document
@@ -230,10 +228,10 @@
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
 ||mobyfox.shop$document
-||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -314,7 +312,6 @@
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
 ||savagegrowplus.net$document
-||search-exp.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -324,6 +321,7 @@
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
+||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
@@ -361,11 +359,11 @@
 ||syncubercurrentfiles.best$document
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
-||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document
 ||the-star.xyz$document
+||the1planet.xyz$document
 ||the1star.xyz$document
 ||the1volcano.xyz$document
 ||the7coast.xyz$document
@@ -382,7 +380,6 @@
 ||thrawdmn55.xyz$document
 ||timefornews.online$document
 ||timeoffers.net$document
-||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -403,6 +400,7 @@
 ||videomixace.ru$document
 ||videomixact.ru$document
 ||videovoiceable.ru$document
+||videovoiceace.ru$document
 ||viralsharks.net$document
 ||vpn-pro.club$document
 ||vpnprosecurity.me$document
@@ -424,12 +422,9 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||winnerbigwingiveawaysuper.cyou$document
 ||winnerz.icu$document
-||winnerz.site$document
 ||worivo.info$document
 ||worldwide-prize-giveaway-free.cyou$document
-||worldwideluckypromotionfree.cyou$document
 ||worldwideofficialpromotion.cyou$document
 ||worldwideprizegiveawayfree.cyou$document
 ||your-magazine.me$document
