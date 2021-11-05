@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 04 Nov 2021 12:02:40 +0000
+# Updated: Fri, 05 Nov 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,13 +12,13 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d aikoo.club
--d amobil.online
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
 -d atprofessor.fun
 -d atwater.org
 -d auto-car-search.site
+-d auto-insurance-search.site
 -d axisradio.ca
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
@@ -63,7 +63,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d curfiositystream.com
@@ -92,7 +91,6 @@ msFilterList
 -d enjoyaocean.xyz
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
--d exploreshops.net
 -d fast-app.xyz
 -d fastfactsonline.co
 -d fastspinc.xyz
@@ -182,7 +180,6 @@ msFilterList
 -d koalawinterd.xyz
 -d koalawintere.xyz
 -d kompsos.uk
--d ktpyzw.vip
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -232,6 +229,7 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
 -d mobyfox.shop
+-d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -297,6 +295,7 @@ msFilterList
 -d playwintere.xyz
 -d playwinterf.xyz
 -d ppploanchoices.site
+-d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
 -d profitsurvey365.online
@@ -321,12 +320,10 @@ msFilterList
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
--d securityvpnpro.me
 -d selectedlab.buzz
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
--d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d software-dealz.de
@@ -363,6 +360,8 @@ msFilterList
 -d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
+-d technoblogs.net
+-d technologypartners.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -378,12 +377,12 @@ msFilterList
 -d theacrater.xyz
 -d theastar.xyz
 -d theavolcano.xyz
--d thecryptozone.website
 -d theirproviderock.top
 -d thelastpicture.show
 -d thrawdmn55.xyz
 -d timefornews.online
 -d timeoffers.net
+-d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -394,12 +393,12 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
 -d videochanelact.ru
 -d videochanelair.ru
+-d videolookace.ru
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru

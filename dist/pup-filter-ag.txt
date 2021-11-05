@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 04 Nov 2021 12:02:40 +0000
+! Updated: Fri, 05 Nov 2021 00:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,13 +9,13 @@
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||aikoo.club$all
-||amobil.online$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||arre.work$all
 ||atprofessor.fun$all
 ||atwater.org$all
 ||auto-car-search.site$all
+||auto-insurance-search.site$all
 ||axisradio.ca$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
@@ -60,7 +60,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||curfiositystream.com$all
@@ -89,7 +88,6 @@
 ||enjoyaocean.xyz$all
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
-||exploreshops.net$all
 ||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastspinc.xyz$all
@@ -179,7 +177,6 @@
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
 ||kompsos.uk$all
-||ktpyzw.vip$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -229,6 +226,7 @@
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
 ||mobyfox.shop$all
+||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
@@ -294,6 +292,7 @@
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
 ||ppploanchoices.site$all
+||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitsurvey365.online$all
@@ -318,12 +317,10 @@
 ||search4upgradingset.info$all
 ||searchmgr.online$all
 ||searchoffers.info$all
-||securityvpnpro.me$all
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
 ||settothereliableupgradingnew.work$all
 ||shopadvisors.net$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||software-dealz.de$all
@@ -360,6 +357,8 @@
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
+||technoblogs.net$all
+||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -375,12 +374,12 @@
 ||theacrater.xyz$all
 ||theastar.xyz$all
 ||theavolcano.xyz$all
-||thecryptozone.website$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||thrawdmn55.xyz$all
 ||timefornews.online$all
 ||timeoffers.net$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -391,12 +390,12 @@
 ||usepro.me$all
 ||useprovpn.me$all
 ||usevpnpro.me$all
-||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||videochanelace.ru$all
 ||videochanelact.ru$all
 ||videochanelair.ru$all
+||videolookace.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all
 ||videomixact.ru$all
