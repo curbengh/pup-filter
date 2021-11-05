@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 05 Nov 2021 00:03:01 +0000
+! Updated: Fri, 05 Nov 2021 12:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
 ||beinspired.global$all
-||bkk755.biz$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
 ||boot-upcompletely-bestprecisefile.best$all
@@ -65,8 +64,6 @@
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
-||dailyboard.org$all
-||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealmedia.website$all
@@ -235,7 +232,6 @@
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
 ||officialbigwinnationalfree.cyou$all
-||olivedinflats.space$all
 ||ouldthepat.fun$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
@@ -357,7 +353,6 @@
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
-||technoblogs.net$all
 ||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
@@ -374,6 +369,7 @@
 ||theacrater.xyz$all
 ||theastar.xyz$all
 ||theavolcano.xyz$all
+||thedealexpert.net$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||thrawdmn55.xyz$all

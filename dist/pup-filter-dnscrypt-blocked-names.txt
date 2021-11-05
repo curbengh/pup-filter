@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 05 Nov 2021 00:03:01 +0000
+# Updated: Fri, 05 Nov 2021 12:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
 beinspired.global
-bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
 boot-upcompletely-bestprecisefile.best
@@ -65,8 +64,6 @@ credit-monitoring-360.xyz
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
-dailyboard.org
-dailyrep.net
 darkview.org
 dayinlife.net
 dealmedia.website
@@ -235,7 +232,6 @@ offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
 officialbigwinnationalfree.cyou
-olivedinflats.space
 ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -357,7 +353,6 @@ syncrecentintenselythefile.vip
 syncubercurrentfiles.best
 syssysupdate.top
 systemupdateme.solutions
-technoblogs.net
 technologypartners.net
 thanksyoursupport.club
 the-crater.xyz
@@ -374,6 +369,7 @@ theaasteroid.xyz
 theacrater.xyz
 theastar.xyz
 theavolcano.xyz
+thedealexpert.net
 theirproviderock.top
 thelastpicture.show
 thrawdmn55.xyz
