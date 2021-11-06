@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 05 Nov 2021 12:02:42 +0000
+! Updated: Sat, 06 Nov 2021 00:28:10 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
-||atprofessor.fun$document
 ||atwater.org$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
@@ -66,10 +65,8 @@
 ||curuiositystream.com$document
 ||darkview.org$document
 ||dayinlife.net$document
-||dealmedia.website$document
 ||dealsify.net$document
 ||discoveryfeed.org$document
-||earlyprogress.info$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -85,6 +82,7 @@
 ||enjoyaocean.xyz$document
 ||enjoyastar.xyz$document
 ||enjoyavolcano.xyz$document
+||exploreshops.net$document
 ||fast-app.xyz$document
 ||fastfactsonline.co$document
 ||fastspinc.xyz$document
@@ -141,7 +139,6 @@
 ||jetsummer.xyz$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
-||jtkszl.vip$document
 ||juicydataadvance.ru$document
 ||juicydataage.ru$document
 ||juicydataair.ru$document
@@ -150,7 +147,6 @@
 ||junemedia.club$document
 ||junemedia.xyz$document
 ||junesmile.xyz$document
-||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -227,7 +223,6 @@
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
@@ -317,6 +312,7 @@
 ||sergey-tracks.xyz$document
 ||settothereliableupgradingnew.work$document
 ||shopadvisors.net$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||software-dealz.de$document
@@ -386,6 +382,7 @@
 ||usepro.me$document
 ||useprovpn.me$document
 ||usevpnpro.me$document
+||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||videochanelace.ru$document
@@ -417,7 +414,7 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||winnerz.icu$document
+||winnerz.site$document
 ||worivo.info$document
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideofficialpromotion.cyou$document

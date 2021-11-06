@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 05 Nov 2021 12:02:42 +0000
+! Updated: Sat, 06 Nov 2021 00:28:10 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ aikoo.club
 appsto.cloud
 appzfirer.biz
 arre.work
-atprofessor.fun
 atwater.org
 auto-car-search.site
 auto-insurance-search.site
@@ -66,10 +65,8 @@ curiositydstream.com
 curuiositystream.com
 darkview.org
 dayinlife.net
-dealmedia.website
 dealsify.net
 discoveryfeed.org
-earlyprogress.info
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -85,6 +82,7 @@ enjoyacrater.xyz
 enjoyaocean.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
+exploreshops.net
 fast-app.xyz
 fastfactsonline.co
 fastspinc.xyz
@@ -141,7 +139,6 @@ ironprovpn.me
 jetsummer.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
-jtkszl.vip
 juicydataadvance.ru
 juicydataage.ru
 juicydataair.ru
@@ -150,7 +147,6 @@ junemedia.bar
 junemedia.club
 junemedia.xyz
 junesmile.xyz
-keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -227,7 +223,6 @@ money-hero.org
 n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
-newsinformer.net
 offerpage.link
 offersearch.info
 official-bigwin-national-free.cyou
@@ -317,6 +312,7 @@ selectedlab.buzz
 sergey-tracks.xyz
 settothereliableupgradingnew.work
 shopadvisors.net
+shopin.nyc
 shopnsave.world
 smartideas.pro
 software-dealz.de
@@ -386,6 +382,7 @@ upplaysite.xyz
 usepro.me
 useprovpn.me
 usevpnpro.me
+usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru
@@ -417,7 +414,7 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-winnerz.icu
+winnerz.site
 worivo.info
 worldwide-prize-giveaway-free.cyou
 worldwideofficialpromotion.cyou

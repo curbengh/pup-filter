@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 05 Nov 2021 12:02:42 +0000
+# Updated: Sat, 06 Nov 2021 00:28:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@ msFilterList
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
--d atprofessor.fun
 -d atwater.org
 -d auto-car-search.site
 -d auto-insurance-search.site
@@ -69,10 +68,8 @@ msFilterList
 -d curuiositystream.com
 -d darkview.org
 -d dayinlife.net
--d dealmedia.website
 -d dealsify.net
 -d discoveryfeed.org
--d earlyprogress.info
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -88,6 +85,7 @@ msFilterList
 -d enjoyaocean.xyz
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
+-d exploreshops.net
 -d fast-app.xyz
 -d fastfactsonline.co
 -d fastspinc.xyz
@@ -144,7 +142,6 @@ msFilterList
 -d jetsummer.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
--d jtkszl.vip
 -d juicydataadvance.ru
 -d juicydataage.ru
 -d juicydataair.ru
@@ -153,7 +150,6 @@ msFilterList
 -d junemedia.club
 -d junemedia.xyz
 -d junesmile.xyz
--d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -230,7 +226,6 @@ msFilterList
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
@@ -320,6 +315,7 @@ msFilterList
 -d sergey-tracks.xyz
 -d settothereliableupgradingnew.work
 -d shopadvisors.net
+-d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d software-dealz.de
@@ -389,6 +385,7 @@ msFilterList
 -d usepro.me
 -d useprovpn.me
 -d usevpnpro.me
+-d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
@@ -420,7 +417,7 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerz.icu
+-d winnerz.site
 -d worivo.info
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideofficialpromotion.cyou

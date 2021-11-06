@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 05 Nov 2021 12:02:42 +0000
+# Updated: Sat, 06 Nov 2021 00:28:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
-0.0.0.0 atprofessor.fun
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
@@ -66,10 +65,8 @@
 0.0.0.0 curuiositystream.com
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 dealmedia.website
 0.0.0.0 dealsify.net
 0.0.0.0 discoveryfeed.org
-0.0.0.0 earlyprogress.info
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -85,6 +82,7 @@
 0.0.0.0 enjoyaocean.xyz
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
+0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
@@ -141,7 +139,6 @@
 0.0.0.0 jetsummer.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
-0.0.0.0 jtkszl.vip
 0.0.0.0 juicydataadvance.ru
 0.0.0.0 juicydataage.ru
 0.0.0.0 juicydataair.ru
@@ -150,7 +147,6 @@
 0.0.0.0 junemedia.club
 0.0.0.0 junemedia.xyz
 0.0.0.0 junesmile.xyz
-0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -227,7 +223,6 @@
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
@@ -317,6 +312,7 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopadvisors.net
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
 0.0.0.0 software-dealz.de
@@ -386,6 +382,7 @@
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
 0.0.0.0 usevpnpro.me
+0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
@@ -417,7 +414,7 @@
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
-0.0.0.0 winnerz.icu
+0.0.0.0 winnerz.site
 0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou
 0.0.0.0 worldwideofficialpromotion.cyou
