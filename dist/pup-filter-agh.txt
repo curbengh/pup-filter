@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 06 Nov 2021 12:02:22 +0000
+! Updated: Sun, 07 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -33,8 +33,6 @@
 ||boot-uprenewed-bestuberfile.best^
 ||boot-upsophisticated-bestoverlyfile.best^
 ||boot-upuber-bestfreefile.best^
-||breaking-news.digital^
-||calledbellc.fun^
 ||center-plains.xyz^
 ||center-planet.xyz^
 ||center1plains.xyz^
@@ -60,6 +58,7 @@
 ||country-news.live^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
+||crowdweightyellow.top^
 ||curfiositystream.com^
 ||curiositydstream.com^
 ||curuiositystream.com^
@@ -92,6 +91,7 @@
 ||fastwebb.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
+||finreporter.net^
 ||fireapps.cloud^
 ||flash-rewards.info^
 ||funanime.me^
@@ -218,15 +218,14 @@
 ||mobiastar.xyz^
 ||mobiavolcano.xyz^
 ||mobileluckywinner.site^
-||mobyfox.shop^
 ||money-hero.org^
 ||n95o0fxvvw.top^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
+||newsinformer.net^
 ||offerpage.link^
 ||offersearch.info^
 ||official-bigwin-national-free.cyou^
-||officialbigwinnationalfree.cyou^
 ||ouldthepat.fun^
 ||pandaautumna.xyz^
 ||pandaautumnb.xyz^
@@ -289,7 +288,6 @@
 ||profitsurvey365.online^
 ||promotionclaim.rest^
 ||proprotect.me^
-||prosecurityvpn.me^
 ||protect-ios.com^
 ||provpn.me^
 ||provpnsecurity.me^
@@ -310,7 +308,6 @@
 ||searchoffers.info^
 ||selectedlab.buzz^
 ||sergey-tracks.xyz^
-||settothereliableupgradingnew.work^
 ||shopin.nyc^
 ||shopnsave.world^
 ||smartideas.pro^
@@ -348,7 +345,6 @@
 ||syncubercurrentfiles.best^
 ||syssysupdate.top^
 ||systemupdateme.solutions^
-||technologypartners.net^
 ||thanksyoursupport.club^
 ||the-crater.xyz^
 ||the-sky.xyz^
@@ -387,6 +383,7 @@
 ||videochanelace.ru^
 ||videochanelact.ru^
 ||videochanelair.ru^
+||videolookable.ru^
 ||videolookace.ru^
 ||videomixable.ru^
 ||videomixace.ru^
@@ -414,11 +411,8 @@
 ||westaplanet.xyz^
 ||westasea.xyz^
 ||westastar.xyz^
-||winnerz.site^
-||worivo.info^
 ||worldwide-prize-giveaway-free.cyou^
 ||worldwideofficialpromotion.cyou^
-||worldwideprizegiveawayfree.cyou^
 ||your-magazine.me^
 ||yourlegendarysystemsupgrade.work^
 ||yourlinkplaceupdatingfree.work^

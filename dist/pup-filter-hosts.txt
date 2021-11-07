@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 06 Nov 2021 12:02:22 +0000
+# Updated: Sun, 07 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,8 +33,6 @@
 0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
-0.0.0.0 breaking-news.digital
-0.0.0.0 calledbellc.fun
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
 0.0.0.0 center1plains.xyz
@@ -60,6 +58,7 @@
 0.0.0.0 country-news.live
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
+0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
@@ -92,6 +91,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
@@ -218,15 +218,14 @@
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobileluckywinner.site
-0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 official-bigwin-national-free.cyou
-0.0.0.0 officialbigwinnationalfree.cyou
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
@@ -289,7 +288,6 @@
 0.0.0.0 profitsurvey365.online
 0.0.0.0 promotionclaim.rest
 0.0.0.0 proprotect.me
-0.0.0.0 prosecurityvpn.me
 0.0.0.0 protect-ios.com
 0.0.0.0 provpn.me
 0.0.0.0 provpnsecurity.me
@@ -310,7 +308,6 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 settothereliableupgradingnew.work
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
@@ -348,7 +345,6 @@
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
-0.0.0.0 technologypartners.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
@@ -387,6 +383,7 @@
 0.0.0.0 videochanelace.ru
 0.0.0.0 videochanelact.ru
 0.0.0.0 videochanelair.ru
+0.0.0.0 videolookable.ru
 0.0.0.0 videolookace.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
@@ -414,11 +411,8 @@
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
-0.0.0.0 winnerz.site
-0.0.0.0 worivo.info
 0.0.0.0 worldwide-prize-giveaway-free.cyou
 0.0.0.0 worldwideofficialpromotion.cyou
-0.0.0.0 worldwideprizegiveawayfree.cyou
 0.0.0.0 your-magazine.me
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work

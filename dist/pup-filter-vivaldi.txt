@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 06 Nov 2021 12:02:22 +0000
+! Updated: Sun, 07 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -33,8 +33,6 @@
 ||boot-uprenewed-bestuberfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||boot-upuber-bestfreefile.best$document
-||breaking-news.digital$document
-||calledbellc.fun$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
 ||center1plains.xyz$document
@@ -60,6 +58,7 @@
 ||country-news.live$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
+||crowdweightyellow.top$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
@@ -92,6 +91,7 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
+||finreporter.net$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -218,15 +218,14 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobileluckywinner.site$document
-||mobyfox.shop$document
 ||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||official-bigwin-national-free.cyou$document
-||officialbigwinnationalfree.cyou$document
 ||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
@@ -289,7 +288,6 @@
 ||profitsurvey365.online$document
 ||promotionclaim.rest$document
 ||proprotect.me$document
-||prosecurityvpn.me$document
 ||protect-ios.com$document
 ||provpn.me$document
 ||provpnsecurity.me$document
@@ -310,7 +308,6 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
-||settothereliableupgradingnew.work$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
@@ -348,7 +345,6 @@
 ||syncubercurrentfiles.best$document
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
-||technologypartners.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document
@@ -387,6 +383,7 @@
 ||videochanelace.ru$document
 ||videochanelact.ru$document
 ||videochanelair.ru$document
+||videolookable.ru$document
 ||videolookace.ru$document
 ||videomixable.ru$document
 ||videomixace.ru$document
@@ -414,11 +411,8 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||winnerz.site$document
-||worivo.info$document
 ||worldwide-prize-giveaway-free.cyou$document
 ||worldwideofficialpromotion.cyou$document
-||worldwideprizegiveawayfree.cyou$document
 ||your-magazine.me$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document

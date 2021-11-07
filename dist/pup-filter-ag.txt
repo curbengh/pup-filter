@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 06 Nov 2021 12:02:22 +0000
+! Updated: Sun, 07 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -33,8 +33,6 @@
 ||boot-uprenewed-bestuberfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||boot-upuber-bestfreefile.best$all
-||breaking-news.digital$all
-||calledbellc.fun$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
 ||center1plains.xyz$all
@@ -60,6 +58,7 @@
 ||country-news.live$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
+||crowdweightyellow.top$all
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
@@ -92,6 +91,7 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
+||finreporter.net$all
 ||fireapps.cloud$all
 ||flash-rewards.info$all
 ||funanime.me$all
@@ -218,15 +218,14 @@
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
 ||mobileluckywinner.site$all
-||mobyfox.shop$all
 ||money-hero.org$all
 ||n95o0fxvvw.top$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
+||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||official-bigwin-national-free.cyou$all
-||officialbigwinnationalfree.cyou$all
 ||ouldthepat.fun$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
@@ -289,7 +288,6 @@
 ||profitsurvey365.online$all
 ||promotionclaim.rest$all
 ||proprotect.me$all
-||prosecurityvpn.me$all
 ||protect-ios.com$all
 ||provpn.me$all
 ||provpnsecurity.me$all
@@ -310,7 +308,6 @@
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
-||settothereliableupgradingnew.work$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
@@ -348,7 +345,6 @@
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
-||technologypartners.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -387,6 +383,7 @@
 ||videochanelace.ru$all
 ||videochanelact.ru$all
 ||videochanelair.ru$all
+||videolookable.ru$all
 ||videolookace.ru$all
 ||videomixable.ru$all
 ||videomixace.ru$all
@@ -414,11 +411,8 @@
 ||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
-||winnerz.site$all
-||worivo.info$all
 ||worldwide-prize-giveaway-free.cyou$all
 ||worldwideofficialpromotion.cyou$all
-||worldwideprizegiveawayfree.cyou$all
 ||your-magazine.me$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 06 Nov 2021 12:02:22 +0000
+# Updated: Sun, 07 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -36,8 +36,6 @@ msFilterList
 -d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
--d breaking-news.digital
--d calledbellc.fun
 -d center-plains.xyz
 -d center-planet.xyz
 -d center1plains.xyz
@@ -63,6 +61,7 @@ msFilterList
 -d country-news.live
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
+-d crowdweightyellow.top
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
@@ -95,6 +94,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d finreporter.net
 -d fireapps.cloud
 -d flash-rewards.info
 -d funanime.me
@@ -221,15 +221,14 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobileluckywinner.site
--d mobyfox.shop
 -d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d official-bigwin-national-free.cyou
--d officialbigwinnationalfree.cyou
 -d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -292,7 +291,6 @@ msFilterList
 -d profitsurvey365.online
 -d promotionclaim.rest
 -d proprotect.me
--d prosecurityvpn.me
 -d protect-ios.com
 -d provpn.me
 -d provpnsecurity.me
@@ -313,7 +311,6 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
--d settothereliableupgradingnew.work
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
@@ -351,7 +348,6 @@ msFilterList
 -d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
--d technologypartners.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -390,6 +386,7 @@ msFilterList
 -d videochanelace.ru
 -d videochanelact.ru
 -d videochanelair.ru
+-d videolookable.ru
 -d videolookace.ru
 -d videomixable.ru
 -d videomixace.ru
@@ -417,11 +414,8 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerz.site
--d worivo.info
 -d worldwide-prize-giveaway-free.cyou
 -d worldwideofficialpromotion.cyou
--d worldwideprizegiveawayfree.cyou
 -d your-magazine.me
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
