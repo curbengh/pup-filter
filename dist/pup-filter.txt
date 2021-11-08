@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 08 Nov 2021 00:02:35 +0000
+! Updated: Mon, 08 Nov 2021 12:03:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -31,6 +31,7 @@ boot-upheavily-bestsophisticatedfile.best
 boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 boot-upuber-bestfreefile.best
+brightlifestyle.org
 center-plains.xyz
 center-planet.xyz
 center1plains.xyz
@@ -64,7 +65,6 @@ curuiositystream.com
 darkview.org
 dayinlife.net
 dealsify.net
-discoveryfeed.org
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -322,7 +322,6 @@ spotplanetc.xyz
 springplanetf.xyz
 startos.win
 stickr.co
-stogether.fun
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
@@ -346,7 +345,6 @@ thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
 the-star.xyz
-the1planet.xyz
 the1star.xyz
 the1volcano.xyz
 the7coast.xyz
