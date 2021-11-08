@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 07 Nov 2021 12:02:38 +0000
+! Updated: Mon, 08 Nov 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 4upgradingstablesafe.work
 aikoo.club
 appsto.cloud
@@ -55,6 +54,7 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
+craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
@@ -90,7 +90,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-finreporter.net
 fireapps.cloud
 flash-rewards.info
 funanime.me
@@ -98,6 +97,7 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
+gettheraiceheadreliefhat.io
 girlsnearyou.online
 gladmstreet.xyz
 global-track.space
@@ -108,9 +108,7 @@ healthylives.today
 heatwavereporter.org
 help4.info
 hpages.net
-httqzq.vip
 huge2upgradescentral.work
-hypezen.info
 ientsillness.fun
 imagefind.org
 incing-marganic.icu
@@ -216,7 +214,7 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-mobileluckywinner.site
+mobyfox.shop
 money-hero.org
 n95o0fxvvw.top
 nettrafficpartners.net
@@ -224,7 +222,6 @@ newbuy.xyz
 newsinformer.net
 offerpage.link
 offersearch.info
-official-bigwin-national-free.cyou
 ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -300,6 +297,7 @@ runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
+seaplaytoo.top
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -362,8 +360,6 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 thelastpicture.show
-thrawdmn55.xyz
-timefornews.online
 timeoffers.net
 timesamerica.net
 top-offers2.club
@@ -372,6 +368,7 @@ tracking-landers.xyz
 trotineo.fr
 truecompassion.net
 updatefix.xyz
+updateview.tech
 upplaysite.xyz
 usepro.me
 useprovpn.me
@@ -384,13 +381,13 @@ videochanelact.ru
 videochanelair.ru
 videolookable.ru
 videolookace.ru
+videolookact.ru
 videomixable.ru
 videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
 vpn-pro.club
-vpnprosecurity.me
 vpnsecurity.me
 watchextremely-bestsophisticatedfile.best
 watchprogressive-bestmostfile.best
@@ -409,7 +406,7 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-worldwide-prize-giveaway-free.cyou
+winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
 yourlegendarysystemsupgrade.work

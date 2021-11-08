@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 07 Nov 2021 12:02:38 +0000
+# Updated: Mon, 08 Nov 2021 00:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
 -d aikoo.club
 -d appsto.cloud
@@ -58,6 +57,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -93,7 +93,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d finreporter.net
 -d fireapps.cloud
 -d flash-rewards.info
 -d funanime.me
@@ -101,6 +100,7 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d girlsnearyou.online
 -d gladmstreet.xyz
 -d global-track.space
@@ -111,9 +111,7 @@ msFilterList
 -d heatwavereporter.org
 -d help4.info
 -d hpages.net
--d httqzq.vip
 -d huge2upgradescentral.work
--d hypezen.info
 -d ientsillness.fun
 -d imagefind.org
 -d incing-marganic.icu
@@ -219,7 +217,7 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobileluckywinner.site
+-d mobyfox.shop
 -d money-hero.org
 -d n95o0fxvvw.top
 -d nettrafficpartners.net
@@ -227,7 +225,6 @@ msFilterList
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
--d official-bigwin-national-free.cyou
 -d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -303,6 +300,7 @@ msFilterList
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
 -d savagegrowplus.net
+-d seaplaytoo.top
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -365,8 +363,6 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
--d thrawdmn55.xyz
--d timefornews.online
 -d timeoffers.net
 -d timesamerica.net
 -d top-offers2.club
@@ -375,6 +371,7 @@ msFilterList
 -d trotineo.fr
 -d truecompassion.net
 -d updatefix.xyz
+-d updateview.tech
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
@@ -387,13 +384,13 @@ msFilterList
 -d videochanelair.ru
 -d videolookable.ru
 -d videolookace.ru
+-d videolookact.ru
 -d videomixable.ru
 -d videomixace.ru
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
 -d vpn-pro.club
--d vpnprosecurity.me
 -d vpnsecurity.me
 -d watchextremely-bestsophisticatedfile.best
 -d watchprogressive-bestmostfile.best
@@ -412,7 +409,7 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d worldwide-prize-giveaway-free.cyou
+-d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourlegendarysystemsupgrade.work

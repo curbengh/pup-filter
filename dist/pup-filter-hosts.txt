@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 07 Nov 2021 12:02:38 +0000
+# Updated: Mon, 08 Nov 2021 00:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
@@ -55,6 +54,7 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 crowdweightyellow.top
@@ -90,7 +90,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
@@ -98,6 +97,7 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 global-track.space
@@ -108,9 +108,7 @@
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
-0.0.0.0 httqzq.vip
 0.0.0.0 huge2upgradescentral.work
-0.0.0.0 hypezen.info
 0.0.0.0 ientsillness.fun
 0.0.0.0 imagefind.org
 0.0.0.0 incing-marganic.icu
@@ -216,7 +214,7 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobileluckywinner.site
+0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 n95o0fxvvw.top
 0.0.0.0 nettrafficpartners.net
@@ -224,7 +222,6 @@
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
-0.0.0.0 official-bigwin-national-free.cyou
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
@@ -300,6 +297,7 @@
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
+0.0.0.0 seaplaytoo.top
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -362,8 +360,6 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
-0.0.0.0 thrawdmn55.xyz
-0.0.0.0 timefornews.online
 0.0.0.0 timeoffers.net
 0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
@@ -372,6 +368,7 @@
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 updatefix.xyz
+0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
@@ -384,13 +381,13 @@
 0.0.0.0 videochanelair.ru
 0.0.0.0 videolookable.ru
 0.0.0.0 videolookace.ru
+0.0.0.0 videolookact.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
 0.0.0.0 vpn-pro.club
-0.0.0.0 vpnprosecurity.me
 0.0.0.0 vpnsecurity.me
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
@@ -409,7 +406,7 @@
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
-0.0.0.0 worldwide-prize-giveaway-free.cyou
+0.0.0.0 winnerz.icu
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me
 0.0.0.0 yourlegendarysystemsupgrade.work

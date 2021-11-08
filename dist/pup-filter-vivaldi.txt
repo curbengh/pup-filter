@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 07 Nov 2021 12:02:38 +0000
+! Updated: Mon, 08 Nov 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||aikoo.club$document
 ||appsto.cloud$document
@@ -55,6 +54,7 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
@@ -90,7 +90,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||finreporter.net$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -98,6 +97,7 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||gettheraiceheadreliefhat.io$document
 ||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||global-track.space$document
@@ -108,9 +108,7 @@
 ||heatwavereporter.org$document
 ||help4.info$document
 ||hpages.net$document
-||httqzq.vip$document
 ||huge2upgradescentral.work$document
-||hypezen.info$document
 ||ientsillness.fun$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
@@ -216,7 +214,7 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobileluckywinner.site$document
+||mobyfox.shop$document
 ||money-hero.org$document
 ||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
@@ -224,7 +222,6 @@
 ||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
-||official-bigwin-national-free.cyou$document
 ||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
@@ -300,6 +297,7 @@
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
 ||savagegrowplus.net$document
+||seaplaytoo.top$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -362,8 +360,6 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
-||thrawdmn55.xyz$document
-||timefornews.online$document
 ||timeoffers.net$document
 ||timesamerica.net$document
 ||top-offers2.club$document
@@ -372,6 +368,7 @@
 ||trotineo.fr$document
 ||truecompassion.net$document
 ||updatefix.xyz$document
+||updateview.tech$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
@@ -384,13 +381,13 @@
 ||videochanelair.ru$document
 ||videolookable.ru$document
 ||videolookace.ru$document
+||videolookact.ru$document
 ||videomixable.ru$document
 ||videomixace.ru$document
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
 ||vpn-pro.club$document
-||vpnprosecurity.me$document
 ||vpnsecurity.me$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchprogressive-bestmostfile.best$document
@@ -409,7 +406,7 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||worldwide-prize-giveaway-free.cyou$document
+||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
 ||yourlegendarysystemsupgrade.work$document
