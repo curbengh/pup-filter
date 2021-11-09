@@ -1,11 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 09 Nov 2021 00:02:37 +0000
+# Updated: Tue, 09 Nov 2021 12:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
@@ -31,7 +32,6 @@
 0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 boot-upuber-bestfreefile.best
-0.0.0.0 brightlifestyle.org
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
 0.0.0.0 center1plains.xyz
@@ -65,6 +65,7 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
+0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -222,6 +223,7 @@
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
+0.0.0.0 olivedinflats.space
 0.0.0.0 ouldthepat.fun
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
@@ -322,6 +324,7 @@
 0.0.0.0 springplanetf.xyz
 0.0.0.0 startos.win
 0.0.0.0 stickr.co
+0.0.0.0 stogether.fun
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
@@ -345,6 +348,7 @@
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
 0.0.0.0 the-star.xyz
+0.0.0.0 the1planet.xyz
 0.0.0.0 the1star.xyz
 0.0.0.0 the1volcano.xyz
 0.0.0.0 the7coast.xyz
@@ -366,7 +370,6 @@
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 updatefix.xyz
-0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me

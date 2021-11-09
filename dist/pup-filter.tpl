@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 09 Nov 2021 00:02:37 +0000
+# Updated: Tue, 09 Nov 2021 12:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,7 @@ msFilterList
 : Expires=1
 #
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d aikoo.club
 -d appsto.cloud
 -d appzfirer.biz
@@ -34,7 +35,6 @@ msFilterList
 -d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d boot-upuber-bestfreefile.best
--d brightlifestyle.org
 -d center-plains.xyz
 -d center-planet.xyz
 -d center1plains.xyz
@@ -68,6 +68,7 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
+-d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -225,6 +226,7 @@ msFilterList
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
+-d olivedinflats.space
 -d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -325,6 +327,7 @@ msFilterList
 -d springplanetf.xyz
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -348,6 +351,7 @@ msFilterList
 -d the-crater.xyz
 -d the-sky.xyz
 -d the-star.xyz
+-d the1planet.xyz
 -d the1star.xyz
 -d the1volcano.xyz
 -d the7coast.xyz
@@ -369,7 +373,6 @@ msFilterList
 -d trotineo.fr
 -d truecompassion.net
 -d updatefix.xyz
--d updateview.tech
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me

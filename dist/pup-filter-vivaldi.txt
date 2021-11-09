@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 09 Nov 2021 00:02:37 +0000
+! Updated: Tue, 09 Nov 2021 12:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||aikoo.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
@@ -31,7 +32,6 @@
 ||boot-uprenewed-bestuberfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||boot-upuber-bestfreefile.best$document
-||brightlifestyle.org$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
 ||center1plains.xyz$document
@@ -65,6 +65,7 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
+||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -222,6 +223,7 @@
 ||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
+||olivedinflats.space$document
 ||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
@@ -322,6 +324,7 @@
 ||springplanetf.xyz$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
@@ -345,6 +348,7 @@
 ||the-crater.xyz$document
 ||the-sky.xyz$document
 ||the-star.xyz$document
+||the1planet.xyz$document
 ||the1star.xyz$document
 ||the1volcano.xyz$document
 ||the7coast.xyz$document
@@ -366,7 +370,6 @@
 ||trotineo.fr$document
 ||truecompassion.net$document
 ||updatefix.xyz$document
-||updateview.tech$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
