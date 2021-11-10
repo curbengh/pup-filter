@@ -1,12 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 09 Nov 2021 12:03:04 +0000
+! Updated: Wed, 10 Nov 2021 00:03:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||aikoo.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
@@ -110,10 +110,9 @@
 ||help4.info$document
 ||hpages.net$document
 ||huge2upgradescentral.work$document
-||ientsillness.fun$document
+||humansystemsecurity.top$document
 ||imagefind.org$document
 ||incing-marganic.icu$document
-||incrediblebuzz.info$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -143,8 +142,8 @@
 ||juicydataalt.ru$document
 ||junemedia.bar$document
 ||junemedia.club$document
-||junemedia.xyz$document
 ||junesmile.xyz$document
+||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -167,7 +166,6 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
@@ -217,14 +215,12 @@
 ||mobiavolcano.xyz$document
 ||mobyfox.shop$document
 ||money-hero.org$document
-||n95o0fxvvw.top$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document
-||ouldthepat.fun$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
@@ -288,7 +284,6 @@
 ||proprotect.me$document
 ||protect-ios.com$document
 ||provpn.me$document
-||provpnsecurity.me$document
 ||prtctapp.me$document
 ||qfind.net$document
 ||quizshein.shop$document
@@ -300,6 +295,7 @@
 ||safeguide.net$document
 ||savagegrowplus.net$document
 ||seaplaytoo.top$document
+||search-exp.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -362,8 +358,8 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
+||timefornews.online$document
 ||timeoffers.net$document
-||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -388,6 +384,7 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
+||viralsharks.net$document
 ||vpn-pro.club$document
 ||vpnsecurity.me$document
 ||watchextremely-bestsophisticatedfile.best$document

@@ -1,12 +1,12 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 09 Nov 2021 12:03:04 +0000
+# Updated: Wed, 10 Nov 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 4upgradingstablesafe.work
-abcscience.xyz
 aikoo.club
 appsto.cloud
 appzfirer.biz
@@ -110,10 +110,9 @@ heatwavereporter.org
 help4.info
 hpages.net
 huge2upgradescentral.work
-ientsillness.fun
+humansystemsecurity.top
 imagefind.org
 incing-marganic.icu
-incrediblebuzz.info
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
@@ -143,8 +142,8 @@ juicydataair.ru
 juicydataalt.ru
 junemedia.bar
 junemedia.club
-junemedia.xyz
 junesmile.xyz
+keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -167,7 +166,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -217,14 +215,12 @@ mobiastar.xyz
 mobiavolcano.xyz
 mobyfox.shop
 money-hero.org
-n95o0fxvvw.top
 nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
-ouldthepat.fun
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
@@ -288,7 +284,6 @@ promotionclaim.rest
 proprotect.me
 protect-ios.com
 provpn.me
-provpnsecurity.me
 prtctapp.me
 qfind.net
 quizshein.shop
@@ -300,6 +295,7 @@ rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
 seaplaytoo.top
+search-exp.online
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -362,8 +358,8 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 thelastpicture.show
+timefornews.online
 timeoffers.net
-timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -388,6 +384,7 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
+viralsharks.net
 vpn-pro.club
 vpnsecurity.me
 watchextremely-bestsophisticatedfile.best

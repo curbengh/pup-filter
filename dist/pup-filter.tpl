@@ -1,15 +1,15 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 09 Nov 2021 12:03:04 +0000
+# Updated: Wed, 10 Nov 2021 00:03:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d aikoo.club
 -d appsto.cloud
 -d appzfirer.biz
@@ -113,10 +113,9 @@ msFilterList
 -d help4.info
 -d hpages.net
 -d huge2upgradescentral.work
--d ientsillness.fun
+-d humansystemsecurity.top
 -d imagefind.org
 -d incing-marganic.icu
--d incrediblebuzz.info
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -146,8 +145,8 @@ msFilterList
 -d juicydataalt.ru
 -d junemedia.bar
 -d junemedia.club
--d junemedia.xyz
 -d junesmile.xyz
+-d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -170,7 +169,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -220,14 +218,12 @@ msFilterList
 -d mobiavolcano.xyz
 -d mobyfox.shop
 -d money-hero.org
--d n95o0fxvvw.top
 -d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
--d ouldthepat.fun
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -291,7 +287,6 @@ msFilterList
 -d proprotect.me
 -d protect-ios.com
 -d provpn.me
--d provpnsecurity.me
 -d prtctapp.me
 -d qfind.net
 -d quizshein.shop
@@ -303,6 +298,7 @@ msFilterList
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
+-d search-exp.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -365,8 +361,8 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
+-d timefornews.online
 -d timeoffers.net
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -391,6 +387,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d vpnsecurity.me
 -d watchextremely-bestsophisticatedfile.best
