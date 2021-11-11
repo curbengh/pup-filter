@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 10 Nov 2021 12:03:09 +0000
+# Updated: Thu, 11 Nov 2021 00:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 adslauchgo.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
@@ -381,6 +382,7 @@
 0.0.0.0 videolookable.ru
 0.0.0.0 videolookace.ru
 0.0.0.0 videolookact.ru
+0.0.0.0 videolookalt.ru
 0.0.0.0 videomixable.ru
 0.0.0.0 videomixace.ru
 0.0.0.0 videomixact.ru
