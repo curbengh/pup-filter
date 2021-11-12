@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 11 Nov 2021 12:03:21 +0000
+# Updated: Fri, 12 Nov 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
@@ -58,7 +59,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 crowdweightyellow.top
@@ -94,6 +94,7 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
@@ -115,7 +116,6 @@
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 humansystemsecurity.top
 0.0.0.0 imagefind.org
-0.0.0.0 incing-marganic.icu
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
@@ -143,10 +143,8 @@
 0.0.0.0 juicydataage.ru
 0.0.0.0 juicydataair.ru
 0.0.0.0 juicydataalt.ru
-0.0.0.0 junemedia.bar
 0.0.0.0 junemedia.club
 0.0.0.0 junesmile.xyz
-0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -169,30 +167,24 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
 0.0.0.0 lltrsknoob.click
-0.0.0.0 loadadvancedextremelythefile.vip
-0.0.0.0 loadextremelycurrentthefile.vip
-0.0.0.0 loadextremelyrecentthefile.vip
 0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 loadgreatlynewestthefile.vip
 0.0.0.0 loadgreatlyoriginalthefile.vip
 0.0.0.0 loadgreatlyprogressivethefile.vip
 0.0.0.0 loadgreatlyrenewedthefile.vip
-0.0.0.0 loadhighlyadvancedthefile.vip
 0.0.0.0 loadintenselyquickthefile.vip
 0.0.0.0 loadintenselyspeedythefile.vip
 0.0.0.0 loadintenselystrongthefile.vip
 0.0.0.0 loadintenselyswiftthefile.vip
-0.0.0.0 loadnewestextremelythefile.vip
 0.0.0.0 loadnewestgreatlythefile.vip
-0.0.0.0 loadoriginalextremelythefile.vip
 0.0.0.0 loadoriginalgreatlythefile.vip
 0.0.0.0 loadpreciseintenselythefile.vip
 0.0.0.0 loadprogressivegreatlythefile.vip
-0.0.0.0 loadrecentextremelythefile.vip
 0.0.0.0 loadrenewedgreatlythefile.vip
 0.0.0.0 loadstrongintenselythefile.vip
 0.0.0.0 loadswiftintenselythefile.vip
@@ -292,6 +284,7 @@
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
+0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -308,7 +301,6 @@
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
-0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
 0.0.0.0 sonic1asteroid.xyz
@@ -361,13 +353,13 @@
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
-0.0.0.0 timeoffers.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 updatefix.xyz
+0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usepro.me
 0.0.0.0 useprovpn.me
@@ -390,6 +382,7 @@
 0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnsecurity.me
+0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 watchquick-bestheavilyfile.best
@@ -409,10 +402,10 @@
 0.0.0.0 westastar.xyz
 0.0.0.0 winnerz.icu
 0.0.0.0 worldwideofficialpromotion.cyou
-0.0.0.0 your-magazine.me
 0.0.0.0 yourlegendarysystemsupgrade.work
 0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es
 0.0.0.0 zeusmedia.info

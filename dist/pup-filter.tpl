@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 11 Nov 2021 12:03:21 +0000
+# Updated: Fri, 12 Nov 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d adslauchgo.xyz
 -d affiliateland.io
 -d aikoo.club
@@ -61,7 +62,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -97,6 +97,7 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d finreporter.net
 -d fireapps.cloud
 -d flash-rewards.info
 -d funanime.me
@@ -118,7 +119,6 @@ msFilterList
 -d huge2upgradescentral.work
 -d humansystemsecurity.top
 -d imagefind.org
--d incing-marganic.icu
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -146,10 +146,8 @@ msFilterList
 -d juicydataage.ru
 -d juicydataair.ru
 -d juicydataalt.ru
--d junemedia.bar
 -d junemedia.club
 -d junesmile.xyz
--d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -172,30 +170,24 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
 -d lltrsknoob.click
--d loadadvancedextremelythefile.vip
--d loadextremelycurrentthefile.vip
--d loadextremelyrecentthefile.vip
 -d loadfree-bestheavilyfile.best
 -d loadgreatlynewestthefile.vip
 -d loadgreatlyoriginalthefile.vip
 -d loadgreatlyprogressivethefile.vip
 -d loadgreatlyrenewedthefile.vip
--d loadhighlyadvancedthefile.vip
 -d loadintenselyquickthefile.vip
 -d loadintenselyspeedythefile.vip
 -d loadintenselystrongthefile.vip
 -d loadintenselyswiftthefile.vip
--d loadnewestextremelythefile.vip
 -d loadnewestgreatlythefile.vip
--d loadoriginalextremelythefile.vip
 -d loadoriginalgreatlythefile.vip
 -d loadpreciseintenselythefile.vip
 -d loadprogressivegreatlythefile.vip
--d loadrecentextremelythefile.vip
 -d loadrenewedgreatlythefile.vip
 -d loadstrongintenselythefile.vip
 -d loadswiftintenselythefile.vip
@@ -295,6 +287,7 @@ msFilterList
 -d rancy.xyz
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -311,7 +304,6 @@ msFilterList
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
--d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
 -d sonic1asteroid.xyz
@@ -364,13 +356,13 @@ msFilterList
 -d theirproviderock.top
 -d thelastpicture.show
 -d timefornews.online
--d timeoffers.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
 -d trotineo.fr
 -d truecompassion.net
 -d updatefix.xyz
+-d updateview.tech
 -d upplaysite.xyz
 -d usepro.me
 -d useprovpn.me
@@ -393,6 +385,7 @@ msFilterList
 -d viralsharks.net
 -d vpn-pro.club
 -d vpnsecurity.me
+-d wallda.site
 -d watchextremely-bestsophisticatedfile.best
 -d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
@@ -412,10 +405,10 @@ msFilterList
 -d westastar.xyz
 -d winnerz.icu
 -d worldwideofficialpromotion.cyou
--d your-magazine.me
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es
 -d zeusmedia.info

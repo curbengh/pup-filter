@@ -1,12 +1,13 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 11 Nov 2021 12:03:21 +0000
+# Updated: Fri, 12 Nov 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 adslauchgo.xyz
 affiliateland.io
 aikoo.club
@@ -58,7 +59,6 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
@@ -94,6 +94,7 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
+finreporter.net
 fireapps.cloud
 flash-rewards.info
 funanime.me
@@ -115,7 +116,6 @@ hpages.net
 huge2upgradescentral.work
 humansystemsecurity.top
 imagefind.org
-incing-marganic.icu
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
@@ -143,10 +143,8 @@ juicydataadvance.ru
 juicydataage.ru
 juicydataair.ru
 juicydataalt.ru
-junemedia.bar
 junemedia.club
 junesmile.xyz
-keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -169,30 +167,24 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
 lltrsknoob.click
-loadadvancedextremelythefile.vip
-loadextremelycurrentthefile.vip
-loadextremelyrecentthefile.vip
 loadfree-bestheavilyfile.best
 loadgreatlynewestthefile.vip
 loadgreatlyoriginalthefile.vip
 loadgreatlyprogressivethefile.vip
 loadgreatlyrenewedthefile.vip
-loadhighlyadvancedthefile.vip
 loadintenselyquickthefile.vip
 loadintenselyspeedythefile.vip
 loadintenselystrongthefile.vip
 loadintenselyswiftthefile.vip
-loadnewestextremelythefile.vip
 loadnewestgreatlythefile.vip
-loadoriginalextremelythefile.vip
 loadoriginalgreatlythefile.vip
 loadpreciseintenselythefile.vip
 loadprogressivegreatlythefile.vip
-loadrecentextremelythefile.vip
 loadrenewedgreatlythefile.vip
 loadstrongintenselythefile.vip
 loadswiftintenselythefile.vip
@@ -292,6 +284,7 @@ quizshein.shop
 rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
+richsurvey.live
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
@@ -308,7 +301,6 @@ sergey-tracks.xyz
 shopin.nyc
 shopnsave.world
 smartideas.pro
-software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
 sonic1asteroid.xyz
@@ -361,13 +353,13 @@ thedealexpert.net
 theirproviderock.top
 thelastpicture.show
 timefornews.online
-timeoffers.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
 trotineo.fr
 truecompassion.net
 updatefix.xyz
+updateview.tech
 upplaysite.xyz
 usepro.me
 useprovpn.me
@@ -390,6 +382,7 @@ videovoiceace.ru
 viralsharks.net
 vpn-pro.club
 vpnsecurity.me
+wallda.site
 watchextremely-bestsophisticatedfile.best
 watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
@@ -409,10 +402,10 @@ westasea.xyz
 westastar.xyz
 winnerz.icu
 worldwideofficialpromotion.cyou
-your-magazine.me
 yourlegendarysystemsupgrade.work
 yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es
 zeusmedia.info

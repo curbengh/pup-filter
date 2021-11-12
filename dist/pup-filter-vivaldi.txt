@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 11 Nov 2021 12:03:21 +0000
+! Updated: Fri, 12 Nov 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||adslauchgo.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
@@ -58,7 +59,6 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
@@ -94,6 +94,7 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
+||finreporter.net$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -115,7 +116,6 @@
 ||huge2upgradescentral.work$document
 ||humansystemsecurity.top$document
 ||imagefind.org$document
-||incing-marganic.icu$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -143,10 +143,8 @@
 ||juicydataage.ru$document
 ||juicydataair.ru$document
 ||juicydataalt.ru$document
-||junemedia.bar$document
 ||junemedia.club$document
 ||junesmile.xyz$document
-||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -169,30 +167,24 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
 ||lltrsknoob.click$document
-||loadadvancedextremelythefile.vip$document
-||loadextremelycurrentthefile.vip$document
-||loadextremelyrecentthefile.vip$document
 ||loadfree-bestheavilyfile.best$document
 ||loadgreatlynewestthefile.vip$document
 ||loadgreatlyoriginalthefile.vip$document
 ||loadgreatlyprogressivethefile.vip$document
 ||loadgreatlyrenewedthefile.vip$document
-||loadhighlyadvancedthefile.vip$document
 ||loadintenselyquickthefile.vip$document
 ||loadintenselyspeedythefile.vip$document
 ||loadintenselystrongthefile.vip$document
 ||loadintenselyswiftthefile.vip$document
-||loadnewestextremelythefile.vip$document
 ||loadnewestgreatlythefile.vip$document
-||loadoriginalextremelythefile.vip$document
 ||loadoriginalgreatlythefile.vip$document
 ||loadpreciseintenselythefile.vip$document
 ||loadprogressivegreatlythefile.vip$document
-||loadrecentextremelythefile.vip$document
 ||loadrenewedgreatlythefile.vip$document
 ||loadstrongintenselythefile.vip$document
 ||loadswiftintenselythefile.vip$document
@@ -292,6 +284,7 @@
 ||rancy.xyz$document
 ||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
+||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
@@ -308,7 +301,6 @@
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
-||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
 ||sonic1asteroid.xyz$document
@@ -361,13 +353,13 @@
 ||theirproviderock.top$document
 ||thelastpicture.show$document
 ||timefornews.online$document
-||timeoffers.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
 ||trotineo.fr$document
 ||truecompassion.net$document
 ||updatefix.xyz$document
+||updateview.tech$document
 ||upplaysite.xyz$document
 ||usepro.me$document
 ||useprovpn.me$document
@@ -390,6 +382,7 @@
 ||viralsharks.net$document
 ||vpn-pro.club$document
 ||vpnsecurity.me$document
+||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchprogressive-bestmostfile.best$document
 ||watchquick-bestheavilyfile.best$document
@@ -409,10 +402,10 @@
 ||westastar.xyz$document
 ||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
-||your-magazine.me$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document
 ||zeusmedia.info$document

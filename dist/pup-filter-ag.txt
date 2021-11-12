@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 11 Nov 2021 12:03:21 +0000
+! Updated: Fri, 12 Nov 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
 ||adslauchgo.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
@@ -58,7 +59,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||crowdweightyellow.top$all
@@ -94,6 +94,7 @@
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
 ||finditquick.online$all
+||finreporter.net$all
 ||fireapps.cloud$all
 ||flash-rewards.info$all
 ||funanime.me$all
@@ -115,7 +116,6 @@
 ||huge2upgradescentral.work$all
 ||humansystemsecurity.top$all
 ||imagefind.org$all
-||incing-marganic.icu$all
 ||initiatecompletelyprecisethefile.vip$all
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
@@ -143,10 +143,8 @@
 ||juicydataage.ru$all
 ||juicydataair.ru$all
 ||juicydataalt.ru$all
-||junemedia.bar$all
 ||junemedia.club$all
 ||junesmile.xyz$all
-||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -169,30 +167,24 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
 ||lltrsknoob.click$all
-||loadadvancedextremelythefile.vip$all
-||loadextremelycurrentthefile.vip$all
-||loadextremelyrecentthefile.vip$all
 ||loadfree-bestheavilyfile.best$all
 ||loadgreatlynewestthefile.vip$all
 ||loadgreatlyoriginalthefile.vip$all
 ||loadgreatlyprogressivethefile.vip$all
 ||loadgreatlyrenewedthefile.vip$all
-||loadhighlyadvancedthefile.vip$all
 ||loadintenselyquickthefile.vip$all
 ||loadintenselyspeedythefile.vip$all
 ||loadintenselystrongthefile.vip$all
 ||loadintenselyswiftthefile.vip$all
-||loadnewestextremelythefile.vip$all
 ||loadnewestgreatlythefile.vip$all
-||loadoriginalextremelythefile.vip$all
 ||loadoriginalgreatlythefile.vip$all
 ||loadpreciseintenselythefile.vip$all
 ||loadprogressivegreatlythefile.vip$all
-||loadrecentextremelythefile.vip$all
 ||loadrenewedgreatlythefile.vip$all
 ||loadstrongintenselythefile.vip$all
 ||loadswiftintenselythefile.vip$all
@@ -292,6 +284,7 @@
 ||rancy.xyz$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
@@ -308,7 +301,6 @@
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
-||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
 ||sonic1asteroid.xyz$all
@@ -361,13 +353,13 @@
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||timefornews.online$all
-||timeoffers.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all
 ||updatefix.xyz$all
+||updateview.tech$all
 ||upplaysite.xyz$all
 ||usepro.me$all
 ||useprovpn.me$all
@@ -390,6 +382,7 @@
 ||viralsharks.net$all
 ||vpn-pro.club$all
 ||vpnsecurity.me$all
+||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all
 ||watchprogressive-bestmostfile.best$all
 ||watchquick-bestheavilyfile.best$all
@@ -409,10 +402,10 @@
 ||westastar.xyz$all
 ||winnerz.icu$all
 ||worldwideofficialpromotion.cyou$all
-||your-magazine.me$all
 ||yourlegendarysystemsupgrade.work$all
 ||yourlinkplaceupdatingfree.work$all
 ||yourluckytoday.club$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all
 ||zeusmedia.info$all
