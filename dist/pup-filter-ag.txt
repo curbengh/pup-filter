@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 12 Nov 2021 00:02:54 +0000
+! Updated: Fri, 12 Nov 2021 12:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -65,10 +65,10 @@
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
+||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
-||discoveryfeed.org$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -298,6 +298,7 @@
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
+||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
@@ -353,6 +354,7 @@
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||timefornews.online$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -382,7 +384,6 @@
 ||viralsharks.net$all
 ||vpn-pro.club$all
 ||vpnsecurity.me$all
-||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all
 ||watchprogressive-bestmostfile.best$all
 ||watchquick-bestheavilyfile.best$all

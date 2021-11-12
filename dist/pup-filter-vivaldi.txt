@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 12 Nov 2021 00:02:54 +0000
+! Updated: Fri, 12 Nov 2021 12:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -65,10 +65,10 @@
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
+||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
-||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -298,6 +298,7 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
+||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
@@ -353,6 +354,7 @@
 ||theirproviderock.top$document
 ||thelastpicture.show$document
 ||timefornews.online$document
+||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -382,7 +384,6 @@
 ||viralsharks.net$document
 ||vpn-pro.club$document
 ||vpnsecurity.me$document
-||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchprogressive-bestmostfile.best$document
 ||watchquick-bestheavilyfile.best$document

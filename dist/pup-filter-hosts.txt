@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 12 Nov 2021 00:02:54 +0000
+# Updated: Fri, 12 Nov 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -65,10 +65,10 @@
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
+0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -298,6 +298,7 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
+0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
@@ -353,6 +354,7 @@
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
+0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -382,7 +384,6 @@
 0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 vpnsecurity.me
-0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 watchquick-bestheavilyfile.best
