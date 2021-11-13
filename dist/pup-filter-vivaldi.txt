@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 13 Nov 2021 00:28:51 +0000
+! Updated: Sat, 13 Nov 2021 12:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||adslauchgo.xyz$document
-||affiliateland.io$document
 ||aikoo.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
@@ -69,6 +68,7 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
+||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -94,7 +94,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||finreporter.net$document
 ||fireapps.cloud$document
 ||flash-rewards.info$document
 ||funanime.me$document
@@ -214,6 +213,7 @@
 ||money-hero.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document

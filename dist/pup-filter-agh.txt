@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 13 Nov 2021 00:28:51 +0000
+! Updated: Sat, 13 Nov 2021 12:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||4upgradingstablesafe.work^
 ||abcscience.xyz^
 ||adslauchgo.xyz^
-||affiliateland.io^
 ||aikoo.club^
 ||appsto.cloud^
 ||appzfirer.biz^
@@ -69,6 +68,7 @@
 ||darkview.org^
 ||dayinlife.net^
 ||dealsify.net^
+||discoveryfeed.org^
 ||efladn.club^
 ||elpelades.club^
 ||enjoy-asteroid.xyz^
@@ -94,7 +94,6 @@
 ||fastwebb.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
-||finreporter.net^
 ||fireapps.cloud^
 ||flash-rewards.info^
 ||funanime.me^
@@ -214,6 +213,7 @@
 ||money-hero.org^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
+||newsinformer.net^
 ||offerpage.link^
 ||offersearch.info^
 ||olivedinflats.space^

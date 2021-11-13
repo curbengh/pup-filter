@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 13 Nov 2021 00:28:51 +0000
+# Updated: Sat, 13 Nov 2021 12:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
-0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
@@ -69,6 +68,7 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
+0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -94,7 +94,6 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
-0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
 0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
@@ -214,6 +213,7 @@
 0.0.0.0 money-hero.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
