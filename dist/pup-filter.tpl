@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 13 Nov 2021 12:02:31 +0000
+# Updated: Sun, 14 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d adslauchgo.xyz
 -d aikoo.club
 -d appsto.cloud
@@ -104,7 +103,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -171,27 +169,11 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
 -d lltrsknoob.click
 -d loadfree-bestheavilyfile.best
--d loadgreatlynewestthefile.vip
--d loadgreatlyoriginalthefile.vip
--d loadgreatlyprogressivethefile.vip
--d loadgreatlyrenewedthefile.vip
--d loadintenselyquickthefile.vip
--d loadintenselyspeedythefile.vip
--d loadintenselystrongthefile.vip
--d loadintenselyswiftthefile.vip
--d loadnewestgreatlythefile.vip
--d loadoriginalgreatlythefile.vip
--d loadpreciseintenselythefile.vip
--d loadprogressivegreatlythefile.vip
--d loadrenewedgreatlythefile.vip
--d loadstrongintenselythefile.vip
--d loadswiftintenselythefile.vip
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
@@ -216,7 +198,6 @@ msFilterList
 -d money-hero.org
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -284,7 +265,6 @@ msFilterList
 -d protect-ios.com
 -d provpn.me
 -d prtctapp.me
--d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
@@ -307,6 +287,7 @@ msFilterList
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
+-d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
 -d sonic1asteroid.xyz
@@ -319,7 +300,6 @@ msFilterList
 -d spotplanetc.xyz
 -d springplanetf.xyz
 -d startos.win
--d stickr.co
 -d stogether.fun
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -359,7 +339,6 @@ msFilterList
 -d theirproviderock.top
 -d thelastpicture.show
 -d timefornews.online
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -388,7 +367,6 @@ msFilterList
 -d videovoiceace.ru
 -d viralsharks.net
 -d vpn-pro.club
--d vpnsecurity.me
 -d watchextremely-bestsophisticatedfile.best
 -d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
@@ -408,6 +386,7 @@ msFilterList
 -d westastar.xyz
 -d winnerz.icu
 -d worldwideofficialpromotion.cyou
+-d your-magazine.me
 -d yourlegendarysystemsupgrade.work
 -d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club

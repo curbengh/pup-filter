@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 13 Nov 2021 12:02:31 +0000
+! Updated: Sun, 14 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||adslauchgo.xyz$document
 ||aikoo.club$document
 ||appsto.cloud$document
@@ -101,7 +100,6 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -168,27 +166,11 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
 ||lltrsknoob.click$document
 ||loadfree-bestheavilyfile.best$document
-||loadgreatlynewestthefile.vip$document
-||loadgreatlyoriginalthefile.vip$document
-||loadgreatlyprogressivethefile.vip$document
-||loadgreatlyrenewedthefile.vip$document
-||loadintenselyquickthefile.vip$document
-||loadintenselyspeedythefile.vip$document
-||loadintenselystrongthefile.vip$document
-||loadintenselyswiftthefile.vip$document
-||loadnewestgreatlythefile.vip$document
-||loadoriginalgreatlythefile.vip$document
-||loadpreciseintenselythefile.vip$document
-||loadprogressivegreatlythefile.vip$document
-||loadrenewedgreatlythefile.vip$document
-||loadstrongintenselythefile.vip$document
-||loadswiftintenselythefile.vip$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
@@ -213,7 +195,6 @@
 ||money-hero.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
-||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document
@@ -281,7 +262,6 @@
 ||protect-ios.com$document
 ||provpn.me$document
 ||prtctapp.me$document
-||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
@@ -304,6 +284,7 @@
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
+||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
 ||sonic1asteroid.xyz$document
@@ -316,7 +297,6 @@
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||startos.win$document
-||stickr.co$document
 ||stogether.fun$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
@@ -356,7 +336,6 @@
 ||theirproviderock.top$document
 ||thelastpicture.show$document
 ||timefornews.online$document
-||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -385,7 +364,6 @@
 ||videovoiceace.ru$document
 ||viralsharks.net$document
 ||vpn-pro.club$document
-||vpnsecurity.me$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchprogressive-bestmostfile.best$document
 ||watchquick-bestheavilyfile.best$document
@@ -405,6 +383,7 @@
 ||westastar.xyz$document
 ||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
+||your-magazine.me$document
 ||yourlegendarysystemsupgrade.work$document
 ||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
