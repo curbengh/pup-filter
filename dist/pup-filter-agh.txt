@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 14 Nov 2021 00:02:45 +0000
+! Updated: Sun, 14 Nov 2021 12:02:38 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -297,7 +297,6 @@
 ||spotplanetc.xyz^
 ||springplanetf.xyz^
 ||startos.win^
-||stogether.fun^
 ||streamdevelopedintenselythefile.vip^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
@@ -362,7 +361,6 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
-||viralsharks.net^
 ||vpn-pro.club^
 ||watchextremely-bestsophisticatedfile.best^
 ||watchprogressive-bestmostfile.best^
@@ -389,5 +387,4 @@
 ||yourluckytoday.club^
 ||yourmoneymachine.cc^
 ||yoursafestgreatplaceupdates.work^
-||zalando-prive.es^
 ||zeusmedia.info^
