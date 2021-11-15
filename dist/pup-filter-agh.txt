@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 14 Nov 2021 12:02:38 +0000
+! Updated: Mon, 15 Nov 2021 00:02:55 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 ||appsto.cloud^
 ||appzfirer.biz^
 ||arre.work^
-||atwater.org^
 ||auto-car-search.site^
 ||auto-insurance-search.site^
 ||axisradio.ca^
@@ -253,6 +252,7 @@
 ||playwintere.xyz^
 ||playwinterf.xyz^
 ||ppploanchoices.site^
+||premium-news-for.me^
 ||press-news-for.me^
 ||prize-messsages.casa^
 ||producthunter.club^
