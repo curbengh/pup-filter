@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 15 Nov 2021 00:02:55 +0000
+# Updated: Mon, 15 Nov 2021 12:03:15 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
+0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
@@ -24,8 +25,6 @@
 0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
-0.0.0.0 boot-upcompletely-bestprecisefile.best
-0.0.0.0 boot-upcompletely-bestsophisticatedfile.best
 0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
@@ -56,13 +55,13 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
-0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
@@ -84,7 +83,6 @@
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
-0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
@@ -92,13 +90,14 @@
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
+0.0.0.0 finreporter.net
 0.0.0.0 fireapps.cloud
-0.0.0.0 flash-rewards.info
 0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 girlsnearyou.online
@@ -112,7 +111,6 @@
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
-0.0.0.0 humansystemsecurity.top
 0.0.0.0 imagefind.org
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
@@ -131,7 +129,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
@@ -141,7 +138,6 @@
 0.0.0.0 juicydataage.ru
 0.0.0.0 juicydataair.ru
 0.0.0.0 juicydataalt.ru
-0.0.0.0 junemedia.club
 0.0.0.0 junesmile.xyz
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
@@ -165,6 +161,7 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
@@ -252,7 +249,6 @@
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
-0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
@@ -260,19 +256,17 @@
 0.0.0.0 promotionclaim.rest
 0.0.0.0 proprotect.me
 0.0.0.0 protect-ios.com
-0.0.0.0 provpn.me
 0.0.0.0 prtctapp.me
+0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
 0.0.0.0 seaplaytoo.top
-0.0.0.0 search-exp.online
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -280,7 +274,6 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
@@ -297,6 +290,7 @@
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
 0.0.0.0 startos.win
+0.0.0.0 stickr.co
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
@@ -343,9 +337,6 @@
 0.0.0.0 updatefix.xyz
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
-0.0.0.0 usepro.me
-0.0.0.0 useprovpn.me
-0.0.0.0 usevpnpro.me
 0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
@@ -363,7 +354,6 @@
 0.0.0.0 videovoiceace.ru
 0.0.0.0 vpn-pro.club
 0.0.0.0 watchextremely-bestsophisticatedfile.best
-0.0.0.0 watchprogressive-bestmostfile.best
 0.0.0.0 watchquick-bestheavilyfile.best
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 web-security.ml
@@ -382,8 +372,6 @@
 0.0.0.0 winnerz.icu
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me
-0.0.0.0 yourlegendarysystemsupgrade.work
-0.0.0.0 yourlinkplaceupdatingfree.work
 0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work

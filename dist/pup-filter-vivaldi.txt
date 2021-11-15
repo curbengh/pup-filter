@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 15 Nov 2021 00:02:55 +0000
+! Updated: Mon, 15 Nov 2021 12:03:15 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||adslauchgo.xyz$document
+||affiliateland.io$document
 ||aikoo.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
@@ -24,8 +25,6 @@
 ||bkk755.biz$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
-||boot-upcompletely-bestprecisefile.best$document
-||boot-upcompletely-bestsophisticatedfile.best$document
 ||boot-upfree-bestuberfile.best$document
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
@@ -56,13 +55,13 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
-||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
@@ -84,7 +83,6 @@
 ||enjoyavolcano.xyz$document
 ||exploreshops.net$document
 ||fast-app.xyz$document
-||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
 ||fastspota.xyz$document
@@ -92,13 +90,14 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
+||finreporter.net$document
 ||fireapps.cloud$document
-||flash-rewards.info$document
 ||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
+||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -112,7 +111,6 @@
 ||help4.info$document
 ||hpages.net$document
 ||huge2upgradescentral.work$document
-||humansystemsecurity.top$document
 ||imagefind.org$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
@@ -131,7 +129,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
@@ -141,7 +138,6 @@
 ||juicydataage.ru$document
 ||juicydataair.ru$document
 ||juicydataalt.ru$document
-||junemedia.club$document
 ||junesmile.xyz$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
@@ -165,6 +161,7 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
@@ -252,7 +249,6 @@
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
 ||ppploanchoices.site$document
-||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
@@ -260,19 +256,17 @@
 ||promotionclaim.rest$document
 ||proprotect.me$document
 ||protect-ios.com$document
-||provpn.me$document
 ||prtctapp.me$document
+||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
-||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
 ||savagegrowplus.net$document
 ||seaplaytoo.top$document
-||search-exp.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -280,7 +274,6 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
-||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
@@ -297,6 +290,7 @@
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||startos.win$document
+||stickr.co$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
@@ -343,9 +337,6 @@
 ||updatefix.xyz$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
-||usepro.me$document
-||useprovpn.me$document
-||usevpnpro.me$document
 ||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
@@ -363,7 +354,6 @@
 ||videovoiceace.ru$document
 ||vpn-pro.club$document
 ||watchextremely-bestsophisticatedfile.best$document
-||watchprogressive-bestmostfile.best$document
 ||watchquick-bestheavilyfile.best$document
 ||watchrefined-bestextremelyfile.best$document
 ||web-security.ml$document
@@ -382,8 +372,6 @@
 ||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
-||yourlegendarysystemsupgrade.work$document
-||yourlinkplaceupdatingfree.work$document
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document

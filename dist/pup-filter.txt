@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 15 Nov 2021 00:02:55 +0000
+! Updated: Mon, 15 Nov 2021 12:03:15 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 2021travel.net
 4upgradingstablesafe.work
 adslauchgo.xyz
+affiliateland.io
 aikoo.club
 appsto.cloud
 appzfirer.biz
@@ -24,8 +25,6 @@ beinspired.global
 bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
-boot-upcompletely-bestprecisefile.best
-boot-upcompletely-bestsophisticatedfile.best
 boot-upfree-bestuberfile.best
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
@@ -56,13 +55,13 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
+craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
-dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
@@ -84,7 +83,6 @@ enjoyastar.xyz
 enjoyavolcano.xyz
 exploreshops.net
 fast-app.xyz
-fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastspota.xyz
@@ -92,13 +90,14 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
+finreporter.net
 fireapps.cloud
-flash-rewards.info
 funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
+gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 girlsnearyou.online
@@ -112,7 +111,6 @@ heatwavereporter.org
 help4.info
 hpages.net
 huge2upgradescentral.work
-humansystemsecurity.top
 imagefind.org
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
@@ -131,7 +129,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
@@ -141,7 +138,6 @@ juicydataadvance.ru
 juicydataage.ru
 juicydataair.ru
 juicydataalt.ru
-junemedia.club
 junesmile.xyz
 koalaautumna.xyz
 koalaautumnb.xyz
@@ -165,6 +161,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -252,7 +249,6 @@ playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
 ppploanchoices.site
-premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 producthunter.club
@@ -260,19 +256,17 @@ profitsurvey365.online
 promotionclaim.rest
 proprotect.me
 protect-ios.com
-provpn.me
 prtctapp.me
+qfind.net
 quizshein.shop
 rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
-richsurvey.live
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
 seaplaytoo.top
-search-exp.online
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -280,7 +274,6 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sergey-tracks.xyz
-shopadvisors.net
 shopin.nyc
 shopnsave.world
 smartideas.pro
@@ -297,6 +290,7 @@ spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
 startos.win
+stickr.co
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
@@ -343,9 +337,6 @@ truecompassion.net
 updatefix.xyz
 updateview.tech
 upplaysite.xyz
-usepro.me
-useprovpn.me
-usevpnpro.me
 usforeclosure.net
 videoau.ru
 videoauthor.ru
@@ -363,7 +354,6 @@ videovoiceable.ru
 videovoiceace.ru
 vpn-pro.club
 watchextremely-bestsophisticatedfile.best
-watchprogressive-bestmostfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 web-security.ml
@@ -382,8 +372,6 @@ westastar.xyz
 winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
-yourlegendarysystemsupgrade.work
-yourlinkplaceupdatingfree.work
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work

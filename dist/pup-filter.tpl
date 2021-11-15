@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 15 Nov 2021 00:02:55 +0000
+# Updated: Mon, 15 Nov 2021 12:03:15 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d adslauchgo.xyz
+-d affiliateland.io
 -d aikoo.club
 -d appsto.cloud
 -d appzfirer.biz
@@ -27,8 +28,6 @@ msFilterList
 -d bkk755.biz
 -d bleu-bonheur.fr
 -d bluetiger.cloud
--d boot-upcompletely-bestprecisefile.best
--d boot-upcompletely-bestsophisticatedfile.best
 -d boot-upfree-bestuberfile.best
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
@@ -59,13 +58,13 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
--d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
@@ -87,7 +86,6 @@ msFilterList
 -d enjoyavolcano.xyz
 -d exploreshops.net
 -d fast-app.xyz
--d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
@@ -95,13 +93,14 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
+-d finreporter.net
 -d fireapps.cloud
--d flash-rewards.info
 -d funanime.me
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
+-d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -115,7 +114,6 @@ msFilterList
 -d help4.info
 -d hpages.net
 -d huge2upgradescentral.work
--d humansystemsecurity.top
 -d imagefind.org
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
@@ -134,7 +132,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
@@ -144,7 +141,6 @@ msFilterList
 -d juicydataage.ru
 -d juicydataair.ru
 -d juicydataalt.ru
--d junemedia.club
 -d junesmile.xyz
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
@@ -168,6 +164,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -255,7 +252,6 @@ msFilterList
 -d playwintere.xyz
 -d playwinterf.xyz
 -d ppploanchoices.site
--d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
@@ -263,19 +259,17 @@ msFilterList
 -d promotionclaim.rest
 -d proprotect.me
 -d protect-ios.com
--d provpn.me
 -d prtctapp.me
+-d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
--d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
--d search-exp.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -283,7 +277,6 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
--d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
@@ -300,6 +293,7 @@ msFilterList
 -d spotplanetc.xyz
 -d springplanetf.xyz
 -d startos.win
+-d stickr.co
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
@@ -346,9 +340,6 @@ msFilterList
 -d updatefix.xyz
 -d updateview.tech
 -d upplaysite.xyz
--d usepro.me
--d useprovpn.me
--d usevpnpro.me
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
@@ -366,7 +357,6 @@ msFilterList
 -d videovoiceace.ru
 -d vpn-pro.club
 -d watchextremely-bestsophisticatedfile.best
--d watchprogressive-bestmostfile.best
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
 -d web-security.ml
@@ -385,8 +375,6 @@ msFilterList
 -d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
--d yourlegendarysystemsupgrade.work
--d yourlinkplaceupdatingfree.work
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
