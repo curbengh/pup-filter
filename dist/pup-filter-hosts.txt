@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 16 Nov 2021 00:02:49 +0000
+# Updated: Tue, 16 Nov 2021 12:03:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
@@ -83,6 +84,7 @@
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 exploreshops.net
 0.0.0.0 fast-app.xyz
+0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
@@ -111,6 +113,7 @@
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
+0.0.0.0 humansystemsecurity.top
 0.0.0.0 imagefind.org
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
@@ -249,6 +252,7 @@
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
 0.0.0.0 ppploanchoices.site
+0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
@@ -262,6 +266,7 @@
 0.0.0.0 rancy.xyz
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
+0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -328,7 +333,6 @@
 0.0.0.0 theavolcano.xyz
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
-0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
@@ -353,6 +357,7 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchquick-bestheavilyfile.best

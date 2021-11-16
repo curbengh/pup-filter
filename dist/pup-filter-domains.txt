@@ -1,12 +1,13 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 16 Nov 2021 00:02:49 +0000
+# Updated: Tue, 16 Nov 2021 12:03:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 adslauchgo.xyz
 affiliateland.io
 aikoo.club
@@ -83,6 +84,7 @@ enjoyastar.xyz
 enjoyavolcano.xyz
 exploreshops.net
 fast-app.xyz
+fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastspota.xyz
@@ -111,6 +113,7 @@ heatwavereporter.org
 help4.info
 hpages.net
 huge2upgradescentral.work
+humansystemsecurity.top
 imagefind.org
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
@@ -249,6 +252,7 @@ playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
 ppploanchoices.site
+premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 producthunter.club
@@ -262,6 +266,7 @@ quizshein.shop
 rancy.xyz
 real-buy.net
 rewardgivingrealspecialoffer.cyou
+richsurvey.live
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
@@ -328,7 +333,6 @@ theastar.xyz
 theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
-thelastpicture.show
 timefornews.online
 top-offers2.club
 topdating.online
@@ -353,6 +357,7 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
+viralsharks.net
 vpn-pro.club
 watchextremely-bestsophisticatedfile.best
 watchquick-bestheavilyfile.best

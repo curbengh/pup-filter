@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 16 Nov 2021 00:02:49 +0000
+# Updated: Tue, 16 Nov 2021 12:03:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d adslauchgo.xyz
 -d affiliateland.io
 -d aikoo.club
@@ -86,6 +87,7 @@ msFilterList
 -d enjoyavolcano.xyz
 -d exploreshops.net
 -d fast-app.xyz
+-d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
@@ -114,6 +116,7 @@ msFilterList
 -d help4.info
 -d hpages.net
 -d huge2upgradescentral.work
+-d humansystemsecurity.top
 -d imagefind.org
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
@@ -252,6 +255,7 @@ msFilterList
 -d playwintere.xyz
 -d playwinterf.xyz
 -d ppploanchoices.site
+-d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
@@ -265,6 +269,7 @@ msFilterList
 -d rancy.xyz
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -331,7 +336,6 @@ msFilterList
 -d theavolcano.xyz
 -d thedealexpert.net
 -d theirproviderock.top
--d thelastpicture.show
 -d timefornews.online
 -d top-offers2.club
 -d topdating.online
@@ -356,6 +360,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d watchextremely-bestsophisticatedfile.best
 -d watchquick-bestheavilyfile.best
