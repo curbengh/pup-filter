@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 17 Nov 2021 00:03:04 +0000
+# Updated: Wed, 17 Nov 2021 12:03:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,8 +11,8 @@ msFilterList
 -d 2021travel.net
 -d 4upgradingstablesafe.work
 -d adslauchgo.xyz
--d affiliateland.io
 -d aikoo.club
+-d app-track.club
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
@@ -94,7 +94,6 @@ msFilterList
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
--d finreporter.net
 -d fireapps.cloud
 -d funanime.me
 -d funny-media.ru
@@ -193,6 +192,7 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d money-hero.org
+-d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
@@ -267,6 +267,7 @@ msFilterList
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
+-d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
@@ -298,6 +299,7 @@ msFilterList
 -d springplanetf.xyz
 -d startos.win
 -d stickr.co
+-d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -361,6 +363,7 @@ msFilterList
 -d videovoiceable.ru
 -d videovoiceace.ru
 -d vpn-pro.club
+-d wallda.site
 -d watchextremely-bestsophisticatedfile.best
 -d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
@@ -377,10 +380,10 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es
 -d zeusmedia.info

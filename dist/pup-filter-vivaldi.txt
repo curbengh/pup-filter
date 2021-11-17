@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 17 Nov 2021 00:03:04 +0000
+! Updated: Wed, 17 Nov 2021 12:03:16 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,8 +8,8 @@
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||adslauchgo.xyz$document
-||affiliateland.io$document
 ||aikoo.club$document
+||app-track.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
@@ -91,7 +91,6 @@
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
-||finreporter.net$document
 ||fireapps.cloud$document
 ||funanime.me$document
 ||funny-media.ru$document
@@ -190,6 +189,7 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||money-hero.org$document
+||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
@@ -264,6 +264,7 @@
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
+||recommended-vpns.com$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
@@ -295,6 +296,7 @@
 ||springplanetf.xyz$document
 ||startos.win$document
 ||stickr.co$document
+||stogether.fun$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
@@ -358,6 +360,7 @@
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
 ||vpn-pro.club$document
+||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchquick-bestheavilyfile.best$document
 ||watchrefined-bestextremelyfile.best$document
@@ -374,10 +377,10 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
 ||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document
 ||zeusmedia.info$document

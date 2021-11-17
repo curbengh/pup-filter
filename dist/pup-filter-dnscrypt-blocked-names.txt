@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 17 Nov 2021 00:03:04 +0000
+# Updated: Wed, 17 Nov 2021 12:03:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,8 +8,8 @@
 2021travel.net
 4upgradingstablesafe.work
 adslauchgo.xyz
-affiliateland.io
 aikoo.club
+app-track.club
 appsto.cloud
 appzfirer.biz
 arre.work
@@ -91,7 +91,6 @@ fastspotb.xyz
 fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
-finreporter.net
 fireapps.cloud
 funanime.me
 funny-media.ru
@@ -190,6 +189,7 @@ mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 money-hero.org
+mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
@@ -264,6 +264,7 @@ qfind.net
 quizshein.shop
 rancy.xyz
 real-buy.net
+recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 runadvanced-bestgreatlyfile.best
@@ -295,6 +296,7 @@ spotplanetc.xyz
 springplanetf.xyz
 startos.win
 stickr.co
+stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
@@ -358,6 +360,7 @@ videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
 vpn-pro.club
+wallda.site
 watchextremely-bestsophisticatedfile.best
 watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
@@ -374,10 +377,10 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
 yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es
 zeusmedia.info
