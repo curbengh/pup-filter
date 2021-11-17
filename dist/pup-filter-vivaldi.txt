@@ -1,19 +1,19 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 16 Nov 2021 12:03:52 +0000
+! Updated: Wed, 17 Nov 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||adslauchgo.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
+||atwater.org$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
 ||axisradio.ca$document
@@ -46,7 +46,6 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -99,7 +98,6 @@
 ||funspine.xyz$document
 ||genertellife.it$document
 ||get-your-score.club$document
-||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -108,7 +106,6 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grandencryptions.me$document
-||healthylives.today$document
 ||heatwavereporter.org$document
 ||help4.info$document
 ||hpages.net$document
@@ -132,6 +129,7 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
@@ -142,6 +140,7 @@
 ||juicydataair.ru$document
 ||juicydataalt.ru$document
 ||junesmile.xyz$document
+||keepinfit.net$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -190,10 +189,10 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobyfox.shop$document
 ||money-hero.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document
@@ -223,6 +222,7 @@
 ||performhighlyspeedythefile.vip$document
 ||performhighlyswiftthefile.vip$document
 ||peterhahn.be$document
+||phonesecuritymagic.top$document
 ||photo-explorer.org$document
 ||placefortheupgradesset.work$document
 ||placesiteb.xyz$document
@@ -256,11 +256,10 @@
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
+||profitedsurvey.site$document
 ||profitsurvey365.online$document
 ||promotionclaim.rest$document
-||proprotect.me$document
 ||protect-ios.com$document
-||prtctapp.me$document
 ||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
@@ -279,9 +278,9 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
+||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -334,6 +333,7 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||timefornews.online$document
+||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -357,7 +357,6 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||vpn-pro.club$document
 ||watchextremely-bestsophisticatedfile.best$document
 ||watchquick-bestheavilyfile.best$document

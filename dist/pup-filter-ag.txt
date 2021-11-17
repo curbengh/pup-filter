@@ -1,19 +1,19 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 16 Nov 2021 12:03:52 +0000
+! Updated: Wed, 17 Nov 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||abcscience.xyz$all
 ||adslauchgo.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||arre.work$all
+||atwater.org$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -46,7 +46,6 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -99,7 +98,6 @@
 ||funspine.xyz$all
 ||genertellife.it$all
 ||get-your-score.club$all
-||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||girlsnearyou.online$all
@@ -108,7 +106,6 @@
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
 ||grandencryptions.me$all
-||healthylives.today$all
 ||heatwavereporter.org$all
 ||help4.info$all
 ||hpages.net$all
@@ -132,6 +129,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jetsummer.xyz$all
@@ -142,6 +140,7 @@
 ||juicydataair.ru$all
 ||juicydataalt.ru$all
 ||junesmile.xyz$all
+||keepinfit.net$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -190,10 +189,10 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
-||mobyfox.shop$all
 ||money-hero.org$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
+||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||olivedinflats.space$all
@@ -223,6 +222,7 @@
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
 ||peterhahn.be$all
+||phonesecuritymagic.top$all
 ||photo-explorer.org$all
 ||placefortheupgradesset.work$all
 ||placesiteb.xyz$all
@@ -256,11 +256,10 @@
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
+||profitedsurvey.site$all
 ||profitsurvey365.online$all
 ||promotionclaim.rest$all
-||proprotect.me$all
 ||protect-ios.com$all
-||prtctapp.me$all
 ||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
@@ -279,9 +278,9 @@
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
-||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
+||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -334,6 +333,7 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -357,7 +357,6 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
-||viralsharks.net$all
 ||vpn-pro.club$all
 ||watchextremely-bestsophisticatedfile.best$all
 ||watchquick-bestheavilyfile.best$all

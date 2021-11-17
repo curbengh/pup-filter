@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 16 Nov 2021 12:03:52 +0000
+# Updated: Wed, 17 Nov 2021 00:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,13 +10,13 @@ msFilterList
 #
 -d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d adslauchgo.xyz
 -d affiliateland.io
 -d aikoo.club
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
+-d atwater.org
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -49,7 +49,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -102,7 +101,6 @@ msFilterList
 -d funspine.xyz
 -d genertellife.it
 -d get-your-score.club
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -111,7 +109,6 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
--d healthylives.today
 -d heatwavereporter.org
 -d help4.info
 -d hpages.net
@@ -135,6 +132,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
@@ -145,6 +143,7 @@ msFilterList
 -d juicydataair.ru
 -d juicydataalt.ru
 -d junesmile.xyz
+-d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -193,10 +192,10 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobyfox.shop
 -d money-hero.org
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -226,6 +225,7 @@ msFilterList
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d peterhahn.be
+-d phonesecuritymagic.top
 -d photo-explorer.org
 -d placefortheupgradesset.work
 -d placesiteb.xyz
@@ -259,11 +259,10 @@ msFilterList
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
+-d profitedsurvey.site
 -d profitsurvey365.online
 -d promotionclaim.rest
--d proprotect.me
 -d protect-ios.com
--d prtctapp.me
 -d qfind.net
 -d quizshein.shop
 -d rancy.xyz
@@ -282,9 +281,9 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
--d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
+-d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -337,6 +336,7 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d timefornews.online
+-d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -360,7 +360,6 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
--d viralsharks.net
 -d vpn-pro.club
 -d watchextremely-bestsophisticatedfile.best
 -d watchquick-bestheavilyfile.best

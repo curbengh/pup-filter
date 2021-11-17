@@ -1,19 +1,19 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 16 Nov 2021 12:03:52 +0000
+! Updated: Wed, 17 Nov 2021 00:03:04 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 4upgradingstablesafe.work
-abcscience.xyz
 adslauchgo.xyz
 affiliateland.io
 aikoo.club
 appsto.cloud
 appzfirer.biz
 arre.work
+atwater.org
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -46,7 +46,6 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -99,7 +98,6 @@ funny-media.ru
 funspine.xyz
 genertellife.it
 get-your-score.club
-gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 girlsnearyou.online
@@ -108,7 +106,6 @@ global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
 grandencryptions.me
-healthylives.today
 heatwavereporter.org
 help4.info
 hpages.net
@@ -132,6 +129,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
@@ -142,6 +140,7 @@ juicydataage.ru
 juicydataair.ru
 juicydataalt.ru
 junesmile.xyz
+keepinfit.net
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -190,10 +189,10 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-mobyfox.shop
 money-hero.org
 nettrafficpartners.net
 newbuy.xyz
+newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
@@ -223,6 +222,7 @@ pcsecurity-live.xyz
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 peterhahn.be
+phonesecuritymagic.top
 photo-explorer.org
 placefortheupgradesset.work
 placesiteb.xyz
@@ -256,11 +256,10 @@ premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 producthunter.club
+profitedsurvey.site
 profitsurvey365.online
 promotionclaim.rest
-proprotect.me
 protect-ios.com
-prtctapp.me
 qfind.net
 quizshein.shop
 rancy.xyz
@@ -279,9 +278,9 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sergey-tracks.xyz
-shopin.nyc
 shopnsave.world
 smartideas.pro
+smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -334,6 +333,7 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 timefornews.online
+timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -357,7 +357,6 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
-viralsharks.net
 vpn-pro.club
 watchextremely-bestsophisticatedfile.best
 watchquick-bestheavilyfile.best

@@ -1,19 +1,19 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 16 Nov 2021 12:03:52 +0000
+# Updated: Wed, 17 Nov 2021 00:03:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
+0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -46,7 +46,6 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -99,7 +98,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
 0.0.0.0 get-your-score.club
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 girlsnearyou.online
@@ -108,7 +106,6 @@
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grandencryptions.me
-0.0.0.0 healthylives.today
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
@@ -132,6 +129,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
@@ -142,6 +140,7 @@
 0.0.0.0 juicydataair.ru
 0.0.0.0 juicydataalt.ru
 0.0.0.0 junesmile.xyz
+0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -190,10 +189,10 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobyfox.shop
 0.0.0.0 money-hero.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
@@ -223,6 +222,7 @@
 0.0.0.0 performhighlyspeedythefile.vip
 0.0.0.0 performhighlyswiftthefile.vip
 0.0.0.0 peterhahn.be
+0.0.0.0 phonesecuritymagic.top
 0.0.0.0 photo-explorer.org
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placesiteb.xyz
@@ -256,11 +256,10 @@
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
+0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey365.online
 0.0.0.0 promotionclaim.rest
-0.0.0.0 proprotect.me
 0.0.0.0 protect-ios.com
-0.0.0.0 prtctapp.me
 0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
@@ -279,9 +278,9 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
+0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -334,6 +333,7 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 timefornews.online
+0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -357,7 +357,6 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 watchextremely-bestsophisticatedfile.best
 0.0.0.0 watchquick-bestheavilyfile.best
