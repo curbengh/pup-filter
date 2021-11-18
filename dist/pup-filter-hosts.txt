@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 17 Nov 2021 12:03:16 +0000
+# Updated: Thu, 18 Nov 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 aikoo.club
@@ -46,6 +45,7 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
+0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -64,7 +64,6 @@
 0.0.0.0 curuiositystream.com
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 dealsify.net
 0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -87,7 +86,6 @@
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastspota.xyz
-0.0.0.0 fastspotb.xyz
 0.0.0.0 fastwebb.xyz
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
@@ -139,7 +137,6 @@
 0.0.0.0 juicydataair.ru
 0.0.0.0 juicydataalt.ru
 0.0.0.0 junesmile.xyz
-0.0.0.0 keepinfit.net
 0.0.0.0 koalaautumna.xyz
 0.0.0.0 koalaautumnb.xyz
 0.0.0.0 koalaautumnc.xyz
@@ -178,6 +175,7 @@
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
+0.0.0.0 mistvideo.ru
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
 0.0.0.0 mobi7sea.xyz
@@ -189,10 +187,8 @@
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 money-hero.org
-0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
@@ -255,7 +251,6 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey365.online
 0.0.0.0 promotionclaim.rest
@@ -272,6 +267,7 @@
 0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
 0.0.0.0 seaplaytoo.top
+0.0.0.0 search-exp.online
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -279,9 +275,9 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
-0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -294,7 +290,6 @@
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
-0.0.0.0 startos.win
 0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 storeuberspeedythefile.vip
@@ -305,7 +300,6 @@
 0.0.0.0 streamrecent-bestuberfile.best
 0.0.0.0 streamspeedyintenselythefile.vip
 0.0.0.0 subeamy.pw
-0.0.0.0 summermedia.club
 0.0.0.0 sweetalt.ru
 0.0.0.0 sweetgirls.buzz
 0.0.0.0 synccurrentmostthefile.vip
@@ -359,6 +353,7 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best
@@ -383,4 +378,3 @@
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 zalando-prive.es
-0.0.0.0 zeusmedia.info

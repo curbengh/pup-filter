@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 17 Nov 2021 12:03:16 +0000
+! Updated: Thu, 18 Nov 2021 00:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net^
 ||4upgradingstablesafe.work^
 ||adslauchgo.xyz^
 ||aikoo.club^
@@ -46,6 +45,7 @@
 ||centeramountain.xyz^
 ||centerastar.xyz^
 ||centeravolcano.xyz^
+||chatverse.net^
 ||checkstableaupdatinglinks.work^
 ||chipovysta.pro^
 ||claimrewards.rest^
@@ -64,7 +64,6 @@
 ||curuiositystream.com^
 ||darkview.org^
 ||dayinlife.net^
-||dealsify.net^
 ||discoveryfeed.org^
 ||efladn.club^
 ||elpelades.club^
@@ -87,7 +86,6 @@
 ||fastspinc.xyz^
 ||fastspinf.xyz^
 ||fastspota.xyz^
-||fastspotb.xyz^
 ||fastwebb.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
@@ -139,7 +137,6 @@
 ||juicydataair.ru^
 ||juicydataalt.ru^
 ||junesmile.xyz^
-||keepinfit.net^
 ||koalaautumna.xyz^
 ||koalaautumnb.xyz^
 ||koalaautumnc.xyz^
@@ -178,6 +175,7 @@
 ||media-cloud.ru^
 ||mediaadvanced.ru^
 ||meeryslotspin.xyz^
+||mistvideo.ru^
 ||mobi1mountain.xyz^
 ||mobi1planet.xyz^
 ||mobi7sea.xyz^
@@ -189,10 +187,8 @@
 ||mobiastar.xyz^
 ||mobiavolcano.xyz^
 ||money-hero.org^
-||mybesthealthplan.org^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
-||newsinformer.net^
 ||offerpage.link^
 ||offersearch.info^
 ||olivedinflats.space^
@@ -255,7 +251,6 @@
 ||premium-news-for.me^
 ||press-news-for.me^
 ||prize-messsages.casa^
-||producthunter.club^
 ||profitedsurvey.site^
 ||profitsurvey365.online^
 ||promotionclaim.rest^
@@ -272,6 +267,7 @@
 ||safeguide.net^
 ||savagegrowplus.net^
 ||seaplaytoo.top^
+||search-exp.online^
 ||search4theupdatefree.work^
 ||search4theupgradeset.info^
 ||search4upgradingset.info^
@@ -279,9 +275,9 @@
 ||searchoffers.info^
 ||selectedlab.buzz^
 ||sergey-tracks.xyz^
+||shopin.nyc^
 ||shopnsave.world^
 ||smartideas.pro^
-||smartuv.shop^
 ||software-dealz.de^
 ||sonic-ocean.xyz^
 ||sonic-plains.xyz^
@@ -294,7 +290,6 @@
 ||spotmapf.xyz^
 ||spotplanetc.xyz^
 ||springplanetf.xyz^
-||startos.win^
 ||stickr.co^
 ||stogether.fun^
 ||storeuberspeedythefile.vip^
@@ -305,7 +300,6 @@
 ||streamrecent-bestuberfile.best^
 ||streamspeedyintenselythefile.vip^
 ||subeamy.pw^
-||summermedia.club^
 ||sweetalt.ru^
 ||sweetgirls.buzz^
 ||synccurrentmostthefile.vip^
@@ -359,6 +353,7 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
+||viralsharks.net^
 ||vpn-pro.club^
 ||wallda.site^
 ||watchextremely-bestsophisticatedfile.best^
@@ -383,4 +378,3 @@
 ||yourmoneymachine.cc^
 ||yoursafestgreatplaceupdates.work^
 ||zalando-prive.es^
-||zeusmedia.info^

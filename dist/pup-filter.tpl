@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 17 Nov 2021 12:03:16 +0000
+# Updated: Thu, 18 Nov 2021 00:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
 -d adslauchgo.xyz
 -d aikoo.club
@@ -49,6 +48,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -67,7 +67,6 @@ msFilterList
 -d curuiositystream.com
 -d darkview.org
 -d dayinlife.net
--d dealsify.net
 -d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
@@ -90,7 +89,6 @@ msFilterList
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastspota.xyz
--d fastspotb.xyz
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
@@ -142,7 +140,6 @@ msFilterList
 -d juicydataair.ru
 -d juicydataalt.ru
 -d junesmile.xyz
--d keepinfit.net
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -181,6 +178,7 @@ msFilterList
 -d media-cloud.ru
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
+-d mistvideo.ru
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
 -d mobi7sea.xyz
@@ -192,10 +190,8 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d money-hero.org
--d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -258,7 +254,6 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
 -d profitedsurvey.site
 -d profitsurvey365.online
 -d promotionclaim.rest
@@ -275,6 +270,7 @@ msFilterList
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
+-d search-exp.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -282,9 +278,9 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
+-d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
--d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -297,7 +293,6 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d startos.win
 -d stickr.co
 -d stogether.fun
 -d storeuberspeedythefile.vip
@@ -308,7 +303,6 @@ msFilterList
 -d streamrecent-bestuberfile.best
 -d streamspeedyintenselythefile.vip
 -d subeamy.pw
--d summermedia.club
 -d sweetalt.ru
 -d sweetgirls.buzz
 -d synccurrentmostthefile.vip
@@ -362,6 +356,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d watchextremely-bestsophisticatedfile.best
@@ -386,4 +381,3 @@ msFilterList
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d zalando-prive.es
--d zeusmedia.info
