@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 18 Nov 2021 00:03:01 +0000
+# Updated: Thu, 18 Nov 2021 12:02:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 4upgradingstablesafe.work
 adslauchgo.xyz
 aikoo.club
-app-track.club
 appsto.cloud
 appzfirer.biz
 arre.work
@@ -62,6 +61,7 @@ crowdweightyellow.top
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
+dailyrep.net
 darkview.org
 dayinlife.net
 discoveryfeed.org
