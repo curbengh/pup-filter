@@ -1,13 +1,16 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 18 Nov 2021 12:02:59 +0000
+# Updated: Fri, 19 Nov 2021 00:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 4upgradingstablesafe.work
+abcscience.xyz
 adslauchgo.xyz
 aikoo.club
+android-web.live
 appsto.cloud
 appzfirer.biz
 arre.work
@@ -21,15 +24,14 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
 beinspired.global
+benefiio.org
 bkk755.biz
 bleu-bonheur.fr
 bluetiger.cloud
-boot-upfree-bestuberfile.best
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
-boot-upuber-bestfreefile.best
 brightlifestyle.org
 center-plains.xyz
 center-planet.xyz
@@ -44,7 +46,6 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -64,7 +65,6 @@ curuiositystream.com
 dailyrep.net
 darkview.org
 dayinlife.net
-discoveryfeed.org
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -90,6 +90,7 @@ fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
 fireapps.cloud
+foundnow.net
 funanime.me
 funny-media.ru
 funspine.xyz
@@ -108,7 +109,6 @@ help4.info
 hpages.net
 huge2upgradescentral.work
 humansystemsecurity.top
-imagefind.org
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
@@ -126,7 +126,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
@@ -159,12 +158,10 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
 lltrsknoob.click
-loadfree-bestheavilyfile.best
 louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
@@ -186,9 +183,11 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-money-hero.org
+mobyfox.shop
+mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
+newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
@@ -217,7 +216,6 @@ pandawinterf.xyz
 pcsecurity-live.xyz
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
-peterhahn.be
 phonesecuritymagic.top
 photo-explorer.org
 placefortheupgradesset.work
@@ -251,6 +249,7 @@ ppploanchoices.site
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
+producthunter.club
 profitedsurvey.site
 profitsurvey365.online
 promotionclaim.rest
@@ -275,9 +274,9 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sergey-tracks.xyz
-shopin.nyc
 shopnsave.world
 smartideas.pro
+smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -290,7 +289,6 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
-stickr.co
 stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
@@ -374,7 +372,7 @@ westasea.xyz
 westastar.xyz
 worldwideofficialpromotion.cyou
 your-magazine.me
-yourluckytoday.club
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 zalando-prive.es
+zeusmedia.info

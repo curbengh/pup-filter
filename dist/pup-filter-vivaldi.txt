@@ -1,13 +1,16 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 18 Nov 2021 12:02:59 +0000
+! Updated: Fri, 19 Nov 2021 00:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$document
 ||4upgradingstablesafe.work$document
+||abcscience.xyz$document
 ||adslauchgo.xyz$document
 ||aikoo.club$document
+||android-web.live$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
@@ -21,15 +24,14 @@
 ||be-us-exercise-bikes-ok.live$document
 ||beautinow.nl$document
 ||beinspired.global$document
+||benefiio.org$document
 ||bkk755.biz$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
-||boot-upfree-bestuberfile.best$document
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
 ||boot-uprenewed-bestuberfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
-||boot-upuber-bestfreefile.best$document
 ||brightlifestyle.org$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
@@ -44,7 +46,6 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -64,7 +65,6 @@
 ||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
-||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -90,6 +90,7 @@
 ||findaupgradingurls.work$document
 ||finditquick.online$document
 ||fireapps.cloud$document
+||foundnow.net$document
 ||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
@@ -108,7 +109,6 @@
 ||hpages.net$document
 ||huge2upgradescentral.work$document
 ||humansystemsecurity.top$document
-||imagefind.org$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -126,7 +126,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
@@ -159,12 +158,10 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
 ||lltrsknoob.click$document
-||loadfree-bestheavilyfile.best$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
@@ -186,9 +183,11 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||money-hero.org$document
+||mobyfox.shop$document
+||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document
@@ -217,7 +216,6 @@
 ||pcsecurity-live.xyz$document
 ||performhighlyspeedythefile.vip$document
 ||performhighlyswiftthefile.vip$document
-||peterhahn.be$document
 ||phonesecuritymagic.top$document
 ||photo-explorer.org$document
 ||placefortheupgradesset.work$document
@@ -251,6 +249,7 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||profitedsurvey.site$document
 ||profitsurvey365.online$document
 ||promotionclaim.rest$document
@@ -275,9 +274,9 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
+||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -290,7 +289,6 @@
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
-||stickr.co$document
 ||stogether.fun$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
@@ -374,7 +372,7 @@
 ||westastar.xyz$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
-||yourluckytoday.club$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
 ||zalando-prive.es$document
+||zeusmedia.info$document

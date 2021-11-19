@@ -1,13 +1,16 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 18 Nov 2021 12:02:59 +0000
+# Updated: Fri, 19 Nov 2021 00:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 aikoo.club
+0.0.0.0 android-web.live
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
@@ -21,15 +24,14 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautinow.nl
 0.0.0.0 beinspired.global
+0.0.0.0 benefiio.org
 0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
-0.0.0.0 boot-upfree-bestuberfile.best
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
-0.0.0.0 boot-upuber-bestfreefile.best
 0.0.0.0 brightlifestyle.org
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
@@ -44,7 +46,6 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -64,7 +65,6 @@
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -90,6 +90,7 @@
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 finditquick.online
 0.0.0.0 fireapps.cloud
+0.0.0.0 foundnow.net
 0.0.0.0 funanime.me
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
@@ -108,7 +109,6 @@
 0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 humansystemsecurity.top
-0.0.0.0 imagefind.org
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
@@ -126,7 +126,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jetsummer.xyz
@@ -159,12 +158,10 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
 0.0.0.0 lltrsknoob.click
-0.0.0.0 loadfree-bestheavilyfile.best
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
@@ -186,9 +183,11 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 money-hero.org
+0.0.0.0 mobyfox.shop
+0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
@@ -217,7 +216,6 @@
 0.0.0.0 pcsecurity-live.xyz
 0.0.0.0 performhighlyspeedythefile.vip
 0.0.0.0 performhighlyswiftthefile.vip
-0.0.0.0 peterhahn.be
 0.0.0.0 phonesecuritymagic.top
 0.0.0.0 photo-explorer.org
 0.0.0.0 placefortheupgradesset.work
@@ -251,6 +249,7 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
+0.0.0.0 producthunter.club
 0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey365.online
 0.0.0.0 promotionclaim.rest
@@ -275,9 +274,9 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
+0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -290,7 +289,6 @@
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
-0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
@@ -374,7 +372,7 @@
 0.0.0.0 westastar.xyz
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me
-0.0.0.0 yourluckytoday.club
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 zalando-prive.es
+0.0.0.0 zeusmedia.info

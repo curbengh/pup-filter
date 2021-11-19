@@ -1,16 +1,19 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 18 Nov 2021 12:02:59 +0000
+# Updated: Fri, 19 Nov 2021 00:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
 -d adslauchgo.xyz
 -d aikoo.club
+-d android-web.live
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
@@ -24,15 +27,14 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beautinow.nl
 -d beinspired.global
+-d benefiio.org
 -d bkk755.biz
 -d bleu-bonheur.fr
 -d bluetiger.cloud
--d boot-upfree-bestuberfile.best
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
--d boot-upuber-bestfreefile.best
 -d brightlifestyle.org
 -d center-plains.xyz
 -d center-planet.xyz
@@ -47,7 +49,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -67,7 +68,6 @@ msFilterList
 -d dailyrep.net
 -d darkview.org
 -d dayinlife.net
--d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -93,6 +93,7 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d fireapps.cloud
+-d foundnow.net
 -d funanime.me
 -d funny-media.ru
 -d funspine.xyz
@@ -111,7 +112,6 @@ msFilterList
 -d hpages.net
 -d huge2upgradescentral.work
 -d humansystemsecurity.top
--d imagefind.org
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -129,7 +129,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
@@ -162,12 +161,10 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
 -d lltrsknoob.click
--d loadfree-bestheavilyfile.best
 -d louisvillegigs.net
 -d loveorfun.cc
 -d lubbockeda.org
@@ -189,9 +186,11 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d money-hero.org
+-d mobyfox.shop
+-d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -220,7 +219,6 @@ msFilterList
 -d pcsecurity-live.xyz
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
--d peterhahn.be
 -d phonesecuritymagic.top
 -d photo-explorer.org
 -d placefortheupgradesset.work
@@ -254,6 +252,7 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitedsurvey.site
 -d profitsurvey365.online
 -d promotionclaim.rest
@@ -278,9 +277,9 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
--d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
+-d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -293,7 +292,6 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d stickr.co
 -d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
@@ -377,7 +375,7 @@ msFilterList
 -d westastar.xyz
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
--d yourluckytoday.club
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d zalando-prive.es
+-d zeusmedia.info
