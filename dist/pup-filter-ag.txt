@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 20 Nov 2021 00:03:48 +0000
+! Updated: Sat, 20 Nov 2021 12:02:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
-||adslauchgo.xyz$all
 ||aikoo.club$all
 ||android-web.live$all
 ||app-track.club$all
@@ -113,6 +112,7 @@
 ||huge2upgradescentral.work$all
 ||humansystemsecurity.top$all
 ||initiatecompletelyprecisethefile.vip$all
+||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
 ||initiategreatlyfreethefile.vip$all
 ||initiategreatlyrecentthefile.vip$all
@@ -188,7 +188,6 @@
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
 ||mobyfox.shop$all
-||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
 ||newsinformer.net$all
@@ -332,6 +331,7 @@
 ||theavolcano.xyz$all
 ||thedealexpert.net$all
 ||theirproviderock.top$all
+||thelastpicture.show$all
 ||timefornews.online$all
 ||top-offers2.club$all
 ||topdating.online$all

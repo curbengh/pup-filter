@@ -1,13 +1,12 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 20 Nov 2021 00:03:48 +0000
+# Updated: Sat, 20 Nov 2021 12:02:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 4upgradingstablesafe.work
 abcscience.xyz
-adslauchgo.xyz
 aikoo.club
 android-web.live
 app-track.club
@@ -113,6 +112,7 @@ hpages.net
 huge2upgradescentral.work
 humansystemsecurity.top
 initiatecompletelyprecisethefile.vip
+initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
 initiategreatlyfreethefile.vip
 initiategreatlyrecentthefile.vip
@@ -188,7 +188,6 @@ mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 mobyfox.shop
-mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
@@ -332,6 +331,7 @@ theastar.xyz
 theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
+thelastpicture.show
 timefornews.online
 top-offers2.club
 topdating.online

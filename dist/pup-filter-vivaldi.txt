@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 20 Nov 2021 00:03:48 +0000
+! Updated: Sat, 20 Nov 2021 12:02:17 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
-||adslauchgo.xyz$document
 ||aikoo.club$document
 ||android-web.live$document
 ||app-track.club$document
@@ -113,6 +112,7 @@
 ||huge2upgradescentral.work$document
 ||humansystemsecurity.top$document
 ||initiatecompletelyprecisethefile.vip$document
+||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
 ||initiategreatlyfreethefile.vip$document
 ||initiategreatlyrecentthefile.vip$document
@@ -188,7 +188,6 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobyfox.shop$document
-||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
@@ -332,6 +331,7 @@
 ||theavolcano.xyz$document
 ||thedealexpert.net$document
 ||theirproviderock.top$document
+||thelastpicture.show$document
 ||timefornews.online$document
 ||top-offers2.club$document
 ||topdating.online$document
