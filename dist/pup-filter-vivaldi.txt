@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 19 Nov 2021 12:02:52 +0000
+! Updated: Sat, 20 Nov 2021 00:03:48 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||adslauchgo.xyz$document
@@ -47,6 +46,7 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
+||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -63,8 +63,11 @@
 ||curfiositystream.com$document
 ||curiositydstream.com$document
 ||curuiositystream.com$document
+||dailymoneysaver.money$document
 ||darkview.org$document
 ||dayinlife.net$document
+||dealsify.net$document
+||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -125,6 +128,7 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jetsummer.xyz$document
@@ -157,6 +161,7 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
@@ -215,6 +220,7 @@
 ||pcsecurity-live.xyz$document
 ||performhighlyspeedythefile.vip$document
 ||performhighlyswiftthefile.vip$document
+||peterhahn.be$document
 ||phonesecuritymagic.top$document
 ||photo-explorer.org$document
 ||placefortheupgradesset.work$document
@@ -244,7 +250,6 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
-||ppploanchoices.site$document
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
@@ -273,6 +278,7 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||smartideas.pro$document
 ||smartuv.shop$document
@@ -288,6 +294,7 @@
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
+||stickr.co$document
 ||stogether.fun$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
@@ -326,7 +333,6 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||timefornews.online$document
-||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -350,7 +356,6 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document

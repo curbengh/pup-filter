@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 19 Nov 2021 12:02:52 +0000
+! Updated: Sat, 20 Nov 2021 00:03:48 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||adslauchgo.xyz$all
@@ -47,6 +46,7 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -63,8 +63,11 @@
 ||curfiositystream.com$all
 ||curiositydstream.com$all
 ||curuiositystream.com$all
+||dailymoneysaver.money$all
 ||darkview.org$all
 ||dayinlife.net$all
+||dealsify.net$all
+||discoveryfeed.org$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -125,6 +128,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jetsummer.xyz$all
@@ -157,6 +161,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -215,6 +220,7 @@
 ||pcsecurity-live.xyz$all
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
+||peterhahn.be$all
 ||phonesecuritymagic.top$all
 ||photo-explorer.org$all
 ||placefortheupgradesset.work$all
@@ -244,7 +250,6 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
-||ppploanchoices.site$all
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
@@ -273,6 +278,7 @@
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sergey-tracks.xyz$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
 ||smartuv.shop$all
@@ -288,6 +294,7 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
+||stickr.co$all
 ||stogether.fun$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
@@ -326,7 +333,6 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
-||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -350,7 +356,6 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
-||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all

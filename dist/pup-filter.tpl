@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 19 Nov 2021 12:02:52 +0000
+# Updated: Sat, 20 Nov 2021 00:03:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d adslauchgo.xyz
@@ -50,6 +49,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -66,8 +66,11 @@ msFilterList
 -d curfiositystream.com
 -d curiositydstream.com
 -d curuiositystream.com
+-d dailymoneysaver.money
 -d darkview.org
 -d dayinlife.net
+-d dealsify.net
+-d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -128,6 +131,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jetsummer.xyz
@@ -160,6 +164,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -218,6 +223,7 @@ msFilterList
 -d pcsecurity-live.xyz
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
+-d peterhahn.be
 -d phonesecuritymagic.top
 -d photo-explorer.org
 -d placefortheupgradesset.work
@@ -247,7 +253,6 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
--d ppploanchoices.site
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
@@ -276,6 +281,7 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
+-d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
 -d smartuv.shop
@@ -291,6 +297,7 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
+-d stickr.co
 -d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
@@ -329,7 +336,6 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d timefornews.online
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -353,7 +359,6 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
--d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d watchextremely-bestsophisticatedfile.best

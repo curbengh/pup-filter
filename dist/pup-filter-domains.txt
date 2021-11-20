@@ -1,11 +1,10 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 19 Nov 2021 12:02:52 +0000
+# Updated: Sat, 20 Nov 2021 00:03:48 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 4upgradingstablesafe.work
 abcscience.xyz
 adslauchgo.xyz
@@ -47,6 +46,7 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
+chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -63,8 +63,11 @@ crowdweightyellow.top
 curfiositystream.com
 curiositydstream.com
 curuiositystream.com
+dailymoneysaver.money
 darkview.org
 dayinlife.net
+dealsify.net
+discoveryfeed.org
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -125,6 +128,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jetsummer.xyz
@@ -157,6 +161,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -215,6 +220,7 @@ pandawinterf.xyz
 pcsecurity-live.xyz
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
+peterhahn.be
 phonesecuritymagic.top
 photo-explorer.org
 placefortheupgradesset.work
@@ -244,7 +250,6 @@ playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
-ppploanchoices.site
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
@@ -273,6 +278,7 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sergey-tracks.xyz
+shopin.nyc
 shopnsave.world
 smartideas.pro
 smartuv.shop
@@ -288,6 +294,7 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
+stickr.co
 stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
@@ -326,7 +333,6 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 timefornews.online
-timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -350,7 +356,6 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
-viralsharks.net
 vpn-pro.club
 wallda.site
 watchextremely-bestsophisticatedfile.best
