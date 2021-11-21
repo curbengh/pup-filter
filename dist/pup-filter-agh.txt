@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 21 Nov 2021 00:02:45 +0000
+! Updated: Sun, 21 Nov 2021 12:02:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||4upgradingstablesafe.work^
 ||aikoo.club^
 ||android-web.live^
-||app-track.club^
 ||appsto.cloud^
 ||appzfirer.biz^
 ||arre.work^
@@ -125,7 +124,6 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||jojomamanbebe.ie^
@@ -248,14 +246,12 @@
 ||premium-news-for.me^
 ||press-news-for.me^
 ||prize-messsages.casa^
-||profitsurvey.live^
 ||promotionclaim.rest^
 ||protect-ios.com^
 ||qfind.net^
 ||quizshein.shop^
 ||rancy.xyz^
 ||real-buy.net^
-||recommended-vpns.com^
 ||rewardgivingrealspecialoffer.cyou^
 ||richsurvey.live^
 ||runadvanced-bestgreatlyfile.best^
@@ -287,7 +283,6 @@
 ||spotplanetc.xyz^
 ||springplanetf.xyz^
 ||stickr.co^
-||stogether.fun^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
 ||streamintenselyrefinedthefile.vip^
@@ -322,7 +317,6 @@
 ||theavolcano.xyz^
 ||thedealexpert.net^
 ||theirproviderock.top^
-||thelastpicture.show^
 ||timefornews.online^
 ||top-offers2.club^
 ||topdating.online^

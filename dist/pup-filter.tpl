@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 21 Nov 2021 00:02:45 +0000
+# Updated: Sun, 21 Nov 2021 12:02:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d aikoo.club
 -d android-web.live
--d app-track.club
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
@@ -128,7 +127,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -251,14 +249,12 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
--d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d real-buy.net
--d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
@@ -290,7 +286,6 @@ msFilterList
 -d spotplanetc.xyz
 -d springplanetf.xyz
 -d stickr.co
--d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -325,7 +320,6 @@ msFilterList
 -d theavolcano.xyz
 -d thedealexpert.net
 -d theirproviderock.top
--d thelastpicture.show
 -d timefornews.online
 -d top-offers2.club
 -d topdating.online

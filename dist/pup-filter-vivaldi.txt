@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 21 Nov 2021 00:02:45 +0000
+! Updated: Sun, 21 Nov 2021 12:02:36 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||4upgradingstablesafe.work$document
 ||aikoo.club$document
 ||android-web.live$document
-||app-track.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
@@ -125,7 +124,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -248,14 +246,12 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
-||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||real-buy.net$document
-||recommended-vpns.com$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
@@ -287,7 +283,6 @@
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
 ||stickr.co$document
-||stogether.fun$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamintenselyrefinedthefile.vip$document
@@ -322,7 +317,6 @@
 ||theavolcano.xyz$document
 ||thedealexpert.net$document
 ||theirproviderock.top$document
-||thelastpicture.show$document
 ||timefornews.online$document
 ||top-offers2.club$document
 ||topdating.online$document
