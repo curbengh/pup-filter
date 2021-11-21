@@ -1,12 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 20 Nov 2021 12:02:17 +0000
+# Updated: Sun, 21 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
-0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 android-web.live
 0.0.0.0 app-track.club
@@ -29,7 +29,6 @@
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
-0.0.0.0 boot-uprenewed-bestuberfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 brightlifestyle.org
 0.0.0.0 center-plains.xyz
@@ -66,7 +65,6 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -97,7 +95,6 @@
 0.0.0.0 funny-media.ru
 0.0.0.0 funspine.xyz
 0.0.0.0 genertellife.it
-0.0.0.0 get-your-score.club
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 girlsnearyou.online
@@ -131,7 +128,6 @@
 0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
-0.0.0.0 jetsummer.xyz
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 juicydataadvance.ru
@@ -252,9 +248,7 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitsurvey.live
-0.0.0.0 profitsurvey365.online
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -269,7 +263,6 @@
 0.0.0.0 safeguide.net
 0.0.0.0 savagegrowplus.net
 0.0.0.0 seaplaytoo.top
-0.0.0.0 search-exp.online
 0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
@@ -306,10 +299,8 @@
 0.0.0.0 sweetalt.ru
 0.0.0.0 sweetgirls.buzz
 0.0.0.0 synccurrentmostthefile.vip
-0.0.0.0 synclatestintenselythefile.vip
 0.0.0.0 syncmostprecisethefile.vip
 0.0.0.0 syncnewestmostthefile.vip
-0.0.0.0 syncnewestuberthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
@@ -356,10 +347,10 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best
-0.0.0.0 watchquick-bestheavilyfile.best
 0.0.0.0 watchrefined-bestextremelyfile.best
 0.0.0.0 web-security.ml
 0.0.0.0 webtactics.ca

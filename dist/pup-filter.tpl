@@ -1,15 +1,15 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 20 Nov 2021 12:02:17 +0000
+# Updated: Sun, 21 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d 4upgradingstablesafe.work
--d abcscience.xyz
 -d aikoo.club
 -d android-web.live
 -d app-track.club
@@ -32,7 +32,6 @@ msFilterList
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
--d boot-uprenewed-bestuberfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d brightlifestyle.org
 -d center-plains.xyz
@@ -69,7 +68,6 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
--d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -100,7 +98,6 @@ msFilterList
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
--d get-your-score.club
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -134,7 +131,6 @@ msFilterList
 -d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
--d jetsummer.xyz
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d juicydataadvance.ru
@@ -255,9 +251,7 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
 -d profitsurvey.live
--d profitsurvey365.online
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -272,7 +266,6 @@ msFilterList
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
--d search-exp.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
@@ -309,10 +302,8 @@ msFilterList
 -d sweetalt.ru
 -d sweetgirls.buzz
 -d synccurrentmostthefile.vip
--d synclatestintenselythefile.vip
 -d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
--d syncnewestuberthefile.vip
 -d syncrecentintenselythefile.vip
 -d syncubercurrentfiles.best
 -d syssysupdate.top
@@ -359,10 +350,10 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d watchextremely-bestsophisticatedfile.best
--d watchquick-bestheavilyfile.best
 -d watchrefined-bestextremelyfile.best
 -d web-security.ml
 -d webtactics.ca

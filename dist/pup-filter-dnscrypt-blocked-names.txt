@@ -1,12 +1,12 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 20 Nov 2021 12:02:17 +0000
+# Updated: Sun, 21 Nov 2021 00:02:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 4upgradingstablesafe.work
-abcscience.xyz
 aikoo.club
 android-web.live
 app-track.club
@@ -29,7 +29,6 @@ bleu-bonheur.fr
 bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
-boot-uprenewed-bestuberfile.best
 boot-upsophisticated-bestoverlyfile.best
 brightlifestyle.org
 center-plains.xyz
@@ -66,7 +65,6 @@ dailymoneysaver.money
 darkview.org
 dayinlife.net
 dealsify.net
-discoveryfeed.org
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -97,7 +95,6 @@ funanime.me
 funny-media.ru
 funspine.xyz
 genertellife.it
-get-your-score.club
 getvideoabc.ru
 getvideoall.ru
 girlsnearyou.online
@@ -131,7 +128,6 @@ intelectaction.ru
 investinfo.net
 ipaint.us
 ironprovpn.me
-jetsummer.xyz
 jojomamanbebe.ie
 joyspotmap.xyz
 juicydataadvance.ru
@@ -252,9 +248,7 @@ playwinterf.xyz
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
-producthunter.club
 profitsurvey.live
-profitsurvey365.online
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -269,7 +263,6 @@ rungreatly-bestadvancedfile.best
 safeguide.net
 savagegrowplus.net
 seaplaytoo.top
-search-exp.online
 search4theupdatefree.work
 search4theupgradeset.info
 search4upgradingset.info
@@ -306,10 +299,8 @@ subeamy.pw
 sweetalt.ru
 sweetgirls.buzz
 synccurrentmostthefile.vip
-synclatestintenselythefile.vip
 syncmostprecisethefile.vip
 syncnewestmostthefile.vip
-syncnewestuberthefile.vip
 syncrecentintenselythefile.vip
 syncubercurrentfiles.best
 syssysupdate.top
@@ -356,10 +347,10 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
+viralsharks.net
 vpn-pro.club
 wallda.site
 watchextremely-bestsophisticatedfile.best
-watchquick-bestheavilyfile.best
 watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca

@@ -1,12 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 20 Nov 2021 12:02:17 +0000
+! Updated: Sun, 21 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||4upgradingstablesafe.work$all
-||abcscience.xyz$all
 ||aikoo.club$all
 ||android-web.live$all
 ||app-track.club$all
@@ -29,7 +29,6 @@
 ||bluetiger.cloud$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
-||boot-uprenewed-bestuberfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
 ||brightlifestyle.org$all
 ||center-plains.xyz$all
@@ -66,7 +65,6 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
-||discoveryfeed.org$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -97,7 +95,6 @@
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
-||get-your-score.club$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||girlsnearyou.online$all
@@ -131,7 +128,6 @@
 ||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
-||jetsummer.xyz$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||juicydataadvance.ru$all
@@ -252,9 +248,7 @@
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
-||producthunter.club$all
 ||profitsurvey.live$all
-||profitsurvey365.online$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -269,7 +263,6 @@
 ||safeguide.net$all
 ||savagegrowplus.net$all
 ||seaplaytoo.top$all
-||search-exp.online$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
@@ -306,10 +299,8 @@
 ||sweetalt.ru$all
 ||sweetgirls.buzz$all
 ||synccurrentmostthefile.vip$all
-||synclatestintenselythefile.vip$all
 ||syncmostprecisethefile.vip$all
 ||syncnewestmostthefile.vip$all
-||syncnewestuberthefile.vip$all
 ||syncrecentintenselythefile.vip$all
 ||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
@@ -356,10 +347,10 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
+||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all
-||watchquick-bestheavilyfile.best$all
 ||watchrefined-bestextremelyfile.best$all
 ||web-security.ml$all
 ||webtactics.ca$all

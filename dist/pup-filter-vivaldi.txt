@@ -1,12 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 20 Nov 2021 12:02:17 +0000
+! Updated: Sun, 21 Nov 2021 00:02:45 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$document
 ||4upgradingstablesafe.work$document
-||abcscience.xyz$document
 ||aikoo.club$document
 ||android-web.live$document
 ||app-track.club$document
@@ -29,7 +29,6 @@
 ||bluetiger.cloud$document
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
-||boot-uprenewed-bestuberfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||brightlifestyle.org$document
 ||center-plains.xyz$document
@@ -66,7 +65,6 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
-||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -97,7 +95,6 @@
 ||funny-media.ru$document
 ||funspine.xyz$document
 ||genertellife.it$document
-||get-your-score.club$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -131,7 +128,6 @@
 ||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
-||jetsummer.xyz$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||juicydataadvance.ru$document
@@ -252,9 +248,7 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
-||producthunter.club$document
 ||profitsurvey.live$document
-||profitsurvey365.online$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
@@ -269,7 +263,6 @@
 ||safeguide.net$document
 ||savagegrowplus.net$document
 ||seaplaytoo.top$document
-||search-exp.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
@@ -306,10 +299,8 @@
 ||sweetalt.ru$document
 ||sweetgirls.buzz$document
 ||synccurrentmostthefile.vip$document
-||synclatestintenselythefile.vip$document
 ||syncmostprecisethefile.vip$document
 ||syncnewestmostthefile.vip$document
-||syncnewestuberthefile.vip$document
 ||syncrecentintenselythefile.vip$document
 ||syncubercurrentfiles.best$document
 ||syssysupdate.top$document
@@ -356,10 +347,10 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
+||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
-||watchquick-bestheavilyfile.best$document
 ||watchrefined-bestextremelyfile.best$document
 ||web-security.ml$document
 ||webtactics.ca$document
