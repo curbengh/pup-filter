@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 21 Nov 2021 12:02:36 +0000
+! Updated: Mon, 22 Nov 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||aikoo.club$document
 ||android-web.live$document
@@ -43,7 +42,6 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -64,6 +62,7 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
+||discoveryfeed.org$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -246,11 +245,13 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
 ||quizshein.shop$document
 ||rancy.xyz$document
+||randompromotion.rest$document
 ||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
@@ -318,6 +319,7 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||timefornews.online$document
+||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -341,11 +343,9 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
-||watchrefined-bestextremelyfile.best$document
 ||web-security.ml$document
 ||webtactics.ca$document
 ||west1asteroid.xyz$document
@@ -363,5 +363,4 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||zalando-prive.es$document
 ||zeusmedia.info$document

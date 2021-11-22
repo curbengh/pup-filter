@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 21 Nov 2021 12:02:36 +0000
+! Updated: Mon, 22 Nov 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||4upgradingstablesafe.work$all
 ||aikoo.club$all
 ||android-web.live$all
@@ -43,7 +42,6 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -64,6 +62,7 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
+||discoveryfeed.org$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -246,11 +245,13 @@
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
+||randompromotion.rest$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||richsurvey.live$all
@@ -318,6 +319,7 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -341,11 +343,9 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
-||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all
-||watchrefined-bestextremelyfile.best$all
 ||web-security.ml$all
 ||webtactics.ca$all
 ||west1asteroid.xyz$all
@@ -363,5 +363,4 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||zalando-prive.es$all
 ||zeusmedia.info$all

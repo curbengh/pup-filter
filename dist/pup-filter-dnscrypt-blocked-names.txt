@@ -1,11 +1,10 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 21 Nov 2021 12:02:36 +0000
+# Updated: Mon, 22 Nov 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 4upgradingstablesafe.work
 aikoo.club
 android-web.live
@@ -43,7 +42,6 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -64,6 +62,7 @@ dailymoneysaver.money
 darkview.org
 dayinlife.net
 dealsify.net
+discoveryfeed.org
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -246,11 +245,13 @@ playwinterf.xyz
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
+producthunter.club
 promotionclaim.rest
 protect-ios.com
 qfind.net
 quizshein.shop
 rancy.xyz
+randompromotion.rest
 real-buy.net
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
@@ -318,6 +319,7 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 timefornews.online
+timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -341,11 +343,9 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
-viralsharks.net
 vpn-pro.club
 wallda.site
 watchextremely-bestsophisticatedfile.best
-watchrefined-bestextremelyfile.best
 web-security.ml
 webtactics.ca
 west1asteroid.xyz
@@ -363,5 +363,4 @@ worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-zalando-prive.es
 zeusmedia.info
