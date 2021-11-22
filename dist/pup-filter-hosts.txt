@@ -1,16 +1,16 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 22 Nov 2021 00:02:43 +0000
+# Updated: Mon, 22 Nov 2021 12:03:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 4upgradingstablesafe.work
+0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 android-web.live
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
-0.0.0.0 arre.work
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
@@ -254,7 +254,6 @@
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net

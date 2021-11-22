@@ -1,16 +1,16 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 22 Nov 2021 00:02:43 +0000
+! Updated: Mon, 22 Nov 2021 12:03:09 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||4upgradingstablesafe.work$all
+||affiliateland.io$all
 ||aikoo.club$all
 ||android-web.live$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
-||arre.work$all
 ||atwater.org$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
@@ -254,7 +254,6 @@
 ||randompromotion.rest$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
-||richsurvey.live$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
