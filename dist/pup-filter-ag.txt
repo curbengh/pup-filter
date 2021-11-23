@@ -1,16 +1,20 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 23 Nov 2021 00:02:57 +0000
+! Updated: Tue, 23 Nov 2021 12:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||4upgradingstablesafe.work$all
+||abcscience.xyz$all
+||adslauchgo.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
 ||android-web.live$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||atwater.org$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
@@ -42,6 +46,7 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -79,7 +84,6 @@
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||exploreshops.net$all
-||fast-app.xyz$all
 ||fastfactsonline.co$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
@@ -93,7 +97,6 @@
 ||funny-media.ru$all
 ||funspine.xyz$all
 ||genertellife.it$all
-||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||girlsnearyou.online$all
@@ -124,6 +127,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -171,6 +175,7 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mistvideo.ru$all
+||mobi1crater.xyz$all
 ||mobi1mountain.xyz$all
 ||mobi1planet.xyz$all
 ||mobi7sea.xyz$all
@@ -249,12 +254,12 @@
 ||producthunter.club$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
-||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||randompromotion.rest$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
@@ -284,6 +289,7 @@
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
 ||stickr.co$all
+||stogether.fun$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
@@ -319,7 +325,6 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
-||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -343,6 +348,7 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
+||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||watchextremely-bestsophisticatedfile.best$all

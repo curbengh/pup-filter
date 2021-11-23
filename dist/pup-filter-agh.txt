@@ -1,16 +1,20 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 23 Nov 2021 00:02:57 +0000
+! Updated: Tue, 23 Nov 2021 12:03:01 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net^
 ||4upgradingstablesafe.work^
+||abcscience.xyz^
+||adslauchgo.xyz^
 ||affiliateland.io^
 ||aikoo.club^
 ||android-web.live^
 ||appsto.cloud^
 ||appzfirer.biz^
+||arre.work^
 ||atwater.org^
 ||auto-car-search.site^
 ||auto-insurance-search.site^
@@ -42,6 +46,7 @@
 ||centeramountain.xyz^
 ||centerastar.xyz^
 ||centeravolcano.xyz^
+||chatverse.net^
 ||checkstableaupdatinglinks.work^
 ||chipovysta.pro^
 ||claimrewards.rest^
@@ -79,7 +84,6 @@
 ||enjoyastar.xyz^
 ||enjoyavolcano.xyz^
 ||exploreshops.net^
-||fast-app.xyz^
 ||fastfactsonline.co^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
@@ -93,7 +97,6 @@
 ||funny-media.ru^
 ||funspine.xyz^
 ||genertellife.it^
-||gettheraiceheadreliefhat.io^
 ||getvideoabc.ru^
 ||getvideoall.ru^
 ||girlsnearyou.online^
@@ -124,6 +127,7 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
+||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||jojomamanbebe.ie^
@@ -171,6 +175,7 @@
 ||mediaadvanced.ru^
 ||meeryslotspin.xyz^
 ||mistvideo.ru^
+||mobi1crater.xyz^
 ||mobi1mountain.xyz^
 ||mobi1planet.xyz^
 ||mobi7sea.xyz^
@@ -249,12 +254,12 @@
 ||producthunter.club^
 ||promotionclaim.rest^
 ||protect-ios.com^
-||qfind.net^
 ||quizshein.shop^
 ||rancy.xyz^
 ||randompromotion.rest^
 ||real-buy.net^
 ||rewardgivingrealspecialoffer.cyou^
+||richsurvey.live^
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
 ||safeguide.net^
@@ -284,6 +289,7 @@
 ||spotplanetc.xyz^
 ||springplanetf.xyz^
 ||stickr.co^
+||stogether.fun^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
 ||streamintenselyrefinedthefile.vip^
@@ -319,7 +325,6 @@
 ||thedealexpert.net^
 ||theirproviderock.top^
 ||timefornews.online^
-||timesamerica.net^
 ||top-offers2.club^
 ||topdating.online^
 ||tracking-landers.xyz^
@@ -343,6 +348,7 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
+||viralsharks.net^
 ||vpn-pro.club^
 ||wallda.site^
 ||watchextremely-bestsophisticatedfile.best^

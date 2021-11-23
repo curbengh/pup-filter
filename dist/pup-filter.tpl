@@ -1,19 +1,23 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 23 Nov 2021 00:02:57 +0000
+# Updated: Tue, 23 Nov 2021 12:03:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d 4upgradingstablesafe.work
+-d abcscience.xyz
+-d adslauchgo.xyz
 -d affiliateland.io
 -d aikoo.club
 -d android-web.live
 -d appsto.cloud
 -d appzfirer.biz
+-d arre.work
 -d atwater.org
 -d auto-car-search.site
 -d auto-insurance-search.site
@@ -45,6 +49,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -82,7 +87,6 @@ msFilterList
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d exploreshops.net
--d fast-app.xyz
 -d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
@@ -96,7 +100,6 @@ msFilterList
 -d funny-media.ru
 -d funspine.xyz
 -d genertellife.it
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -127,6 +130,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -174,6 +178,7 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mistvideo.ru
+-d mobi1crater.xyz
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
 -d mobi7sea.xyz
@@ -252,12 +257,12 @@ msFilterList
 -d producthunter.club
 -d promotionclaim.rest
 -d protect-ios.com
--d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d randompromotion.rest
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -287,6 +292,7 @@ msFilterList
 -d spotplanetc.xyz
 -d springplanetf.xyz
 -d stickr.co
+-d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -322,7 +328,6 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d timefornews.online
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -346,6 +351,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d watchextremely-bestsophisticatedfile.best
