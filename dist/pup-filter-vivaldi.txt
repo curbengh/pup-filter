@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 24 Nov 2021 00:03:34 +0000
+! Updated: Wed, 24 Nov 2021 12:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,12 +9,10 @@
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||adslauchgo.xyz$document
-||affiliateland.io$document
 ||aikoo.club$document
 ||android-web.live$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
-||arre.work$document
 ||atwater.org$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
@@ -64,6 +62,7 @@
 ||curiositydstream.com$document
 ||curuiositystream.com$document
 ||dailymoneysaver.money$document
+||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
@@ -187,12 +186,14 @@
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
 ||mobyfox.shop$document
+||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
 ||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||olivedinflats.space$document
+||paint-lion-history-loud.xyz$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
@@ -253,12 +254,15 @@
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
+||profitedsurvey.site$document
+||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||quizshein.shop$document
 ||rancy.xyz$document
 ||randompromotion.rest$document
 ||real-buy.net$document
+||recommended-vpns.com$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
@@ -370,4 +374,5 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document
 ||zeusmedia.info$document

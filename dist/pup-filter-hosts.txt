@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 24 Nov 2021 00:03:34 +0000
+# Updated: Wed, 24 Nov 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,12 +9,10 @@
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
 0.0.0.0 adslauchgo.xyz
-0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 android-web.live
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
-0.0.0.0 arre.work
 0.0.0.0 atwater.org
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
@@ -64,6 +62,7 @@
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
 0.0.0.0 dailymoneysaver.money
+0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
@@ -187,12 +186,14 @@
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mobyfox.shop
+0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
 0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
+0.0.0.0 paint-lion-history-loud.xyz
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
@@ -253,12 +254,15 @@
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
+0.0.0.0 profitedsurvey.site
+0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
+0.0.0.0 recommended-vpns.com
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
@@ -370,4 +374,5 @@
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es
 0.0.0.0 zeusmedia.info

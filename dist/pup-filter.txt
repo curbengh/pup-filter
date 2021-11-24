@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 24 Nov 2021 00:03:34 +0000
+! Updated: Wed, 24 Nov 2021 12:03:03 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,12 +9,10 @@
 4upgradingstablesafe.work
 abcscience.xyz
 adslauchgo.xyz
-affiliateland.io
 aikoo.club
 android-web.live
 appsto.cloud
 appzfirer.biz
-arre.work
 atwater.org
 auto-car-search.site
 auto-insurance-search.site
@@ -64,6 +62,7 @@ curfiositystream.com
 curiositydstream.com
 curuiositystream.com
 dailymoneysaver.money
+dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
@@ -187,12 +186,14 @@ mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
 mobyfox.shop
+mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
 newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
+paint-lion-history-loud.xyz
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
@@ -253,12 +254,15 @@ premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 producthunter.club
+profitedsurvey.site
+profitsurvey.live
 promotionclaim.rest
 protect-ios.com
 quizshein.shop
 rancy.xyz
 randompromotion.rest
 real-buy.net
+recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 runadvanced-bestgreatlyfile.best
@@ -370,4 +374,5 @@ worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es
 zeusmedia.info

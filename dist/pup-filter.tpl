@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 24 Nov 2021 00:03:34 +0000
+# Updated: Wed, 24 Nov 2021 12:03:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,12 +12,10 @@ msFilterList
 -d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d adslauchgo.xyz
--d affiliateland.io
 -d aikoo.club
 -d android-web.live
 -d appsto.cloud
 -d appzfirer.biz
--d arre.work
 -d atwater.org
 -d auto-car-search.site
 -d auto-insurance-search.site
@@ -67,6 +65,7 @@ msFilterList
 -d curiositydstream.com
 -d curuiositystream.com
 -d dailymoneysaver.money
+-d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
@@ -190,12 +189,14 @@ msFilterList
 -d mobiastar.xyz
 -d mobiavolcano.xyz
 -d mobyfox.shop
+-d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
+-d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -256,12 +257,15 @@ msFilterList
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
+-d profitedsurvey.site
+-d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
 -d quizshein.shop
 -d rancy.xyz
 -d randompromotion.rest
 -d real-buy.net
+-d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
@@ -373,4 +377,5 @@ msFilterList
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es
 -d zeusmedia.info
