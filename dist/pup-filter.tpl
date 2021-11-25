@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 00:03:23 +0000
+# Updated: Thu, 25 Nov 2021 12:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@ msFilterList
 -d adslauchgo.xyz
 -d aikoo.club
 -d android-web.live
+-d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
 -d atwater.org
@@ -33,7 +34,6 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
--d brightlifestyle.org
 -d center-plains.xyz
 -d center-planet.xyz
 -d center1plains.xyz
@@ -47,11 +47,9 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
--d coatofarms.nyc
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
@@ -69,6 +67,7 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
+-d deepapp.click
 -d discoveryfeed.org
 -d efladn.club
 -d elpelades.club
@@ -81,8 +80,10 @@ msFilterList
 -d enjoy7asteroid.xyz
 -d enjoy7crater.xyz
 -d enjoy7mountain.xyz
+-d enjoyacoast.xyz
 -d enjoyacrater.xyz
 -d enjoyaocean.xyz
+-d enjoyasky.xyz
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d exploreshops.net
@@ -161,7 +162,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -177,7 +177,6 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mistvideo.ru
--d mobi1crater.xyz
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
 -d mobi7sea.xyz
@@ -192,7 +191,6 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -258,15 +256,14 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitablesurvey.site
--d profitedsurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
+-d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d randompromotion.rest
 -d real-buy.net
--d recommended-vpns.com
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
@@ -297,7 +294,6 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d stickr.co
 -d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
@@ -313,7 +309,6 @@ msFilterList
 -d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
 -d syncrecentintenselythefile.vip
--d syncubercurrentfiles.best
 -d syssysupdate.top
 -d systemupdateme.solutions
 -d thanksyoursupport.club
@@ -334,6 +329,7 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d timefornews.online
+-d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -374,9 +370,9 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
+-d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d zalando-prive.es
 -d zeusmedia.info

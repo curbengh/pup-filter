@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 25 Nov 2021 00:03:23 +0000
+! Updated: Thu, 25 Nov 2021 12:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@
 ||adslauchgo.xyz$all
 ||aikoo.club$all
 ||android-web.live$all
+||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||atwater.org$all
@@ -30,7 +31,6 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
-||brightlifestyle.org$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
 ||center1plains.xyz$all
@@ -44,11 +44,9 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
-||coatofarms.nyc$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
@@ -66,6 +64,7 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
+||deepapp.click$all
 ||discoveryfeed.org$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -78,8 +77,10 @@
 ||enjoy7asteroid.xyz$all
 ||enjoy7crater.xyz$all
 ||enjoy7mountain.xyz$all
+||enjoyacoast.xyz$all
 ||enjoyacrater.xyz$all
 ||enjoyaocean.xyz$all
+||enjoyasky.xyz$all
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||exploreshops.net$all
@@ -158,7 +159,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -174,7 +174,6 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mistvideo.ru$all
-||mobi1crater.xyz$all
 ||mobi1mountain.xyz$all
 ||mobi1planet.xyz$all
 ||mobi7sea.xyz$all
@@ -189,7 +188,6 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||olivedinflats.space$all
@@ -255,15 +253,14 @@
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
-||profitedsurvey.site$all
 ||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
+||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||randompromotion.rest$all
 ||real-buy.net$all
-||recommended-vpns.com$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||richsurvey.live$all
 ||runadvanced-bestgreatlyfile.best$all
@@ -294,7 +291,6 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
-||stickr.co$all
 ||stogether.fun$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
@@ -310,7 +306,6 @@
 ||syncmostprecisethefile.vip$all
 ||syncnewestmostthefile.vip$all
 ||syncrecentintenselythefile.vip$all
-||syncubercurrentfiles.best$all
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
 ||thanksyoursupport.club$all
@@ -331,6 +326,7 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -371,9 +367,9 @@
 ||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
+||winnerz.icu$all
 ||worldwideofficialpromotion.cyou$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||zalando-prive.es$all
 ||zeusmedia.info$all

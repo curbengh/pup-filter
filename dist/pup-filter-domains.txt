@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 00:03:23 +0000
+# Updated: Thu, 25 Nov 2021 12:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ abcscience.xyz
 adslauchgo.xyz
 aikoo.club
 android-web.live
+aphicus.xyz
 appsto.cloud
 appzfirer.biz
 atwater.org
@@ -30,7 +31,6 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
-brightlifestyle.org
 center-plains.xyz
 center-planet.xyz
 center1plains.xyz
@@ -44,11 +44,9 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
-coatofarms.nyc
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
@@ -66,6 +64,7 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
+deepapp.click
 discoveryfeed.org
 efladn.club
 elpelades.club
@@ -78,8 +77,10 @@ enjoy1volcano.xyz
 enjoy7asteroid.xyz
 enjoy7crater.xyz
 enjoy7mountain.xyz
+enjoyacoast.xyz
 enjoyacrater.xyz
 enjoyaocean.xyz
+enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
 exploreshops.net
@@ -158,7 +159,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -174,7 +174,6 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mistvideo.ru
-mobi1crater.xyz
 mobi1mountain.xyz
 mobi1planet.xyz
 mobi7sea.xyz
@@ -189,7 +188,6 @@ mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
-newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
@@ -255,15 +253,14 @@ press-news-for.me
 prize-messsages.casa
 producthunter.club
 profitablesurvey.site
-profitedsurvey.site
 profitsurvey.live
 promotionclaim.rest
 protect-ios.com
+qfind.net
 quizshein.shop
 rancy.xyz
 randompromotion.rest
 real-buy.net
-recommended-vpns.com
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 runadvanced-bestgreatlyfile.best
@@ -294,7 +291,6 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
-stickr.co
 stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
@@ -310,7 +306,6 @@ synccurrentmostthefile.vip
 syncmostprecisethefile.vip
 syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
-syncubercurrentfiles.best
 syssysupdate.top
 systemupdateme.solutions
 thanksyoursupport.club
@@ -331,6 +326,7 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 timefornews.online
+timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -371,9 +367,9 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
+winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
-zalando-prive.es
 zeusmedia.info

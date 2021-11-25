@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 00:03:23 +0000
+# Updated: Thu, 25 Nov 2021 12:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@
 0.0.0.0 adslauchgo.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 android-web.live
+0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 atwater.org
@@ -30,7 +31,6 @@
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
-0.0.0.0 brightlifestyle.org
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
 0.0.0.0 center1plains.xyz
@@ -44,11 +44,9 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
-0.0.0.0 coatofarms.nyc
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
@@ -66,6 +64,7 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
+0.0.0.0 deepapp.click
 0.0.0.0 discoveryfeed.org
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -78,8 +77,10 @@
 0.0.0.0 enjoy7asteroid.xyz
 0.0.0.0 enjoy7crater.xyz
 0.0.0.0 enjoy7mountain.xyz
+0.0.0.0 enjoyacoast.xyz
 0.0.0.0 enjoyacrater.xyz
 0.0.0.0 enjoyaocean.xyz
+0.0.0.0 enjoyasky.xyz
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 exploreshops.net
@@ -158,7 +159,6 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
@@ -174,7 +174,6 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mistvideo.ru
-0.0.0.0 mobi1crater.xyz
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
 0.0.0.0 mobi7sea.xyz
@@ -189,7 +188,6 @@
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
-0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
@@ -255,15 +253,14 @@
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
-0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
+0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
-0.0.0.0 recommended-vpns.com
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
@@ -294,7 +291,6 @@
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
-0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
@@ -310,7 +306,6 @@
 0.0.0.0 syncmostprecisethefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
-0.0.0.0 syncubercurrentfiles.best
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 thanksyoursupport.club
@@ -331,6 +326,7 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 timefornews.online
+0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -371,9 +367,9 @@
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
+0.0.0.0 winnerz.icu
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 zalando-prive.es
 0.0.0.0 zeusmedia.info
