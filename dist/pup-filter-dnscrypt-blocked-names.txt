@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 12:02:51 +0000
+# Updated: Fri, 26 Nov 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -26,11 +26,11 @@ beautinow.nl
 beinspired.global
 benefiio.org
 bkk755.biz
-bleu-bonheur.fr
 bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
+brightlifestyle.org
 center-plains.xyz
 center-planet.xyz
 center1plains.xyz
@@ -44,9 +44,11 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
+chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
+coatofarms.nyc
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
@@ -60,7 +62,6 @@ curfiositystream.com
 curiositydstream.com
 curuiositystream.com
 dailymoneysaver.money
-dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
@@ -127,7 +128,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -174,6 +174,7 @@ media-cloud.ru
 mediaadvanced.ru
 meeryslotspin.xyz
 mistvideo.ru
+mobi1crater.xyz
 mobi1mountain.xyz
 mobi1planet.xyz
 mobi7sea.xyz
@@ -188,6 +189,7 @@ mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
+newsinformer.net
 offerpage.link
 offersearch.info
 olivedinflats.space
@@ -253,6 +255,7 @@ press-news-for.me
 prize-messsages.casa
 producthunter.club
 profitablesurvey.site
+profitedsurvey.site
 profitsurvey.live
 promotionclaim.rest
 protect-ios.com
@@ -291,6 +294,7 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
+stickr.co
 stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
@@ -369,7 +373,6 @@ westasea.xyz
 westastar.xyz
 winnerz.icu
 worldwideofficialpromotion.cyou
-your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 zeusmedia.info

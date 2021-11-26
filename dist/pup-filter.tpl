@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 12:02:51 +0000
+# Updated: Fri, 26 Nov 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -29,11 +29,11 @@ msFilterList
 -d beinspired.global
 -d benefiio.org
 -d bkk755.biz
--d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
+-d brightlifestyle.org
 -d center-plains.xyz
 -d center-planet.xyz
 -d center1plains.xyz
@@ -47,9 +47,11 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
+-d coatofarms.nyc
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
@@ -63,7 +65,6 @@ msFilterList
 -d curiositydstream.com
 -d curuiositystream.com
 -d dailymoneysaver.money
--d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
@@ -130,7 +131,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -177,6 +177,7 @@ msFilterList
 -d mediaadvanced.ru
 -d meeryslotspin.xyz
 -d mistvideo.ru
+-d mobi1crater.xyz
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
 -d mobi7sea.xyz
@@ -191,6 +192,7 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d olivedinflats.space
@@ -256,6 +258,7 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitablesurvey.site
+-d profitedsurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
@@ -294,6 +297,7 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
+-d stickr.co
 -d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
@@ -372,7 +376,6 @@ msFilterList
 -d westastar.xyz
 -d winnerz.icu
 -d worldwideofficialpromotion.cyou
--d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d zeusmedia.info

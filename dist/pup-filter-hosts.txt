@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 25 Nov 2021 12:02:51 +0000
+# Updated: Fri, 26 Nov 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -26,11 +26,11 @@
 0.0.0.0 beinspired.global
 0.0.0.0 benefiio.org
 0.0.0.0 bkk755.biz
-0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
+0.0.0.0 brightlifestyle.org
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
 0.0.0.0 center1plains.xyz
@@ -44,9 +44,11 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
+0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
+0.0.0.0 coatofarms.nyc
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
@@ -60,7 +62,6 @@
 0.0.0.0 curiositydstream.com
 0.0.0.0 curuiositystream.com
 0.0.0.0 dailymoneysaver.money
-0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
@@ -127,7 +128,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -174,6 +174,7 @@
 0.0.0.0 mediaadvanced.ru
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 mistvideo.ru
+0.0.0.0 mobi1crater.xyz
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
 0.0.0.0 mobi7sea.xyz
@@ -188,6 +189,7 @@
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
+0.0.0.0 newsinformer.net
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 olivedinflats.space
@@ -253,6 +255,7 @@
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
+0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
@@ -291,6 +294,7 @@
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
 0.0.0.0 springplanetf.xyz
+0.0.0.0 stickr.co
 0.0.0.0 stogether.fun
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
@@ -369,7 +373,6 @@
 0.0.0.0 westastar.xyz
 0.0.0.0 winnerz.icu
 0.0.0.0 worldwideofficialpromotion.cyou
-0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 zeusmedia.info

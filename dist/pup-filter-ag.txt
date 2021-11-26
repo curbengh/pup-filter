@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 25 Nov 2021 12:02:51 +0000
+! Updated: Fri, 26 Nov 2021 00:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -26,11 +26,11 @@
 ||beinspired.global$all
 ||benefiio.org$all
 ||bkk755.biz$all
-||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
+||brightlifestyle.org$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
 ||center1plains.xyz$all
@@ -44,9 +44,11 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
+||coatofarms.nyc$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
@@ -60,7 +62,6 @@
 ||curiositydstream.com$all
 ||curuiositystream.com$all
 ||dailymoneysaver.money$all
-||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
@@ -127,7 +128,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -174,6 +174,7 @@
 ||mediaadvanced.ru$all
 ||meeryslotspin.xyz$all
 ||mistvideo.ru$all
+||mobi1crater.xyz$all
 ||mobi1mountain.xyz$all
 ||mobi1planet.xyz$all
 ||mobi7sea.xyz$all
@@ -188,6 +189,7 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
+||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||olivedinflats.space$all
@@ -253,6 +255,7 @@
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
+||profitedsurvey.site$all
 ||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -291,6 +294,7 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
+||stickr.co$all
 ||stogether.fun$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
@@ -369,7 +373,6 @@
 ||westastar.xyz$all
 ||winnerz.icu$all
 ||worldwideofficialpromotion.cyou$all
-||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
 ||zeusmedia.info$all
