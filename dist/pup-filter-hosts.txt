@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 27 Nov 2021 00:02:53 +0000
+# Updated: Sat, 27 Nov 2021 12:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 4upgradingstablesafe.work
 0.0.0.0 abcscience.xyz
+0.0.0.0 adslauchgo.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 android-web.live
@@ -109,7 +110,6 @@
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
-0.0.0.0 humansystemsecurity.top
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
 0.0.0.0 initiatecompletelyspeedythefile.vip
@@ -187,7 +187,6 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newbuy.xyz
@@ -250,7 +249,6 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
-0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
@@ -326,6 +324,7 @@
 0.0.0.0 theavolcano.xyz
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
+0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
 0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
@@ -351,7 +350,6 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 27 Nov 2021 00:02:53 +0000
+! Updated: Sat, 27 Nov 2021 12:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$document
 ||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
+||adslauchgo.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||android-web.live$document
@@ -109,7 +110,6 @@
 ||help4.info$document
 ||hpages.net$document
 ||huge2upgradescentral.work$document
-||humansystemsecurity.top$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -187,7 +187,6 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newbuy.xyz$document
@@ -250,7 +249,6 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
-||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
@@ -326,6 +324,7 @@
 ||theavolcano.xyz$document
 ||thedealexpert.net$document
 ||theirproviderock.top$document
+||thelastpicture.show$document
 ||timefornews.online$document
 ||timesamerica.net$document
 ||top-offers2.club$document
@@ -351,7 +350,6 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
