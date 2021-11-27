@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 26 Nov 2021 12:03:48 +0000
+# Updated: Sat, 27 Nov 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -17,7 +17,6 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
--d atwater.org
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -29,6 +28,7 @@ msFilterList
 -d beinspired.global
 -d benefiio.org
 -d bkk755.biz
+-d bleu-bonheur.fr
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
@@ -47,7 +47,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -65,6 +64,7 @@ msFilterList
 -d curiositydstream.com
 -d curuiositystream.com
 -d dailymoneysaver.money
+-d dailyrep.net
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
@@ -130,6 +130,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -161,6 +162,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -169,6 +171,7 @@ msFilterList
 -d loveorfun.cc
 -d lubbockeda.org
 -d luckyworldwideprizerandom.rest
+-d makingbettermoney.co
 -d marketloans.net
 -d matchyourgirl.online
 -d mazestation.games
@@ -194,7 +197,6 @@ msFilterList
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
--d olivedinflats.space
 -d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
@@ -218,7 +220,6 @@ msFilterList
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pandawinterf.xyz
--d pcsecurity-live.xyz
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
@@ -295,7 +296,6 @@ msFilterList
 -d spotplanetc.xyz
 -d springplanetf.xyz
 -d stickr.co
--d stogether.fun
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -373,6 +373,7 @@ msFilterList
 -d westastar.xyz
 -d winnerz.icu
 -d worldwideofficialpromotion.cyou
+-d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d zeusmedia.info

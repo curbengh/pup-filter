@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 26 Nov 2021 12:03:48 +0000
+# Updated: Sat, 27 Nov 2021 00:02:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
-atwater.org
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -26,6 +25,7 @@ beautinow.nl
 beinspired.global
 benefiio.org
 bkk755.biz
+bleu-bonheur.fr
 bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
@@ -44,7 +44,6 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -62,6 +61,7 @@ curfiositystream.com
 curiositydstream.com
 curuiositystream.com
 dailymoneysaver.money
+dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
@@ -127,6 +127,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -158,6 +159,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -166,6 +168,7 @@ louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
 luckyworldwideprizerandom.rest
+makingbettermoney.co
 marketloans.net
 matchyourgirl.online
 mazestation.games
@@ -191,7 +194,6 @@ newbuy.xyz
 newsinformer.net
 offerpage.link
 offersearch.info
-olivedinflats.space
 paint-lion-history-loud.xyz
 pandaautumna.xyz
 pandaautumnb.xyz
@@ -215,7 +217,6 @@ pandawinterc.xyz
 pandawinterd.xyz
 pandawintere.xyz
 pandawinterf.xyz
-pcsecurity-live.xyz
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip
@@ -292,7 +293,6 @@ spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
 stickr.co
-stogether.fun
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
@@ -370,6 +370,7 @@ westasea.xyz
 westastar.xyz
 winnerz.icu
 worldwideofficialpromotion.cyou
+your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 zeusmedia.info
