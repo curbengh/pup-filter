@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 29 Nov 2021 00:03:21 +0000
+# Updated: Mon, 29 Nov 2021 12:02:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 abcscience.xyz
 0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 android-browser.live
@@ -62,7 +61,6 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -246,7 +244,6 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
-0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 promotionclaim.rest
@@ -257,7 +254,6 @@
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -345,6 +341,7 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 watchextremely-bestsophisticatedfile.best

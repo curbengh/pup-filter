@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 29 Nov 2021 00:03:21 +0000
+! Updated: Mon, 29 Nov 2021 12:02:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
 ||android-browser.live$document
@@ -62,7 +61,6 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
-||discoveryfeed.org$document
 ||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -246,7 +244,6 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
-||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
 ||promotionclaim.rest$document
@@ -257,7 +254,6 @@
 ||randompromotion.rest$document
 ||real-buy.net$document
 ||rewardgivingrealspecialoffer.cyou$document
-||richsurvey.live$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
 ||safeguide.net$document
@@ -345,6 +341,7 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
+||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||watchextremely-bestsophisticatedfile.best$document
