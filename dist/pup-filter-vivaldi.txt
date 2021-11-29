@@ -1,14 +1,14 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 28 Nov 2021 12:02:46 +0000
+! Updated: Mon, 29 Nov 2021 00:03:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||4upgradingstablesafe.work$document
 ||abcscience.xyz$document
 ||affiliateland.io$document
 ||aikoo.club$document
+||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
 ||appsto.cloud$document
@@ -29,8 +29,6 @@
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
-||brightlifestyle.org$document
-||center-plains.xyz$document
 ||center-planet.xyz$document
 ||center1plains.xyz$document
 ||center1sky.xyz$document
@@ -43,6 +41,7 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
+||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -52,7 +51,6 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
@@ -65,6 +63,7 @@
 ||dayinlife.net$document
 ||dealsify.net$document
 ||discoveryfeed.org$document
+||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -82,6 +81,7 @@
 ||enjoyasky.xyz$document
 ||enjoyastar.xyz$document
 ||enjoyavolcano.xyz$document
+||expatriates.pk$document
 ||exploreshops.net$document
 ||fastfactsonline.co$document
 ||fastspinc.xyz$document
@@ -104,10 +104,12 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grandencryptions.me$document
+||healthnfitness.site$document
 ||heatwavereporter.org$document
 ||help4.info$document
 ||hpages.net$document
 ||huge2upgradescentral.work$document
+||iiuss.biz$document
 ||initiatecompletelyprecisethefile.vip$document
 ||initiatecompletelyprogressivethefile.vip$document
 ||initiatecompletelyspeedythefile.vip$document
@@ -125,7 +127,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -134,7 +135,6 @@
 ||juicydataage.ru$document
 ||juicydataair.ru$document
 ||juicydataalt.ru$document
-||junesmile.xyz$document
 ||koalaautumna.xyz$document
 ||koalaautumnb.xyz$document
 ||koalaautumnc.xyz$document
@@ -230,7 +230,6 @@
 ||playautumne.xyz$document
 ||playautumnf.xyz$document
 ||playplanete.xyz$document
-||playspind.xyz$document
 ||playspringa.xyz$document
 ||playspringb.xyz$document
 ||playspringc.xyz$document
@@ -250,7 +249,6 @@
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
-||profitedsurvey.site$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
@@ -283,14 +281,15 @@
 ||sonic1coast.xyz$document
 ||sonic1ocean.xyz$document
 ||sonic7sea.xyz$document
+||sonicaasteroid.xyz$document
 ||sonicacrater.xyz$document
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
 ||springplanetf.xyz$document
-||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
+||streamingmadness.net$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
 ||streampreciseintenselythefile.vip$document
@@ -323,7 +322,6 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||timefornews.online$document
-||timesamerica.net$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||tracking-landers.xyz$document
@@ -363,7 +361,6 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
-||winnerz.icu$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document

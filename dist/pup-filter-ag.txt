@@ -1,14 +1,14 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 28 Nov 2021 12:02:46 +0000
+! Updated: Mon, 29 Nov 2021 00:03:21 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||4upgradingstablesafe.work$all
 ||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
+||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
 ||appsto.cloud$all
@@ -29,8 +29,6 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
-||brightlifestyle.org$all
-||center-plains.xyz$all
 ||center-planet.xyz$all
 ||center1plains.xyz$all
 ||center1sky.xyz$all
@@ -43,6 +41,7 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -52,7 +51,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||crowdweightyellow.top$all
@@ -65,6 +63,7 @@
 ||dayinlife.net$all
 ||dealsify.net$all
 ||discoveryfeed.org$all
+||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -82,6 +81,7 @@
 ||enjoyasky.xyz$all
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
+||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
 ||fastspinc.xyz$all
@@ -104,10 +104,12 @@
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
 ||grandencryptions.me$all
+||healthnfitness.site$all
 ||heatwavereporter.org$all
 ||help4.info$all
 ||hpages.net$all
 ||huge2upgradescentral.work$all
+||iiuss.biz$all
 ||initiatecompletelyprecisethefile.vip$all
 ||initiatecompletelyprogressivethefile.vip$all
 ||initiatecompletelyspeedythefile.vip$all
@@ -125,7 +127,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -134,7 +135,6 @@
 ||juicydataage.ru$all
 ||juicydataair.ru$all
 ||juicydataalt.ru$all
-||junesmile.xyz$all
 ||koalaautumna.xyz$all
 ||koalaautumnb.xyz$all
 ||koalaautumnc.xyz$all
@@ -230,7 +230,6 @@
 ||playautumne.xyz$all
 ||playautumnf.xyz$all
 ||playplanete.xyz$all
-||playspind.xyz$all
 ||playspringa.xyz$all
 ||playspringb.xyz$all
 ||playspringc.xyz$all
@@ -250,7 +249,6 @@
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
-||profitedsurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -283,14 +281,15 @@
 ||sonic1coast.xyz$all
 ||sonic1ocean.xyz$all
 ||sonic7sea.xyz$all
+||sonicaasteroid.xyz$all
 ||sonicacrater.xyz$all
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
-||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
+||streamingmadness.net$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
 ||streampreciseintenselythefile.vip$all
@@ -323,7 +322,6 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||timefornews.online$all
-||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -363,7 +361,6 @@
 ||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
-||winnerz.icu$all
 ||worldwideofficialpromotion.cyou$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all

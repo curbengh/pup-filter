@@ -1,17 +1,17 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 28 Nov 2021 12:02:46 +0000
+# Updated: Mon, 29 Nov 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 4upgradingstablesafe.work
 -d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
+-d android-browser.live
 -d android-web.live
 -d aphicus.xyz
 -d appsto.cloud
@@ -32,8 +32,6 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
--d brightlifestyle.org
--d center-plains.xyz
 -d center-planet.xyz
 -d center1plains.xyz
 -d center1sky.xyz
@@ -46,6 +44,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -55,7 +54,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -68,6 +66,7 @@ msFilterList
 -d dayinlife.net
 -d dealsify.net
 -d discoveryfeed.org
+-d dutycalls.shop
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -85,6 +84,7 @@ msFilterList
 -d enjoyasky.xyz
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
+-d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
 -d fastspinc.xyz
@@ -107,10 +107,12 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
+-d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
 -d hpages.net
 -d huge2upgradescentral.work
+-d iiuss.biz
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
 -d initiatecompletelyspeedythefile.vip
@@ -128,7 +130,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -137,7 +138,6 @@ msFilterList
 -d juicydataage.ru
 -d juicydataair.ru
 -d juicydataalt.ru
--d junesmile.xyz
 -d koalaautumna.xyz
 -d koalaautumnb.xyz
 -d koalaautumnc.xyz
@@ -233,7 +233,6 @@ msFilterList
 -d playautumne.xyz
 -d playautumnf.xyz
 -d playplanete.xyz
--d playspind.xyz
 -d playspringa.xyz
 -d playspringb.xyz
 -d playspringc.xyz
@@ -253,7 +252,6 @@ msFilterList
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
--d profitedsurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -286,14 +284,15 @@ msFilterList
 -d sonic1coast.xyz
 -d sonic1ocean.xyz
 -d sonic7sea.xyz
+-d sonicaasteroid.xyz
 -d sonicacrater.xyz
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
+-d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -326,7 +325,6 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d timefornews.online
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -366,7 +364,6 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourmoneymachine.cc

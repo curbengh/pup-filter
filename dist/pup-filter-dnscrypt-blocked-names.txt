@@ -1,14 +1,14 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 28 Nov 2021 12:02:46 +0000
+# Updated: Mon, 29 Nov 2021 00:03:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-4upgradingstablesafe.work
 abcscience.xyz
 affiliateland.io
 aikoo.club
+android-browser.live
 android-web.live
 aphicus.xyz
 appsto.cloud
@@ -29,8 +29,6 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
-brightlifestyle.org
-center-plains.xyz
 center-planet.xyz
 center1plains.xyz
 center1sky.xyz
@@ -43,6 +41,7 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
+chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -52,7 +51,6 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
@@ -65,6 +63,7 @@ darkview.org
 dayinlife.net
 dealsify.net
 discoveryfeed.org
+dutycalls.shop
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -82,6 +81,7 @@ enjoyaocean.xyz
 enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
+expatriates.pk
 exploreshops.net
 fastfactsonline.co
 fastspinc.xyz
@@ -104,10 +104,12 @@ global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
 grandencryptions.me
+healthnfitness.site
 heatwavereporter.org
 help4.info
 hpages.net
 huge2upgradescentral.work
+iiuss.biz
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
 initiatecompletelyspeedythefile.vip
@@ -125,7 +127,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -134,7 +135,6 @@ juicydataadvance.ru
 juicydataage.ru
 juicydataair.ru
 juicydataalt.ru
-junesmile.xyz
 koalaautumna.xyz
 koalaautumnb.xyz
 koalaautumnc.xyz
@@ -230,7 +230,6 @@ playautumnd.xyz
 playautumne.xyz
 playautumnf.xyz
 playplanete.xyz
-playspind.xyz
 playspringa.xyz
 playspringb.xyz
 playspringc.xyz
@@ -250,7 +249,6 @@ playwinterf.xyz
 press-news-for.me
 prize-messsages.casa
 producthunter.club
-profitedsurvey.site
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -283,14 +281,15 @@ sonic1asteroid.xyz
 sonic1coast.xyz
 sonic1ocean.xyz
 sonic7sea.xyz
+sonicaasteroid.xyz
 sonicacrater.xyz
 spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
-stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
+streamingmadness.net
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
 streampreciseintenselythefile.vip
@@ -323,7 +322,6 @@ theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
 timefornews.online
-timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -363,7 +361,6 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc
