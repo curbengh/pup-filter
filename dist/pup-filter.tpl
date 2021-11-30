@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 29 Nov 2021 12:02:39 +0000
+# Updated: Tue, 30 Nov 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -31,7 +31,10 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
+-d brightlifestyle.org
+-d center-plains.xyz
 -d center-planet.xyz
+-d center1crater.xyz
 -d center1plains.xyz
 -d center1sky.xyz
 -d center1star.xyz
@@ -43,7 +46,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -53,6 +55,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -128,6 +131,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -186,6 +190,7 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
+-d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
@@ -215,6 +220,7 @@ msFilterList
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pandawinterf.xyz
+-d people-around.me
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
@@ -251,7 +257,6 @@ msFilterList
 -d producthunter.club
 -d promotionclaim.rest
 -d protect-ios.com
--d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d randompromotion.rest
@@ -286,6 +291,7 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -303,6 +309,7 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
 -d systemupdateme.solutions
+-d taboo.news
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -361,6 +368,7 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
+-d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourmoneymachine.cc

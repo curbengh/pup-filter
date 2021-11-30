@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 29 Nov 2021 12:02:39 +0000
+! Updated: Tue, 30 Nov 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,10 @@
 ||boot-upheavily-bestquickfile.best^
 ||boot-upheavily-bestsophisticatedfile.best^
 ||boot-upsophisticated-bestoverlyfile.best^
+||brightlifestyle.org^
+||center-plains.xyz^
 ||center-planet.xyz^
+||center1crater.xyz^
 ||center1plains.xyz^
 ||center1sky.xyz^
 ||center1star.xyz^
@@ -40,7 +43,6 @@
 ||centeramountain.xyz^
 ||centerastar.xyz^
 ||centeravolcano.xyz^
-||chatverse.net^
 ||checkstableaupdatinglinks.work^
 ||chipovysta.pro^
 ||claimrewards.rest^
@@ -50,6 +52,7 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||crowdweightyellow.top^
@@ -125,6 +128,7 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
+||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||jojomamanbebe.ie^
@@ -183,6 +187,7 @@
 ||mobiaplanet.xyz^
 ||mobiastar.xyz^
 ||mobiavolcano.xyz^
+||mobyfox.shop^
 ||mybesthealthplan.org^
 ||nettrafficpartners.net^
 ||newbuy.xyz^
@@ -212,6 +217,7 @@
 ||pandawinterd.xyz^
 ||pandawintere.xyz^
 ||pandawinterf.xyz^
+||people-around.me^
 ||performhighlyspeedythefile.vip^
 ||performhighlyswiftthefile.vip^
 ||performrefinedoverlythefile.vip^
@@ -248,7 +254,6 @@
 ||producthunter.club^
 ||promotionclaim.rest^
 ||protect-ios.com^
-||qfind.net^
 ||quizshein.shop^
 ||rancy.xyz^
 ||randompromotion.rest^
@@ -283,6 +288,7 @@
 ||spotmapf.xyz^
 ||spotplanetc.xyz^
 ||springplanetf.xyz^
+||stickr.co^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
 ||streamingmadness.net^
@@ -300,6 +306,7 @@
 ||syncrecentintenselythefile.vip^
 ||syssysupdate.top^
 ||systemupdateme.solutions^
+||taboo.news^
 ||thanksyoursupport.club^
 ||the-crater.xyz^
 ||the-sky.xyz^
@@ -358,6 +365,7 @@
 ||westaplanet.xyz^
 ||westasea.xyz^
 ||westastar.xyz^
+||winnerz.icu^
 ||worldwideofficialpromotion.cyou^
 ||your-magazine.me^
 ||yourmoneymachine.cc^
