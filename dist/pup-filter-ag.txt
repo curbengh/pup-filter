@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 30 Nov 2021 00:02:51 +0000
+! Updated: Tue, 30 Nov 2021 12:03:06 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
+||cooltech.blog$all
 ||country-news.live$all
 ||craftstash.us$all
 ||crazyprize.buzz$all
@@ -110,6 +111,7 @@
 ||help4.info$all
 ||hpages.net$all
 ||huge2upgradescentral.work$all
+||humansystemsecurity.top$all
 ||iiuss.biz$all
 ||initiatecompletelyprecisethefile.vip$all
 ||initiatecompletelyprogressivethefile.vip$all
@@ -250,8 +252,12 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
+||premium-news-for.me$all
+||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
+||profitablesurvey.site$all
+||profitedsurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||quizshein.shop$all
@@ -259,6 +265,7 @@
 ||randompromotion.rest$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
 ||safeguide.net$all
@@ -324,7 +331,9 @@
 ||theavolcano.xyz$all
 ||thedealexpert.net$all
 ||theirproviderock.top$all
+||thelastpicture.show$all
 ||timefornews.online$all
+||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -370,4 +379,5 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all
 ||zeusmedia.info$all

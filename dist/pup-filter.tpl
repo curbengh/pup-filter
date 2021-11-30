@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 30 Nov 2021 00:02:51 +0000
+# Updated: Tue, 30 Nov 2021 12:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -54,6 +54,7 @@ msFilterList
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
+-d cooltech.blog
 -d country-news.live
 -d craftstash.us
 -d crazyprize.buzz
@@ -113,6 +114,7 @@ msFilterList
 -d help4.info
 -d hpages.net
 -d huge2upgradescentral.work
+-d humansystemsecurity.top
 -d iiuss.biz
 -d initiatecompletelyprecisethefile.vip
 -d initiatecompletelyprogressivethefile.vip
@@ -253,8 +255,12 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
+-d premium-news-for.me
+-d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
+-d profitablesurvey.site
+-d profitedsurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d quizshein.shop
@@ -262,6 +268,7 @@ msFilterList
 -d randompromotion.rest
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
 -d safeguide.net
@@ -327,7 +334,9 @@ msFilterList
 -d theavolcano.xyz
 -d thedealexpert.net
 -d theirproviderock.top
+-d thelastpicture.show
 -d timefornews.online
+-d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -373,4 +382,5 @@ msFilterList
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es
 -d zeusmedia.info

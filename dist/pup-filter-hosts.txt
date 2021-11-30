@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 30 Nov 2021 00:02:51 +0000
+# Updated: Tue, 30 Nov 2021 12:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
+0.0.0.0 cooltech.blog
 0.0.0.0 country-news.live
 0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
@@ -110,6 +111,7 @@
 0.0.0.0 help4.info
 0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
+0.0.0.0 humansystemsecurity.top
 0.0.0.0 iiuss.biz
 0.0.0.0 initiatecompletelyprecisethefile.vip
 0.0.0.0 initiatecompletelyprogressivethefile.vip
@@ -250,8 +252,12 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
+0.0.0.0 premium-news-for.me
+0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
+0.0.0.0 profitablesurvey.site
+0.0.0.0 profitedsurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 quizshein.shop
@@ -259,6 +265,7 @@
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
 0.0.0.0 rewardgivingrealspecialoffer.cyou
+0.0.0.0 richsurvey.live
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 safeguide.net
@@ -324,7 +331,9 @@
 0.0.0.0 theavolcano.xyz
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
+0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
+0.0.0.0 timesamerica.net
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -370,4 +379,5 @@
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es
 0.0.0.0 zeusmedia.info

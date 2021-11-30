@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 30 Nov 2021 00:02:51 +0000
+# Updated: Tue, 30 Nov 2021 12:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -51,6 +51,7 @@ connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
+cooltech.blog
 country-news.live
 craftstash.us
 crazyprize.buzz
@@ -110,6 +111,7 @@ heatwavereporter.org
 help4.info
 hpages.net
 huge2upgradescentral.work
+humansystemsecurity.top
 iiuss.biz
 initiatecompletelyprecisethefile.vip
 initiatecompletelyprogressivethefile.vip
@@ -250,8 +252,12 @@ playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
+premium-news-for.me
+press-news-for.me
 prize-messsages.casa
 producthunter.club
+profitablesurvey.site
+profitedsurvey.site
 promotionclaim.rest
 protect-ios.com
 quizshein.shop
@@ -259,6 +265,7 @@ rancy.xyz
 randompromotion.rest
 real-buy.net
 rewardgivingrealspecialoffer.cyou
+richsurvey.live
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 safeguide.net
@@ -324,7 +331,9 @@ theastar.xyz
 theavolcano.xyz
 thedealexpert.net
 theirproviderock.top
+thelastpicture.show
 timefornews.online
+timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -370,4 +379,5 @@ worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es
 zeusmedia.info
