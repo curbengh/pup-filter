@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 01 Dec 2021 00:03:35 +0000
+# Updated: Wed, 01 Dec 2021 12:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
@@ -64,6 +63,7 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
+0.0.0.0 discoveryfeed.org
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -255,6 +255,7 @@
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
 0.0.0.0 profitedsurvey.site
+0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net

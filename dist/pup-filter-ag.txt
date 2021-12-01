@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 01 Dec 2021 00:03:35 +0000
+! Updated: Wed, 01 Dec 2021 12:03:20 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||affiliateland.io$all
 ||aikoo.club$all
 ||android-browser.live$all
 ||android-web.live$all
@@ -64,6 +63,7 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
+||discoveryfeed.org$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -255,6 +255,7 @@
 ||producthunter.club$all
 ||profitablesurvey.site$all
 ||profitedsurvey.site$all
+||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all

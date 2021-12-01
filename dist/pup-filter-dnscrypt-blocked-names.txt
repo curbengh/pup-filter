@@ -1,11 +1,10 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 01 Dec 2021 00:03:35 +0000
+# Updated: Wed, 01 Dec 2021 12:03:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-affiliateland.io
 aikoo.club
 android-browser.live
 android-web.live
@@ -64,6 +63,7 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
+discoveryfeed.org
 dutycalls.shop
 efladn.club
 elpelades.club
@@ -255,6 +255,7 @@ prize-messsages.casa
 producthunter.club
 profitablesurvey.site
 profitedsurvey.site
+profitsurvey.live
 promotionclaim.rest
 protect-ios.com
 qfind.net
