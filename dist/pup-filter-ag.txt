@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 30 Nov 2021 12:03:06 +0000
+! Updated: Wed, 01 Dec 2021 00:03:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -43,6 +43,7 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -51,9 +52,7 @@
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
-||cooltech.blog$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||crowdweightyellow.top$all
@@ -106,6 +105,7 @@
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
 ||grandencryptions.me$all
+||healthfactor.io$all
 ||healthnfitness.site$all
 ||heatwavereporter.org$all
 ||help4.info$all
@@ -130,7 +130,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -161,7 +160,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -193,7 +191,6 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newbuy.xyz$all
-||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||paint-lion-history-loud.xyz$all
@@ -260,14 +257,17 @@
 ||profitedsurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
+||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
 ||randompromotion.rest$all
 ||real-buy.net$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||richsurvey.live$all
+||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
+||ryknxj.top$all
 ||safeguide.net$all
 ||savagegrowplus.net$all
 ||seaplaytoo.top$all
@@ -295,14 +295,12 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
-||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
 ||streampreciseintenselythefile.vip$all
-||streamrecent-bestuberfile.best$all
 ||streamspeedyintenselythefile.vip$all
 ||subeamy.pw$all
 ||sweetalt.ru$all
@@ -333,7 +331,6 @@
 ||theirproviderock.top$all
 ||thelastpicture.show$all
 ||timefornews.online$all
-||timesamerica.net$all
 ||top-offers2.club$all
 ||topdating.online$all
 ||tracking-landers.xyz$all
@@ -374,7 +371,6 @@
 ||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
-||winnerz.icu$all
 ||worldwideofficialpromotion.cyou$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all

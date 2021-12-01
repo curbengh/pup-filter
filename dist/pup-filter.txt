@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 30 Nov 2021 12:03:06 +0000
+! Updated: Wed, 01 Dec 2021 00:03:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -43,6 +43,7 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
+chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -51,9 +52,7 @@ connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
-cooltech.blog
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
@@ -106,6 +105,7 @@ global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
 grandencryptions.me
+healthfactor.io
 healthnfitness.site
 heatwavereporter.org
 help4.info
@@ -130,7 +130,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -161,7 +160,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -193,7 +191,6 @@ mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 newbuy.xyz
-newsinformer.net
 offerpage.link
 offersearch.info
 paint-lion-history-loud.xyz
@@ -260,14 +257,17 @@ profitablesurvey.site
 profitedsurvey.site
 promotionclaim.rest
 protect-ios.com
+qfind.net
 quizshein.shop
 rancy.xyz
 randompromotion.rest
 real-buy.net
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
+robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
+ryknxj.top
 safeguide.net
 savagegrowplus.net
 seaplaytoo.top
@@ -295,14 +295,12 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
-stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamingmadness.net
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
 streampreciseintenselythefile.vip
-streamrecent-bestuberfile.best
 streamspeedyintenselythefile.vip
 subeamy.pw
 sweetalt.ru
@@ -333,7 +331,6 @@ thedealexpert.net
 theirproviderock.top
 thelastpicture.show
 timefornews.online
-timesamerica.net
 top-offers2.club
 topdating.online
 tracking-landers.xyz
@@ -374,7 +371,6 @@ westaocean.xyz
 westaplanet.xyz
 westasea.xyz
 westastar.xyz
-winnerz.icu
 worldwideofficialpromotion.cyou
 your-magazine.me
 yourmoneymachine.cc

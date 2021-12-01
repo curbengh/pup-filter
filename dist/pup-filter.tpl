@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 30 Nov 2021 12:03:06 +0000
+# Updated: Wed, 01 Dec 2021 00:03:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -54,9 +55,7 @@ msFilterList
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
--d cooltech.blog
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -109,6 +108,7 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
+-d healthfactor.io
 -d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
@@ -133,7 +133,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -164,7 +163,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -196,7 +194,6 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newbuy.xyz
--d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -263,14 +260,17 @@ msFilterList
 -d profitedsurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
+-d qfind.net
 -d quizshein.shop
 -d rancy.xyz
 -d randompromotion.rest
 -d real-buy.net
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
+-d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
+-d ryknxj.top
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
@@ -298,14 +298,12 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
--d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
--d streamrecent-bestuberfile.best
 -d streamspeedyintenselythefile.vip
 -d subeamy.pw
 -d sweetalt.ru
@@ -336,7 +334,6 @@ msFilterList
 -d theirproviderock.top
 -d thelastpicture.show
 -d timefornews.online
--d timesamerica.net
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -377,7 +374,6 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
--d winnerz.icu
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourmoneymachine.cc
