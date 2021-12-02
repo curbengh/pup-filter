@@ -1,11 +1,10 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 02 Dec 2021 00:02:44 +0000
+# Updated: Thu, 02 Dec 2021 12:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-aikoo.club
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -18,7 +17,6 @@ be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
-beautinow.nl
 beinspired.global
 benefiio.org
 bkk755.biz
@@ -46,6 +44,7 @@ chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
+clickon.buzz
 coatofarms.nyc
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -82,6 +81,7 @@ enjoyaocean.xyz
 enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
+euronordvpn.com
 expatriates.pk
 exploreshops.net
 fastfactsonline.co
@@ -130,6 +130,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -160,6 +161,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -170,11 +172,9 @@ lubbockeda.org
 luckyworldwideprizerandom.rest
 makingbettermoney.co
 marketloans.net
-matchyourgirl.online
 mazestation.games
 media-cloud.ru
 mediaadvanced.ru
-meeryslotspin.xyz
 mistvideo.ru
 mobi1crater.xyz
 mobi1mountain.xyz
@@ -190,7 +190,6 @@ mobiavolcano.xyz
 mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
-newbuy.xyz
 offerpage.link
 offersearch.info
 paint-lion-history-loud.xyz
@@ -224,7 +223,6 @@ peterhahn.be
 phonesecuritymagic.top
 photo-explorer.org
 placefortheupgradesset.work
-placesiteb.xyz
 placespina.xyz
 playautumna.xyz
 playautumnb.xyz
@@ -252,7 +250,6 @@ playwinterf.xyz
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
-producthunter.club
 profitablesurvey.site
 profitedsurvey.site
 profitsurvey.live
@@ -263,6 +260,7 @@ quizshein.shop
 rancy.xyz
 randompromotion.rest
 real-buy.net
+rehab-centers-here-now.site
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 robogarden.io
@@ -296,6 +294,7 @@ spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
 springplanetf.xyz
+stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamingmadness.net
@@ -313,6 +312,7 @@ syncrecentintenselythefile.vip
 syssysupdate.top
 systemupdateme.solutions
 taboo.news
+techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -358,7 +358,6 @@ videovoiceace.ru
 viralsharks.net
 vpn-pro.club
 wallda.site
-watchextremely-bestsophisticatedfile.best
 web-security.ml
 webtactics.ca
 west1asteroid.xyz

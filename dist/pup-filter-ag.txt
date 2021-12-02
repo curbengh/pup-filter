@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 02 Dec 2021 00:02:44 +0000
+! Updated: Thu, 02 Dec 2021 12:03:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||aikoo.club$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -18,7 +17,6 @@
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
-||beautinow.nl$all
 ||beinspired.global$all
 ||benefiio.org$all
 ||bkk755.biz$all
@@ -46,6 +44,7 @@
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
+||clickon.buzz$all
 ||coatofarms.nyc$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
@@ -82,6 +81,7 @@
 ||enjoyasky.xyz$all
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
+||euronordvpn.com$all
 ||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
@@ -130,6 +130,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -160,6 +161,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -170,11 +172,9 @@
 ||luckyworldwideprizerandom.rest$all
 ||makingbettermoney.co$all
 ||marketloans.net$all
-||matchyourgirl.online$all
 ||mazestation.games$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
-||meeryslotspin.xyz$all
 ||mistvideo.ru$all
 ||mobi1crater.xyz$all
 ||mobi1mountain.xyz$all
@@ -190,7 +190,6 @@
 ||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
-||newbuy.xyz$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||paint-lion-history-loud.xyz$all
@@ -224,7 +223,6 @@
 ||phonesecuritymagic.top$all
 ||photo-explorer.org$all
 ||placefortheupgradesset.work$all
-||placesiteb.xyz$all
 ||placespina.xyz$all
 ||playautumna.xyz$all
 ||playautumnb.xyz$all
@@ -252,7 +250,6 @@
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
-||producthunter.club$all
 ||profitablesurvey.site$all
 ||profitedsurvey.site$all
 ||profitsurvey.live$all
@@ -263,6 +260,7 @@
 ||rancy.xyz$all
 ||randompromotion.rest$all
 ||real-buy.net$all
+||rehab-centers-here-now.site$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||richsurvey.live$all
 ||robogarden.io$all
@@ -296,6 +294,7 @@
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
 ||springplanetf.xyz$all
+||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
@@ -313,6 +312,7 @@
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
 ||taboo.news$all
+||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -358,7 +358,6 @@
 ||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
-||watchextremely-bestsophisticatedfile.best$all
 ||web-security.ml$all
 ||webtactics.ca$all
 ||west1asteroid.xyz$all

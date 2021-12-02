@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 02 Dec 2021 00:02:44 +0000
+# Updated: Thu, 02 Dec 2021 12:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d aikoo.club
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -21,7 +20,6 @@ msFilterList
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
--d beautinow.nl
 -d beinspired.global
 -d benefiio.org
 -d bkk755.biz
@@ -49,6 +47,7 @@ msFilterList
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
+-d clickon.buzz
 -d coatofarms.nyc
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -85,6 +84,7 @@ msFilterList
 -d enjoyasky.xyz
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
+-d euronordvpn.com
 -d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
@@ -133,6 +133,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -163,6 +164,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -173,11 +175,9 @@ msFilterList
 -d luckyworldwideprizerandom.rest
 -d makingbettermoney.co
 -d marketloans.net
--d matchyourgirl.online
 -d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
--d meeryslotspin.xyz
 -d mistvideo.ru
 -d mobi1crater.xyz
 -d mobi1mountain.xyz
@@ -193,7 +193,6 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
--d newbuy.xyz
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -227,7 +226,6 @@ msFilterList
 -d phonesecuritymagic.top
 -d photo-explorer.org
 -d placefortheupgradesset.work
--d placesiteb.xyz
 -d placespina.xyz
 -d playautumna.xyz
 -d playautumnb.xyz
@@ -255,7 +253,6 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
 -d profitablesurvey.site
 -d profitedsurvey.site
 -d profitsurvey.live
@@ -266,6 +263,7 @@ msFilterList
 -d rancy.xyz
 -d randompromotion.rest
 -d real-buy.net
+-d rehab-centers-here-now.site
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d robogarden.io
@@ -299,6 +297,7 @@ msFilterList
 -d spotmapf.xyz
 -d spotplanetc.xyz
 -d springplanetf.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -316,6 +315,7 @@ msFilterList
 -d syssysupdate.top
 -d systemupdateme.solutions
 -d taboo.news
+-d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -361,7 +361,6 @@ msFilterList
 -d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
--d watchextremely-bestsophisticatedfile.best
 -d web-security.ml
 -d webtactics.ca
 -d west1asteroid.xyz
