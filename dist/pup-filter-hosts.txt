@@ -1,10 +1,11 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 04 Dec 2021 00:02:35 +0000
+# Updated: Sat, 04 Dec 2021 12:03:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 2021travel.net
 0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 android-browser.live
