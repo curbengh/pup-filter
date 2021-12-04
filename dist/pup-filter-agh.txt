@@ -1,15 +1,18 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 02 Dec 2021 12:03:33 +0000
+! Updated: Sat, 04 Dec 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||abcscience.xyz^
+||aikoo.club^
 ||android-browser.live^
 ||android-web.live^
 ||aphicus.xyz^
 ||appsto.cloud^
 ||appzfirer.biz^
+||arre.work^
 ||auto-car-search.site^
 ||auto-insurance-search.site^
 ||axisradio.ca^
@@ -50,7 +53,9 @@
 ||consumerprotectioncybersecurity.org^
 ||contentamigo.ru^
 ||contentarea.ru^
+||cooltech.blog^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||crowdweightyellow.top^
@@ -68,6 +73,7 @@
 ||elpelades.club^
 ||enjoy-asteroid.xyz^
 ||enjoy-coast.xyz^
+||enjoy-sea.xyz^
 ||enjoy-star.xyz^
 ||enjoy1mountain.xyz^
 ||enjoy1ocean.xyz^
@@ -82,12 +88,10 @@
 ||enjoyastar.xyz^
 ||enjoyavolcano.xyz^
 ||euronordvpn.com^
-||expatriates.pk^
 ||exploreshops.net^
 ||fastfactsonline.co^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
-||fastspota.xyz^
 ||fastwebb.xyz^
 ||findaupgradingurls.work^
 ||finditquick.online^
@@ -96,7 +100,9 @@
 ||funanime.me^
 ||funny-media.ru^
 ||funspine.xyz^
+||gamerdigest.org^
 ||genertellife.it^
+||gettheraiceheadreliefhat.io^
 ||getvideoabc.ru^
 ||getvideoall.ru^
 ||girlsnearyou.online^
@@ -105,6 +111,7 @@
 ||golddellifewonder.rest^
 ||gonesteeldouble.top^
 ||grandencryptions.me^
+||grantaidauthority.site^
 ||healthfactor.io^
 ||healthnfitness.site^
 ||heatwavereporter.org^
@@ -170,11 +177,11 @@
 ||loveorfun.cc^
 ||lubbockeda.org^
 ||luckyworldwideprizerandom.rest^
-||makingbettermoney.co^
 ||marketloans.net^
 ||mazestation.games^
 ||media-cloud.ru^
 ||mediaadvanced.ru^
+||mindmatch.ai^
 ||mistvideo.ru^
 ||mobi1crater.xyz^
 ||mobi1mountain.xyz^
@@ -190,6 +197,7 @@
 ||mobyfox.shop^
 ||mybesthealthplan.org^
 ||nettrafficpartners.net^
+||newsinformer.net^
 ||offerpage.link^
 ||offersearch.info^
 ||paint-lion-history-loud.xyz^
@@ -250,8 +258,8 @@
 ||premium-news-for.me^
 ||press-news-for.me^
 ||prize-messsages.casa^
+||producthunter.club^
 ||profitablesurvey.site^
-||profitedsurvey.site^
 ||profitsurvey.live^
 ||promotionclaim.rest^
 ||protect-ios.com^
@@ -262,7 +270,6 @@
 ||real-buy.net^
 ||rehab-centers-here-now.site^
 ||rewardgivingrealspecialoffer.cyou^
-||richsurvey.live^
 ||robogarden.io^
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
@@ -293,11 +300,8 @@
 ||spotmapd.xyz^
 ||spotmapf.xyz^
 ||spotplanetc.xyz^
-||springplanetf.xyz^
-||stickr.co^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
-||streamingmadness.net^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
 ||streampreciseintenselythefile.vip^
@@ -312,7 +316,6 @@
 ||syssysupdate.top^
 ||systemupdateme.solutions^
 ||taboo.news^
-||techandgadgets.net^
 ||thanksyoursupport.club^
 ||the-crater.xyz^
 ||the-sky.xyz^
@@ -371,6 +374,7 @@
 ||westaplanet.xyz^
 ||westasea.xyz^
 ||westastar.xyz^
+||worldtechguide.net^
 ||worldwideofficialpromotion.cyou^
 ||your-magazine.me^
 ||yourmoneymachine.cc^

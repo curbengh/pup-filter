@@ -1,15 +1,18 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 02 Dec 2021 12:03:33 +0000
+! Updated: Sat, 04 Dec 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||abcscience.xyz$document
+||aikoo.club$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
+||arre.work$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
 ||axisradio.ca$document
@@ -50,7 +53,9 @@
 ||consumerprotectioncybersecurity.org$document
 ||contentamigo.ru$document
 ||contentarea.ru$document
+||cooltech.blog$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
@@ -68,6 +73,7 @@
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
 ||enjoy-coast.xyz$document
+||enjoy-sea.xyz$document
 ||enjoy-star.xyz$document
 ||enjoy1mountain.xyz$document
 ||enjoy1ocean.xyz$document
@@ -82,12 +88,10 @@
 ||enjoyastar.xyz$document
 ||enjoyavolcano.xyz$document
 ||euronordvpn.com$document
-||expatriates.pk$document
 ||exploreshops.net$document
 ||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
-||fastspota.xyz$document
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
 ||finditquick.online$document
@@ -96,7 +100,9 @@
 ||funanime.me$document
 ||funny-media.ru$document
 ||funspine.xyz$document
+||gamerdigest.org$document
 ||genertellife.it$document
+||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -105,6 +111,7 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grandencryptions.me$document
+||grantaidauthority.site$document
 ||healthfactor.io$document
 ||healthnfitness.site$document
 ||heatwavereporter.org$document
@@ -170,11 +177,11 @@
 ||loveorfun.cc$document
 ||lubbockeda.org$document
 ||luckyworldwideprizerandom.rest$document
-||makingbettermoney.co$document
 ||marketloans.net$document
 ||mazestation.games$document
 ||media-cloud.ru$document
 ||mediaadvanced.ru$document
+||mindmatch.ai$document
 ||mistvideo.ru$document
 ||mobi1crater.xyz$document
 ||mobi1mountain.xyz$document
@@ -190,6 +197,7 @@
 ||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
+||newsinformer.net$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||paint-lion-history-loud.xyz$document
@@ -250,8 +258,8 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||profitablesurvey.site$document
-||profitedsurvey.site$document
 ||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
@@ -262,7 +270,6 @@
 ||real-buy.net$document
 ||rehab-centers-here-now.site$document
 ||rewardgivingrealspecialoffer.cyou$document
-||richsurvey.live$document
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
@@ -293,11 +300,8 @@
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
-||springplanetf.xyz$document
-||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
-||streamingmadness.net$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
 ||streampreciseintenselythefile.vip$document
@@ -312,7 +316,6 @@
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
 ||taboo.news$document
-||techandgadgets.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document
@@ -371,6 +374,7 @@
 ||westaplanet.xyz$document
 ||westasea.xyz$document
 ||westastar.xyz$document
+||worldtechguide.net$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document

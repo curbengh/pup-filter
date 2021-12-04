@@ -1,18 +1,21 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 02 Dec 2021 12:03:33 +0000
+# Updated: Sat, 04 Dec 2021 00:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d abcscience.xyz
+-d aikoo.club
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
+-d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -53,7 +56,9 @@ msFilterList
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
+-d cooltech.blog
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -71,6 +76,7 @@ msFilterList
 -d elpelades.club
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
+-d enjoy-sea.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -85,12 +91,10 @@ msFilterList
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d euronordvpn.com
--d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
--d fastspota.xyz
 -d fastwebb.xyz
 -d findaupgradingurls.work
 -d finditquick.online
@@ -99,7 +103,9 @@ msFilterList
 -d funanime.me
 -d funny-media.ru
 -d funspine.xyz
+-d gamerdigest.org
 -d genertellife.it
+-d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -108,6 +114,7 @@ msFilterList
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grandencryptions.me
+-d grantaidauthority.site
 -d healthfactor.io
 -d healthnfitness.site
 -d heatwavereporter.org
@@ -173,11 +180,11 @@ msFilterList
 -d loveorfun.cc
 -d lubbockeda.org
 -d luckyworldwideprizerandom.rest
--d makingbettermoney.co
 -d marketloans.net
 -d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
+-d mindmatch.ai
 -d mistvideo.ru
 -d mobi1crater.xyz
 -d mobi1mountain.xyz
@@ -193,6 +200,7 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
+-d newsinformer.net
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -253,8 +261,8 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitablesurvey.site
--d profitedsurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
@@ -265,7 +273,6 @@ msFilterList
 -d real-buy.net
 -d rehab-centers-here-now.site
 -d rewardgivingrealspecialoffer.cyou
--d richsurvey.live
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
@@ -296,11 +303,8 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
--d springplanetf.xyz
--d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
--d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -315,7 +319,6 @@ msFilterList
 -d syssysupdate.top
 -d systemupdateme.solutions
 -d taboo.news
--d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -374,6 +377,7 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
+-d worldtechguide.net
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
 -d yourmoneymachine.cc
