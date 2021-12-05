@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 04 Dec 2021 12:03:10 +0000
+! Updated: Sun, 05 Dec 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 2021travel.net
 abcscience.xyz
 aikoo.club
+amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -21,6 +22,7 @@ be-5hdo32xes-ok.live
 be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
+beautinow.nl
 beinspired.global
 benefiio.org
 bkk755.biz
@@ -50,13 +52,12 @@ chipovysta.pro
 claimrewards.rest
 clickon.buzz
 coatofarms.nyc
+conndickens.icu
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
-cooltech.blog
 country-news.live
-craftstash.us
 crazyprize.buzz
 credit-monitoring-360.xyz
 crowdweightyellow.top
@@ -89,6 +90,7 @@ enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
 euronordvpn.com
+expatriates.pk
 exploreshops.net
 fastfactsonline.co
 fastspinc.xyz
@@ -111,7 +113,6 @@ gladmstreet.xyz
 global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
-grandencryptions.me
 grantaidauthority.site
 healthfactor.io
 healthnfitness.site
@@ -138,7 +139,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -169,7 +169,6 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
-kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -178,7 +177,7 @@ louisvillegigs.net
 loveorfun.cc
 lubbockeda.org
 luckyworldwideprizerandom.rest
-marketloans.net
+makingbettermoney.co
 mazestation.games
 media-cloud.ru
 mediaadvanced.ru
@@ -261,6 +260,7 @@ press-news-for.me
 prize-messsages.casa
 producthunter.club
 profitablesurvey.site
+profitedsurvey.site
 profitsurvey.live
 promotionclaim.rest
 protect-ios.com
@@ -288,7 +288,6 @@ sergey-tracks.xyz
 shopin.nyc
 shopnsave.world
 smartideas.pro
-smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -301,6 +300,7 @@ sonicacrater.xyz
 spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
+stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamintenselyrefinedthefile.vip
@@ -317,6 +317,7 @@ syncrecentintenselythefile.vip
 syssysupdate.top
 systemupdateme.solutions
 taboo.news
+techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -341,7 +342,6 @@ topdating.online
 tracking-landers.xyz
 trotineo.fr
 truecompassion.net
-updatefix.xyz
 updateview.tech
 upplaysite.xyz
 usforeclosure.net
@@ -359,7 +359,6 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
-viralsharks.net
 vpn-pro.club
 wallda.site
 web-security.ml

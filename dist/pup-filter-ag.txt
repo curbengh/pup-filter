@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 04 Dec 2021 12:03:10 +0000
+! Updated: Sun, 05 Dec 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$all
 ||abcscience.xyz$all
 ||aikoo.club$all
+||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -21,6 +22,7 @@
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
+||beautinow.nl$all
 ||beinspired.global$all
 ||benefiio.org$all
 ||bkk755.biz$all
@@ -50,13 +52,12 @@
 ||claimrewards.rest$all
 ||clickon.buzz$all
 ||coatofarms.nyc$all
+||conndickens.icu$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
 ||contentamigo.ru$all
 ||contentarea.ru$all
-||cooltech.blog$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||crowdweightyellow.top$all
@@ -89,6 +90,7 @@
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||euronordvpn.com$all
+||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
 ||fastspinc.xyz$all
@@ -111,7 +113,6 @@
 ||global-track.space$all
 ||golddellifewonder.rest$all
 ||gonesteeldouble.top$all
-||grandencryptions.me$all
 ||grantaidauthority.site$all
 ||healthfactor.io$all
 ||healthnfitness.site$all
@@ -138,7 +139,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -169,7 +169,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -178,7 +177,7 @@
 ||loveorfun.cc$all
 ||lubbockeda.org$all
 ||luckyworldwideprizerandom.rest$all
-||marketloans.net$all
+||makingbettermoney.co$all
 ||mazestation.games$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
@@ -261,6 +260,7 @@
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
+||profitedsurvey.site$all
 ||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -288,7 +288,6 @@
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
-||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -301,6 +300,7 @@
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
+||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamintenselyrefinedthefile.vip$all
@@ -317,6 +317,7 @@
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
 ||taboo.news$all
+||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -341,7 +342,6 @@
 ||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all
-||updatefix.xyz$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
 ||usforeclosure.net$all
@@ -359,7 +359,6 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
-||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||web-security.ml$all

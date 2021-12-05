@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 04 Dec 2021 12:03:10 +0000
+# Updated: Sun, 05 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
+0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -21,6 +22,7 @@
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
+0.0.0.0 beautinow.nl
 0.0.0.0 beinspired.global
 0.0.0.0 benefiio.org
 0.0.0.0 bkk755.biz
@@ -50,13 +52,12 @@
 0.0.0.0 claimrewards.rest
 0.0.0.0 clickon.buzz
 0.0.0.0 coatofarms.nyc
+0.0.0.0 conndickens.icu
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
-0.0.0.0 cooltech.blog
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 crowdweightyellow.top
@@ -89,6 +90,7 @@
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 euronordvpn.com
+0.0.0.0 expatriates.pk
 0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
@@ -111,7 +113,6 @@
 0.0.0.0 global-track.space
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
-0.0.0.0 grandencryptions.me
 0.0.0.0 grantaidauthority.site
 0.0.0.0 healthfactor.io
 0.0.0.0 healthnfitness.site
@@ -138,7 +139,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -169,7 +169,6 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
@@ -178,7 +177,7 @@
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
 0.0.0.0 luckyworldwideprizerandom.rest
-0.0.0.0 marketloans.net
+0.0.0.0 makingbettermoney.co
 0.0.0.0 mazestation.games
 0.0.0.0 media-cloud.ru
 0.0.0.0 mediaadvanced.ru
@@ -261,6 +260,7 @@
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
+0.0.0.0 profitedsurvey.site
 0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
@@ -288,7 +288,6 @@
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 smartideas.pro
-0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -301,6 +300,7 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
+0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamintenselyrefinedthefile.vip
@@ -317,6 +317,7 @@
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 taboo.news
+0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
@@ -341,7 +342,6 @@
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
-0.0.0.0 updatefix.xyz
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usforeclosure.net
@@ -359,7 +359,6 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 web-security.ml

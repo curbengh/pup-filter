@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 04 Dec 2021 12:03:10 +0000
+# Updated: Sun, 05 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 2021travel.net
 -d abcscience.xyz
 -d aikoo.club
+-d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -24,6 +25,7 @@ msFilterList
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
+-d beautinow.nl
 -d beinspired.global
 -d benefiio.org
 -d bkk755.biz
@@ -53,13 +55,12 @@ msFilterList
 -d claimrewards.rest
 -d clickon.buzz
 -d coatofarms.nyc
+-d conndickens.icu
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
 -d contentamigo.ru
 -d contentarea.ru
--d cooltech.blog
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -92,6 +93,7 @@ msFilterList
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d euronordvpn.com
+-d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
 -d fastspinc.xyz
@@ -114,7 +116,6 @@ msFilterList
 -d global-track.space
 -d golddellifewonder.rest
 -d gonesteeldouble.top
--d grandencryptions.me
 -d grantaidauthority.site
 -d healthfactor.io
 -d healthnfitness.site
@@ -141,7 +142,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -172,7 +172,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -181,7 +180,7 @@ msFilterList
 -d loveorfun.cc
 -d lubbockeda.org
 -d luckyworldwideprizerandom.rest
--d marketloans.net
+-d makingbettermoney.co
 -d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
@@ -264,6 +263,7 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitablesurvey.site
+-d profitedsurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
@@ -291,7 +291,6 @@ msFilterList
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
--d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -304,6 +303,7 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamintenselyrefinedthefile.vip
@@ -320,6 +320,7 @@ msFilterList
 -d syssysupdate.top
 -d systemupdateme.solutions
 -d taboo.news
+-d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -344,7 +345,6 @@ msFilterList
 -d tracking-landers.xyz
 -d trotineo.fr
 -d truecompassion.net
--d updatefix.xyz
 -d updateview.tech
 -d upplaysite.xyz
 -d usforeclosure.net
@@ -362,7 +362,6 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
--d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d web-security.ml
