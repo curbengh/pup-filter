@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Dec 2021 00:02:51 +0000
+# Updated: Sun, 05 Dec 2021 12:02:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d 2021travel.net
 -d abcscience.xyz
+-d affiliateland.io
 -d aikoo.club
 -d amobil.online
 -d android-browser.live
@@ -17,7 +18,6 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
--d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -72,7 +72,6 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
--d discoveryfeed.org
 -d dutycalls.shop
 -d efladn.club
 -d elpelades.club
@@ -203,7 +202,6 @@ msFilterList
 -d newsinformer.net
 -d offerpage.link
 -d offersearch.info
--d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -258,13 +256,11 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
--d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
 -d profitablesurvey.site
 -d profitedsurvey.site
--d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -274,6 +270,7 @@ msFilterList
 -d real-buy.net
 -d rehab-centers-here-now.site
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best

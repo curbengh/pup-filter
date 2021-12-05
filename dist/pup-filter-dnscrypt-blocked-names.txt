@@ -1,12 +1,13 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Dec 2021 00:02:51 +0000
+# Updated: Sun, 05 Dec 2021 12:02:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
 abcscience.xyz
+affiliateland.io
 aikoo.club
 amobil.online
 android-browser.live
@@ -14,7 +15,6 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
-arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -69,7 +69,6 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
-discoveryfeed.org
 dutycalls.shop
 efladn.club
 elpelades.club
@@ -200,7 +199,6 @@ nettrafficpartners.net
 newsinformer.net
 offerpage.link
 offersearch.info
-paint-lion-history-loud.xyz
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
@@ -255,13 +253,11 @@ playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
-premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 producthunter.club
 profitablesurvey.site
 profitedsurvey.site
-profitsurvey.live
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -271,6 +267,7 @@ randompromotion.rest
 real-buy.net
 rehab-centers-here-now.site
 rewardgivingrealspecialoffer.cyou
+richsurvey.live
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best

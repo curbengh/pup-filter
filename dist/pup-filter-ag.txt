@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Dec 2021 00:02:51 +0000
+! Updated: Sun, 05 Dec 2021 12:02:23 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||abcscience.xyz$all
+||affiliateland.io$all
 ||aikoo.club$all
 ||amobil.online$all
 ||android-browser.live$all
@@ -14,7 +15,6 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
-||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -69,7 +69,6 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
-||discoveryfeed.org$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -200,7 +199,6 @@
 ||newsinformer.net$all
 ||offerpage.link$all
 ||offersearch.info$all
-||paint-lion-history-loud.xyz$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
@@ -255,13 +253,11 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
-||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
 ||profitedsurvey.site$all
-||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -271,6 +267,7 @@
 ||real-buy.net$all
 ||rehab-centers-here-now.site$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
