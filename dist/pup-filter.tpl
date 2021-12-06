@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 05 Dec 2021 12:02:23 +0000
+# Updated: Mon, 06 Dec 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d abcscience.xyz
 -d affiliateland.io
 -d aikoo.club
--d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -61,6 +60,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d credit-monitoring-360.xyz
 -d crowdweightyellow.top
@@ -103,11 +103,9 @@ msFilterList
 -d fireapps.cloud
 -d foundnow.net
 -d funanime.me
--d funny-media.ru
 -d funspine.xyz
 -d gamerdigest.org
 -d genertellife.it
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -141,6 +139,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -171,6 +170,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -180,6 +180,7 @@ msFilterList
 -d lubbockeda.org
 -d luckyworldwideprizerandom.rest
 -d makingbettermoney.co
+-d marketloans.net
 -d mazestation.games
 -d media-cloud.ru
 -d mediaadvanced.ru
@@ -200,6 +201,7 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newsinformer.net
+-d nordvpnhosting.com
 -d offerpage.link
 -d offersearch.info
 -d pandaautumna.xyz
@@ -260,7 +262,6 @@ msFilterList
 -d prize-messsages.casa
 -d producthunter.club
 -d profitablesurvey.site
--d profitedsurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -288,6 +289,7 @@ msFilterList
 -d shopin.nyc
 -d shopnsave.world
 -d smartideas.pro
+-d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -303,6 +305,7 @@ msFilterList
 -d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
+-d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -359,6 +362,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d web-security.ml
@@ -374,6 +378,7 @@ msFilterList
 -d westaplanet.xyz
 -d westasea.xyz
 -d westastar.xyz
+-d wildermanrolfson.icu
 -d worldtechguide.net
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me

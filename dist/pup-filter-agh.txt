@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Dec 2021 12:02:23 +0000
+! Updated: Mon, 06 Dec 2021 00:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||abcscience.xyz^
 ||affiliateland.io^
 ||aikoo.club^
-||amobil.online^
 ||android-browser.live^
 ||android-web.live^
 ||aphicus.xyz^
@@ -58,6 +57,7 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||credit-monitoring-360.xyz^
 ||crowdweightyellow.top^
@@ -100,11 +100,9 @@
 ||fireapps.cloud^
 ||foundnow.net^
 ||funanime.me^
-||funny-media.ru^
 ||funspine.xyz^
 ||gamerdigest.org^
 ||genertellife.it^
-||gettheraiceheadreliefhat.io^
 ||getvideoabc.ru^
 ||getvideoall.ru^
 ||girlsnearyou.online^
@@ -138,6 +136,7 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
+||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||jojomamanbebe.ie^
@@ -168,6 +167,7 @@
 ||koalawinterc.xyz^
 ||koalawinterd.xyz^
 ||koalawintere.xyz^
+||kompsos.uk^
 ||lackystack.net^
 ||link4updatingcentral.work^
 ||listenthisso.top^
@@ -177,6 +177,7 @@
 ||lubbockeda.org^
 ||luckyworldwideprizerandom.rest^
 ||makingbettermoney.co^
+||marketloans.net^
 ||mazestation.games^
 ||media-cloud.ru^
 ||mediaadvanced.ru^
@@ -197,6 +198,7 @@
 ||mybesthealthplan.org^
 ||nettrafficpartners.net^
 ||newsinformer.net^
+||nordvpnhosting.com^
 ||offerpage.link^
 ||offersearch.info^
 ||pandaautumna.xyz^
@@ -257,7 +259,6 @@
 ||prize-messsages.casa^
 ||producthunter.club^
 ||profitablesurvey.site^
-||profitedsurvey.site^
 ||promotionclaim.rest^
 ||protect-ios.com^
 ||qfind.net^
@@ -285,6 +286,7 @@
 ||shopin.nyc^
 ||shopnsave.world^
 ||smartideas.pro^
+||smartuv.shop^
 ||software-dealz.de^
 ||sonic-ocean.xyz^
 ||sonic-plains.xyz^
@@ -300,6 +302,7 @@
 ||stickr.co^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
+||streamingmadness.net^
 ||streamintenselyrefinedthefile.vip^
 ||streamintenselysophisticatedthefile.vip^
 ||streampreciseintenselythefile.vip^
@@ -356,6 +359,7 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
+||viralsharks.net^
 ||vpn-pro.club^
 ||wallda.site^
 ||web-security.ml^
@@ -371,6 +375,7 @@
 ||westaplanet.xyz^
 ||westasea.xyz^
 ||westastar.xyz^
+||wildermanrolfson.icu^
 ||worldtechguide.net^
 ||worldwideofficialpromotion.cyou^
 ||your-magazine.me^

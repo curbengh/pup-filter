@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 05 Dec 2021 12:02:23 +0000
+! Updated: Mon, 06 Dec 2021 00:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||abcscience.xyz$all
 ||affiliateland.io$all
 ||aikoo.club$all
-||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -58,6 +57,7 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
+||craftstash.us$all
 ||crazyprize.buzz$all
 ||credit-monitoring-360.xyz$all
 ||crowdweightyellow.top$all
@@ -100,11 +100,9 @@
 ||fireapps.cloud$all
 ||foundnow.net$all
 ||funanime.me$all
-||funny-media.ru$all
 ||funspine.xyz$all
 ||gamerdigest.org$all
 ||genertellife.it$all
-||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||girlsnearyou.online$all
@@ -138,6 +136,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -168,6 +167,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
+||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -177,6 +177,7 @@
 ||lubbockeda.org$all
 ||luckyworldwideprizerandom.rest$all
 ||makingbettermoney.co$all
+||marketloans.net$all
 ||mazestation.games$all
 ||media-cloud.ru$all
 ||mediaadvanced.ru$all
@@ -197,6 +198,7 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newsinformer.net$all
+||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||pandaautumna.xyz$all
@@ -257,7 +259,6 @@
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
-||profitedsurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -285,6 +286,7 @@
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||smartideas.pro$all
+||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -300,6 +302,7 @@
 ||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
+||streamingmadness.net$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
 ||streampreciseintenselythefile.vip$all
@@ -356,6 +359,7 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
+||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||web-security.ml$all
@@ -371,6 +375,7 @@
 ||westaplanet.xyz$all
 ||westasea.xyz$all
 ||westastar.xyz$all
+||wildermanrolfson.icu$all
 ||worldtechguide.net$all
 ||worldwideofficialpromotion.cyou$all
 ||your-magazine.me$all
