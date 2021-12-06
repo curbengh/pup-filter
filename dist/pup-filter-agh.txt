@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 06 Dec 2021 00:02:42 +0000
+! Updated: Mon, 06 Dec 2021 12:02:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net^
 ||abcscience.xyz^
-||affiliateland.io^
 ||aikoo.club^
 ||android-browser.live^
 ||android-web.live^
@@ -111,6 +110,7 @@
 ||golddellifewonder.rest^
 ||gonesteeldouble.top^
 ||grantaidauthority.site^
+||harveybernhard.icu^
 ||healthfactor.io^
 ||healthnfitness.site^
 ||heatwavereporter.org^
@@ -268,7 +268,6 @@
 ||real-buy.net^
 ||rehab-centers-here-now.site^
 ||rewardgivingrealspecialoffer.cyou^
-||richsurvey.live^
 ||robogarden.io^
 ||runadvanced-bestgreatlyfile.best^
 ||rungreatly-bestadvancedfile.best^
@@ -359,7 +358,6 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
-||viralsharks.net^
 ||vpn-pro.club^
 ||wallda.site^
 ||web-security.ml^
@@ -381,5 +379,4 @@
 ||your-magazine.me^
 ||yourmoneymachine.cc^
 ||yoursafestgreatplaceupdates.work^
-||zalando-prive.es^
 ||zeusmedia.info^

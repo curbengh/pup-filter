@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 06 Dec 2021 00:02:42 +0000
+! Updated: Mon, 06 Dec 2021 12:02:58 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
 ||abcscience.xyz$document
-||affiliateland.io$document
 ||aikoo.club$document
 ||android-browser.live$document
 ||android-web.live$document
@@ -111,6 +110,7 @@
 ||golddellifewonder.rest$document
 ||gonesteeldouble.top$document
 ||grantaidauthority.site$document
+||harveybernhard.icu$document
 ||healthfactor.io$document
 ||healthnfitness.site$document
 ||heatwavereporter.org$document
@@ -268,7 +268,6 @@
 ||real-buy.net$document
 ||rehab-centers-here-now.site$document
 ||rewardgivingrealspecialoffer.cyou$document
-||richsurvey.live$document
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
@@ -359,7 +358,6 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||web-security.ml$document
@@ -381,5 +379,4 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||zalando-prive.es$document
 ||zeusmedia.info$document
