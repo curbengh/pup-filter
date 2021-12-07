@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Dec 2021 00:02:54 +0000
+! Updated: Tue, 07 Dec 2021 12:03:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,16 +22,13 @@
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
-||bednarmoore.icu$all
 ||beinspired.global$all
-||benefiio.org$all
 ||bkk755.biz$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
-||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -71,6 +68,7 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
+||discoveryfeed.org$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -139,7 +137,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -382,4 +379,5 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all
 ||zeusmedia.info$all
