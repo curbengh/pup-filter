@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Dec 2021 12:02:58 +0000
+# Updated: Tue, 07 Dec 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 2021travel.net
 abcscience.xyz
 aikoo.club
+amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -21,6 +22,7 @@ be-n9lnns3n-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
+bednarmoore.icu
 beinspired.global
 benefiio.org
 bkk755.biz
@@ -30,6 +32,7 @@ boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
 brightlifestyle.org
+cautelous132.xyz
 center-plains.xyz
 center-planet.xyz
 center1crater.xyz
@@ -100,8 +103,8 @@ fireapps.cloud
 foundnow.net
 funanime.me
 funspine.xyz
-gamerdigest.org
 genertellife.it
+gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 girlsnearyou.online
@@ -298,7 +301,6 @@ sonicacrater.xyz
 spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
-stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamingmadness.net
@@ -374,6 +376,7 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
+winnerz.icu
 worldtechguide.net
 worldwideofficialpromotion.cyou
 your-magazine.me

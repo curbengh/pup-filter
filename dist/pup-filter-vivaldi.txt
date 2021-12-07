@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 06 Dec 2021 12:02:58 +0000
+! Updated: Tue, 07 Dec 2021 00:02:54 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$document
 ||abcscience.xyz$document
 ||aikoo.club$document
+||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
@@ -21,6 +22,7 @@
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
 ||beautinow.nl$document
+||bednarmoore.icu$document
 ||beinspired.global$document
 ||benefiio.org$document
 ||bkk755.biz$document
@@ -30,6 +32,7 @@
 ||boot-upheavily-bestsophisticatedfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
 ||brightlifestyle.org$document
+||cautelous132.xyz$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
 ||center1crater.xyz$document
@@ -100,8 +103,8 @@
 ||foundnow.net$document
 ||funanime.me$document
 ||funspine.xyz$document
-||gamerdigest.org$document
 ||genertellife.it$document
+||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||girlsnearyou.online$document
@@ -298,7 +301,6 @@
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
-||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamingmadness.net$document
@@ -374,6 +376,7 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||wildermanrolfson.icu$document
+||winnerz.icu$document
 ||worldtechguide.net$document
 ||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document

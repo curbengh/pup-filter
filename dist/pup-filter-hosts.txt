@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Dec 2021 12:02:58 +0000
+# Updated: Tue, 07 Dec 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 0.0.0.0 2021travel.net
 0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
+0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -21,6 +22,7 @@
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautinow.nl
+0.0.0.0 bednarmoore.icu
 0.0.0.0 beinspired.global
 0.0.0.0 benefiio.org
 0.0.0.0 bkk755.biz
@@ -30,6 +32,7 @@
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
 0.0.0.0 brightlifestyle.org
+0.0.0.0 cautelous132.xyz
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
 0.0.0.0 center1crater.xyz
@@ -100,8 +103,8 @@
 0.0.0.0 foundnow.net
 0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
-0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 girlsnearyou.online
@@ -298,7 +301,6 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
-0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamingmadness.net
@@ -374,6 +376,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
+0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me

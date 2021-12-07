@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 06 Dec 2021 12:02:58 +0000
+# Updated: Tue, 07 Dec 2021 00:02:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 2021travel.net
 -d abcscience.xyz
 -d aikoo.club
+-d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -24,6 +25,7 @@ msFilterList
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beautinow.nl
+-d bednarmoore.icu
 -d beinspired.global
 -d benefiio.org
 -d bkk755.biz
@@ -33,6 +35,7 @@ msFilterList
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
 -d brightlifestyle.org
+-d cautelous132.xyz
 -d center-plains.xyz
 -d center-planet.xyz
 -d center1crater.xyz
@@ -103,8 +106,8 @@ msFilterList
 -d foundnow.net
 -d funanime.me
 -d funspine.xyz
--d gamerdigest.org
 -d genertellife.it
+-d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d girlsnearyou.online
@@ -301,7 +304,6 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
--d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -377,6 +379,7 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
+-d winnerz.icu
 -d worldtechguide.net
 -d worldwideofficialpromotion.cyou
 -d your-magazine.me
