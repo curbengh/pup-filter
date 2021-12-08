@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Dec 2021 12:03:54 +0000
+! Updated: Wed, 08 Dec 2021 00:03:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -175,6 +175,7 @@
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
 ||lubbockeda.org$document
+||lucky-worldwide-prize-random.rest$document
 ||luckyworldwideprizerandom.rest$document
 ||makingbettermoney.co$document
 ||marketloans.net$document
@@ -284,6 +285,7 @@
 ||sergey-tracks.xyz$document
 ||shopin.nyc$document
 ||shopnsave.world$document
+||sightcottonreply.top$document
 ||smartideas.pro$document
 ||smartuv.shop$document
 ||software-dealz.de$document
@@ -375,7 +377,6 @@
 ||wildermanrolfson.icu$document
 ||winnerz.icu$document
 ||worldtechguide.net$document
-||worldwideofficialpromotion.cyou$document
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document

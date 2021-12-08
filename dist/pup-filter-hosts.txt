@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 07 Dec 2021 12:03:54 +0000
+# Updated: Wed, 08 Dec 2021 00:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -175,6 +175,7 @@
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
 0.0.0.0 lubbockeda.org
+0.0.0.0 lucky-worldwide-prize-random.rest
 0.0.0.0 luckyworldwideprizerandom.rest
 0.0.0.0 makingbettermoney.co
 0.0.0.0 marketloans.net
@@ -284,6 +285,7 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
+0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
 0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
@@ -375,7 +377,6 @@
 0.0.0.0 wildermanrolfson.icu
 0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
-0.0.0.0 worldwideofficialpromotion.cyou
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 07 Dec 2021 12:03:54 +0000
+! Updated: Wed, 08 Dec 2021 00:03:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -175,6 +175,7 @@
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
 ||lubbockeda.org$all
+||lucky-worldwide-prize-random.rest$all
 ||luckyworldwideprizerandom.rest$all
 ||makingbettermoney.co$all
 ||marketloans.net$all
@@ -284,6 +285,7 @@
 ||sergey-tracks.xyz$all
 ||shopin.nyc$all
 ||shopnsave.world$all
+||sightcottonreply.top$all
 ||smartideas.pro$all
 ||smartuv.shop$all
 ||software-dealz.de$all
@@ -375,7 +377,6 @@
 ||wildermanrolfson.icu$all
 ||winnerz.icu$all
 ||worldtechguide.net$all
-||worldwideofficialpromotion.cyou$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
