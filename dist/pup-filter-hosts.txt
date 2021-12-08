@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 08 Dec 2021 00:03:47 +0000
+# Updated: Wed, 08 Dec 2021 12:03:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
+0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -23,6 +24,7 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautinow.nl
 0.0.0.0 beinspired.global
+0.0.0.0 benefiio.org
 0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
@@ -202,6 +204,7 @@
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
+0.0.0.0 paint-lion-history-loud.xyz
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
@@ -256,10 +259,12 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
+0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
+0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -269,6 +274,7 @@
 0.0.0.0 real-buy.net
 0.0.0.0 rehab-centers-here-now.site
 0.0.0.0 rewardgivingrealspecialoffer.cyou
+0.0.0.0 richsurvey.live
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 08 Dec 2021 00:03:47 +0000
+! Updated: Wed, 08 Dec 2021 12:03:39 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -14,6 +14,7 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -23,6 +24,7 @@
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
 ||beinspired.global$all
+||benefiio.org$all
 ||bkk755.biz$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
@@ -202,6 +204,7 @@
 ||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
+||paint-lion-history-loud.xyz$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
@@ -256,10 +259,12 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
+||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
+||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -269,6 +274,7 @@
 ||real-buy.net$all
 ||rehab-centers-here-now.site$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
