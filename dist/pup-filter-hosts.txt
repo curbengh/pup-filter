@@ -1,17 +1,17 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Dec 2021 00:03:25 +0000
+# Updated: Thu, 09 Dec 2021 12:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 2021travel.net
 0.0.0.0 abcscience.xyz
 0.0.0.0 aikoo.club
 0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
+0.0.0.0 app-track.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
@@ -31,6 +31,7 @@
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
+0.0.0.0 brightlifestyle.org
 0.0.0.0 cautelous132.xyz
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
@@ -70,7 +71,6 @@
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
-0.0.0.0 discoveryfeed.org
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -140,6 +140,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -202,7 +203,6 @@
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
-0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
@@ -262,6 +262,7 @@
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
 0.0.0.0 premium-news-for.me
+0.0.0.0 premium-shops-around.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitablesurvey.site
@@ -368,6 +369,7 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 web-security.ml
@@ -390,4 +392,3 @@
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 zalando-prive.es
-0.0.0.0 zeusmedia.info

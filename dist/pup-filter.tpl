@@ -1,20 +1,20 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Dec 2021 00:03:25 +0000
+# Updated: Thu, 09 Dec 2021 12:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
+-d app-track.club
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
@@ -34,6 +34,7 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
+-d brightlifestyle.org
 -d cautelous132.xyz
 -d center-plains.xyz
 -d center-planet.xyz
@@ -73,7 +74,6 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
--d discoveryfeed.org
 -d dutycalls.shop
 -d efladn.club
 -d elpelades.club
@@ -143,6 +143,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -205,7 +206,6 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc
--d newsinformer.net
 -d nordvpnhosting.com
 -d offerpage.link
 -d offersearch.info
@@ -265,6 +265,7 @@ msFilterList
 -d playwintere.xyz
 -d playwinterf.xyz
 -d premium-news-for.me
+-d premium-shops-around.me
 -d press-news-for.me
 -d prize-messsages.casa
 -d profitablesurvey.site
@@ -371,6 +372,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsharks.net
 -d vpn-pro.club
 -d wallda.site
 -d web-security.ml
@@ -393,4 +395,3 @@ msFilterList
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
 -d zalando-prive.es
--d zeusmedia.info

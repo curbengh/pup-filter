@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Dec 2021 00:03:25 +0000
+! Updated: Thu, 09 Dec 2021 12:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||abcscience.xyz$all
 ||aikoo.club$all
 ||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
+||app-track.club$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||arre.work$all
@@ -31,6 +31,7 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
+||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -70,7 +71,6 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
-||discoveryfeed.org$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -140,6 +140,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -202,7 +203,6 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all
-||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
@@ -262,6 +262,7 @@
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
 ||premium-news-for.me$all
+||premium-shops-around.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||profitablesurvey.site$all
@@ -368,6 +369,7 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
+||viralsharks.net$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||web-security.ml$all
@@ -390,4 +392,3 @@
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
 ||zalando-prive.es$all
-||zeusmedia.info$all

@@ -1,17 +1,17 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Dec 2021 00:03:25 +0000
+! Updated: Thu, 09 Dec 2021 12:03:08 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$document
 ||abcscience.xyz$document
 ||aikoo.club$document
 ||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
+||app-track.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
@@ -31,6 +31,7 @@
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
+||brightlifestyle.org$document
 ||cautelous132.xyz$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
@@ -70,7 +71,6 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
-||discoveryfeed.org$document
 ||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -140,6 +140,7 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -202,7 +203,6 @@
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
-||newsinformer.net$document
 ||nordvpnhosting.com$document
 ||offerpage.link$document
 ||offersearch.info$document
@@ -262,6 +262,7 @@
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
 ||premium-news-for.me$document
+||premium-shops-around.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||profitablesurvey.site$document
@@ -368,6 +369,7 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
+||viralsharks.net$document
 ||vpn-pro.club$document
 ||wallda.site$document
 ||web-security.ml$document
@@ -390,4 +392,3 @@
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
 ||zalando-prive.es$document
-||zeusmedia.info$document

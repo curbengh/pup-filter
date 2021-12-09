@@ -1,17 +1,17 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Dec 2021 00:03:25 +0000
+# Updated: Thu, 09 Dec 2021 12:03:08 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 abcscience.xyz
 aikoo.club
 amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
+app-track.club
 appsto.cloud
 appzfirer.biz
 arre.work
@@ -31,6 +31,7 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
+brightlifestyle.org
 cautelous132.xyz
 center-plains.xyz
 center-planet.xyz
@@ -70,7 +71,6 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
-discoveryfeed.org
 dutycalls.shop
 efladn.club
 elpelades.club
@@ -140,6 +140,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -202,7 +203,6 @@ mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 news-daluku.cc
-newsinformer.net
 nordvpnhosting.com
 offerpage.link
 offersearch.info
@@ -262,6 +262,7 @@ playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
 premium-news-for.me
+premium-shops-around.me
 press-news-for.me
 prize-messsages.casa
 profitablesurvey.site
@@ -368,6 +369,7 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
+viralsharks.net
 vpn-pro.club
 wallda.site
 web-security.ml
@@ -390,4 +392,3 @@ your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
 zalando-prive.es
-zeusmedia.info
