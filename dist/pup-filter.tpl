@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 08 Dec 2021 12:03:39 +0000
+# Updated: Thu, 09 Dec 2021 00:03:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -106,6 +106,7 @@ msFilterList
 -d foundnow.net
 -d funanime.me
 -d funspine.xyz
+-d gamerdigest.org
 -d genertellife.it
 -d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
@@ -203,6 +204,7 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
+-d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
 -d offerpage.link
@@ -265,7 +267,6 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
 -d profitablesurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
@@ -309,6 +310,7 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -342,10 +344,12 @@ msFilterList
 -d theacrater.xyz
 -d theastar.xyz
 -d theavolcano.xyz
+-d theconnectvpn.com
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
 -d timefornews.online
+-d to-an-us-dental-implants-well.live
 -d top-offers2.club
 -d topdating.online
 -d tracking-landers.xyz
@@ -353,7 +357,6 @@ msFilterList
 -d truecompassion.net
 -d updateview.tech
 -d upplaysite.xyz
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru

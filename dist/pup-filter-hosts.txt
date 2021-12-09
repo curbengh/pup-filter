@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 08 Dec 2021 12:03:39 +0000
+# Updated: Thu, 09 Dec 2021 00:03:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -103,6 +103,7 @@
 0.0.0.0 foundnow.net
 0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
+0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
@@ -200,6 +201,7 @@
 0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
+0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
@@ -262,7 +264,6 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
 0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
@@ -306,6 +307,7 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
+0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamingmadness.net
@@ -339,10 +341,12 @@
 0.0.0.0 theacrater.xyz
 0.0.0.0 theastar.xyz
 0.0.0.0 theavolcano.xyz
+0.0.0.0 theconnectvpn.com
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
 0.0.0.0 timefornews.online
+0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
@@ -350,7 +354,6 @@
 0.0.0.0 truecompassion.net
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
-0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
