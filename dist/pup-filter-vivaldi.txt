@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Dec 2021 12:03:08 +0000
+! Updated: Fri, 10 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||abcscience.xyz$document
 ||aikoo.club$document
 ||amobil.online$document
 ||android-browser.live$document
@@ -31,7 +30,6 @@
 ||boot-upheavily-bestquickfile.best$document
 ||boot-upheavily-bestsophisticatedfile.best$document
 ||boot-upsophisticated-bestoverlyfile.best$document
-||brightlifestyle.org$document
 ||cautelous132.xyz$document
 ||center-plains.xyz$document
 ||center-planet.xyz$document
@@ -71,6 +69,7 @@
 ||darkview.org$document
 ||dayinlife.net$document
 ||dealsify.net$document
+||deepapp.click$document
 ||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -100,6 +99,7 @@
 ||findaupgradingurls.work$document
 ||finditquick.online$document
 ||fireapps.cloud$document
+||forwardcutwere.top$document
 ||foundnow.net$document
 ||funanime.me$document
 ||funspine.xyz$document
@@ -181,10 +181,8 @@
 ||lubbockeda.org$document
 ||lucky-worldwide-prize-random.rest$document
 ||luckyworldwideprizerandom.rest$document
-||makingbettermoney.co$document
 ||marketloans.net$document
 ||mazestation.games$document
-||media-cloud.ru$document
 ||mediaadvanced.ru$document
 ||mindmatch.ai$document
 ||mistvideo.ru$document
@@ -265,7 +263,9 @@
 ||premium-shops-around.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||profitablesurvey.site$document
+||profitedsurvey.site$document
 ||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
@@ -327,6 +327,7 @@
 ||systemupdateme.solutions$document
 ||taboo.news$document
 ||techandgadgets.net$document
+||tennis-point.it$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document
@@ -355,6 +356,7 @@
 ||truecompassion.net$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
+||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||videochanelace.ru$document

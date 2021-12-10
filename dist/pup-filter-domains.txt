@@ -1,11 +1,10 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Dec 2021 12:03:08 +0000
+# Updated: Fri, 10 Dec 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-abcscience.xyz
 aikoo.club
 amobil.online
 android-browser.live
@@ -31,7 +30,6 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
-brightlifestyle.org
 cautelous132.xyz
 center-plains.xyz
 center-planet.xyz
@@ -71,6 +69,7 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
+deepapp.click
 dutycalls.shop
 efladn.club
 elpelades.club
@@ -100,6 +99,7 @@ fastwebb.xyz
 findaupgradingurls.work
 finditquick.online
 fireapps.cloud
+forwardcutwere.top
 foundnow.net
 funanime.me
 funspine.xyz
@@ -181,10 +181,8 @@ loveorfun.cc
 lubbockeda.org
 lucky-worldwide-prize-random.rest
 luckyworldwideprizerandom.rest
-makingbettermoney.co
 marketloans.net
 mazestation.games
-media-cloud.ru
 mediaadvanced.ru
 mindmatch.ai
 mistvideo.ru
@@ -265,7 +263,9 @@ premium-news-for.me
 premium-shops-around.me
 press-news-for.me
 prize-messsages.casa
+producthunter.club
 profitablesurvey.site
+profitedsurvey.site
 profitsurvey.live
 promotionclaim.rest
 protect-ios.com
@@ -327,6 +327,7 @@ syssysupdate.top
 systemupdateme.solutions
 taboo.news
 techandgadgets.net
+tennis-point.it
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -355,6 +356,7 @@ trotineo.fr
 truecompassion.net
 updateview.tech
 upplaysite.xyz
+usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru

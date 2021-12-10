@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 09 Dec 2021 12:03:08 +0000
+! Updated: Fri, 10 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||abcscience.xyz$all
 ||aikoo.club$all
 ||amobil.online$all
 ||android-browser.live$all
@@ -31,7 +30,6 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
-||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -71,6 +69,7 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
+||deepapp.click$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
@@ -100,6 +99,7 @@
 ||findaupgradingurls.work$all
 ||finditquick.online$all
 ||fireapps.cloud$all
+||forwardcutwere.top$all
 ||foundnow.net$all
 ||funanime.me$all
 ||funspine.xyz$all
@@ -181,10 +181,8 @@
 ||lubbockeda.org$all
 ||lucky-worldwide-prize-random.rest$all
 ||luckyworldwideprizerandom.rest$all
-||makingbettermoney.co$all
 ||marketloans.net$all
 ||mazestation.games$all
-||media-cloud.ru$all
 ||mediaadvanced.ru$all
 ||mindmatch.ai$all
 ||mistvideo.ru$all
@@ -265,7 +263,9 @@
 ||premium-shops-around.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||profitablesurvey.site$all
+||profitedsurvey.site$all
 ||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -327,6 +327,7 @@
 ||systemupdateme.solutions$all
 ||taboo.news$all
 ||techandgadgets.net$all
+||tennis-point.it$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -355,6 +356,7 @@
 ||truecompassion.net$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
+||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||videochanelace.ru$all

@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 09 Dec 2021 12:03:08 +0000
+# Updated: Fri, 10 Dec 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d abcscience.xyz
 -d aikoo.club
 -d amobil.online
 -d android-browser.live
@@ -34,7 +33,6 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
--d brightlifestyle.org
 -d cautelous132.xyz
 -d center-plains.xyz
 -d center-planet.xyz
@@ -74,6 +72,7 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
+-d deepapp.click
 -d dutycalls.shop
 -d efladn.club
 -d elpelades.club
@@ -103,6 +102,7 @@ msFilterList
 -d findaupgradingurls.work
 -d finditquick.online
 -d fireapps.cloud
+-d forwardcutwere.top
 -d foundnow.net
 -d funanime.me
 -d funspine.xyz
@@ -184,10 +184,8 @@ msFilterList
 -d lubbockeda.org
 -d lucky-worldwide-prize-random.rest
 -d luckyworldwideprizerandom.rest
--d makingbettermoney.co
 -d marketloans.net
 -d mazestation.games
--d media-cloud.ru
 -d mediaadvanced.ru
 -d mindmatch.ai
 -d mistvideo.ru
@@ -268,7 +266,9 @@ msFilterList
 -d premium-shops-around.me
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitablesurvey.site
+-d profitedsurvey.site
 -d profitsurvey.live
 -d promotionclaim.rest
 -d protect-ios.com
@@ -330,6 +330,7 @@ msFilterList
 -d systemupdateme.solutions
 -d taboo.news
 -d techandgadgets.net
+-d tennis-point.it
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -358,6 +359,7 @@ msFilterList
 -d truecompassion.net
 -d updateview.tech
 -d upplaysite.xyz
+-d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
