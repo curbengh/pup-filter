@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 10 Dec 2021 00:03:02 +0000
+! Updated: Fri, 10 Dec 2021 12:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$all
+||am-harder-stock-corn.xyz$all
 ||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
@@ -70,7 +71,6 @@
 ||dayinlife.net$all
 ||dealsify.net$all
 ||deepapp.click$all
-||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -350,7 +350,6 @@
 ||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
-||topdating.online$all
 ||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all

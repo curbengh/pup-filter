@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 10 Dec 2021 00:03:02 +0000
+! Updated: Fri, 10 Dec 2021 12:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$document
+||am-harder-stock-corn.xyz$document
 ||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
@@ -70,7 +71,6 @@
 ||dayinlife.net$document
 ||dealsify.net$document
 ||deepapp.click$document
-||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -350,7 +350,6 @@
 ||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
-||topdating.online$document
 ||tracking-landers.xyz$document
 ||trotineo.fr$document
 ||truecompassion.net$document

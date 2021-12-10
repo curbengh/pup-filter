@@ -1,11 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 10 Dec 2021 00:03:02 +0000
+# Updated: Fri, 10 Dec 2021 12:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 aikoo.club
+0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
@@ -70,7 +71,6 @@
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
 0.0.0.0 deepapp.click
-0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -350,7 +350,6 @@
 0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
-0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
