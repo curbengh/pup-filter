@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 10 Dec 2021 12:03:18 +0000
+! Updated: Sat, 11 Dec 2021 00:02:51 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@
 ||country-news.live$document
 ||craftstash.us$document
 ||crazyprize.buzz$document
-||credit-monitoring-360.xyz$document
 ||crowdweightyellow.top$document
 ||curfiositystream.com$document
 ||curiositydstream.com$document
@@ -71,6 +70,7 @@
 ||dayinlife.net$document
 ||dealsify.net$document
 ||deepapp.click$document
+||downansurface.top$document
 ||efladn.club$document
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
@@ -108,7 +108,6 @@
 ||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
-||girlsnearyou.online$document
 ||gladmstreet.xyz$document
 ||global-track.space$document
 ||golddellifewonder.rest$document
@@ -202,6 +201,7 @@
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
 ||nordvpnhosting.com$document
+||notore.us$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||paint-lion-history-loud.xyz$document
@@ -327,7 +327,6 @@
 ||systemupdateme.solutions$document
 ||taboo.news$document
 ||techandgadgets.net$document
-||tennis-point.it$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document
@@ -387,7 +386,6 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||wildermanrolfson.icu$document
-||winnerz.icu$document
 ||worldtechguide.net$document
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document

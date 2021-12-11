@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 10 Dec 2021 12:03:18 +0000
+# Updated: Sat, 11 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -60,7 +60,6 @@
 0.0.0.0 country-news.live
 0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
-0.0.0.0 credit-monitoring-360.xyz
 0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
 0.0.0.0 curiositydstream.com
@@ -71,6 +70,7 @@
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
 0.0.0.0 deepapp.click
+0.0.0.0 downansurface.top
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -108,7 +108,6 @@
 0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
-0.0.0.0 girlsnearyou.online
 0.0.0.0 gladmstreet.xyz
 0.0.0.0 global-track.space
 0.0.0.0 golddellifewonder.rest
@@ -202,6 +201,7 @@
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
 0.0.0.0 nordvpnhosting.com
+0.0.0.0 notore.us
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 paint-lion-history-loud.xyz
@@ -327,7 +327,6 @@
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 taboo.news
 0.0.0.0 techandgadgets.net
-0.0.0.0 tennis-point.it
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
@@ -387,7 +386,6 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
-0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 10 Dec 2021 12:03:18 +0000
+# Updated: Sat, 11 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -63,7 +63,6 @@ msFilterList
 -d country-news.live
 -d craftstash.us
 -d crazyprize.buzz
--d credit-monitoring-360.xyz
 -d crowdweightyellow.top
 -d curfiositystream.com
 -d curiositydstream.com
@@ -74,6 +73,7 @@ msFilterList
 -d dayinlife.net
 -d dealsify.net
 -d deepapp.click
+-d downansurface.top
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -111,7 +111,6 @@ msFilterList
 -d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
--d girlsnearyou.online
 -d gladmstreet.xyz
 -d global-track.space
 -d golddellifewonder.rest
@@ -205,6 +204,7 @@ msFilterList
 -d nettrafficpartners.net
 -d news-daluku.cc
 -d nordvpnhosting.com
+-d notore.us
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -330,7 +330,6 @@ msFilterList
 -d systemupdateme.solutions
 -d taboo.news
 -d techandgadgets.net
--d tennis-point.it
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -390,7 +389,6 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
--d winnerz.icu
 -d worldtechguide.net
 -d your-magazine.me
 -d yourmoneymachine.cc
