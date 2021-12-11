@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Dec 2021 00:02:51 +0000
+# Updated: Sat, 11 Dec 2021 12:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
-0.0.0.0 app-track.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
@@ -201,7 +200,6 @@
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
 0.0.0.0 nordvpnhosting.com
-0.0.0.0 notore.us
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 paint-lion-history-loud.xyz
@@ -349,6 +347,7 @@
 0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
+0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
@@ -369,7 +368,6 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
-0.0.0.0 viralsharks.net
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site
 0.0.0.0 web-security.ml
