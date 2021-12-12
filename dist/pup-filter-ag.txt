@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 12 Dec 2021 00:02:44 +0000
+! Updated: Sun, 12 Dec 2021 12:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
-||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -21,6 +20,7 @@
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
+||bednarmoore.icu$all
 ||beinspired.global$all
 ||benefiio.org$all
 ||bkk755.biz$all
@@ -29,7 +29,6 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
-||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -69,6 +68,7 @@
 ||dayinlife.net$all
 ||dealsify.net$all
 ||deepapp.click$all
+||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -199,6 +199,7 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all
+||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
@@ -258,13 +259,10 @@
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
 ||premium-news-for.me$all
-||premium-shops-around.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
-||profitedsurvey.site$all
-||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
