@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Dec 2021 12:02:31 +0000
+# Updated: Sun, 12 Dec 2021 00:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,7 +10,6 @@ msFilterList
 #
 -d aikoo.club
 -d am-harder-stock-corn.xyz
--d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -33,6 +32,7 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
+-d brightlifestyle.org
 -d cautelous132.xyz
 -d center-plains.xyz
 -d center-planet.xyz
@@ -72,7 +72,6 @@ msFilterList
 -d dayinlife.net
 -d dealsify.net
 -d deepapp.click
--d downansurface.top
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
@@ -92,6 +91,7 @@ msFilterList
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d euronordvpn.com
+-d evaing.live
 -d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
@@ -182,6 +182,7 @@ msFilterList
 -d lubbockeda.org
 -d lucky-worldwide-prize-random.rest
 -d luckyworldwideprizerandom.rest
+-d makingbettermoney.co
 -d marketloans.net
 -d mazestation.games
 -d mediaadvanced.ru
@@ -198,7 +199,6 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc

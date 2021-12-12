@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Dec 2021 12:02:31 +0000
+# Updated: Sun, 12 Dec 2021 00:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
-0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -30,6 +29,7 @@
 0.0.0.0 boot-upheavily-bestquickfile.best
 0.0.0.0 boot-upheavily-bestsophisticatedfile.best
 0.0.0.0 boot-upsophisticated-bestoverlyfile.best
+0.0.0.0 brightlifestyle.org
 0.0.0.0 cautelous132.xyz
 0.0.0.0 center-plains.xyz
 0.0.0.0 center-planet.xyz
@@ -69,7 +69,6 @@
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
 0.0.0.0 deepapp.click
-0.0.0.0 downansurface.top
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -89,6 +88,7 @@
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 euronordvpn.com
+0.0.0.0 evaing.live
 0.0.0.0 expatriates.pk
 0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
@@ -179,6 +179,7 @@
 0.0.0.0 lubbockeda.org
 0.0.0.0 lucky-worldwide-prize-random.rest
 0.0.0.0 luckyworldwideprizerandom.rest
+0.0.0.0 makingbettermoney.co
 0.0.0.0 marketloans.net
 0.0.0.0 mazestation.games
 0.0.0.0 mediaadvanced.ru
@@ -195,7 +196,6 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc

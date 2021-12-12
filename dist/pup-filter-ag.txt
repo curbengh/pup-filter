@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 11 Dec 2021 12:02:31 +0000
+! Updated: Sun, 12 Dec 2021 00:02:44 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
-||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -30,6 +29,7 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
+||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -69,7 +69,6 @@
 ||dayinlife.net$all
 ||dealsify.net$all
 ||deepapp.click$all
-||downansurface.top$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
@@ -89,6 +88,7 @@
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||euronordvpn.com$all
+||evaing.live$all
 ||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
@@ -179,6 +179,7 @@
 ||lubbockeda.org$all
 ||lucky-worldwide-prize-random.rest$all
 ||luckyworldwideprizerandom.rest$all
+||makingbettermoney.co$all
 ||marketloans.net$all
 ||mazestation.games$all
 ||mediaadvanced.ru$all
@@ -195,7 +196,6 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
-||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all

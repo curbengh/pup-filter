@@ -1,13 +1,12 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 11 Dec 2021 12:02:31 +0000
+# Updated: Sun, 12 Dec 2021 00:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 aikoo.club
 am-harder-stock-corn.xyz
-amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -30,6 +29,7 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
+brightlifestyle.org
 cautelous132.xyz
 center-plains.xyz
 center-planet.xyz
@@ -69,7 +69,6 @@ darkview.org
 dayinlife.net
 dealsify.net
 deepapp.click
-downansurface.top
 efladn.club
 elpelades.club
 enjoy-asteroid.xyz
@@ -89,6 +88,7 @@ enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
 euronordvpn.com
+evaing.live
 expatriates.pk
 exploreshops.net
 fastfactsonline.co
@@ -179,6 +179,7 @@ loveorfun.cc
 lubbockeda.org
 lucky-worldwide-prize-random.rest
 luckyworldwideprizerandom.rest
+makingbettermoney.co
 marketloans.net
 mazestation.games
 mediaadvanced.ru
@@ -195,7 +196,6 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 news-daluku.cc
