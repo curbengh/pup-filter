@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Dec 2021 00:02:43 +0000
+! Updated: Mon, 13 Dec 2021 12:03:29 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -30,6 +30,7 @@
 ||boot-upheavily-bestquickfile.best^
 ||boot-upheavily-bestsophisticatedfile.best^
 ||boot-upsophisticated-bestoverlyfile.best^
+||brightlifestyle.org^
 ||cautelous132.xyz^
 ||center-plains.xyz^
 ||center-planet.xyz^
@@ -67,14 +68,12 @@
 ||darkview.org^
 ||dayinlife.net^
 ||dealsify.net^
-||deepapp.click^
 ||downansurface.top^
 ||dutycalls.shop^
 ||efladn.club^
 ||elpelades.club^
 ||enjoy-asteroid.xyz^
 ||enjoy-coast.xyz^
-||enjoy-sea.xyz^
 ||enjoy-star.xyz^
 ||enjoy1mountain.xyz^
 ||enjoy1ocean.xyz^
@@ -198,12 +197,11 @@
 ||mobyfox.shop^
 ||mybesthealthplan.org^
 ||nettrafficpartners.net^
-||news-daluku.cc^
 ||newsinformer.net^
 ||nordvpnhosting.com^
+||notore.us^
 ||offerpage.link^
 ||offersearch.info^
-||paint-lion-history-loud.xyz^
 ||pandaautumna.xyz^
 ||pandaautumnb.xyz^
 ||pandaautumnc.xyz^
@@ -223,7 +221,6 @@
 ||pandawintera.xyz^
 ||pandawinterb.xyz^
 ||pandawinterc.xyz^
-||pandawinterd.xyz^
 ||pandawintere.xyz^
 ||pandawinterf.xyz^
 ||people-around.me^
@@ -258,11 +255,8 @@
 ||playwinterd.xyz^
 ||playwintere.xyz^
 ||playwinterf.xyz^
-||premium-news-for.me^
-||press-news-for.me^
 ||prize-messsages.casa^
 ||producthunter.club^
-||profitablesurvey.site^
 ||promotionclaim.rest^
 ||protect-ios.com^
 ||qfind.net^

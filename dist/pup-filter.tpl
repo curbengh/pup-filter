@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Dec 2021 00:02:43 +0000
+# Updated: Mon, 13 Dec 2021 12:03:29 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,6 +33,7 @@ msFilterList
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
 -d boot-upsophisticated-bestoverlyfile.best
+-d brightlifestyle.org
 -d cautelous132.xyz
 -d center-plains.xyz
 -d center-planet.xyz
@@ -70,14 +71,12 @@ msFilterList
 -d darkview.org
 -d dayinlife.net
 -d dealsify.net
--d deepapp.click
 -d downansurface.top
 -d dutycalls.shop
 -d efladn.club
 -d elpelades.club
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
--d enjoy-sea.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -201,12 +200,11 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
--d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
+-d notore.us
 -d offerpage.link
 -d offersearch.info
--d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -226,7 +224,6 @@ msFilterList
 -d pandawintera.xyz
 -d pandawinterb.xyz
 -d pandawinterc.xyz
--d pandawinterd.xyz
 -d pandawintere.xyz
 -d pandawinterf.xyz
 -d people-around.me
@@ -261,11 +258,8 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
--d premium-news-for.me
--d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
--d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net

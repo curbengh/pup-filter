@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Dec 2021 00:02:43 +0000
+! Updated: Mon, 13 Dec 2021 12:03:29 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -30,6 +30,7 @@
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
 ||boot-upsophisticated-bestoverlyfile.best$all
+||brightlifestyle.org$all
 ||cautelous132.xyz$all
 ||center-plains.xyz$all
 ||center-planet.xyz$all
@@ -67,14 +68,12 @@
 ||darkview.org$all
 ||dayinlife.net$all
 ||dealsify.net$all
-||deepapp.click$all
 ||downansurface.top$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
 ||enjoy-coast.xyz$all
-||enjoy-sea.xyz$all
 ||enjoy-star.xyz$all
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
@@ -198,12 +197,11 @@
 ||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
-||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
+||notore.us$all
 ||offerpage.link$all
 ||offersearch.info$all
-||paint-lion-history-loud.xyz$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
@@ -223,7 +221,6 @@
 ||pandawintera.xyz$all
 ||pandawinterb.xyz$all
 ||pandawinterc.xyz$all
-||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pandawinterf.xyz$all
 ||people-around.me$all
@@ -258,11 +255,8 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
-||premium-news-for.me$all
-||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
-||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
