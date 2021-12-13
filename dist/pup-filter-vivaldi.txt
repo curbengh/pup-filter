@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 12 Dec 2021 12:02:46 +0000
+! Updated: Mon, 13 Dec 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
+||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
@@ -44,7 +45,6 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -68,6 +68,7 @@
 ||dayinlife.net$document
 ||dealsify.net$document
 ||deepapp.click$document
+||downansurface.top$document
 ||dutycalls.shop$document
 ||efladn.club$document
 ||elpelades.club$document
@@ -104,7 +105,6 @@
 ||funspine.xyz$document
 ||gamerdigest.org$document
 ||genertellife.it$document
-||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||gladmstreet.xyz$document
@@ -138,7 +138,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -196,6 +195,7 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
+||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
@@ -287,7 +287,6 @@
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sergey-tracks.xyz$document
-||shopin.nyc$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
@@ -307,7 +306,6 @@
 ||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
-||streamingmadness.net$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
 ||streampreciseintenselythefile.vip$document
@@ -351,7 +349,6 @@
 ||truecompassion.net$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
-||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||videochanelace.ru$document

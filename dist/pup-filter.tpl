@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 12 Dec 2021 12:02:46 +0000
+# Updated: Mon, 13 Dec 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d aikoo.club
 -d am-harder-stock-corn.xyz
+-d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -47,7 +48,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -71,6 +71,7 @@ msFilterList
 -d dayinlife.net
 -d dealsify.net
 -d deepapp.click
+-d downansurface.top
 -d dutycalls.shop
 -d efladn.club
 -d elpelades.club
@@ -107,7 +108,6 @@ msFilterList
 -d funspine.xyz
 -d gamerdigest.org
 -d genertellife.it
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d gladmstreet.xyz
@@ -141,7 +141,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -199,6 +198,7 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
+-d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc
@@ -290,7 +290,6 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sergey-tracks.xyz
--d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
@@ -310,7 +309,6 @@ msFilterList
 -d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
--d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -354,7 +352,6 @@ msFilterList
 -d truecompassion.net
 -d updateview.tech
 -d upplaysite.xyz
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru

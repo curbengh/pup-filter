@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 12 Dec 2021 12:02:46 +0000
+# Updated: Mon, 13 Dec 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
+0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -44,7 +45,6 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -68,6 +68,7 @@
 0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
 0.0.0.0 deepapp.click
+0.0.0.0 downansurface.top
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 elpelades.club
@@ -104,7 +105,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 gladmstreet.xyz
@@ -138,7 +138,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -196,6 +195,7 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
+0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
@@ -287,7 +287,6 @@
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
@@ -307,7 +306,6 @@
 0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
-0.0.0.0 streamingmadness.net
 0.0.0.0 streamintenselyrefinedthefile.vip
 0.0.0.0 streamintenselysophisticatedthefile.vip
 0.0.0.0 streampreciseintenselythefile.vip
@@ -351,7 +349,6 @@
 0.0.0.0 truecompassion.net
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
-0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru

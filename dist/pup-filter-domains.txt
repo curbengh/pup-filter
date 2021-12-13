@@ -1,12 +1,13 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 12 Dec 2021 12:02:46 +0000
+# Updated: Mon, 13 Dec 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 aikoo.club
 am-harder-stock-corn.xyz
+amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -44,7 +45,6 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
-chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -68,6 +68,7 @@ darkview.org
 dayinlife.net
 dealsify.net
 deepapp.click
+downansurface.top
 dutycalls.shop
 efladn.club
 elpelades.club
@@ -104,7 +105,6 @@ funanime.me
 funspine.xyz
 gamerdigest.org
 genertellife.it
-gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 gladmstreet.xyz
@@ -138,7 +138,6 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -196,6 +195,7 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
+mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 news-daluku.cc
@@ -287,7 +287,6 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sergey-tracks.xyz
-shopin.nyc
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
@@ -307,7 +306,6 @@ spotplanetc.xyz
 stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
-streamingmadness.net
 streamintenselyrefinedthefile.vip
 streamintenselysophisticatedthefile.vip
 streampreciseintenselythefile.vip
@@ -351,7 +349,6 @@ trotineo.fr
 truecompassion.net
 updateview.tech
 upplaysite.xyz
-usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru
