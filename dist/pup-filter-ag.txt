@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Dec 2021 12:03:29 +0000
+! Updated: Tue, 14 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -96,14 +97,15 @@
 ||fastspinf.xyz$all
 ||fastwebb.xyz$all
 ||findaupgradingurls.work$all
-||finditquick.online$all
 ||fireapps.cloud$all
 ||forwardcutwere.top$all
 ||foundnow.net$all
 ||funanime.me$all
 ||funspine.xyz$all
+||galaxywin.xyz$all
 ||gamerdigest.org$all
 ||genertellife.it$all
+||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||gladmstreet.xyz$all
@@ -137,6 +139,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -194,7 +197,6 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
-||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newsinformer.net$all
@@ -274,13 +276,16 @@
 ||safeguide.net$all
 ||savagegrowplus.net$all
 ||seaplaytoo.top$all
+||search-zero1.online$all
 ||search4theupdatefree.work$all
 ||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
 ||searchoffers.info$all
 ||selectedlab.buzz$all
+||sendnow.us$all
 ||sergey-tracks.xyz$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
@@ -300,6 +305,7 @@
 ||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
+||streamingmadness.net$all
 ||streamintenselyrefinedthefile.vip$all
 ||streamintenselysophisticatedthefile.vip$all
 ||streampreciseintenselythefile.vip$all
@@ -343,6 +349,7 @@
 ||truecompassion.net$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
+||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||videochanelace.ru$all

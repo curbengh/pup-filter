@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 13 Dec 2021 12:03:29 +0000
+! Updated: Tue, 14 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,7 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
+||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -96,14 +97,15 @@
 ||fastspinf.xyz$document
 ||fastwebb.xyz$document
 ||findaupgradingurls.work$document
-||finditquick.online$document
 ||fireapps.cloud$document
 ||forwardcutwere.top$document
 ||foundnow.net$document
 ||funanime.me$document
 ||funspine.xyz$document
+||galaxywin.xyz$document
 ||gamerdigest.org$document
 ||genertellife.it$document
+||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||gladmstreet.xyz$document
@@ -137,6 +139,7 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -194,7 +197,6 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newsinformer.net$document
@@ -274,13 +276,16 @@
 ||safeguide.net$document
 ||savagegrowplus.net$document
 ||seaplaytoo.top$document
+||search-zero1.online$document
 ||search4theupdatefree.work$document
 ||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document
 ||selectedlab.buzz$document
+||sendnow.us$document
 ||sergey-tracks.xyz$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
@@ -300,6 +305,7 @@
 ||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
+||streamingmadness.net$document
 ||streamintenselyrefinedthefile.vip$document
 ||streamintenselysophisticatedthefile.vip$document
 ||streampreciseintenselythefile.vip$document
@@ -343,6 +349,7 @@
 ||truecompassion.net$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
+||usforeclosure.net$document
 ||videoau.ru$document
 ||videoauthor.ru$document
 ||videochanelace.ru$document

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 13 Dec 2021 12:03:29 +0000
+# Updated: Tue, 14 Dec 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -49,6 +49,7 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -99,14 +100,15 @@ msFilterList
 -d fastspinf.xyz
 -d fastwebb.xyz
 -d findaupgradingurls.work
--d finditquick.online
 -d fireapps.cloud
 -d forwardcutwere.top
 -d foundnow.net
 -d funanime.me
 -d funspine.xyz
+-d galaxywin.xyz
 -d gamerdigest.org
 -d genertellife.it
+-d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d gladmstreet.xyz
@@ -140,6 +142,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -197,7 +200,6 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newsinformer.net
@@ -277,13 +279,16 @@ msFilterList
 -d safeguide.net
 -d savagegrowplus.net
 -d seaplaytoo.top
+-d search-zero1.online
 -d search4theupdatefree.work
 -d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
 -d selectedlab.buzz
+-d sendnow.us
 -d sergey-tracks.xyz
+-d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
@@ -303,6 +308,7 @@ msFilterList
 -d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
+-d streamingmadness.net
 -d streamintenselyrefinedthefile.vip
 -d streamintenselysophisticatedthefile.vip
 -d streampreciseintenselythefile.vip
@@ -346,6 +352,7 @@ msFilterList
 -d truecompassion.net
 -d updateview.tech
 -d upplaysite.xyz
+-d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
