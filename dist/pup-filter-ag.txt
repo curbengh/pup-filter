@@ -1,18 +1,18 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 14 Dec 2021 12:02:50 +0000
+! Updated: Wed, 15 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$all
-||am-harder-stock-corn.xyz$all
 ||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -24,6 +24,7 @@
 ||bednarmoore.icu$all
 ||beinspired.global$all
 ||benefiio.org$all
+||best10hot.website$all
 ||bkk755.biz$all
 ||bleu-bonheur.fr$all
 ||bluetiger.cloud$all
@@ -46,7 +47,6 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -75,6 +75,7 @@
 ||elpelades.club$all
 ||enjoy-asteroid.xyz$all
 ||enjoy-coast.xyz$all
+||enjoy-sea.xyz$all
 ||enjoy-star.xyz$all
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
@@ -139,7 +140,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -170,7 +170,6 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||kompsos.uk$all
 ||lackystack.net$all
 ||link4updatingcentral.work$all
 ||listenthisso.top$all
@@ -197,13 +196,16 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
+||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
+||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||notore.us$all
 ||offerpage.link$all
 ||offersearch.info$all
+||paint-lion-history-loud.xyz$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
@@ -223,6 +225,7 @@
 ||pandawintera.xyz$all
 ||pandawinterb.xyz$all
 ||pandawinterc.xyz$all
+||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pandawinterf.xyz$all
 ||people-around.me$all
@@ -257,8 +260,9 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
+||press-news-for.me$all
 ||prize-messsages.casa$all
-||producthunter.club$all
+||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -290,7 +294,6 @@
 ||sightcottonreply.top$all
 ||smartideas.pro$all
 ||smartuv.shop$all
-||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
 ||sonic1asteroid.xyz$all
@@ -320,6 +323,7 @@
 ||syssysupdate.top$all
 ||systemupdateme.solutions$all
 ||taboo.news$all
+||taboola.blog$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
@@ -334,6 +338,7 @@
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
 ||theacrater.xyz$all
+||theasky.xyz$all
 ||theastar.xyz$all
 ||theavolcano.xyz$all
 ||theconnectvpn.com$all
@@ -343,7 +348,6 @@
 ||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
-||topdating.online$all
 ||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all
@@ -384,4 +388,3 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
-||zalando-prive.es$all

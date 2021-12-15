@@ -1,18 +1,18 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 14 Dec 2021 12:02:50 +0000
+! Updated: Wed, 15 Dec 2021 00:03:02 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||aikoo.club$document
-||am-harder-stock-corn.xyz$document
 ||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
+||arre.work$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
 ||axisradio.ca$document
@@ -24,6 +24,7 @@
 ||bednarmoore.icu$document
 ||beinspired.global$document
 ||benefiio.org$document
+||best10hot.website$document
 ||bkk755.biz$document
 ||bleu-bonheur.fr$document
 ||bluetiger.cloud$document
@@ -46,7 +47,6 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
-||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -75,6 +75,7 @@
 ||elpelades.club$document
 ||enjoy-asteroid.xyz$document
 ||enjoy-coast.xyz$document
+||enjoy-sea.xyz$document
 ||enjoy-star.xyz$document
 ||enjoy1mountain.xyz$document
 ||enjoy1ocean.xyz$document
@@ -139,7 +140,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -170,7 +170,6 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
-||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
@@ -197,13 +196,16 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
+||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
+||news-daluku.cc$document
 ||newsinformer.net$document
 ||nordvpnhosting.com$document
 ||notore.us$document
 ||offerpage.link$document
 ||offersearch.info$document
+||paint-lion-history-loud.xyz$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
@@ -223,6 +225,7 @@
 ||pandawintera.xyz$document
 ||pandawinterb.xyz$document
 ||pandawinterc.xyz$document
+||pandawinterd.xyz$document
 ||pandawintere.xyz$document
 ||pandawinterf.xyz$document
 ||people-around.me$document
@@ -257,8 +260,9 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
+||press-news-for.me$document
 ||prize-messsages.casa$document
-||producthunter.club$document
+||profitablesurvey.site$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
@@ -290,7 +294,6 @@
 ||sightcottonreply.top$document
 ||smartideas.pro$document
 ||smartuv.shop$document
-||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
 ||sonic1asteroid.xyz$document
@@ -320,6 +323,7 @@
 ||syssysupdate.top$document
 ||systemupdateme.solutions$document
 ||taboo.news$document
+||taboola.blog$document
 ||techandgadgets.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
@@ -334,6 +338,7 @@
 ||the7volcano.xyz$document
 ||theaasteroid.xyz$document
 ||theacrater.xyz$document
+||theasky.xyz$document
 ||theastar.xyz$document
 ||theavolcano.xyz$document
 ||theconnectvpn.com$document
@@ -343,7 +348,6 @@
 ||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
-||topdating.online$document
 ||tracking-landers.xyz$document
 ||trotineo.fr$document
 ||truecompassion.net$document
@@ -384,4 +388,3 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
-||zalando-prive.es$document

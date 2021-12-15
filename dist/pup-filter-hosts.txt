@@ -1,18 +1,18 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Dec 2021 12:02:50 +0000
+# Updated: Wed, 15 Dec 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 aikoo.club
-0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
+0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -24,6 +24,7 @@
 0.0.0.0 bednarmoore.icu
 0.0.0.0 beinspired.global
 0.0.0.0 benefiio.org
+0.0.0.0 best10hot.website
 0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
 0.0.0.0 bluetiger.cloud
@@ -46,7 +47,6 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
-0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -75,6 +75,7 @@
 0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-coast.xyz
+0.0.0.0 enjoy-sea.xyz
 0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
@@ -139,7 +140,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -170,7 +170,6 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
-0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
@@ -197,13 +196,16 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
+0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
+0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 notore.us
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
+0.0.0.0 paint-lion-history-loud.xyz
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
@@ -223,6 +225,7 @@
 0.0.0.0 pandawintera.xyz
 0.0.0.0 pandawinterb.xyz
 0.0.0.0 pandawinterc.xyz
+0.0.0.0 pandawinterd.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pandawinterf.xyz
 0.0.0.0 people-around.me
@@ -257,8 +260,9 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
+0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
+0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -290,7 +294,6 @@
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
 0.0.0.0 smartuv.shop
-0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
 0.0.0.0 sonic1asteroid.xyz
@@ -320,6 +323,7 @@
 0.0.0.0 syssysupdate.top
 0.0.0.0 systemupdateme.solutions
 0.0.0.0 taboo.news
+0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
@@ -334,6 +338,7 @@
 0.0.0.0 the7volcano.xyz
 0.0.0.0 theaasteroid.xyz
 0.0.0.0 theacrater.xyz
+0.0.0.0 theasky.xyz
 0.0.0.0 theastar.xyz
 0.0.0.0 theavolcano.xyz
 0.0.0.0 theconnectvpn.com
@@ -343,7 +348,6 @@
 0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
-0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
@@ -384,4 +388,3 @@
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
-0.0.0.0 zalando-prive.es

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 14 Dec 2021 12:02:50 +0000
+# Updated: Wed, 15 Dec 2021 00:03:02 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,13 +9,13 @@ msFilterList
 : Expires=1
 #
 -d aikoo.club
--d am-harder-stock-corn.xyz
 -d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
+-d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -27,6 +27,7 @@ msFilterList
 -d bednarmoore.icu
 -d beinspired.global
 -d benefiio.org
+-d best10hot.website
 -d bkk755.biz
 -d bleu-bonheur.fr
 -d bluetiger.cloud
@@ -49,7 +50,6 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -78,6 +78,7 @@ msFilterList
 -d elpelades.club
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
+-d enjoy-sea.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -142,7 +143,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -173,7 +173,6 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -200,13 +199,16 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
+-d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
+-d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
 -d notore.us
 -d offerpage.link
 -d offersearch.info
+-d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -226,6 +228,7 @@ msFilterList
 -d pandawintera.xyz
 -d pandawinterb.xyz
 -d pandawinterc.xyz
+-d pandawinterd.xyz
 -d pandawintere.xyz
 -d pandawinterf.xyz
 -d people-around.me
@@ -260,8 +263,9 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
+-d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
+-d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -293,7 +297,6 @@ msFilterList
 -d sightcottonreply.top
 -d smartideas.pro
 -d smartuv.shop
--d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
 -d sonic1asteroid.xyz
@@ -323,6 +326,7 @@ msFilterList
 -d syssysupdate.top
 -d systemupdateme.solutions
 -d taboo.news
+-d taboola.blog
 -d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
@@ -337,6 +341,7 @@ msFilterList
 -d the7volcano.xyz
 -d theaasteroid.xyz
 -d theacrater.xyz
+-d theasky.xyz
 -d theastar.xyz
 -d theavolcano.xyz
 -d theconnectvpn.com
@@ -346,7 +351,6 @@ msFilterList
 -d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
--d topdating.online
 -d tracking-landers.xyz
 -d trotineo.fr
 -d truecompassion.net
@@ -387,4 +391,3 @@ msFilterList
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
--d zalando-prive.es
