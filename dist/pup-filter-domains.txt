@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 15 Dec 2021 00:03:02 +0000
+# Updated: Wed, 15 Dec 2021 12:02:34 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 aikoo.club
 amobil.online
 android-browser.live
@@ -23,7 +24,6 @@ be-us-exercise-bikes-ok.live
 beautinow.nl
 bednarmoore.icu
 beinspired.global
-benefiio.org
 best10hot.website
 bkk755.biz
 bleu-bonheur.fr
@@ -31,7 +31,6 @@ bluetiger.cloud
 boot-upheavily-bestquickfile.best
 boot-upheavily-bestsophisticatedfile.best
 boot-upsophisticated-bestoverlyfile.best
-brightlifestyle.org
 cautelous132.xyz
 center-plains.xyz
 center-planet.xyz
@@ -69,6 +68,7 @@ dailyrep.net
 darkview.org
 dayinlife.net
 dealsify.net
+deepapp.click
 downansurface.top
 dutycalls.shop
 efladn.club
@@ -260,6 +260,7 @@ playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
+premium-news-for.me
 press-news-for.me
 prize-messsages.casa
 profitablesurvey.site
