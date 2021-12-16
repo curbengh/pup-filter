@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 15 Dec 2021 12:02:34 +0000
+! Updated: Thu, 16 Dec 2021 00:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,8 @@ centeracoast.xyz
 centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
+champion.rest
+chatverse.net
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
@@ -67,12 +69,10 @@ dailymoneysaver.money
 dailyrep.net
 darkview.org
 dayinlife.net
-dealsify.net
 deepapp.click
 downansurface.top
 dutycalls.shop
 efladn.club
-elpelades.club
 enjoy-asteroid.xyz
 enjoy-coast.xyz
 enjoy-sea.xyz
@@ -104,9 +104,7 @@ foundnow.net
 funanime.me
 funspine.xyz
 galaxywin.xyz
-gamerdigest.org
 genertellife.it
-gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 gladmstreet.xyz
@@ -119,7 +117,6 @@ healthfactor.io
 healthnfitness.site
 heatwavereporter.org
 help4.info
-hpages.net
 huge2upgradescentral.work
 humansystemsecurity.top
 iiuss.biz
@@ -196,7 +193,6 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 news-daluku.cc
@@ -234,7 +230,6 @@ performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip
 peterhahn.be
 phonesecuritymagic.top
-photo-explorer.org
 placefortheupgradesset.work
 placespina.xyz
 playautumna.xyz
@@ -294,7 +289,7 @@ shopin.nyc
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
-smartuv.shop
+software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
 sonic1asteroid.xyz
@@ -327,7 +322,6 @@ taboo.news
 taboola.blog
 techandgadgets.net
 thanksyoursupport.club
-the-crater.xyz
 the-sky.xyz
 the-star.xyz
 the1planet.xyz
@@ -346,7 +340,6 @@ theconnectvpn.com
 thedealexpert.net
 theirproviderock.top
 thelastpicture.show
-timefornews.online
 to-an-us-dental-implants-well.live
 top-offers2.club
 tracking-landers.xyz
@@ -389,3 +382,4 @@ worldtechguide.net
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
+zalando-prive.es

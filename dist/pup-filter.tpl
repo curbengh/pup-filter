@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 15 Dec 2021 12:02:34 +0000
+# Updated: Thu, 16 Dec 2021 00:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -49,6 +49,8 @@ msFilterList
 -d centeramountain.xyz
 -d centerastar.xyz
 -d centeravolcano.xyz
+-d champion.rest
+-d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -70,12 +72,10 @@ msFilterList
 -d dailyrep.net
 -d darkview.org
 -d dayinlife.net
--d dealsify.net
 -d deepapp.click
 -d downansurface.top
 -d dutycalls.shop
 -d efladn.club
--d elpelades.club
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
 -d enjoy-sea.xyz
@@ -107,9 +107,7 @@ msFilterList
 -d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
--d gamerdigest.org
 -d genertellife.it
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d gladmstreet.xyz
@@ -122,7 +120,6 @@ msFilterList
 -d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
--d hpages.net
 -d huge2upgradescentral.work
 -d humansystemsecurity.top
 -d iiuss.biz
@@ -199,7 +196,6 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc
@@ -237,7 +233,6 @@ msFilterList
 -d performrefinedoverlythefile.vip
 -d peterhahn.be
 -d phonesecuritymagic.top
--d photo-explorer.org
 -d placefortheupgradesset.work
 -d placespina.xyz
 -d playautumna.xyz
@@ -297,7 +292,7 @@ msFilterList
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
--d smartuv.shop
+-d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
 -d sonic1asteroid.xyz
@@ -330,7 +325,6 @@ msFilterList
 -d taboola.blog
 -d techandgadgets.net
 -d thanksyoursupport.club
--d the-crater.xyz
 -d the-sky.xyz
 -d the-star.xyz
 -d the1planet.xyz
@@ -349,7 +343,6 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
--d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
 -d tracking-landers.xyz
@@ -392,3 +385,4 @@ msFilterList
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work
+-d zalando-prive.es

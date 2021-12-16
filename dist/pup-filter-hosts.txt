@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 15 Dec 2021 12:02:34 +0000
+# Updated: Thu, 16 Dec 2021 00:03:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,8 @@
 0.0.0.0 centeramountain.xyz
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
+0.0.0.0 champion.rest
+0.0.0.0 chatverse.net
 0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
@@ -67,12 +69,10 @@
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 dealsify.net
 0.0.0.0 deepapp.click
 0.0.0.0 downansurface.top
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
-0.0.0.0 elpelades.club
 0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-coast.xyz
 0.0.0.0 enjoy-sea.xyz
@@ -104,9 +104,7 @@
 0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
-0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 gladmstreet.xyz
@@ -119,7 +117,6 @@
 0.0.0.0 healthnfitness.site
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
-0.0.0.0 hpages.net
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 humansystemsecurity.top
 0.0.0.0 iiuss.biz
@@ -196,7 +193,6 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
@@ -234,7 +230,6 @@
 0.0.0.0 performrefinedoverlythefile.vip
 0.0.0.0 peterhahn.be
 0.0.0.0 phonesecuritymagic.top
-0.0.0.0 photo-explorer.org
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placespina.xyz
 0.0.0.0 playautumna.xyz
@@ -294,7 +289,7 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
-0.0.0.0 smartuv.shop
+0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
 0.0.0.0 sonic1asteroid.xyz
@@ -327,7 +322,6 @@
 0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
-0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
 0.0.0.0 the-star.xyz
 0.0.0.0 the1planet.xyz
@@ -346,7 +340,6 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
-0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz
@@ -389,3 +382,4 @@
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 yoursafestgreatplaceupdates.work
+0.0.0.0 zalando-prive.es

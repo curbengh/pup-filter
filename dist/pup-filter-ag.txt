@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 15 Dec 2021 12:02:34 +0000
+! Updated: Thu, 16 Dec 2021 00:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,8 @@
 ||centeramountain.xyz$all
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
+||champion.rest$all
+||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -67,12 +69,10 @@
 ||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
-||dealsify.net$all
 ||deepapp.click$all
 ||downansurface.top$all
 ||dutycalls.shop$all
 ||efladn.club$all
-||elpelades.club$all
 ||enjoy-asteroid.xyz$all
 ||enjoy-coast.xyz$all
 ||enjoy-sea.xyz$all
@@ -104,9 +104,7 @@
 ||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
-||gamerdigest.org$all
 ||genertellife.it$all
-||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||gladmstreet.xyz$all
@@ -119,7 +117,6 @@
 ||healthnfitness.site$all
 ||heatwavereporter.org$all
 ||help4.info$all
-||hpages.net$all
 ||huge2upgradescentral.work$all
 ||humansystemsecurity.top$all
 ||iiuss.biz$all
@@ -196,7 +193,6 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
-||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all
@@ -234,7 +230,6 @@
 ||performrefinedoverlythefile.vip$all
 ||peterhahn.be$all
 ||phonesecuritymagic.top$all
-||photo-explorer.org$all
 ||placefortheupgradesset.work$all
 ||placespina.xyz$all
 ||playautumna.xyz$all
@@ -294,7 +289,7 @@
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
-||smartuv.shop$all
+||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
 ||sonic1asteroid.xyz$all
@@ -327,7 +322,6 @@
 ||taboola.blog$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
-||the-crater.xyz$all
 ||the-sky.xyz$all
 ||the-star.xyz$all
 ||the1planet.xyz$all
@@ -346,7 +340,6 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
-||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all
@@ -389,3 +382,4 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||yoursafestgreatplaceupdates.work$all
+||zalando-prive.es$all

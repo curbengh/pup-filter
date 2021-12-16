@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 15 Dec 2021 12:02:34 +0000
+! Updated: Thu, 16 Dec 2021 00:03:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -46,6 +46,8 @@
 ||centeramountain.xyz$document
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
+||champion.rest$document
+||chatverse.net$document
 ||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
@@ -67,12 +69,10 @@
 ||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
-||dealsify.net$document
 ||deepapp.click$document
 ||downansurface.top$document
 ||dutycalls.shop$document
 ||efladn.club$document
-||elpelades.club$document
 ||enjoy-asteroid.xyz$document
 ||enjoy-coast.xyz$document
 ||enjoy-sea.xyz$document
@@ -104,9 +104,7 @@
 ||funanime.me$document
 ||funspine.xyz$document
 ||galaxywin.xyz$document
-||gamerdigest.org$document
 ||genertellife.it$document
-||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||gladmstreet.xyz$document
@@ -119,7 +117,6 @@
 ||healthnfitness.site$document
 ||heatwavereporter.org$document
 ||help4.info$document
-||hpages.net$document
 ||huge2upgradescentral.work$document
 ||humansystemsecurity.top$document
 ||iiuss.biz$document
@@ -196,7 +193,6 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
@@ -234,7 +230,6 @@
 ||performrefinedoverlythefile.vip$document
 ||peterhahn.be$document
 ||phonesecuritymagic.top$document
-||photo-explorer.org$document
 ||placefortheupgradesset.work$document
 ||placespina.xyz$document
 ||playautumna.xyz$document
@@ -294,7 +289,7 @@
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
-||smartuv.shop$document
+||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
 ||sonic1asteroid.xyz$document
@@ -327,7 +322,6 @@
 ||taboola.blog$document
 ||techandgadgets.net$document
 ||thanksyoursupport.club$document
-||the-crater.xyz$document
 ||the-sky.xyz$document
 ||the-star.xyz$document
 ||the1planet.xyz$document
@@ -346,7 +340,6 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
-||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document
@@ -389,3 +382,4 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||yoursafestgreatplaceupdates.work$document
+||zalando-prive.es$document
