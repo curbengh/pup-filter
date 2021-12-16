@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Dec 2021 00:03:18 +0000
+# Updated: Thu, 16 Dec 2021 12:03:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 aikoo.club
+0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
@@ -90,7 +91,6 @@
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 euronordvpn.com
-0.0.0.0 evaing.live
 0.0.0.0 expatriates.pk
 0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
@@ -376,7 +376,6 @@
 0.0.0.0 westaocean.xyz
 0.0.0.0 westaplanet.xyz
 0.0.0.0 westasea.xyz
-0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 your-magazine.me

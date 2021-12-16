@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Dec 2021 00:03:18 +0000
+! Updated: Thu, 16 Dec 2021 12:03:30 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net^
 ||aikoo.club^
+||am-harder-stock-corn.xyz^
 ||amobil.online^
 ||android-browser.live^
 ||android-web.live^
@@ -90,7 +91,6 @@
 ||enjoyastar.xyz^
 ||enjoyavolcano.xyz^
 ||euronordvpn.com^
-||evaing.live^
 ||expatriates.pk^
 ||exploreshops.net^
 ||fastfactsonline.co^
@@ -376,7 +376,6 @@
 ||westaocean.xyz^
 ||westaplanet.xyz^
 ||westasea.xyz^
-||westastar.xyz^
 ||wildermanrolfson.icu^
 ||worldtechguide.net^
 ||your-magazine.me^
