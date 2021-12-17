@@ -1,11 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Dec 2021 12:03:30 +0000
+! Updated: Fri, 17 Dec 2021 00:03:50 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
+||adverify.cloud$all
+||adverify.me$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
 ||amobil.online$all
@@ -70,8 +72,9 @@
 ||dailyrep.net$all
 ||darkview.org$all
 ||dayinlife.net$all
-||deepapp.click$all
+||dealsify.net$all
 ||downansurface.top$all
+||dpakweoz.info$all
 ||dutycalls.shop$all
 ||efladn.club$all
 ||enjoy-asteroid.xyz$all
@@ -104,6 +107,7 @@
 ||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
+||gamerdigest.org$all
 ||genertellife.it$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
@@ -137,6 +141,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -258,6 +263,7 @@
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -289,6 +295,7 @@
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
+||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -301,7 +308,6 @@
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
-||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
@@ -322,6 +328,7 @@
 ||taboola.blog$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
+||the-crater.xyz$all
 ||the-sky.xyz$all
 ||the-star.xyz$all
 ||the1planet.xyz$all
@@ -340,6 +347,7 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
+||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
 ||tracking-landers.xyz$all

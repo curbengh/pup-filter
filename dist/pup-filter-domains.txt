@@ -1,11 +1,13 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Dec 2021 12:03:30 +0000
+# Updated: Fri, 17 Dec 2021 00:03:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 2021travel.net
+adverify.cloud
+adverify.me
 aikoo.club
 am-harder-stock-corn.xyz
 amobil.online
@@ -70,8 +72,9 @@ dailymoneysaver.money
 dailyrep.net
 darkview.org
 dayinlife.net
-deepapp.click
+dealsify.net
 downansurface.top
+dpakweoz.info
 dutycalls.shop
 efladn.club
 enjoy-asteroid.xyz
@@ -104,6 +107,7 @@ foundnow.net
 funanime.me
 funspine.xyz
 galaxywin.xyz
+gamerdigest.org
 genertellife.it
 getvideoabc.ru
 getvideoall.ru
@@ -137,6 +141,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 jojomamanbebe.ie
@@ -258,6 +263,7 @@ playwinterf.xyz
 premium-news-for.me
 press-news-for.me
 prize-messsages.casa
+producthunter.club
 profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
@@ -289,6 +295,7 @@ shopin.nyc
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
+smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -301,7 +308,6 @@ sonicacrater.xyz
 spotmapd.xyz
 spotmapf.xyz
 spotplanetc.xyz
-stickr.co
 storeuberspeedythefile.vip
 streamdevelopedintenselythefile.vip
 streamingmadness.net
@@ -322,6 +328,7 @@ taboo.news
 taboola.blog
 techandgadgets.net
 thanksyoursupport.club
+the-crater.xyz
 the-sky.xyz
 the-star.xyz
 the1planet.xyz
@@ -340,6 +347,7 @@ theconnectvpn.com
 thedealexpert.net
 theirproviderock.top
 thelastpicture.show
+timefornews.online
 to-an-us-dental-implants-well.live
 top-offers2.club
 tracking-landers.xyz

@@ -1,11 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 16 Dec 2021 12:03:30 +0000
+! Updated: Fri, 17 Dec 2021 00:03:50 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
+||adverify.cloud$document
+||adverify.me$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
 ||amobil.online$document
@@ -70,8 +72,9 @@
 ||dailyrep.net$document
 ||darkview.org$document
 ||dayinlife.net$document
-||deepapp.click$document
+||dealsify.net$document
 ||downansurface.top$document
+||dpakweoz.info$document
 ||dutycalls.shop$document
 ||efladn.club$document
 ||enjoy-asteroid.xyz$document
@@ -104,6 +107,7 @@
 ||funanime.me$document
 ||funspine.xyz$document
 ||galaxywin.xyz$document
+||gamerdigest.org$document
 ||genertellife.it$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
@@ -137,6 +141,7 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||jojomamanbebe.ie$document
@@ -258,6 +263,7 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
+||producthunter.club$document
 ||profitablesurvey.site$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
@@ -289,6 +295,7 @@
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
+||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -301,7 +308,6 @@
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
-||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamingmadness.net$document
@@ -322,6 +328,7 @@
 ||taboola.blog$document
 ||techandgadgets.net$document
 ||thanksyoursupport.club$document
+||the-crater.xyz$document
 ||the-sky.xyz$document
 ||the-star.xyz$document
 ||the1planet.xyz$document
@@ -340,6 +347,7 @@
 ||thedealexpert.net$document
 ||theirproviderock.top$document
 ||thelastpicture.show$document
+||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
 ||tracking-landers.xyz$document

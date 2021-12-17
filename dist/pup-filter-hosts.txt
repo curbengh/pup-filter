@@ -1,11 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Dec 2021 12:03:30 +0000
+# Updated: Fri, 17 Dec 2021 00:03:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
+0.0.0.0 adverify.cloud
+0.0.0.0 adverify.me
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
@@ -70,8 +72,9 @@
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
 0.0.0.0 dayinlife.net
-0.0.0.0 deepapp.click
+0.0.0.0 dealsify.net
 0.0.0.0 downansurface.top
+0.0.0.0 dpakweoz.info
 0.0.0.0 dutycalls.shop
 0.0.0.0 efladn.club
 0.0.0.0 enjoy-asteroid.xyz
@@ -104,6 +107,7 @@
 0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
+0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
@@ -137,6 +141,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 jojomamanbebe.ie
@@ -258,6 +263,7 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
+0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
@@ -289,6 +295,7 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
+0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -301,7 +308,6 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
-0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamingmadness.net
@@ -322,6 +328,7 @@
 0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
+0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
 0.0.0.0 the-star.xyz
 0.0.0.0 the1planet.xyz
@@ -340,6 +347,7 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
+0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
 0.0.0.0 tracking-landers.xyz

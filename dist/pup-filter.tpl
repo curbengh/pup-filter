@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 16 Dec 2021 12:03:30 +0000
+# Updated: Fri, 17 Dec 2021 00:03:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,6 +9,8 @@ msFilterList
 : Expires=1
 #
 -d 2021travel.net
+-d adverify.cloud
+-d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
 -d amobil.online
@@ -73,8 +75,9 @@ msFilterList
 -d dailyrep.net
 -d darkview.org
 -d dayinlife.net
--d deepapp.click
+-d dealsify.net
 -d downansurface.top
+-d dpakweoz.info
 -d dutycalls.shop
 -d efladn.club
 -d enjoy-asteroid.xyz
@@ -107,6 +110,7 @@ msFilterList
 -d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
+-d gamerdigest.org
 -d genertellife.it
 -d getvideoabc.ru
 -d getvideoall.ru
@@ -140,6 +144,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -261,6 +266,7 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
@@ -292,6 +298,7 @@ msFilterList
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
+-d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -304,7 +311,6 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
--d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -325,6 +331,7 @@ msFilterList
 -d taboola.blog
 -d techandgadgets.net
 -d thanksyoursupport.club
+-d the-crater.xyz
 -d the-sky.xyz
 -d the-star.xyz
 -d the1planet.xyz
@@ -343,6 +350,7 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
+-d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
 -d tracking-landers.xyz
