@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 17 Dec 2021 12:03:19 +0000
+! Updated: Sat, 18 Dec 2021 00:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||be-n9lnns3n-ok.live$document
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
-||beautinow.nl$document
 ||bednarmoore.icu$document
 ||beinspired.global$document
 ||best10hot.website$document
@@ -106,7 +105,6 @@
 ||fireapps.cloud$document
 ||forwardcutwere.top$document
 ||foundnow.net$document
-||funanime.me$document
 ||funspine.xyz$document
 ||galaxywin.xyz$document
 ||gamerdigest.org$document
@@ -180,7 +178,6 @@
 ||lltrsknoob.click$document
 ||louisvillegigs.net$document
 ||loveorfun.cc$document
-||lubbockeda.org$document
 ||lucky-worldwide-prize-random.rest$document
 ||luckyworldwideprizerandom.rest$document
 ||makingbettermoney.co$document
@@ -203,7 +200,6 @@
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
-||newsinformer.net$document
 ||nordvpnhosting.com$document
 ||offerpage.link$document
 ||offersearch.info$document
@@ -297,7 +293,6 @@
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
-||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -310,6 +305,7 @@
 ||spotmapd.xyz$document
 ||spotmapf.xyz$document
 ||spotplanetc.xyz$document
+||stickr.co$document
 ||storeuberspeedythefile.vip$document
 ||streamdevelopedintenselythefile.vip$document
 ||streamingmadness.net$document
@@ -352,9 +348,11 @@
 ||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
+||topdating.online$document
 ||tracking-landers.xyz$document
 ||trotineo.fr$document
 ||truecompassion.net$document
+||truly-diet.store$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
 ||usforeclosure.net$document

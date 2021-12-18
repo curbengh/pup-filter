@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 17 Dec 2021 12:03:19 +0000
+# Updated: Sat, 18 Dec 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,6 @@ msFilterList
 -d be-n9lnns3n-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
--d beautinow.nl
 -d bednarmoore.icu
 -d beinspired.global
 -d best10hot.website
@@ -109,7 +108,6 @@ msFilterList
 -d fireapps.cloud
 -d forwardcutwere.top
 -d foundnow.net
--d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
 -d gamerdigest.org
@@ -183,7 +181,6 @@ msFilterList
 -d lltrsknoob.click
 -d louisvillegigs.net
 -d loveorfun.cc
--d lubbockeda.org
 -d lucky-worldwide-prize-random.rest
 -d luckyworldwideprizerandom.rest
 -d makingbettermoney.co
@@ -206,7 +203,6 @@ msFilterList
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc
--d newsinformer.net
 -d nordvpnhosting.com
 -d offerpage.link
 -d offersearch.info
@@ -300,7 +296,6 @@ msFilterList
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
--d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -313,6 +308,7 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -355,9 +351,11 @@ msFilterList
 -d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
+-d topdating.online
 -d tracking-landers.xyz
 -d trotineo.fr
 -d truecompassion.net
+-d truly-diet.store
 -d updateview.tech
 -d upplaysite.xyz
 -d usforeclosure.net

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 17 Dec 2021 12:03:19 +0000
+# Updated: Sat, 18 Dec 2021 00:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
-0.0.0.0 beautinow.nl
 0.0.0.0 bednarmoore.icu
 0.0.0.0 beinspired.global
 0.0.0.0 best10hot.website
@@ -106,7 +105,6 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
 0.0.0.0 foundnow.net
-0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
 0.0.0.0 gamerdigest.org
@@ -180,7 +178,6 @@
 0.0.0.0 lltrsknoob.click
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
-0.0.0.0 lubbockeda.org
 0.0.0.0 lucky-worldwide-prize-random.rest
 0.0.0.0 luckyworldwideprizerandom.rest
 0.0.0.0 makingbettermoney.co
@@ -203,7 +200,6 @@
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
-0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
@@ -297,7 +293,6 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
-0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -310,6 +305,7 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
+0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamingmadness.net
@@ -352,9 +348,11 @@
 0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
+0.0.0.0 topdating.online
 0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
+0.0.0.0 truly-diet.store
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usforeclosure.net

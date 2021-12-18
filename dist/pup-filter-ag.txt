@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 17 Dec 2021 12:03:19 +0000
+! Updated: Sat, 18 Dec 2021 00:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
-||beautinow.nl$all
 ||bednarmoore.icu$all
 ||beinspired.global$all
 ||best10hot.website$all
@@ -106,7 +105,6 @@
 ||fireapps.cloud$all
 ||forwardcutwere.top$all
 ||foundnow.net$all
-||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
 ||gamerdigest.org$all
@@ -180,7 +178,6 @@
 ||lltrsknoob.click$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
-||lubbockeda.org$all
 ||lucky-worldwide-prize-random.rest$all
 ||luckyworldwideprizerandom.rest$all
 ||makingbettermoney.co$all
@@ -203,7 +200,6 @@
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all
-||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
@@ -297,7 +293,6 @@
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
-||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -310,6 +305,7 @@
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
+||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
@@ -352,9 +348,11 @@
 ||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
+||topdating.online$all
 ||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all
+||truly-diet.store$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
 ||usforeclosure.net$all
