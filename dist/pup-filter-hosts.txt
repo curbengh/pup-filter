@@ -1,11 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 19 Dec 2021 00:03:33 +0000
+# Updated: Sun, 19 Dec 2021 12:02:38 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
+0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
@@ -260,11 +261,9 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
-0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 profitablesurvey.site
-0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -291,6 +290,7 @@
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
 0.0.0.0 sergey-tracks.xyz
+0.0.0.0 shegotass.info
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top

@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Dec 2021 00:03:33 +0000
+! Updated: Sun, 19 Dec 2021 12:02:38 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$document
+||abc-news.online$document
 ||adverify.cloud$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
@@ -260,11 +261,9 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
-||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||profitablesurvey.site$document
-||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
@@ -291,6 +290,7 @@
 ||selectedlab.buzz$document
 ||sendnow.us$document
 ||sergey-tracks.xyz$document
+||shegotass.info$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document

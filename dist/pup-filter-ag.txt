@@ -1,11 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Dec 2021 00:03:33 +0000
+! Updated: Sun, 19 Dec 2021 12:02:38 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
+||abc-news.online$all
 ||adverify.cloud$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
@@ -260,11 +261,9 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
-||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||profitablesurvey.site$all
-||profitsurvey.live$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -291,6 +290,7 @@
 ||selectedlab.buzz$all
 ||sendnow.us$all
 ||sergey-tracks.xyz$all
+||shegotass.info$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
