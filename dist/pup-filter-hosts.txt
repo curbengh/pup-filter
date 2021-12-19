@@ -1,13 +1,12 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 18 Dec 2021 12:02:39 +0000
+# Updated: Sun, 19 Dec 2021 00:03:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 2021travel.net
 0.0.0.0 adverify.cloud
-0.0.0.0 adverify.me
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
@@ -24,6 +23,7 @@
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
+0.0.0.0 beautinow.nl
 0.0.0.0 bednarmoore.icu
 0.0.0.0 beinspired.global
 0.0.0.0 best10hot.website
@@ -61,7 +61,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
@@ -104,10 +103,11 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
 0.0.0.0 foundnow.net
+0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
-0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
+0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 gladmstreet.xyz
@@ -177,6 +177,7 @@
 0.0.0.0 lltrsknoob.click
 0.0.0.0 louisvillegigs.net
 0.0.0.0 loveorfun.cc
+0.0.0.0 lubbockeda.org
 0.0.0.0 lucky-worldwide-prize-random.rest
 0.0.0.0 luckyworldwideprizerandom.rest
 0.0.0.0 makingbettermoney.co
@@ -196,9 +197,11 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
+0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
+0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 octonew.me
 0.0.0.0 offerpage.link
@@ -260,7 +263,6 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
 0.0.0.0 profitsurvey.live
 0.0.0.0 promotionclaim.rest
@@ -293,6 +295,7 @@
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
+0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -305,7 +308,6 @@
 0.0.0.0 spotmapd.xyz
 0.0.0.0 spotmapf.xyz
 0.0.0.0 spotplanetc.xyz
-0.0.0.0 stickr.co
 0.0.0.0 storeuberspeedythefile.vip
 0.0.0.0 streamdevelopedintenselythefile.vip
 0.0.0.0 streamingmadness.net
@@ -321,7 +323,6 @@
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
-0.0.0.0 systemupdateme.solutions
 0.0.0.0 taboo.news
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
@@ -344,7 +345,6 @@
 0.0.0.0 thedealexpert.net
 0.0.0.0 theirproviderock.top
 0.0.0.0 thelastpicture.show
-0.0.0.0 timefornews.online
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online

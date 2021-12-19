@@ -1,13 +1,12 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 18 Dec 2021 12:02:39 +0000
+! Updated: Sun, 19 Dec 2021 00:03:33 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||2021travel.net$all
 ||adverify.cloud$all
-||adverify.me$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
 ||amobil.online$all
@@ -24,6 +23,7 @@
 ||be-n9lnns3n-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
+||beautinow.nl$all
 ||bednarmoore.icu$all
 ||beinspired.global$all
 ||best10hot.website$all
@@ -61,7 +61,6 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
-||craftstash.us$all
 ||crazyprize.buzz$all
 ||crowdweightyellow.top$all
 ||curfiositystream.com$all
@@ -104,10 +103,11 @@
 ||fireapps.cloud$all
 ||forwardcutwere.top$all
 ||foundnow.net$all
+||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
-||gamerdigest.org$all
 ||genertellife.it$all
+||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||gladmstreet.xyz$all
@@ -177,6 +177,7 @@
 ||lltrsknoob.click$all
 ||louisvillegigs.net$all
 ||loveorfun.cc$all
+||lubbockeda.org$all
 ||lucky-worldwide-prize-random.rest$all
 ||luckyworldwideprizerandom.rest$all
 ||makingbettermoney.co$all
@@ -196,9 +197,11 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
+||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||news-daluku.cc$all
+||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||octonew.me$all
 ||offerpage.link$all
@@ -260,7 +263,6 @@
 ||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
-||producthunter.club$all
 ||profitablesurvey.site$all
 ||profitsurvey.live$all
 ||promotionclaim.rest$all
@@ -293,6 +295,7 @@
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
+||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -305,7 +308,6 @@
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
-||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
@@ -321,7 +323,6 @@
 ||syncnewestmostthefile.vip$all
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
-||systemupdateme.solutions$all
 ||taboo.news$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
@@ -344,7 +345,6 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
-||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
 ||topdating.online$all
