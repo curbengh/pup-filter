@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Dec 2021 00:02:52 +0000
+# Updated: Mon, 20 Dec 2021 12:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d abc-news.online
 -d adverify.cloud
 -d aikoo.club
@@ -19,7 +18,6 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
--d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -58,7 +56,6 @@ msFilterList
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
--d clickon.buzz
 -d coatofarms.nyc
 -d conndickens.icu
 -d connecttheupgradingurls.work
@@ -75,7 +72,6 @@ msFilterList
 -d dailymoneysaver.money
 -d dailyrep.net
 -d darkview.org
--d dayinlife.net
 -d dealsify.net
 -d downansurface.top
 -d dpakweoz.info
@@ -111,7 +107,6 @@ msFilterList
 -d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
--d gamerdigest.org
 -d genertellife.it
 -d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
@@ -204,13 +199,10 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
--d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
--d octonew.me
 -d offerpage.link
 -d offersearch.info
--d paint-lion-history-loud.xyz
 -d pandaautumna.xyz
 -d pandaautumnb.xyz
 -d pandaautumnc.xyz
@@ -243,7 +235,6 @@ msFilterList
 -d placespina.xyz
 -d playautumna.xyz
 -d playautumnb.xyz
--d playautumnc.xyz
 -d playautumnd.xyz
 -d playautumne.xyz
 -d playautumnf.xyz
@@ -267,7 +258,6 @@ msFilterList
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
--d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -328,7 +318,6 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
 -d taboo.news
--d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -391,7 +380,6 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
--d worldtechguide.net
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d yoursafestgreatplaceupdates.work

@@ -1,11 +1,10 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Dec 2021 00:02:52 +0000
+# Updated: Mon, 20 Dec 2021 12:03:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 abc-news.online
 adverify.cloud
 aikoo.club
@@ -16,7 +15,6 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
-arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -55,7 +53,6 @@ champion.rest
 checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
-clickon.buzz
 coatofarms.nyc
 conndickens.icu
 connecttheupgradingurls.work
@@ -72,7 +69,6 @@ curuiositystream.com
 dailymoneysaver.money
 dailyrep.net
 darkview.org
-dayinlife.net
 dealsify.net
 downansurface.top
 dpakweoz.info
@@ -108,7 +104,6 @@ foundnow.net
 funanime.me
 funspine.xyz
 galaxywin.xyz
-gamerdigest.org
 genertellife.it
 gettheraiceheadreliefhat.io
 getvideoabc.ru
@@ -201,13 +196,10 @@ mobiavolcano.xyz
 mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
-news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
-octonew.me
 offerpage.link
 offersearch.info
-paint-lion-history-loud.xyz
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
@@ -240,7 +232,6 @@ placefortheupgradesset.work
 placespina.xyz
 playautumna.xyz
 playautumnb.xyz
-playautumnc.xyz
 playautumnd.xyz
 playautumne.xyz
 playautumnf.xyz
@@ -264,7 +255,6 @@ playwinterf.xyz
 press-news-for.me
 prize-messsages.casa
 producthunter.club
-profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -325,7 +315,6 @@ syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
 syssysupdate.top
 taboo.news
-techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -388,7 +377,6 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
-worldtechguide.net
 your-magazine.me
 yourmoneymachine.cc
 yoursafestgreatplaceupdates.work
