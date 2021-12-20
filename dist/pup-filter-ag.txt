@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Dec 2021 12:02:38 +0000
+! Updated: Mon, 20 Dec 2021 00:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,6 +22,7 @@
 ||axisradio.ca$all
 ||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
+||be-us-auto-loans-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
@@ -30,6 +31,7 @@
 ||best10hot.website$all
 ||bkk755.biz$all
 ||bleu-bonheur.fr$all
+||blogphoneapplication.online$all
 ||bluetiger.cloud$all
 ||boot-upheavily-bestquickfile.best$all
 ||boot-upheavily-bestsophisticatedfile.best$all
@@ -50,7 +52,6 @@
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
 ||champion.rest$all
-||chatverse.net$all
 ||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
@@ -62,6 +63,7 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
+||craftstash.us$all
 ||crazyprize.buzz$all
 ||crowdweightyellow.top$all
 ||curfiositystream.com$all
@@ -93,7 +95,6 @@
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||euronordvpn.com$all
-||evaing.live$all
 ||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
@@ -107,6 +108,7 @@
 ||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
+||gamerdigest.org$all
 ||genertellife.it$all
 ||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
@@ -117,7 +119,6 @@
 ||gonesteeldouble.top$all
 ||grantaidauthority.site$all
 ||harveybernhard.icu$all
-||healthfactor.io$all
 ||healthnfitness.site$all
 ||heatwavereporter.org$all
 ||help4.info$all
@@ -141,7 +142,6 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
-||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||jojomamanbebe.ie$all
@@ -263,6 +263,7 @@
 ||playwinterf.xyz$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -290,7 +291,6 @@
 ||selectedlab.buzz$all
 ||sendnow.us$all
 ||sergey-tracks.xyz$all
-||shegotass.info$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
@@ -308,6 +308,7 @@
 ||spotmapd.xyz$all
 ||spotmapf.xyz$all
 ||spotplanetc.xyz$all
+||stickr.co$all
 ||storeuberspeedythefile.vip$all
 ||streamdevelopedintenselythefile.vip$all
 ||streamingmadness.net$all
@@ -338,6 +339,7 @@
 ||the7volcano.xyz$all
 ||theaasteroid.xyz$all
 ||theacrater.xyz$all
+||theaocean.xyz$all
 ||theasky.xyz$all
 ||theastar.xyz$all
 ||theavolcano.xyz$all
@@ -345,6 +347,7 @@
 ||thedealexpert.net$all
 ||theirproviderock.top$all
 ||thelastpicture.show$all
+||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
 ||topdating.online$all

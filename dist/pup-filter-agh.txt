@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 19 Dec 2021 12:02:38 +0000
+! Updated: Mon, 20 Dec 2021 00:02:52 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -22,6 +22,7 @@
 ||axisradio.ca^
 ||be-5hdo32xes-ok.live^
 ||be-n9lnns3n-ok.live^
+||be-us-auto-loans-ok.live^
 ||be-us-cars-for-seniors-ok.live^
 ||be-us-exercise-bikes-ok.live^
 ||beautinow.nl^
@@ -30,6 +31,7 @@
 ||best10hot.website^
 ||bkk755.biz^
 ||bleu-bonheur.fr^
+||blogphoneapplication.online^
 ||bluetiger.cloud^
 ||boot-upheavily-bestquickfile.best^
 ||boot-upheavily-bestsophisticatedfile.best^
@@ -50,7 +52,6 @@
 ||centerastar.xyz^
 ||centeravolcano.xyz^
 ||champion.rest^
-||chatverse.net^
 ||checkstableaupdatinglinks.work^
 ||chipovysta.pro^
 ||claimrewards.rest^
@@ -62,6 +63,7 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||crowdweightyellow.top^
 ||curfiositystream.com^
@@ -93,7 +95,6 @@
 ||enjoyastar.xyz^
 ||enjoyavolcano.xyz^
 ||euronordvpn.com^
-||evaing.live^
 ||expatriates.pk^
 ||exploreshops.net^
 ||fastfactsonline.co^
@@ -107,6 +108,7 @@
 ||funanime.me^
 ||funspine.xyz^
 ||galaxywin.xyz^
+||gamerdigest.org^
 ||genertellife.it^
 ||gettheraiceheadreliefhat.io^
 ||getvideoabc.ru^
@@ -117,7 +119,6 @@
 ||gonesteeldouble.top^
 ||grantaidauthority.site^
 ||harveybernhard.icu^
-||healthfactor.io^
 ||healthnfitness.site^
 ||heatwavereporter.org^
 ||help4.info^
@@ -141,7 +142,6 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||jojomamanbebe.ie^
@@ -263,6 +263,7 @@
 ||playwinterf.xyz^
 ||press-news-for.me^
 ||prize-messsages.casa^
+||producthunter.club^
 ||profitablesurvey.site^
 ||promotionclaim.rest^
 ||protect-ios.com^
@@ -290,7 +291,6 @@
 ||selectedlab.buzz^
 ||sendnow.us^
 ||sergey-tracks.xyz^
-||shegotass.info^
 ||shopin.nyc^
 ||shopnsave.world^
 ||sightcottonreply.top^
@@ -308,6 +308,7 @@
 ||spotmapd.xyz^
 ||spotmapf.xyz^
 ||spotplanetc.xyz^
+||stickr.co^
 ||storeuberspeedythefile.vip^
 ||streamdevelopedintenselythefile.vip^
 ||streamingmadness.net^
@@ -338,6 +339,7 @@
 ||the7volcano.xyz^
 ||theaasteroid.xyz^
 ||theacrater.xyz^
+||theaocean.xyz^
 ||theasky.xyz^
 ||theastar.xyz^
 ||theavolcano.xyz^
@@ -345,6 +347,7 @@
 ||thedealexpert.net^
 ||theirproviderock.top^
 ||thelastpicture.show^
+||timefornews.online^
 ||to-an-us-dental-implants-well.live^
 ||top-offers2.club^
 ||topdating.online^

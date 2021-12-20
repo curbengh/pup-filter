@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 19 Dec 2021 12:02:38 +0000
+# Updated: Mon, 20 Dec 2021 00:02:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,6 +25,7 @@ msFilterList
 -d axisradio.ca
 -d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
+-d be-us-auto-loans-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
 -d beautinow.nl
@@ -33,6 +34,7 @@ msFilterList
 -d best10hot.website
 -d bkk755.biz
 -d bleu-bonheur.fr
+-d blogphoneapplication.online
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
 -d boot-upheavily-bestsophisticatedfile.best
@@ -53,7 +55,6 @@ msFilterList
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d champion.rest
--d chatverse.net
 -d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
@@ -65,6 +66,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d crowdweightyellow.top
 -d curfiositystream.com
@@ -96,7 +98,6 @@ msFilterList
 -d enjoyastar.xyz
 -d enjoyavolcano.xyz
 -d euronordvpn.com
--d evaing.live
 -d expatriates.pk
 -d exploreshops.net
 -d fastfactsonline.co
@@ -110,6 +111,7 @@ msFilterList
 -d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
+-d gamerdigest.org
 -d genertellife.it
 -d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
@@ -120,7 +122,6 @@ msFilterList
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
--d healthfactor.io
 -d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
@@ -144,7 +145,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d jojomamanbebe.ie
@@ -266,6 +266,7 @@ msFilterList
 -d playwinterf.xyz
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
@@ -293,7 +294,6 @@ msFilterList
 -d selectedlab.buzz
 -d sendnow.us
 -d sergey-tracks.xyz
--d shegotass.info
 -d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
@@ -311,6 +311,7 @@ msFilterList
 -d spotmapd.xyz
 -d spotmapf.xyz
 -d spotplanetc.xyz
+-d stickr.co
 -d storeuberspeedythefile.vip
 -d streamdevelopedintenselythefile.vip
 -d streamingmadness.net
@@ -341,6 +342,7 @@ msFilterList
 -d the7volcano.xyz
 -d theaasteroid.xyz
 -d theacrater.xyz
+-d theaocean.xyz
 -d theasky.xyz
 -d theastar.xyz
 -d theavolcano.xyz
@@ -348,6 +350,7 @@ msFilterList
 -d thedealexpert.net
 -d theirproviderock.top
 -d thelastpicture.show
+-d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
 -d topdating.online
