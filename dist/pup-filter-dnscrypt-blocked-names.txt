@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Dec 2021 12:03:07 +0000
+# Updated: Tue, 21 Dec 2021 00:03:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@ abc-news.online
 adverify.cloud
 aikoo.club
 am-harder-stock-corn.xyz
-amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -25,7 +24,6 @@ be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
 beautinow.nl
 bednarmoore.icu
-beinspired.global
 best10hot.website
 bkk755.biz
 bleu-bonheur.fr
@@ -50,7 +48,6 @@ centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
 champion.rest
-checkstableaupdatinglinks.work
 chipovysta.pro
 claimrewards.rest
 coatofarms.nyc
@@ -73,7 +70,6 @@ dealsify.net
 downansurface.top
 dpakweoz.info
 dutycalls.shop
-efladn.club
 enjoy-asteroid.xyz
 enjoy-coast.xyz
 enjoy-sea.xyz
@@ -101,7 +97,6 @@ findaupgradingurls.work
 fireapps.cloud
 forwardcutwere.top
 foundnow.net
-funanime.me
 funspine.xyz
 galaxywin.xyz
 genertellife.it
@@ -114,6 +109,7 @@ golddellifewonder.rest
 gonesteeldouble.top
 grantaidauthority.site
 harveybernhard.icu
+healthfactor.io
 healthnfitness.site
 heatwavereporter.org
 help4.info
@@ -281,7 +277,8 @@ searchoffers.info
 selectedlab.buzz
 sendnow.us
 sergey-tracks.xyz
-shopin.nyc
+shegotass.info
+shopadvisors.net
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
@@ -340,7 +337,6 @@ timefornews.online
 to-an-us-dental-implants-well.live
 top-offers2.club
 topdating.online
-tracking-landers.xyz
 trotineo.fr
 truecompassion.net
 truly-diet.store
@@ -377,7 +373,7 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
+winnerz.icu
 your-magazine.me
 yourmoneymachine.cc
-yoursafestgreatplaceupdates.work
 zalando-prive.es

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 20 Dec 2021 12:03:07 +0000
+! Updated: Tue, 21 Dec 2021 00:03:22 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||adverify.cloud$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
-||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -25,7 +24,6 @@
 ||be-us-exercise-bikes-ok.live$all
 ||beautinow.nl$all
 ||bednarmoore.icu$all
-||beinspired.global$all
 ||best10hot.website$all
 ||bkk755.biz$all
 ||bleu-bonheur.fr$all
@@ -50,7 +48,6 @@
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
 ||champion.rest$all
-||checkstableaupdatinglinks.work$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
 ||coatofarms.nyc$all
@@ -73,7 +70,6 @@
 ||downansurface.top$all
 ||dpakweoz.info$all
 ||dutycalls.shop$all
-||efladn.club$all
 ||enjoy-asteroid.xyz$all
 ||enjoy-coast.xyz$all
 ||enjoy-sea.xyz$all
@@ -101,7 +97,6 @@
 ||fireapps.cloud$all
 ||forwardcutwere.top$all
 ||foundnow.net$all
-||funanime.me$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
 ||genertellife.it$all
@@ -114,6 +109,7 @@
 ||gonesteeldouble.top$all
 ||grantaidauthority.site$all
 ||harveybernhard.icu$all
+||healthfactor.io$all
 ||healthnfitness.site$all
 ||heatwavereporter.org$all
 ||help4.info$all
@@ -281,7 +277,8 @@
 ||selectedlab.buzz$all
 ||sendnow.us$all
 ||sergey-tracks.xyz$all
-||shopin.nyc$all
+||shegotass.info$all
+||shopadvisors.net$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
@@ -340,7 +337,6 @@
 ||to-an-us-dental-implants-well.live$all
 ||top-offers2.club$all
 ||topdating.online$all
-||tracking-landers.xyz$all
 ||trotineo.fr$all
 ||truecompassion.net$all
 ||truly-diet.store$all
@@ -377,7 +373,7 @@
 ||westasea.xyz$all
 ||westastar.xyz$all
 ||wildermanrolfson.icu$all
+||winnerz.icu$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
-||yoursafestgreatplaceupdates.work$all
 ||zalando-prive.es$all

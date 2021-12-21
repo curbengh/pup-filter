@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Dec 2021 12:03:07 +0000
+# Updated: Tue, 21 Dec 2021 00:03:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 adverify.cloud
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
-0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -25,7 +24,6 @@
 0.0.0.0 be-us-exercise-bikes-ok.live
 0.0.0.0 beautinow.nl
 0.0.0.0 bednarmoore.icu
-0.0.0.0 beinspired.global
 0.0.0.0 best10hot.website
 0.0.0.0 bkk755.biz
 0.0.0.0 bleu-bonheur.fr
@@ -50,7 +48,6 @@
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 champion.rest
-0.0.0.0 checkstableaupdatinglinks.work
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
 0.0.0.0 coatofarms.nyc
@@ -73,7 +70,6 @@
 0.0.0.0 downansurface.top
 0.0.0.0 dpakweoz.info
 0.0.0.0 dutycalls.shop
-0.0.0.0 efladn.club
 0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-coast.xyz
 0.0.0.0 enjoy-sea.xyz
@@ -101,7 +97,6 @@
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
 0.0.0.0 foundnow.net
-0.0.0.0 funanime.me
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
 0.0.0.0 genertellife.it
@@ -114,6 +109,7 @@
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grantaidauthority.site
 0.0.0.0 harveybernhard.icu
+0.0.0.0 healthfactor.io
 0.0.0.0 healthnfitness.site
 0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
@@ -281,7 +277,8 @@
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
 0.0.0.0 sergey-tracks.xyz
-0.0.0.0 shopin.nyc
+0.0.0.0 shegotass.info
+0.0.0.0 shopadvisors.net
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
@@ -340,7 +337,6 @@
 0.0.0.0 to-an-us-dental-implants-well.live
 0.0.0.0 top-offers2.club
 0.0.0.0 topdating.online
-0.0.0.0 tracking-landers.xyz
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 truly-diet.store
@@ -377,7 +373,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
+0.0.0.0 winnerz.icu
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
-0.0.0.0 yoursafestgreatplaceupdates.work
 0.0.0.0 zalando-prive.es

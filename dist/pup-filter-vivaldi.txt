@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 20 Dec 2021 12:03:07 +0000
+! Updated: Tue, 21 Dec 2021 00:03:22 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||adverify.cloud$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
-||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
@@ -25,7 +24,6 @@
 ||be-us-exercise-bikes-ok.live$document
 ||beautinow.nl$document
 ||bednarmoore.icu$document
-||beinspired.global$document
 ||best10hot.website$document
 ||bkk755.biz$document
 ||bleu-bonheur.fr$document
@@ -50,7 +48,6 @@
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
 ||champion.rest$document
-||checkstableaupdatinglinks.work$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
 ||coatofarms.nyc$document
@@ -73,7 +70,6 @@
 ||downansurface.top$document
 ||dpakweoz.info$document
 ||dutycalls.shop$document
-||efladn.club$document
 ||enjoy-asteroid.xyz$document
 ||enjoy-coast.xyz$document
 ||enjoy-sea.xyz$document
@@ -101,7 +97,6 @@
 ||fireapps.cloud$document
 ||forwardcutwere.top$document
 ||foundnow.net$document
-||funanime.me$document
 ||funspine.xyz$document
 ||galaxywin.xyz$document
 ||genertellife.it$document
@@ -114,6 +109,7 @@
 ||gonesteeldouble.top$document
 ||grantaidauthority.site$document
 ||harveybernhard.icu$document
+||healthfactor.io$document
 ||healthnfitness.site$document
 ||heatwavereporter.org$document
 ||help4.info$document
@@ -281,7 +277,8 @@
 ||selectedlab.buzz$document
 ||sendnow.us$document
 ||sergey-tracks.xyz$document
-||shopin.nyc$document
+||shegotass.info$document
+||shopadvisors.net$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
@@ -340,7 +337,6 @@
 ||to-an-us-dental-implants-well.live$document
 ||top-offers2.club$document
 ||topdating.online$document
-||tracking-landers.xyz$document
 ||trotineo.fr$document
 ||truecompassion.net$document
 ||truly-diet.store$document
@@ -377,7 +373,7 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||wildermanrolfson.icu$document
+||winnerz.icu$document
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
-||yoursafestgreatplaceupdates.work$document
 ||zalando-prive.es$document

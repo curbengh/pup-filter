@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 20 Dec 2021 12:03:07 +0000
+# Updated: Tue, 21 Dec 2021 00:03:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d adverify.cloud
 -d aikoo.club
 -d am-harder-stock-corn.xyz
--d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -28,7 +27,6 @@ msFilterList
 -d be-us-exercise-bikes-ok.live
 -d beautinow.nl
 -d bednarmoore.icu
--d beinspired.global
 -d best10hot.website
 -d bkk755.biz
 -d bleu-bonheur.fr
@@ -53,7 +51,6 @@ msFilterList
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d champion.rest
--d checkstableaupdatinglinks.work
 -d chipovysta.pro
 -d claimrewards.rest
 -d coatofarms.nyc
@@ -76,7 +73,6 @@ msFilterList
 -d downansurface.top
 -d dpakweoz.info
 -d dutycalls.shop
--d efladn.club
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
 -d enjoy-sea.xyz
@@ -104,7 +100,6 @@ msFilterList
 -d fireapps.cloud
 -d forwardcutwere.top
 -d foundnow.net
--d funanime.me
 -d funspine.xyz
 -d galaxywin.xyz
 -d genertellife.it
@@ -117,6 +112,7 @@ msFilterList
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
+-d healthfactor.io
 -d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
@@ -284,7 +280,8 @@ msFilterList
 -d selectedlab.buzz
 -d sendnow.us
 -d sergey-tracks.xyz
--d shopin.nyc
+-d shegotass.info
+-d shopadvisors.net
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
@@ -343,7 +340,6 @@ msFilterList
 -d to-an-us-dental-implants-well.live
 -d top-offers2.club
 -d topdating.online
--d tracking-landers.xyz
 -d trotineo.fr
 -d truecompassion.net
 -d truly-diet.store
@@ -380,7 +376,7 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
+-d winnerz.icu
 -d your-magazine.me
 -d yourmoneymachine.cc
--d yoursafestgreatplaceupdates.work
 -d zalando-prive.es
