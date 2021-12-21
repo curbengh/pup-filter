@@ -1,10 +1,11 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Dec 2021 00:03:22 +0000
+# Updated: Tue, 21 Dec 2021 12:02:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+0.0.0.0 2021travel.net
 0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
 0.0.0.0 aikoo.club
@@ -14,6 +15,7 @@
 0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
+0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -66,6 +68,7 @@
 0.0.0.0 dailymoneysaver.money
 0.0.0.0 dailyrep.net
 0.0.0.0 darkview.org
+0.0.0.0 dayinlife.net
 0.0.0.0 dealsify.net
 0.0.0.0 downansurface.top
 0.0.0.0 dpakweoz.info
@@ -87,6 +90,7 @@
 0.0.0.0 enjoyastar.xyz
 0.0.0.0 enjoyavolcano.xyz
 0.0.0.0 euronordvpn.com
+0.0.0.0 evaing.live
 0.0.0.0 expatriates.pk
 0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
@@ -192,10 +196,12 @@
 0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
+0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
+0.0.0.0 paint-lion-history-loud.xyz
 0.0.0.0 pandaautumna.xyz
 0.0.0.0 pandaautumnb.xyz
 0.0.0.0 pandaautumnc.xyz
@@ -228,6 +234,7 @@
 0.0.0.0 placespina.xyz
 0.0.0.0 playautumna.xyz
 0.0.0.0 playautumnb.xyz
+0.0.0.0 playautumnc.xyz
 0.0.0.0 playautumnd.xyz
 0.0.0.0 playautumne.xyz
 0.0.0.0 playautumnf.xyz
@@ -251,6 +258,7 @@
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
+0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -312,6 +320,7 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
 0.0.0.0 taboo.news
+0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
@@ -374,6 +383,8 @@
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
 0.0.0.0 winnerz.icu
+0.0.0.0 worldtechguide.net
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 zalando-prive.es
+0.0.0.0 zeusmedia.info

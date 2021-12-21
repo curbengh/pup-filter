@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Dec 2021 00:03:22 +0000
+! Updated: Tue, 21 Dec 2021 12:02:40 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 abc-news.online
 adverify.cloud
 aikoo.club
@@ -14,6 +15,7 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
+arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -66,6 +68,7 @@ curuiositystream.com
 dailymoneysaver.money
 dailyrep.net
 darkview.org
+dayinlife.net
 dealsify.net
 downansurface.top
 dpakweoz.info
@@ -87,6 +90,7 @@ enjoyasky.xyz
 enjoyastar.xyz
 enjoyavolcano.xyz
 euronordvpn.com
+evaing.live
 expatriates.pk
 exploreshops.net
 fastfactsonline.co
@@ -192,10 +196,12 @@ mobiavolcano.xyz
 mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
+news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
 offerpage.link
 offersearch.info
+paint-lion-history-loud.xyz
 pandaautumna.xyz
 pandaautumnb.xyz
 pandaautumnc.xyz
@@ -228,6 +234,7 @@ placefortheupgradesset.work
 placespina.xyz
 playautumna.xyz
 playautumnb.xyz
+playautumnc.xyz
 playautumnd.xyz
 playautumne.xyz
 playautumnf.xyz
@@ -251,6 +258,7 @@ playwinterf.xyz
 press-news-for.me
 prize-messsages.casa
 producthunter.club
+profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -312,6 +320,7 @@ syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
 syssysupdate.top
 taboo.news
+techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -374,6 +383,8 @@ westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
 winnerz.icu
+worldtechguide.net
 your-magazine.me
 yourmoneymachine.cc
 zalando-prive.es
+zeusmedia.info

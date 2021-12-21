@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Dec 2021 00:03:22 +0000
+! Updated: Tue, 21 Dec 2021 12:02:40 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||abc-news.online$all
 ||adverify.cloud$all
 ||aikoo.club$all
@@ -14,6 +15,7 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -66,6 +68,7 @@
 ||dailymoneysaver.money$all
 ||dailyrep.net$all
 ||darkview.org$all
+||dayinlife.net$all
 ||dealsify.net$all
 ||downansurface.top$all
 ||dpakweoz.info$all
@@ -87,6 +90,7 @@
 ||enjoyastar.xyz$all
 ||enjoyavolcano.xyz$all
 ||euronordvpn.com$all
+||evaing.live$all
 ||expatriates.pk$all
 ||exploreshops.net$all
 ||fastfactsonline.co$all
@@ -192,10 +196,12 @@
 ||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
+||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
 ||offersearch.info$all
+||paint-lion-history-loud.xyz$all
 ||pandaautumna.xyz$all
 ||pandaautumnb.xyz$all
 ||pandaautumnc.xyz$all
@@ -228,6 +234,7 @@
 ||placespina.xyz$all
 ||playautumna.xyz$all
 ||playautumnb.xyz$all
+||playautumnc.xyz$all
 ||playautumnd.xyz$all
 ||playautumne.xyz$all
 ||playautumnf.xyz$all
@@ -251,6 +258,7 @@
 ||press-news-for.me$all
 ||prize-messsages.casa$all
 ||producthunter.club$all
+||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
 ||qfind.net$all
@@ -312,6 +320,7 @@
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
 ||taboo.news$all
+||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -374,6 +383,8 @@
 ||westastar.xyz$all
 ||wildermanrolfson.icu$all
 ||winnerz.icu$all
+||worldtechguide.net$all
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||zalando-prive.es$all
+||zeusmedia.info$all
