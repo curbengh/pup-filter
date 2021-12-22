@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Dec 2021 12:02:40 +0000
+! Updated: Wed, 22 Dec 2021 00:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@
 ||adverify.cloud$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
+||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
@@ -50,6 +51,7 @@
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
 ||champion.rest$all
+||chatverse.net$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
 ||coatofarms.nyc$all
@@ -104,7 +106,6 @@
 ||funspine.xyz$all
 ||galaxywin.xyz$all
 ||genertellife.it$all
-||gettheraiceheadreliefhat.io$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
 ||gladmstreet.xyz$all
@@ -139,6 +140,7 @@
 ||intelectaction.ru$all
 ||ipaint.us$all
 ||ironprovpn.me$all
+||it-is.cool$all
 ||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||juicydataadvance.ru$all
@@ -199,6 +201,7 @@
 ||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
+||notore.us$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||paint-lion-history-loud.xyz$all
@@ -228,7 +231,6 @@
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
 ||performrefinedoverlythefile.vip$all
-||peterhahn.be$all
 ||phonesecuritymagic.top$all
 ||placefortheupgradesset.work$all
 ||placespina.xyz$all
@@ -257,7 +259,6 @@
 ||playwinterf.xyz$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
-||producthunter.club$all
 ||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -287,10 +288,10 @@
 ||sergey-tracks.xyz$all
 ||shegotass.info$all
 ||shopadvisors.net$all
+||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
-||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -319,7 +320,6 @@
 ||syncnewestmostthefile.vip$all
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
-||taboo.news$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all

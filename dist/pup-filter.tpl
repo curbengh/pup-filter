@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Dec 2021 12:02:40 +0000
+# Updated: Wed, 22 Dec 2021 00:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,6 +13,7 @@ msFilterList
 -d adverify.cloud
 -d aikoo.club
 -d am-harder-stock-corn.xyz
+-d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -53,6 +54,7 @@ msFilterList
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d champion.rest
+-d chatverse.net
 -d chipovysta.pro
 -d claimrewards.rest
 -d coatofarms.nyc
@@ -107,7 +109,6 @@ msFilterList
 -d funspine.xyz
 -d galaxywin.xyz
 -d genertellife.it
--d gettheraiceheadreliefhat.io
 -d getvideoabc.ru
 -d getvideoall.ru
 -d gladmstreet.xyz
@@ -142,6 +143,7 @@ msFilterList
 -d intelectaction.ru
 -d ipaint.us
 -d ironprovpn.me
+-d it-is.cool
 -d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d juicydataadvance.ru
@@ -202,6 +204,7 @@ msFilterList
 -d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
+-d notore.us
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -231,7 +234,6 @@ msFilterList
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
--d peterhahn.be
 -d phonesecuritymagic.top
 -d placefortheupgradesset.work
 -d placespina.xyz
@@ -260,7 +262,6 @@ msFilterList
 -d playwinterf.xyz
 -d press-news-for.me
 -d prize-messsages.casa
--d producthunter.club
 -d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
@@ -290,10 +291,10 @@ msFilterList
 -d sergey-tracks.xyz
 -d shegotass.info
 -d shopadvisors.net
+-d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
--d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -322,7 +323,6 @@ msFilterList
 -d syncnewestmostthefile.vip
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
--d taboo.news
 -d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz

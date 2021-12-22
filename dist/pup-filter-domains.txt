@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Dec 2021 12:02:40 +0000
+# Updated: Wed, 22 Dec 2021 00:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ abc-news.online
 adverify.cloud
 aikoo.club
 am-harder-stock-corn.xyz
+amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -50,6 +51,7 @@ centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
 champion.rest
+chatverse.net
 chipovysta.pro
 claimrewards.rest
 coatofarms.nyc
@@ -104,7 +106,6 @@ foundnow.net
 funspine.xyz
 galaxywin.xyz
 genertellife.it
-gettheraiceheadreliefhat.io
 getvideoabc.ru
 getvideoall.ru
 gladmstreet.xyz
@@ -139,6 +140,7 @@ installstronghighlythefile.vip
 intelectaction.ru
 ipaint.us
 ironprovpn.me
+it-is.cool
 jojomamanbebe.ie
 joyspotmap.xyz
 juicydataadvance.ru
@@ -199,6 +201,7 @@ nettrafficpartners.net
 news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
+notore.us
 offerpage.link
 offersearch.info
 paint-lion-history-loud.xyz
@@ -228,7 +231,6 @@ people-around.me
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip
-peterhahn.be
 phonesecuritymagic.top
 placefortheupgradesset.work
 placespina.xyz
@@ -257,7 +259,6 @@ playwintere.xyz
 playwinterf.xyz
 press-news-for.me
 prize-messsages.casa
-producthunter.club
 profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
@@ -287,10 +288,10 @@ sendnow.us
 sergey-tracks.xyz
 shegotass.info
 shopadvisors.net
+shopin.nyc
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
-smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -319,7 +320,6 @@ syncmostprecisethefile.vip
 syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
 syssysupdate.top
-taboo.news
 techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz

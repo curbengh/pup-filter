@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 21 Dec 2021 12:02:40 +0000
+# Updated: Wed, 22 Dec 2021 00:02:31 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@
 0.0.0.0 adverify.cloud
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
+0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -50,6 +51,7 @@
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 champion.rest
+0.0.0.0 chatverse.net
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
 0.0.0.0 coatofarms.nyc
@@ -104,7 +106,6 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
 0.0.0.0 genertellife.it
-0.0.0.0 gettheraiceheadreliefhat.io
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
 0.0.0.0 gladmstreet.xyz
@@ -139,6 +140,7 @@
 0.0.0.0 intelectaction.ru
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
+0.0.0.0 it-is.cool
 0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 juicydataadvance.ru
@@ -199,6 +201,7 @@
 0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
+0.0.0.0 notore.us
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 paint-lion-history-loud.xyz
@@ -228,7 +231,6 @@
 0.0.0.0 performhighlyspeedythefile.vip
 0.0.0.0 performhighlyswiftthefile.vip
 0.0.0.0 performrefinedoverlythefile.vip
-0.0.0.0 peterhahn.be
 0.0.0.0 phonesecuritymagic.top
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placespina.xyz
@@ -257,7 +259,6 @@
 0.0.0.0 playwinterf.xyz
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
-0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
@@ -287,10 +288,10 @@
 0.0.0.0 sergey-tracks.xyz
 0.0.0.0 shegotass.info
 0.0.0.0 shopadvisors.net
+0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
-0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -319,7 +320,6 @@
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
-0.0.0.0 taboo.news
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz

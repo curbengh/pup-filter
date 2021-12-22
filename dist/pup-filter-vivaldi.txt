@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 21 Dec 2021 12:02:40 +0000
+! Updated: Wed, 22 Dec 2021 00:02:31 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@
 ||adverify.cloud$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
+||amobil.online$document
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
@@ -50,6 +51,7 @@
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
 ||champion.rest$document
+||chatverse.net$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
 ||coatofarms.nyc$document
@@ -104,7 +106,6 @@
 ||funspine.xyz$document
 ||galaxywin.xyz$document
 ||genertellife.it$document
-||gettheraiceheadreliefhat.io$document
 ||getvideoabc.ru$document
 ||getvideoall.ru$document
 ||gladmstreet.xyz$document
@@ -139,6 +140,7 @@
 ||intelectaction.ru$document
 ||ipaint.us$document
 ||ironprovpn.me$document
+||it-is.cool$document
 ||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||juicydataadvance.ru$document
@@ -199,6 +201,7 @@
 ||news-daluku.cc$document
 ||newsinformer.net$document
 ||nordvpnhosting.com$document
+||notore.us$document
 ||offerpage.link$document
 ||offersearch.info$document
 ||paint-lion-history-loud.xyz$document
@@ -228,7 +231,6 @@
 ||performhighlyspeedythefile.vip$document
 ||performhighlyswiftthefile.vip$document
 ||performrefinedoverlythefile.vip$document
-||peterhahn.be$document
 ||phonesecuritymagic.top$document
 ||placefortheupgradesset.work$document
 ||placespina.xyz$document
@@ -257,7 +259,6 @@
 ||playwinterf.xyz$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
-||producthunter.club$document
 ||profitablesurvey.site$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
@@ -287,10 +288,10 @@
 ||sergey-tracks.xyz$document
 ||shegotass.info$document
 ||shopadvisors.net$document
+||shopin.nyc$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
-||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -319,7 +320,6 @@
 ||syncnewestmostthefile.vip$document
 ||syncrecentintenselythefile.vip$document
 ||syssysupdate.top$document
-||taboo.news$document
 ||techandgadgets.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
