@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 22 Dec 2021 12:02:51 +0000
+# Updated: Thu, 23 Dec 2021 00:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 2021travel.net
 abc-news.online
 adverify.cloud
+adverify.me
 aikoo.club
 am-harder-stock-corn.xyz
 amobil.online
@@ -233,6 +234,7 @@ people-around.me
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip
+peterhahn.be
 phonesecuritymagic.top
 placefortheupgradesset.work
 placespina.xyz
@@ -259,8 +261,10 @@ playwinterc.xyz
 playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
+premium-news-for.me
 press-news-for.me
 prize-messsages.casa
+producthunter.club
 profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
@@ -287,7 +291,6 @@ searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sendnow.us
-sergey-tracks.xyz
 shegotass.info
 shopadvisors.net
 shopin.nyc
@@ -322,6 +325,7 @@ syncmostprecisethefile.vip
 syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
 syssysupdate.top
+taboo.news
 techandgadgets.net
 thanksyoursupport.club
 the-crater.xyz
@@ -368,6 +372,7 @@ videomixace.ru
 videomixact.ru
 videovoiceable.ru
 videovoiceace.ru
+viralsparks.io
 vpn-pro.club
 wallda.site
 web-security.ml

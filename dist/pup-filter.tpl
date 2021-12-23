@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 22 Dec 2021 12:02:51 +0000
+# Updated: Thu, 23 Dec 2021 00:03:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,6 +11,7 @@ msFilterList
 -d 2021travel.net
 -d abc-news.online
 -d adverify.cloud
+-d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
 -d amobil.online
@@ -236,6 +237,7 @@ msFilterList
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
+-d peterhahn.be
 -d phonesecuritymagic.top
 -d placefortheupgradesset.work
 -d placespina.xyz
@@ -262,8 +264,10 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
+-d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
+-d producthunter.club
 -d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
@@ -290,7 +294,6 @@ msFilterList
 -d searchoffers.info
 -d selectedlab.buzz
 -d sendnow.us
--d sergey-tracks.xyz
 -d shegotass.info
 -d shopadvisors.net
 -d shopin.nyc
@@ -325,6 +328,7 @@ msFilterList
 -d syncnewestmostthefile.vip
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
+-d taboo.news
 -d techandgadgets.net
 -d thanksyoursupport.club
 -d the-crater.xyz
@@ -371,6 +375,7 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
+-d viralsparks.io
 -d vpn-pro.club
 -d wallda.site
 -d web-security.ml

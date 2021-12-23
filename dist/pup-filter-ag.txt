@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 22 Dec 2021 12:02:51 +0000
+! Updated: Thu, 23 Dec 2021 00:03:05 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,6 +8,7 @@
 ||2021travel.net$all
 ||abc-news.online$all
 ||adverify.cloud$all
+||adverify.me$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
 ||amobil.online$all
@@ -233,6 +234,7 @@
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
 ||performrefinedoverlythefile.vip$all
+||peterhahn.be$all
 ||phonesecuritymagic.top$all
 ||placefortheupgradesset.work$all
 ||placespina.xyz$all
@@ -259,8 +261,10 @@
 ||playwinterd.xyz$all
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
+||premium-news-for.me$all
 ||press-news-for.me$all
 ||prize-messsages.casa$all
+||producthunter.club$all
 ||profitablesurvey.site$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
@@ -287,7 +291,6 @@
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sendnow.us$all
-||sergey-tracks.xyz$all
 ||shegotass.info$all
 ||shopadvisors.net$all
 ||shopin.nyc$all
@@ -322,6 +325,7 @@
 ||syncnewestmostthefile.vip$all
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
+||taboo.news$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
@@ -368,6 +372,7 @@
 ||videomixact.ru$all
 ||videovoiceable.ru$all
 ||videovoiceace.ru$all
+||viralsparks.io$all
 ||vpn-pro.club$all
 ||wallda.site$all
 ||web-security.ml$all
