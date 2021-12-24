@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Dec 2021 00:02:47 +0000
+! Updated: Fri, 24 Dec 2021 12:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 ||android-browser.live^
 ||android-web.live^
 ||aphicus.xyz^
-||app-track.club^
 ||appsto.cloud^
 ||appzfirer.biz^
 ||arre.work^
@@ -107,7 +106,6 @@
 ||forwardcutwere.top^
 ||foundnow.net^
 ||funspine.xyz^
-||galaxywin.xyz^
 ||gamerdigest.org^
 ||genertellife.it^
 ||getvideoabc.ru^
@@ -262,7 +260,6 @@
 ||playwinterd.xyz^
 ||playwintere.xyz^
 ||playwinterf.xyz^
-||premium-news-for.me^
 ||press-news-for.me^
 ||prize-messsages.casa^
 ||producthunter.club^
@@ -327,6 +324,7 @@
 ||syncrecentintenselythefile.vip^
 ||syssysupdate.top^
 ||taboo.news^
+||taboola.blog^
 ||techandgadgets.net^
 ||thanksyoursupport.club^
 ||the-crater.xyz^
@@ -374,6 +372,7 @@
 ||videomixact.ru^
 ||videovoiceable.ru^
 ||videovoiceace.ru^
+||viralsharks.net^
 ||viralsparks.io^
 ||vpn-pro.club^
 ||wallda.site^

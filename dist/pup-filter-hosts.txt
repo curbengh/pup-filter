@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 24 Dec 2021 00:02:47 +0000
+# Updated: Fri, 24 Dec 2021 12:03:12 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
-0.0.0.0 app-track.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
 0.0.0.0 arre.work
@@ -107,7 +106,6 @@
 0.0.0.0 forwardcutwere.top
 0.0.0.0 foundnow.net
 0.0.0.0 funspine.xyz
-0.0.0.0 galaxywin.xyz
 0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
 0.0.0.0 getvideoabc.ru
@@ -262,7 +260,6 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
-0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
@@ -327,6 +324,7 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
 0.0.0.0 taboo.news
+0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
@@ -374,6 +372,7 @@
 0.0.0.0 videomixact.ru
 0.0.0.0 videovoiceable.ru
 0.0.0.0 videovoiceace.ru
+0.0.0.0 viralsharks.net
 0.0.0.0 viralsparks.io
 0.0.0.0 vpn-pro.club
 0.0.0.0 wallda.site

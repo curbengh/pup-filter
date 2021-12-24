@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Dec 2021 00:02:47 +0000
+! Updated: Fri, 24 Dec 2021 12:03:12 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 ||android-browser.live$document
 ||android-web.live$document
 ||aphicus.xyz$document
-||app-track.club$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
 ||arre.work$document
@@ -107,7 +106,6 @@
 ||forwardcutwere.top$document
 ||foundnow.net$document
 ||funspine.xyz$document
-||galaxywin.xyz$document
 ||gamerdigest.org$document
 ||genertellife.it$document
 ||getvideoabc.ru$document
@@ -262,7 +260,6 @@
 ||playwinterd.xyz$document
 ||playwintere.xyz$document
 ||playwinterf.xyz$document
-||premium-news-for.me$document
 ||press-news-for.me$document
 ||prize-messsages.casa$document
 ||producthunter.club$document
@@ -327,6 +324,7 @@
 ||syncrecentintenselythefile.vip$document
 ||syssysupdate.top$document
 ||taboo.news$document
+||taboola.blog$document
 ||techandgadgets.net$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
@@ -374,6 +372,7 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
+||viralsharks.net$document
 ||viralsparks.io$document
 ||vpn-pro.club$document
 ||wallda.site$document
