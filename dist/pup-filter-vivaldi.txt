@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 23 Dec 2021 12:02:59 +0000
+! Updated: Fri, 24 Dec 2021 00:02:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||abc-news.online$document
 ||adverify.cloud$document
 ||adverify.me$document
-||affiliateland.io$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
 ||amobil.online$document
@@ -143,10 +142,10 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
+||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||it-is.cool$document
-||jojomamanbebe.ie$document
 ||joyspotmap.xyz$document
 ||juicydataadvance.ru$document
 ||juicydataage.ru$document
@@ -236,6 +235,7 @@
 ||performhighlyswiftthefile.vip$document
 ||performrefinedoverlythefile.vip$document
 ||peterhahn.be$document
+||phoneapplicationmap.top$document
 ||phonesecuritymagic.top$document
 ||placefortheupgradesset.work$document
 ||placespina.xyz$document
@@ -275,6 +275,8 @@
 ||randompromotion.rest$document
 ||real-buy.net$document
 ||rehab-centers-here-now.site$document
+||restorerefinedsuperthefile.vip$document
+||restoresuperspeedythefile.vip$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||robogarden.io$document
@@ -282,22 +284,20 @@
 ||rungreatly-bestadvancedfile.best$document
 ||ryknxj.top$document
 ||safeguide.net$document
-||savagegrowplus.net$document
 ||seaplaytoo.top$document
 ||search-zero1.online$document
 ||search4theupdatefree.work$document
-||search4theupgradeset.info$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document
 ||selectedlab.buzz$document
 ||sendnow.us$document
-||shegotass.info$document
 ||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
 ||sightcottonreply.top$document
 ||smartideas.pro$document
+||smartuv.shop$document
 ||software-dealz.de$document
 ||sonic-ocean.xyz$document
 ||sonic-plains.xyz$document
@@ -356,6 +356,7 @@
 ||trotineo.fr$document
 ||truecompassion.net$document
 ||truly-diet.store$document
+||updatephoneoffice.club$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
 ||usforeclosure.net$document
@@ -395,4 +396,5 @@
 ||your-magazine.me$document
 ||yourmoneymachine.cc$document
 ||zalando-prive.es$document
+||zergnet.net$document
 ||zeusmedia.info$document

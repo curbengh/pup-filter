@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 23 Dec 2021 12:02:59 +0000
+# Updated: Fri, 24 Dec 2021 00:02:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 abc-news.online
 adverify.cloud
 adverify.me
-affiliateland.io
 aikoo.club
 am-harder-stock-corn.xyz
 amobil.online
@@ -143,10 +142,10 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 it-is.cool
-jojomamanbebe.ie
 joyspotmap.xyz
 juicydataadvance.ru
 juicydataage.ru
@@ -236,6 +235,7 @@ performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip
 peterhahn.be
+phoneapplicationmap.top
 phonesecuritymagic.top
 placefortheupgradesset.work
 placespina.xyz
@@ -275,6 +275,8 @@ rancy.xyz
 randompromotion.rest
 real-buy.net
 rehab-centers-here-now.site
+restorerefinedsuperthefile.vip
+restoresuperspeedythefile.vip
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 robogarden.io
@@ -282,22 +284,20 @@ runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
 ryknxj.top
 safeguide.net
-savagegrowplus.net
 seaplaytoo.top
 search-zero1.online
 search4theupdatefree.work
-search4theupgradeset.info
 search4upgradingset.info
 searchmgr.online
 searchoffers.info
 selectedlab.buzz
 sendnow.us
-shegotass.info
 shopadvisors.net
 shopin.nyc
 shopnsave.world
 sightcottonreply.top
 smartideas.pro
+smartuv.shop
 software-dealz.de
 sonic-ocean.xyz
 sonic-plains.xyz
@@ -356,6 +356,7 @@ topdating.online
 trotineo.fr
 truecompassion.net
 truly-diet.store
+updatephoneoffice.club
 updateview.tech
 upplaysite.xyz
 usforeclosure.net
@@ -395,4 +396,5 @@ worldtechguide.net
 your-magazine.me
 yourmoneymachine.cc
 zalando-prive.es
+zergnet.net
 zeusmedia.info

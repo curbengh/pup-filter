@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 23 Dec 2021 12:02:59 +0000
+# Updated: Fri, 24 Dec 2021 00:02:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d abc-news.online
 -d adverify.cloud
 -d adverify.me
--d affiliateland.io
 -d aikoo.club
 -d am-harder-stock-corn.xyz
 -d amobil.online
@@ -146,10 +145,10 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d it-is.cool
--d jojomamanbebe.ie
 -d joyspotmap.xyz
 -d juicydataadvance.ru
 -d juicydataage.ru
@@ -239,6 +238,7 @@ msFilterList
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
 -d peterhahn.be
+-d phoneapplicationmap.top
 -d phonesecuritymagic.top
 -d placefortheupgradesset.work
 -d placespina.xyz
@@ -278,6 +278,8 @@ msFilterList
 -d randompromotion.rest
 -d real-buy.net
 -d rehab-centers-here-now.site
+-d restorerefinedsuperthefile.vip
+-d restoresuperspeedythefile.vip
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d robogarden.io
@@ -285,22 +287,20 @@ msFilterList
 -d rungreatly-bestadvancedfile.best
 -d ryknxj.top
 -d safeguide.net
--d savagegrowplus.net
 -d seaplaytoo.top
 -d search-zero1.online
 -d search4theupdatefree.work
--d search4theupgradeset.info
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
 -d selectedlab.buzz
 -d sendnow.us
--d shegotass.info
 -d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
 -d smartideas.pro
+-d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
 -d sonic-plains.xyz
@@ -359,6 +359,7 @@ msFilterList
 -d trotineo.fr
 -d truecompassion.net
 -d truly-diet.store
+-d updatephoneoffice.club
 -d updateview.tech
 -d upplaysite.xyz
 -d usforeclosure.net
@@ -398,4 +399,5 @@ msFilterList
 -d your-magazine.me
 -d yourmoneymachine.cc
 -d zalando-prive.es
+-d zergnet.net
 -d zeusmedia.info

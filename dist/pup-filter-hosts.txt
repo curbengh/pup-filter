@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Thu, 23 Dec 2021 12:02:59 +0000
+# Updated: Fri, 24 Dec 2021 00:02:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
 0.0.0.0 adverify.me
-0.0.0.0 affiliateland.io
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
@@ -143,10 +142,10 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 it-is.cool
-0.0.0.0 jojomamanbebe.ie
 0.0.0.0 joyspotmap.xyz
 0.0.0.0 juicydataadvance.ru
 0.0.0.0 juicydataage.ru
@@ -236,6 +235,7 @@
 0.0.0.0 performhighlyswiftthefile.vip
 0.0.0.0 performrefinedoverlythefile.vip
 0.0.0.0 peterhahn.be
+0.0.0.0 phoneapplicationmap.top
 0.0.0.0 phonesecuritymagic.top
 0.0.0.0 placefortheupgradesset.work
 0.0.0.0 placespina.xyz
@@ -275,6 +275,8 @@
 0.0.0.0 randompromotion.rest
 0.0.0.0 real-buy.net
 0.0.0.0 rehab-centers-here-now.site
+0.0.0.0 restorerefinedsuperthefile.vip
+0.0.0.0 restoresuperspeedythefile.vip
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 richsurvey.live
 0.0.0.0 robogarden.io
@@ -282,22 +284,20 @@
 0.0.0.0 rungreatly-bestadvancedfile.best
 0.0.0.0 ryknxj.top
 0.0.0.0 safeguide.net
-0.0.0.0 savagegrowplus.net
 0.0.0.0 seaplaytoo.top
 0.0.0.0 search-zero1.online
 0.0.0.0 search4theupdatefree.work
-0.0.0.0 search4theupgradeset.info
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
-0.0.0.0 shegotass.info
 0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
 0.0.0.0 smartideas.pro
+0.0.0.0 smartuv.shop
 0.0.0.0 software-dealz.de
 0.0.0.0 sonic-ocean.xyz
 0.0.0.0 sonic-plains.xyz
@@ -356,6 +356,7 @@
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
 0.0.0.0 truly-diet.store
+0.0.0.0 updatephoneoffice.club
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
 0.0.0.0 usforeclosure.net
@@ -395,4 +396,5 @@
 0.0.0.0 your-magazine.me
 0.0.0.0 yourmoneymachine.cc
 0.0.0.0 zalando-prive.es
+0.0.0.0 zergnet.net
 0.0.0.0 zeusmedia.info

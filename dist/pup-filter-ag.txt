@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 23 Dec 2021 12:02:59 +0000
+! Updated: Fri, 24 Dec 2021 00:02:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -9,7 +9,6 @@
 ||abc-news.online$all
 ||adverify.cloud$all
 ||adverify.me$all
-||affiliateland.io$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
 ||amobil.online$all
@@ -143,10 +142,10 @@
 ||installprogressiveintenselythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
+||investinfo.net$all
 ||ipaint.us$all
 ||ironprovpn.me$all
 ||it-is.cool$all
-||jojomamanbebe.ie$all
 ||joyspotmap.xyz$all
 ||juicydataadvance.ru$all
 ||juicydataage.ru$all
@@ -236,6 +235,7 @@
 ||performhighlyswiftthefile.vip$all
 ||performrefinedoverlythefile.vip$all
 ||peterhahn.be$all
+||phoneapplicationmap.top$all
 ||phonesecuritymagic.top$all
 ||placefortheupgradesset.work$all
 ||placespina.xyz$all
@@ -275,6 +275,8 @@
 ||randompromotion.rest$all
 ||real-buy.net$all
 ||rehab-centers-here-now.site$all
+||restorerefinedsuperthefile.vip$all
+||restoresuperspeedythefile.vip$all
 ||rewardgivingrealspecialoffer.cyou$all
 ||richsurvey.live$all
 ||robogarden.io$all
@@ -282,22 +284,20 @@
 ||rungreatly-bestadvancedfile.best$all
 ||ryknxj.top$all
 ||safeguide.net$all
-||savagegrowplus.net$all
 ||seaplaytoo.top$all
 ||search-zero1.online$all
 ||search4theupdatefree.work$all
-||search4theupgradeset.info$all
 ||search4upgradingset.info$all
 ||searchmgr.online$all
 ||searchoffers.info$all
 ||selectedlab.buzz$all
 ||sendnow.us$all
-||shegotass.info$all
 ||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
 ||smartideas.pro$all
+||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
 ||sonic-plains.xyz$all
@@ -356,6 +356,7 @@
 ||trotineo.fr$all
 ||truecompassion.net$all
 ||truly-diet.store$all
+||updatephoneoffice.club$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
 ||usforeclosure.net$all
@@ -395,4 +396,5 @@
 ||your-magazine.me$all
 ||yourmoneymachine.cc$all
 ||zalando-prive.es$all
+||zergnet.net$all
 ||zeusmedia.info$all
