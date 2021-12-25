@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 24 Dec 2021 12:03:12 +0000
+# Updated: Sat, 25 Dec 2021 00:02:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -33,7 +33,6 @@ msFilterList
 -d bednarmoore.icu
 -d best10hot.website
 -d bkk755.biz
--d bleu-bonheur.fr
 -d blogphoneapplication.online
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
@@ -119,7 +118,6 @@ msFilterList
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
--d healthfactor.io
 -d healthnfitness.site
 -d heatwavereporter.org
 -d help4.info
@@ -179,7 +177,6 @@ msFilterList
 -d listenthisso.top
 -d lltrsknoob.click
 -d louisvillegigs.net
--d loveorfun.cc
 -d lubbockeda.org
 -d lucky-worldwide-prize-random.rest
 -d luckyworldwideprizerandom.rest
@@ -276,7 +273,6 @@ msFilterList
 -d real-buy.net
 -d rehab-centers-here-now.site
 -d restorerefinedsuperthefile.vip
--d restoresuperspeedythefile.vip
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d robogarden.io
@@ -352,6 +348,7 @@ msFilterList
 -d thelastpicture.show
 -d timefornews.online
 -d to-an-us-dental-implants-well.live
+-d to-us-dental-implants-wiki.live
 -d top-offers2.club
 -d topdating.online
 -d trotineo.fr
@@ -375,7 +372,6 @@ msFilterList
 -d videomixact.ru
 -d videovoiceable.ru
 -d videovoiceace.ru
--d viralsharks.net
 -d viralsparks.io
 -d vpn-pro.club
 -d wallda.site
@@ -393,10 +389,8 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
--d winnerz.icu
 -d worldtechguide.net
 -d your-magazine.me
--d yourmoneymachine.cc
 -d zalando-prive.es
 -d zergnet.net
 -d zeusmedia.info

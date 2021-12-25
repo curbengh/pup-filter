@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 24 Dec 2021 12:03:12 +0000
+! Updated: Sat, 25 Dec 2021 00:02:44 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -30,7 +30,6 @@
 ||bednarmoore.icu$document
 ||best10hot.website$document
 ||bkk755.biz$document
-||bleu-bonheur.fr$document
 ||blogphoneapplication.online$document
 ||bluetiger.cloud$document
 ||boot-upheavily-bestquickfile.best$document
@@ -116,7 +115,6 @@
 ||gonesteeldouble.top$document
 ||grantaidauthority.site$document
 ||harveybernhard.icu$document
-||healthfactor.io$document
 ||healthnfitness.site$document
 ||heatwavereporter.org$document
 ||help4.info$document
@@ -176,7 +174,6 @@
 ||listenthisso.top$document
 ||lltrsknoob.click$document
 ||louisvillegigs.net$document
-||loveorfun.cc$document
 ||lubbockeda.org$document
 ||lucky-worldwide-prize-random.rest$document
 ||luckyworldwideprizerandom.rest$document
@@ -273,7 +270,6 @@
 ||real-buy.net$document
 ||rehab-centers-here-now.site$document
 ||restorerefinedsuperthefile.vip$document
-||restoresuperspeedythefile.vip$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||robogarden.io$document
@@ -349,6 +345,7 @@
 ||thelastpicture.show$document
 ||timefornews.online$document
 ||to-an-us-dental-implants-well.live$document
+||to-us-dental-implants-wiki.live$document
 ||top-offers2.club$document
 ||topdating.online$document
 ||trotineo.fr$document
@@ -372,7 +369,6 @@
 ||videomixact.ru$document
 ||videovoiceable.ru$document
 ||videovoiceace.ru$document
-||viralsharks.net$document
 ||viralsparks.io$document
 ||vpn-pro.club$document
 ||wallda.site$document
@@ -390,10 +386,8 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||wildermanrolfson.icu$document
-||winnerz.icu$document
 ||worldtechguide.net$document
 ||your-magazine.me$document
-||yourmoneymachine.cc$document
 ||zalando-prive.es$document
 ||zergnet.net$document
 ||zeusmedia.info$document
