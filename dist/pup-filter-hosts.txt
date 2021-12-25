@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 25 Dec 2021 00:02:44 +0000
+# Updated: Sat, 25 Dec 2021 12:02:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -260,7 +260,6 @@
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
-0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -320,7 +319,6 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
 0.0.0.0 taboo.news
-0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
@@ -389,5 +387,4 @@
 0.0.0.0 worldtechguide.net
 0.0.0.0 your-magazine.me
 0.0.0.0 zalando-prive.es
-0.0.0.0 zergnet.net
 0.0.0.0 zeusmedia.info
