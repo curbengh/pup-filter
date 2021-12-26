@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Dec 2021 00:02:43 +0000
+! Updated: Sun, 26 Dec 2021 12:02:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-2021travel.net
 abc-news.online
 adverify.cloud
 aikoo.club
@@ -54,7 +53,6 @@ champion.rest
 chatverse.net
 chipovysta.pro
 claimrewards.rest
-clickon.buzz
 coatofarms.nyc
 conndickens.icu
 connecttheupgradingurls.work
@@ -104,6 +102,7 @@ fireapps.cloud
 forwardcutwere.top
 foundnow.net
 funspine.xyz
+galaxywin.xyz
 gamerdigest.org
 genertellife.it
 getvideoabc.ru
@@ -196,7 +195,6 @@ mobiastar.xyz
 mobiavolcano.xyz
 mybesthealthplan.org
 nettrafficpartners.net
-news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
 offerpage.link
@@ -207,7 +205,6 @@ pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
-pandaspringa.xyz
 pandaspringb.xyz
 pandaspringc.xyz
 pandaspringd.xyz
@@ -224,7 +221,6 @@ pandawinterc.xyz
 pandawinterd.xyz
 pandawintere.xyz
 pandawinterf.xyz
-people-around.me
 performhighlyspeedythefile.vip
 performhighlyswiftthefile.vip
 performrefinedoverlythefile.vip

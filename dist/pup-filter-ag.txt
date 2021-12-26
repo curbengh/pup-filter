@@ -1,11 +1,10 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Dec 2021 00:02:43 +0000
+! Updated: Sun, 26 Dec 2021 12:02:18 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
-||2021travel.net$all
 ||abc-news.online$all
 ||adverify.cloud$all
 ||aikoo.club$all
@@ -54,7 +53,6 @@
 ||chatverse.net$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
-||clickon.buzz$all
 ||coatofarms.nyc$all
 ||conndickens.icu$all
 ||connecttheupgradingurls.work$all
@@ -104,6 +102,7 @@
 ||forwardcutwere.top$all
 ||foundnow.net$all
 ||funspine.xyz$all
+||galaxywin.xyz$all
 ||gamerdigest.org$all
 ||genertellife.it$all
 ||getvideoabc.ru$all
@@ -196,7 +195,6 @@
 ||mobiavolcano.xyz$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
-||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
@@ -207,7 +205,6 @@
 ||pandaautumnc.xyz$all
 ||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
-||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
 ||pandaspringc.xyz$all
 ||pandaspringd.xyz$all
@@ -224,7 +221,6 @@
 ||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pandawinterf.xyz$all
-||people-around.me$all
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
 ||performrefinedoverlythefile.vip$all

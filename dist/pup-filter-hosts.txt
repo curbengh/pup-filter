@@ -1,11 +1,10 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Dec 2021 00:02:43 +0000
+# Updated: Sun, 26 Dec 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
-0.0.0.0 2021travel.net
 0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
 0.0.0.0 aikoo.club
@@ -54,7 +53,6 @@
 0.0.0.0 chatverse.net
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
-0.0.0.0 clickon.buzz
 0.0.0.0 coatofarms.nyc
 0.0.0.0 conndickens.icu
 0.0.0.0 connecttheupgradingurls.work
@@ -104,6 +102,7 @@
 0.0.0.0 forwardcutwere.top
 0.0.0.0 foundnow.net
 0.0.0.0 funspine.xyz
+0.0.0.0 galaxywin.xyz
 0.0.0.0 gamerdigest.org
 0.0.0.0 genertellife.it
 0.0.0.0 getvideoabc.ru
@@ -196,7 +195,6 @@
 0.0.0.0 mobiavolcano.xyz
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
-0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
 0.0.0.0 offerpage.link
@@ -207,7 +205,6 @@
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
-0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringc.xyz
 0.0.0.0 pandaspringd.xyz
@@ -224,7 +221,6 @@
 0.0.0.0 pandawinterd.xyz
 0.0.0.0 pandawintere.xyz
 0.0.0.0 pandawinterf.xyz
-0.0.0.0 people-around.me
 0.0.0.0 performhighlyspeedythefile.vip
 0.0.0.0 performhighlyswiftthefile.vip
 0.0.0.0 performrefinedoverlythefile.vip

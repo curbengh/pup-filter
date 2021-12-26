@@ -1,14 +1,13 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Dec 2021 00:02:43 +0000
+# Updated: Sun, 26 Dec 2021 12:02:18 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
--d 2021travel.net
 -d abc-news.online
 -d adverify.cloud
 -d aikoo.club
@@ -57,7 +56,6 @@ msFilterList
 -d chatverse.net
 -d chipovysta.pro
 -d claimrewards.rest
--d clickon.buzz
 -d coatofarms.nyc
 -d conndickens.icu
 -d connecttheupgradingurls.work
@@ -107,6 +105,7 @@ msFilterList
 -d forwardcutwere.top
 -d foundnow.net
 -d funspine.xyz
+-d galaxywin.xyz
 -d gamerdigest.org
 -d genertellife.it
 -d getvideoabc.ru
@@ -199,7 +198,6 @@ msFilterList
 -d mobiavolcano.xyz
 -d mybesthealthplan.org
 -d nettrafficpartners.net
--d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
 -d offerpage.link
@@ -210,7 +208,6 @@ msFilterList
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
 -d pandaautumnf.xyz
--d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringc.xyz
 -d pandaspringd.xyz
@@ -227,7 +224,6 @@ msFilterList
 -d pandawinterd.xyz
 -d pandawintere.xyz
 -d pandawinterf.xyz
--d people-around.me
 -d performhighlyspeedythefile.vip
 -d performhighlyswiftthefile.vip
 -d performrefinedoverlythefile.vip
