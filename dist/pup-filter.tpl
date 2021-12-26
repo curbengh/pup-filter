@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 25 Dec 2021 12:02:21 +0000
+# Updated: Sun, 26 Dec 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@ msFilterList
 -d 2021travel.net
 -d abc-news.online
 -d adverify.cloud
--d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
 -d amobil.online
@@ -33,6 +32,7 @@ msFilterList
 -d bednarmoore.icu
 -d best10hot.website
 -d bkk755.biz
+-d bleu-bonheur.fr
 -d blogphoneapplication.online
 -d bluetiger.cloud
 -d boot-upheavily-bestquickfile.best
@@ -65,7 +65,6 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
--d craftstash.us
 -d crazyprize.buzz
 -d crowdweightyellow.top
 -d curfiositystream.com
@@ -98,11 +97,11 @@ msFilterList
 -d euronordvpn.com
 -d evaing.live
 -d expatriates.pk
--d exploreshops.net
 -d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastwebb.xyz
+-d findanswersnow.net
 -d findaupgradingurls.work
 -d fireapps.cloud
 -d forwardcutwere.top
@@ -118,8 +117,8 @@ msFilterList
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
+-d healthfactor.io
 -d healthnfitness.site
--d heatwavereporter.org
 -d help4.info
 -d huge2upgradescentral.work
 -d humansystemsecurity.top
@@ -172,6 +171,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
+-d kompsos.uk
 -d lackystack.net
 -d link4updatingcentral.work
 -d listenthisso.top
@@ -197,7 +197,6 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
--d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d news-daluku.cc
@@ -272,6 +271,7 @@ msFilterList
 -d real-buy.net
 -d rehab-centers-here-now.site
 -d restorerefinedsuperthefile.vip
+-d restoresuperspeedythefile.vip
 -d rewardgivingrealspecialoffer.cyou
 -d richsurvey.live
 -d robogarden.io
@@ -281,7 +281,6 @@ msFilterList
 -d safeguide.net
 -d seaplaytoo.top
 -d search-zero1.online
--d search4theupdatefree.work
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info

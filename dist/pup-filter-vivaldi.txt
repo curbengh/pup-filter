@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 25 Dec 2021 12:02:21 +0000
+! Updated: Sun, 26 Dec 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 ||2021travel.net$document
 ||abc-news.online$document
 ||adverify.cloud$document
-||adverify.me$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
 ||amobil.online$document
@@ -30,6 +29,7 @@
 ||bednarmoore.icu$document
 ||best10hot.website$document
 ||bkk755.biz$document
+||bleu-bonheur.fr$document
 ||blogphoneapplication.online$document
 ||bluetiger.cloud$document
 ||boot-upheavily-bestquickfile.best$document
@@ -62,7 +62,6 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
-||craftstash.us$document
 ||crazyprize.buzz$document
 ||crowdweightyellow.top$document
 ||curfiositystream.com$document
@@ -95,11 +94,11 @@
 ||euronordvpn.com$document
 ||evaing.live$document
 ||expatriates.pk$document
-||exploreshops.net$document
 ||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
 ||fastwebb.xyz$document
+||findanswersnow.net$document
 ||findaupgradingurls.work$document
 ||fireapps.cloud$document
 ||forwardcutwere.top$document
@@ -115,8 +114,8 @@
 ||gonesteeldouble.top$document
 ||grantaidauthority.site$document
 ||harveybernhard.icu$document
+||healthfactor.io$document
 ||healthnfitness.site$document
-||heatwavereporter.org$document
 ||help4.info$document
 ||huge2upgradescentral.work$document
 ||humansystemsecurity.top$document
@@ -169,6 +168,7 @@
 ||koalawinterc.xyz$document
 ||koalawinterd.xyz$document
 ||koalawintere.xyz$document
+||kompsos.uk$document
 ||lackystack.net$document
 ||link4updatingcentral.work$document
 ||listenthisso.top$document
@@ -194,7 +194,6 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
-||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||news-daluku.cc$document
@@ -269,6 +268,7 @@
 ||real-buy.net$document
 ||rehab-centers-here-now.site$document
 ||restorerefinedsuperthefile.vip$document
+||restoresuperspeedythefile.vip$document
 ||rewardgivingrealspecialoffer.cyou$document
 ||richsurvey.live$document
 ||robogarden.io$document
@@ -278,7 +278,6 @@
 ||safeguide.net$document
 ||seaplaytoo.top$document
 ||search-zero1.online$document
-||search4theupdatefree.work$document
 ||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document

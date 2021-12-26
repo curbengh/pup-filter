@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sat, 25 Dec 2021 12:02:21 +0000
+! Updated: Sun, 26 Dec 2021 00:02:43 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 2021travel.net
 abc-news.online
 adverify.cloud
-adverify.me
 aikoo.club
 am-harder-stock-corn.xyz
 amobil.online
@@ -30,6 +29,7 @@ beautinow.nl
 bednarmoore.icu
 best10hot.website
 bkk755.biz
+bleu-bonheur.fr
 blogphoneapplication.online
 bluetiger.cloud
 boot-upheavily-bestquickfile.best
@@ -62,7 +62,6 @@ consumerprotectioncybersecurity.org
 contentamigo.ru
 contentarea.ru
 country-news.live
-craftstash.us
 crazyprize.buzz
 crowdweightyellow.top
 curfiositystream.com
@@ -95,11 +94,11 @@ enjoyavolcano.xyz
 euronordvpn.com
 evaing.live
 expatriates.pk
-exploreshops.net
 fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastwebb.xyz
+findanswersnow.net
 findaupgradingurls.work
 fireapps.cloud
 forwardcutwere.top
@@ -115,8 +114,8 @@ golddellifewonder.rest
 gonesteeldouble.top
 grantaidauthority.site
 harveybernhard.icu
+healthfactor.io
 healthnfitness.site
-heatwavereporter.org
 help4.info
 huge2upgradescentral.work
 humansystemsecurity.top
@@ -169,6 +168,7 @@ koalawinterb.xyz
 koalawinterc.xyz
 koalawinterd.xyz
 koalawintere.xyz
+kompsos.uk
 lackystack.net
 link4updatingcentral.work
 listenthisso.top
@@ -194,7 +194,6 @@ mobiaocean.xyz
 mobiaplanet.xyz
 mobiastar.xyz
 mobiavolcano.xyz
-mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
 news-daluku.cc
@@ -269,6 +268,7 @@ randompromotion.rest
 real-buy.net
 rehab-centers-here-now.site
 restorerefinedsuperthefile.vip
+restoresuperspeedythefile.vip
 rewardgivingrealspecialoffer.cyou
 richsurvey.live
 robogarden.io
@@ -278,7 +278,6 @@ ryknxj.top
 safeguide.net
 seaplaytoo.top
 search-zero1.online
-search4theupdatefree.work
 search4upgradingset.info
 searchmgr.online
 searchoffers.info

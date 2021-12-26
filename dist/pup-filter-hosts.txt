@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 25 Dec 2021 12:02:21 +0000
+# Updated: Sun, 26 Dec 2021 00:02:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -8,7 +8,6 @@
 0.0.0.0 2021travel.net
 0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
-0.0.0.0 adverify.me
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
@@ -30,6 +29,7 @@
 0.0.0.0 bednarmoore.icu
 0.0.0.0 best10hot.website
 0.0.0.0 bkk755.biz
+0.0.0.0 bleu-bonheur.fr
 0.0.0.0 blogphoneapplication.online
 0.0.0.0 bluetiger.cloud
 0.0.0.0 boot-upheavily-bestquickfile.best
@@ -62,7 +62,6 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
-0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
@@ -95,11 +94,11 @@
 0.0.0.0 euronordvpn.com
 0.0.0.0 evaing.live
 0.0.0.0 expatriates.pk
-0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastwebb.xyz
+0.0.0.0 findanswersnow.net
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
@@ -115,8 +114,8 @@
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grantaidauthority.site
 0.0.0.0 harveybernhard.icu
+0.0.0.0 healthfactor.io
 0.0.0.0 healthnfitness.site
-0.0.0.0 heatwavereporter.org
 0.0.0.0 help4.info
 0.0.0.0 huge2upgradescentral.work
 0.0.0.0 humansystemsecurity.top
@@ -169,6 +168,7 @@
 0.0.0.0 koalawinterc.xyz
 0.0.0.0 koalawinterd.xyz
 0.0.0.0 koalawintere.xyz
+0.0.0.0 kompsos.uk
 0.0.0.0 lackystack.net
 0.0.0.0 link4updatingcentral.work
 0.0.0.0 listenthisso.top
@@ -194,7 +194,6 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
-0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 news-daluku.cc
@@ -269,6 +268,7 @@
 0.0.0.0 real-buy.net
 0.0.0.0 rehab-centers-here-now.site
 0.0.0.0 restorerefinedsuperthefile.vip
+0.0.0.0 restoresuperspeedythefile.vip
 0.0.0.0 rewardgivingrealspecialoffer.cyou
 0.0.0.0 richsurvey.live
 0.0.0.0 robogarden.io
@@ -278,7 +278,6 @@
 0.0.0.0 safeguide.net
 0.0.0.0 seaplaytoo.top
 0.0.0.0 search-zero1.online
-0.0.0.0 search4theupdatefree.work
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
