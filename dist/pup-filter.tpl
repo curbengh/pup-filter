@@ -1,13 +1,14 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 27 Dec 2021 00:02:46 +0000
+# Updated: Mon, 27 Dec 2021 12:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 : Expires=1
 #
+-d 2021travel.net
 -d abc-news.online
 -d adverify.cloud
 -d adverify.me
@@ -19,7 +20,6 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
--d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -200,6 +200,7 @@ msFilterList
 -d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
+-d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
 -d offerpage.link
@@ -286,7 +287,6 @@ msFilterList
 -d selectedlab.buzz
 -d sendnow.us
 -d shegotass.info
--d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top

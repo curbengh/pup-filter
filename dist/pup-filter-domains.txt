@@ -1,10 +1,11 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 27 Dec 2021 00:02:46 +0000
+# Updated: Mon, 27 Dec 2021 12:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
+2021travel.net
 abc-news.online
 adverify.cloud
 adverify.me
@@ -16,7 +17,6 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
-arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -197,6 +197,7 @@ mobiavolcano.xyz
 mobyfox.shop
 mybesthealthplan.org
 nettrafficpartners.net
+news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
 offerpage.link
@@ -283,7 +284,6 @@ secureyounow.live
 selectedlab.buzz
 sendnow.us
 shegotass.info
-shopadvisors.net
 shopin.nyc
 shopnsave.world
 sightcottonreply.top

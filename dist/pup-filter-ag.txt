@@ -1,10 +1,11 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 27 Dec 2021 00:02:46 +0000
+! Updated: Mon, 27 Dec 2021 12:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
+||2021travel.net$all
 ||abc-news.online$all
 ||adverify.cloud$all
 ||adverify.me$all
@@ -16,7 +17,6 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
-||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -197,6 +197,7 @@
 ||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
+||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
 ||offerpage.link$all
@@ -283,7 +284,6 @@
 ||selectedlab.buzz$all
 ||sendnow.us$all
 ||shegotass.info$all
-||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
