@@ -1,12 +1,13 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Dec 2021 12:02:18 +0000
+# Updated: Mon, 27 Dec 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
 # Source: https://github.com/zhouhanc/malware-discoverer
 0.0.0.0 abc-news.online
 0.0.0.0 adverify.cloud
+0.0.0.0 adverify.me
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
 0.0.0.0 amobil.online
@@ -50,7 +51,6 @@
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 champion.rest
-0.0.0.0 chatverse.net
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
 0.0.0.0 coatofarms.nyc
@@ -60,6 +60,7 @@
 0.0.0.0 contentamigo.ru
 0.0.0.0 contentarea.ru
 0.0.0.0 country-news.live
+0.0.0.0 craftstash.us
 0.0.0.0 crazyprize.buzz
 0.0.0.0 crowdweightyellow.top
 0.0.0.0 curfiositystream.com
@@ -92,11 +93,11 @@
 0.0.0.0 euronordvpn.com
 0.0.0.0 evaing.live
 0.0.0.0 expatriates.pk
+0.0.0.0 exploreshops.net
 0.0.0.0 fastfactsonline.co
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastwebb.xyz
-0.0.0.0 findanswersnow.net
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
@@ -193,6 +194,7 @@
 0.0.0.0 mobiaplanet.xyz
 0.0.0.0 mobiastar.xyz
 0.0.0.0 mobiavolcano.xyz
+0.0.0.0 mobyfox.shop
 0.0.0.0 mybesthealthplan.org
 0.0.0.0 nettrafficpartners.net
 0.0.0.0 newsinformer.net
@@ -277,8 +279,10 @@
 0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
+0.0.0.0 secureyounow.live
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
+0.0.0.0 shegotass.info
 0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world

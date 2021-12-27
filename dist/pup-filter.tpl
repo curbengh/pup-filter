@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sun, 26 Dec 2021 12:02:18 +0000
+# Updated: Mon, 27 Dec 2021 00:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -10,6 +10,7 @@ msFilterList
 #
 -d abc-news.online
 -d adverify.cloud
+-d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
 -d amobil.online
@@ -53,7 +54,6 @@ msFilterList
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d champion.rest
--d chatverse.net
 -d chipovysta.pro
 -d claimrewards.rest
 -d coatofarms.nyc
@@ -63,6 +63,7 @@ msFilterList
 -d contentamigo.ru
 -d contentarea.ru
 -d country-news.live
+-d craftstash.us
 -d crazyprize.buzz
 -d crowdweightyellow.top
 -d curfiositystream.com
@@ -95,11 +96,11 @@ msFilterList
 -d euronordvpn.com
 -d evaing.live
 -d expatriates.pk
+-d exploreshops.net
 -d fastfactsonline.co
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastwebb.xyz
--d findanswersnow.net
 -d findaupgradingurls.work
 -d fireapps.cloud
 -d forwardcutwere.top
@@ -196,6 +197,7 @@ msFilterList
 -d mobiaplanet.xyz
 -d mobiastar.xyz
 -d mobiavolcano.xyz
+-d mobyfox.shop
 -d mybesthealthplan.org
 -d nettrafficpartners.net
 -d newsinformer.net
@@ -280,8 +282,10 @@ msFilterList
 -d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
+-d secureyounow.live
 -d selectedlab.buzz
 -d sendnow.us
+-d shegotass.info
 -d shopadvisors.net
 -d shopin.nyc
 -d shopnsave.world

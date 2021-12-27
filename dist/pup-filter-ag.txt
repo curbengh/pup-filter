@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Dec 2021 12:02:18 +0000
+! Updated: Mon, 27 Dec 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||abc-news.online$all
 ||adverify.cloud$all
+||adverify.me$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
 ||amobil.online$all
@@ -50,7 +51,6 @@
 ||centerastar.xyz$all
 ||centeravolcano.xyz$all
 ||champion.rest$all
-||chatverse.net$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
 ||coatofarms.nyc$all
@@ -60,6 +60,7 @@
 ||contentamigo.ru$all
 ||contentarea.ru$all
 ||country-news.live$all
+||craftstash.us$all
 ||crazyprize.buzz$all
 ||crowdweightyellow.top$all
 ||curfiositystream.com$all
@@ -92,11 +93,11 @@
 ||euronordvpn.com$all
 ||evaing.live$all
 ||expatriates.pk$all
+||exploreshops.net$all
 ||fastfactsonline.co$all
 ||fastspinc.xyz$all
 ||fastspinf.xyz$all
 ||fastwebb.xyz$all
-||findanswersnow.net$all
 ||findaupgradingurls.work$all
 ||fireapps.cloud$all
 ||forwardcutwere.top$all
@@ -193,6 +194,7 @@
 ||mobiaplanet.xyz$all
 ||mobiastar.xyz$all
 ||mobiavolcano.xyz$all
+||mobyfox.shop$all
 ||mybesthealthplan.org$all
 ||nettrafficpartners.net$all
 ||newsinformer.net$all
@@ -277,8 +279,10 @@
 ||search4upgradingset.info$all
 ||searchmgr.online$all
 ||searchoffers.info$all
+||secureyounow.live$all
 ||selectedlab.buzz$all
 ||sendnow.us$all
+||shegotass.info$all
 ||shopadvisors.net$all
 ||shopin.nyc$all
 ||shopnsave.world$all

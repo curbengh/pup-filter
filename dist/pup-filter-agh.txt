@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Dec 2021 12:02:18 +0000
+! Updated: Mon, 27 Dec 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||abc-news.online^
 ||adverify.cloud^
+||adverify.me^
 ||aikoo.club^
 ||am-harder-stock-corn.xyz^
 ||amobil.online^
@@ -50,7 +51,6 @@
 ||centerastar.xyz^
 ||centeravolcano.xyz^
 ||champion.rest^
-||chatverse.net^
 ||chipovysta.pro^
 ||claimrewards.rest^
 ||coatofarms.nyc^
@@ -60,6 +60,7 @@
 ||contentamigo.ru^
 ||contentarea.ru^
 ||country-news.live^
+||craftstash.us^
 ||crazyprize.buzz^
 ||crowdweightyellow.top^
 ||curfiositystream.com^
@@ -92,11 +93,11 @@
 ||euronordvpn.com^
 ||evaing.live^
 ||expatriates.pk^
+||exploreshops.net^
 ||fastfactsonline.co^
 ||fastspinc.xyz^
 ||fastspinf.xyz^
 ||fastwebb.xyz^
-||findanswersnow.net^
 ||findaupgradingurls.work^
 ||fireapps.cloud^
 ||forwardcutwere.top^
@@ -193,6 +194,7 @@
 ||mobiaplanet.xyz^
 ||mobiastar.xyz^
 ||mobiavolcano.xyz^
+||mobyfox.shop^
 ||mybesthealthplan.org^
 ||nettrafficpartners.net^
 ||newsinformer.net^
@@ -277,8 +279,10 @@
 ||search4upgradingset.info^
 ||searchmgr.online^
 ||searchoffers.info^
+||secureyounow.live^
 ||selectedlab.buzz^
 ||sendnow.us^
+||shegotass.info^
 ||shopadvisors.net^
 ||shopin.nyc^
 ||shopnsave.world^

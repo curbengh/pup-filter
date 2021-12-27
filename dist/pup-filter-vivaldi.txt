@@ -1,12 +1,13 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Sun, 26 Dec 2021 12:02:18 +0000
+! Updated: Mon, 27 Dec 2021 00:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
 ! Source: https://github.com/zhouhanc/malware-discoverer
 ||abc-news.online$document
 ||adverify.cloud$document
+||adverify.me$document
 ||aikoo.club$document
 ||am-harder-stock-corn.xyz$document
 ||amobil.online$document
@@ -50,7 +51,6 @@
 ||centerastar.xyz$document
 ||centeravolcano.xyz$document
 ||champion.rest$document
-||chatverse.net$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
 ||coatofarms.nyc$document
@@ -60,6 +60,7 @@
 ||contentamigo.ru$document
 ||contentarea.ru$document
 ||country-news.live$document
+||craftstash.us$document
 ||crazyprize.buzz$document
 ||crowdweightyellow.top$document
 ||curfiositystream.com$document
@@ -92,11 +93,11 @@
 ||euronordvpn.com$document
 ||evaing.live$document
 ||expatriates.pk$document
+||exploreshops.net$document
 ||fastfactsonline.co$document
 ||fastspinc.xyz$document
 ||fastspinf.xyz$document
 ||fastwebb.xyz$document
-||findanswersnow.net$document
 ||findaupgradingurls.work$document
 ||fireapps.cloud$document
 ||forwardcutwere.top$document
@@ -193,6 +194,7 @@
 ||mobiaplanet.xyz$document
 ||mobiastar.xyz$document
 ||mobiavolcano.xyz$document
+||mobyfox.shop$document
 ||mybesthealthplan.org$document
 ||nettrafficpartners.net$document
 ||newsinformer.net$document
@@ -277,8 +279,10 @@
 ||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document
+||secureyounow.live$document
 ||selectedlab.buzz$document
 ||sendnow.us$document
+||shegotass.info$document
 ||shopadvisors.net$document
 ||shopin.nyc$document
 ||shopnsave.world$document
