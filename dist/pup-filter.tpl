@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 27 Dec 2021 12:02:42 +0000
+# Updated: Tue, 28 Dec 2021 00:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -28,7 +28,6 @@ msFilterList
 -d be-us-auto-loans-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
--d beautinow.nl
 -d bednarmoore.icu
 -d best10hot.website
 -d bkk755.biz
@@ -117,7 +116,6 @@ msFilterList
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
--d healthfactor.io
 -d healthnfitness.site
 -d help4.info
 -d huge2upgradescentral.work
@@ -140,7 +138,6 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
--d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d it-is.cool
@@ -183,7 +180,6 @@ msFilterList
 -d makingbettermoney.co
 -d marketloans.net
 -d mazestation.games
--d mediaadvanced.ru
 -d mindmatch.ai
 -d mistvideo.ru
 -d mobi1crater.xyz
@@ -280,7 +276,6 @@ msFilterList
 -d safeguide.net
 -d seaplaytoo.top
 -d search-zero1.online
--d search4upgradingset.info
 -d searchmgr.online
 -d searchoffers.info
 -d secureyounow.live
@@ -316,7 +311,6 @@ msFilterList
 -d sweetalt.ru
 -d sweetgirls.buzz
 -d synccurrentmostthefile.vip
--d syncmostprecisethefile.vip
 -d syncnewestmostthefile.vip
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
@@ -350,7 +344,6 @@ msFilterList
 -d topdating.online
 -d trotineo.fr
 -d truecompassion.net
--d truly-diet.store
 -d updatephoneoffice.club
 -d updateview.tech
 -d upplaysite.xyz
@@ -386,6 +379,7 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
+-d winnerz.icu
 -d worldtechguide.net
 -d your-magazine.me
 -d zalando-prive.es

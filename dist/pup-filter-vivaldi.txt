@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 27 Dec 2021 12:02:42 +0000
+! Updated: Tue, 28 Dec 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||be-us-auto-loans-ok.live$document
 ||be-us-cars-for-seniors-ok.live$document
 ||be-us-exercise-bikes-ok.live$document
-||beautinow.nl$document
 ||bednarmoore.icu$document
 ||best10hot.website$document
 ||bkk755.biz$document
@@ -114,7 +113,6 @@
 ||gonesteeldouble.top$document
 ||grantaidauthority.site$document
 ||harveybernhard.icu$document
-||healthfactor.io$document
 ||healthnfitness.site$document
 ||help4.info$document
 ||huge2upgradescentral.work$document
@@ -137,7 +135,6 @@
 ||installprogressiveintenselythefile.vip$document
 ||installstronghighlythefile.vip$document
 ||intelectaction.ru$document
-||investinfo.net$document
 ||ipaint.us$document
 ||ironprovpn.me$document
 ||it-is.cool$document
@@ -180,7 +177,6 @@
 ||makingbettermoney.co$document
 ||marketloans.net$document
 ||mazestation.games$document
-||mediaadvanced.ru$document
 ||mindmatch.ai$document
 ||mistvideo.ru$document
 ||mobi1crater.xyz$document
@@ -277,7 +273,6 @@
 ||safeguide.net$document
 ||seaplaytoo.top$document
 ||search-zero1.online$document
-||search4upgradingset.info$document
 ||searchmgr.online$document
 ||searchoffers.info$document
 ||secureyounow.live$document
@@ -313,7 +308,6 @@
 ||sweetalt.ru$document
 ||sweetgirls.buzz$document
 ||synccurrentmostthefile.vip$document
-||syncmostprecisethefile.vip$document
 ||syncnewestmostthefile.vip$document
 ||syncrecentintenselythefile.vip$document
 ||syssysupdate.top$document
@@ -347,7 +341,6 @@
 ||topdating.online$document
 ||trotineo.fr$document
 ||truecompassion.net$document
-||truly-diet.store$document
 ||updatephoneoffice.club$document
 ||updateview.tech$document
 ||upplaysite.xyz$document
@@ -383,6 +376,7 @@
 ||westasea.xyz$document
 ||westastar.xyz$document
 ||wildermanrolfson.icu$document
+||winnerz.icu$document
 ||worldtechguide.net$document
 ||your-magazine.me$document
 ||zalando-prive.es$document

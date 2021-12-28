@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 27 Dec 2021 12:02:42 +0000
+# Updated: Tue, 28 Dec 2021 00:02:35 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 0.0.0.0 be-us-auto-loans-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
-0.0.0.0 beautinow.nl
 0.0.0.0 bednarmoore.icu
 0.0.0.0 best10hot.website
 0.0.0.0 bkk755.biz
@@ -114,7 +113,6 @@
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grantaidauthority.site
 0.0.0.0 harveybernhard.icu
-0.0.0.0 healthfactor.io
 0.0.0.0 healthnfitness.site
 0.0.0.0 help4.info
 0.0.0.0 huge2upgradescentral.work
@@ -137,7 +135,6 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 it-is.cool
@@ -180,7 +177,6 @@
 0.0.0.0 makingbettermoney.co
 0.0.0.0 marketloans.net
 0.0.0.0 mazestation.games
-0.0.0.0 mediaadvanced.ru
 0.0.0.0 mindmatch.ai
 0.0.0.0 mistvideo.ru
 0.0.0.0 mobi1crater.xyz
@@ -277,7 +273,6 @@
 0.0.0.0 safeguide.net
 0.0.0.0 seaplaytoo.top
 0.0.0.0 search-zero1.online
-0.0.0.0 search4upgradingset.info
 0.0.0.0 searchmgr.online
 0.0.0.0 searchoffers.info
 0.0.0.0 secureyounow.live
@@ -313,7 +308,6 @@
 0.0.0.0 sweetalt.ru
 0.0.0.0 sweetgirls.buzz
 0.0.0.0 synccurrentmostthefile.vip
-0.0.0.0 syncmostprecisethefile.vip
 0.0.0.0 syncnewestmostthefile.vip
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
@@ -347,7 +341,6 @@
 0.0.0.0 topdating.online
 0.0.0.0 trotineo.fr
 0.0.0.0 truecompassion.net
-0.0.0.0 truly-diet.store
 0.0.0.0 updatephoneoffice.club
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
@@ -383,6 +376,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
+0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 your-magazine.me
 0.0.0.0 zalando-prive.es

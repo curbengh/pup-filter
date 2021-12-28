@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 27 Dec 2021 12:02:42 +0000
+! Updated: Tue, 28 Dec 2021 00:02:35 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -25,7 +25,6 @@
 ||be-us-auto-loans-ok.live^
 ||be-us-cars-for-seniors-ok.live^
 ||be-us-exercise-bikes-ok.live^
-||beautinow.nl^
 ||bednarmoore.icu^
 ||best10hot.website^
 ||bkk755.biz^
@@ -114,7 +113,6 @@
 ||gonesteeldouble.top^
 ||grantaidauthority.site^
 ||harveybernhard.icu^
-||healthfactor.io^
 ||healthnfitness.site^
 ||help4.info^
 ||huge2upgradescentral.work^
@@ -137,7 +135,6 @@
 ||installprogressiveintenselythefile.vip^
 ||installstronghighlythefile.vip^
 ||intelectaction.ru^
-||investinfo.net^
 ||ipaint.us^
 ||ironprovpn.me^
 ||it-is.cool^
@@ -180,7 +177,6 @@
 ||makingbettermoney.co^
 ||marketloans.net^
 ||mazestation.games^
-||mediaadvanced.ru^
 ||mindmatch.ai^
 ||mistvideo.ru^
 ||mobi1crater.xyz^
@@ -277,7 +273,6 @@
 ||safeguide.net^
 ||seaplaytoo.top^
 ||search-zero1.online^
-||search4upgradingset.info^
 ||searchmgr.online^
 ||searchoffers.info^
 ||secureyounow.live^
@@ -313,7 +308,6 @@
 ||sweetalt.ru^
 ||sweetgirls.buzz^
 ||synccurrentmostthefile.vip^
-||syncmostprecisethefile.vip^
 ||syncnewestmostthefile.vip^
 ||syncrecentintenselythefile.vip^
 ||syssysupdate.top^
@@ -347,7 +341,6 @@
 ||topdating.online^
 ||trotineo.fr^
 ||truecompassion.net^
-||truly-diet.store^
 ||updatephoneoffice.club^
 ||updateview.tech^
 ||upplaysite.xyz^
@@ -383,6 +376,7 @@
 ||westasea.xyz^
 ||westastar.xyz^
 ||wildermanrolfson.icu^
+||winnerz.icu^
 ||worldtechguide.net^
 ||your-magazine.me^
 ||zalando-prive.es^
