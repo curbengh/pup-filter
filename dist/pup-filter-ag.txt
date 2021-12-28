@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 28 Dec 2021 00:02:35 +0000
+! Updated: Tue, 28 Dec 2021 12:02:53 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -17,6 +17,7 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -52,6 +53,7 @@
 ||champion.rest$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
+||clickon.buzz$all
 ||coatofarms.nyc$all
 ||conndickens.icu$all
 ||connecttheupgradingurls.work$all
@@ -220,6 +222,7 @@
 ||pandawinterd.xyz$all
 ||pandawintere.xyz$all
 ||pandawinterf.xyz$all
+||people-around.me$all
 ||performhighlyspeedythefile.vip$all
 ||performhighlyswiftthefile.vip$all
 ||performrefinedoverlythefile.vip$all
@@ -312,6 +315,7 @@
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
 ||taboo.news$all
+||taboola.blog$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
