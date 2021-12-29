@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 28 Dec 2021 12:02:53 +0000
+# Updated: Wed, 29 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@ adverify.cloud
 adverify.me
 aikoo.club
 am-harder-stock-corn.xyz
-amobil.online
 android-browser.live
 android-web.live
 aphicus.xyz
@@ -26,6 +25,7 @@ be-n9lnns3n-ok.live
 be-us-auto-loans-ok.live
 be-us-cars-for-seniors-ok.live
 be-us-exercise-bikes-ok.live
+beautinow.nl
 bednarmoore.icu
 best10hot.website
 bkk755.biz
@@ -51,10 +51,10 @@ centeramountain.xyz
 centerastar.xyz
 centeravolcano.xyz
 champion.rest
+chatverse.net
 chipovysta.pro
 claimrewards.rest
 clickon.buzz
-coatofarms.nyc
 conndickens.icu
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -99,6 +99,7 @@ fastfactsonline.co
 fastspinc.xyz
 fastspinf.xyz
 fastwebb.xyz
+findanswersnow.net
 findaupgradingurls.work
 fireapps.cloud
 forwardcutwere.top
@@ -106,15 +107,15 @@ foundnow.net
 funspine.xyz
 galaxywin.xyz
 gamerdigest.org
-genertellife.it
+getbitly.pro
 getvideoabc.ru
 getvideoall.ru
-gladmstreet.xyz
 global-track.space
 golddellifewonder.rest
 gonesteeldouble.top
 grantaidauthority.site
 harveybernhard.icu
+healthfactor.io
 healthnfitness.site
 help4.info
 huge2upgradescentral.work
@@ -137,6 +138,7 @@ installprecisehighlythefile.vip
 installprogressiveintenselythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
+investinfo.net
 ipaint.us
 ironprovpn.me
 it-is.cool
@@ -382,6 +384,5 @@ westastar.xyz
 wildermanrolfson.icu
 winnerz.icu
 worldtechguide.net
-your-magazine.me
 zalando-prive.es
 zeusmedia.info

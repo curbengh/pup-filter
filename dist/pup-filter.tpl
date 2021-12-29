@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 28 Dec 2021 12:02:53 +0000
+# Updated: Wed, 29 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -14,7 +14,6 @@ msFilterList
 -d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
--d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
@@ -29,6 +28,7 @@ msFilterList
 -d be-us-auto-loans-ok.live
 -d be-us-cars-for-seniors-ok.live
 -d be-us-exercise-bikes-ok.live
+-d beautinow.nl
 -d bednarmoore.icu
 -d best10hot.website
 -d bkk755.biz
@@ -54,10 +54,10 @@ msFilterList
 -d centerastar.xyz
 -d centeravolcano.xyz
 -d champion.rest
+-d chatverse.net
 -d chipovysta.pro
 -d claimrewards.rest
 -d clickon.buzz
--d coatofarms.nyc
 -d conndickens.icu
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
@@ -102,6 +102,7 @@ msFilterList
 -d fastspinc.xyz
 -d fastspinf.xyz
 -d fastwebb.xyz
+-d findanswersnow.net
 -d findaupgradingurls.work
 -d fireapps.cloud
 -d forwardcutwere.top
@@ -109,15 +110,15 @@ msFilterList
 -d funspine.xyz
 -d galaxywin.xyz
 -d gamerdigest.org
--d genertellife.it
+-d getbitly.pro
 -d getvideoabc.ru
 -d getvideoall.ru
--d gladmstreet.xyz
 -d global-track.space
 -d golddellifewonder.rest
 -d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
+-d healthfactor.io
 -d healthnfitness.site
 -d help4.info
 -d huge2upgradescentral.work
@@ -140,6 +141,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
+-d investinfo.net
 -d ipaint.us
 -d ironprovpn.me
 -d it-is.cool
@@ -385,6 +387,5 @@ msFilterList
 -d wildermanrolfson.icu
 -d winnerz.icu
 -d worldtechguide.net
--d your-magazine.me
 -d zalando-prive.es
 -d zeusmedia.info

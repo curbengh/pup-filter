@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 28 Dec 2021 12:02:53 +0000
+# Updated: Wed, 29 Dec 2021 00:02:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -11,7 +11,6 @@
 0.0.0.0 adverify.me
 0.0.0.0 aikoo.club
 0.0.0.0 am-harder-stock-corn.xyz
-0.0.0.0 amobil.online
 0.0.0.0 android-browser.live
 0.0.0.0 android-web.live
 0.0.0.0 aphicus.xyz
@@ -26,6 +25,7 @@
 0.0.0.0 be-us-auto-loans-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
 0.0.0.0 be-us-exercise-bikes-ok.live
+0.0.0.0 beautinow.nl
 0.0.0.0 bednarmoore.icu
 0.0.0.0 best10hot.website
 0.0.0.0 bkk755.biz
@@ -51,10 +51,10 @@
 0.0.0.0 centerastar.xyz
 0.0.0.0 centeravolcano.xyz
 0.0.0.0 champion.rest
+0.0.0.0 chatverse.net
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
 0.0.0.0 clickon.buzz
-0.0.0.0 coatofarms.nyc
 0.0.0.0 conndickens.icu
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -99,6 +99,7 @@
 0.0.0.0 fastspinc.xyz
 0.0.0.0 fastspinf.xyz
 0.0.0.0 fastwebb.xyz
+0.0.0.0 findanswersnow.net
 0.0.0.0 findaupgradingurls.work
 0.0.0.0 fireapps.cloud
 0.0.0.0 forwardcutwere.top
@@ -106,15 +107,15 @@
 0.0.0.0 funspine.xyz
 0.0.0.0 galaxywin.xyz
 0.0.0.0 gamerdigest.org
-0.0.0.0 genertellife.it
+0.0.0.0 getbitly.pro
 0.0.0.0 getvideoabc.ru
 0.0.0.0 getvideoall.ru
-0.0.0.0 gladmstreet.xyz
 0.0.0.0 global-track.space
 0.0.0.0 golddellifewonder.rest
 0.0.0.0 gonesteeldouble.top
 0.0.0.0 grantaidauthority.site
 0.0.0.0 harveybernhard.icu
+0.0.0.0 healthfactor.io
 0.0.0.0 healthnfitness.site
 0.0.0.0 help4.info
 0.0.0.0 huge2upgradescentral.work
@@ -137,6 +138,7 @@
 0.0.0.0 installprogressiveintenselythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
+0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 it-is.cool
@@ -382,6 +384,5 @@
 0.0.0.0 wildermanrolfson.icu
 0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
-0.0.0.0 your-magazine.me
 0.0.0.0 zalando-prive.es
 0.0.0.0 zeusmedia.info
