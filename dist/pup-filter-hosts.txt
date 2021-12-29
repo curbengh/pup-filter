@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 29 Dec 2021 00:02:51 +0000
+# Updated: Wed, 29 Dec 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -186,7 +186,6 @@
 0.0.0.0 mobi1crater.xyz
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
-0.0.0.0 mobi7sea.xyz
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
 0.0.0.0 mobiacrater.xyz
@@ -200,6 +199,7 @@
 0.0.0.0 news-daluku.cc
 0.0.0.0 newsinformer.net
 0.0.0.0 nordvpnhosting.com
+0.0.0.0 octonew.me
 0.0.0.0 offerpage.link
 0.0.0.0 offersearch.info
 0.0.0.0 paint-lion-history-loud.xyz
@@ -208,6 +208,7 @@
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
+0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringc.xyz
 0.0.0.0 pandaspringd.xyz
@@ -256,6 +257,7 @@
 0.0.0.0 playwinterd.xyz
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
+0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
@@ -283,7 +285,6 @@
 0.0.0.0 secureyounow.live
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
-0.0.0.0 shegotass.info
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
@@ -385,4 +386,5 @@
 0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 zalando-prive.es
+0.0.0.0 zergnet.net
 0.0.0.0 zeusmedia.info

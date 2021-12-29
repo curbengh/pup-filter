@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 29 Dec 2021 00:02:51 +0000
+# Updated: Wed, 29 Dec 2021 12:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -189,7 +189,6 @@ msFilterList
 -d mobi1crater.xyz
 -d mobi1mountain.xyz
 -d mobi1planet.xyz
--d mobi7sea.xyz
 -d mobi7sky.xyz
 -d mobi7volcano.xyz
 -d mobiacrater.xyz
@@ -203,6 +202,7 @@ msFilterList
 -d news-daluku.cc
 -d newsinformer.net
 -d nordvpnhosting.com
+-d octonew.me
 -d offerpage.link
 -d offersearch.info
 -d paint-lion-history-loud.xyz
@@ -211,6 +211,7 @@ msFilterList
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
 -d pandaautumnf.xyz
+-d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringc.xyz
 -d pandaspringd.xyz
@@ -259,6 +260,7 @@ msFilterList
 -d playwinterd.xyz
 -d playwintere.xyz
 -d playwinterf.xyz
+-d premium-news-for.me
 -d press-news-for.me
 -d prize-messsages.casa
 -d producthunter.club
@@ -286,7 +288,6 @@ msFilterList
 -d secureyounow.live
 -d selectedlab.buzz
 -d sendnow.us
--d shegotass.info
 -d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
@@ -388,4 +389,5 @@ msFilterList
 -d winnerz.icu
 -d worldtechguide.net
 -d zalando-prive.es
+-d zergnet.net
 -d zeusmedia.info
