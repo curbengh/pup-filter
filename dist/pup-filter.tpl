@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 29 Dec 2021 12:02:57 +0000
+# Updated: Thu, 30 Dec 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -23,7 +23,6 @@ msFilterList
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
--d be-5hdo32xes-ok.live
 -d be-n9lnns3n-ok.live
 -d be-us-auto-loans-ok.live
 -d be-us-cars-for-seniors-ok.live
@@ -115,7 +114,6 @@ msFilterList
 -d getvideoall.ru
 -d global-track.space
 -d golddellifewonder.rest
--d gonesteeldouble.top
 -d grantaidauthority.site
 -d harveybernhard.icu
 -d healthfactor.io
@@ -137,8 +135,10 @@ msFilterList
 -d installhighlyrefinedthefile.vip
 -d installintenselyoriginalthefile.vip
 -d installintenselyrefinedthefile.vip
+-d installoverlylatestthefile.vip
 -d installprecisehighlythefile.vip
 -d installprogressiveintenselythefile.vip
+-d installrecentoverlythefile.vip
 -d installstronghighlythefile.vip
 -d intelectaction.ru
 -d investinfo.net
@@ -262,10 +262,10 @@ msFilterList
 -d playwinterf.xyz
 -d premium-news-for.me
 -d press-news-for.me
--d prize-messsages.casa
 -d producthunter.club
 -d promotionclaim.rest
 -d protect-ios.com
+-d provewarmmind.top
 -d qfind.net
 -d quizshein.shop
 -d rancy.xyz

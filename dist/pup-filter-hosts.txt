@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Wed, 29 Dec 2021 12:02:57 +0000
+# Updated: Thu, 30 Dec 2021 00:02:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
-0.0.0.0 be-5hdo32xes-ok.live
 0.0.0.0 be-n9lnns3n-ok.live
 0.0.0.0 be-us-auto-loans-ok.live
 0.0.0.0 be-us-cars-for-seniors-ok.live
@@ -112,7 +111,6 @@
 0.0.0.0 getvideoall.ru
 0.0.0.0 global-track.space
 0.0.0.0 golddellifewonder.rest
-0.0.0.0 gonesteeldouble.top
 0.0.0.0 grantaidauthority.site
 0.0.0.0 harveybernhard.icu
 0.0.0.0 healthfactor.io
@@ -134,8 +132,10 @@
 0.0.0.0 installhighlyrefinedthefile.vip
 0.0.0.0 installintenselyoriginalthefile.vip
 0.0.0.0 installintenselyrefinedthefile.vip
+0.0.0.0 installoverlylatestthefile.vip
 0.0.0.0 installprecisehighlythefile.vip
 0.0.0.0 installprogressiveintenselythefile.vip
+0.0.0.0 installrecentoverlythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
 0.0.0.0 investinfo.net
@@ -259,10 +259,10 @@
 0.0.0.0 playwinterf.xyz
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
-0.0.0.0 prize-messsages.casa
 0.0.0.0 producthunter.club
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
+0.0.0.0 provewarmmind.top
 0.0.0.0 qfind.net
 0.0.0.0 quizshein.shop
 0.0.0.0 rancy.xyz

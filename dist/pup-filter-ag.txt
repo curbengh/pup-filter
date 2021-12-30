@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 29 Dec 2021 12:02:57 +0000
+! Updated: Thu, 30 Dec 2021 00:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -20,7 +20,6 @@
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
-||be-5hdo32xes-ok.live$all
 ||be-n9lnns3n-ok.live$all
 ||be-us-auto-loans-ok.live$all
 ||be-us-cars-for-seniors-ok.live$all
@@ -112,7 +111,6 @@
 ||getvideoall.ru$all
 ||global-track.space$all
 ||golddellifewonder.rest$all
-||gonesteeldouble.top$all
 ||grantaidauthority.site$all
 ||harveybernhard.icu$all
 ||healthfactor.io$all
@@ -134,8 +132,10 @@
 ||installhighlyrefinedthefile.vip$all
 ||installintenselyoriginalthefile.vip$all
 ||installintenselyrefinedthefile.vip$all
+||installoverlylatestthefile.vip$all
 ||installprecisehighlythefile.vip$all
 ||installprogressiveintenselythefile.vip$all
+||installrecentoverlythefile.vip$all
 ||installstronghighlythefile.vip$all
 ||intelectaction.ru$all
 ||investinfo.net$all
@@ -259,10 +259,10 @@
 ||playwinterf.xyz$all
 ||premium-news-for.me$all
 ||press-news-for.me$all
-||prize-messsages.casa$all
 ||producthunter.club$all
 ||promotionclaim.rest$all
 ||protect-ios.com$all
+||provewarmmind.top$all
 ||qfind.net$all
 ||quizshein.shop$all
 ||rancy.xyz$all
