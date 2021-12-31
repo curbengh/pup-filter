@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 31 Dec 2021 00:03:00 +0000
+# Updated: Fri, 31 Dec 2021 12:02:46 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -52,7 +52,6 @@
 0.0.0.0 chatverse.net
 0.0.0.0 chipovysta.pro
 0.0.0.0 claimrewards.rest
-0.0.0.0 clickon.buzz
 0.0.0.0 conndickens.icu
 0.0.0.0 connecttheupgradingurls.work
 0.0.0.0 consumerprotectioncybersecurity.org
@@ -186,6 +185,7 @@
 0.0.0.0 mobi1crater.xyz
 0.0.0.0 mobi1mountain.xyz
 0.0.0.0 mobi1planet.xyz
+0.0.0.0 mobi7sea.xyz
 0.0.0.0 mobi7sky.xyz
 0.0.0.0 mobi7volcano.xyz
 0.0.0.0 mobiacrater.xyz
@@ -257,6 +257,7 @@
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
 0.0.0.0 premium-news-for.me
+0.0.0.0 premium-shops-around.me
 0.0.0.0 press-news-for.me
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
@@ -284,7 +285,6 @@
 0.0.0.0 secureyounow.live
 0.0.0.0 selectedlab.buzz
 0.0.0.0 sendnow.us
-0.0.0.0 shopadvisors.net
 0.0.0.0 shopin.nyc
 0.0.0.0 shopnsave.world
 0.0.0.0 sightcottonreply.top
@@ -383,7 +383,6 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
-0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 zalando-prive.es
 0.0.0.0 zergnet.net

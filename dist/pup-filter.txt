@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 31 Dec 2021 00:03:00 +0000
+! Updated: Fri, 31 Dec 2021 12:02:46 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -52,7 +52,6 @@ champion.rest
 chatverse.net
 chipovysta.pro
 claimrewards.rest
-clickon.buzz
 conndickens.icu
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -186,6 +185,7 @@ mistvideo.ru
 mobi1crater.xyz
 mobi1mountain.xyz
 mobi1planet.xyz
+mobi7sea.xyz
 mobi7sky.xyz
 mobi7volcano.xyz
 mobiacrater.xyz
@@ -257,6 +257,7 @@ playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
 premium-news-for.me
+premium-shops-around.me
 press-news-for.me
 producthunter.club
 profitablesurvey.site
@@ -284,7 +285,6 @@ searchoffers.info
 secureyounow.live
 selectedlab.buzz
 sendnow.us
-shopadvisors.net
 shopin.nyc
 shopnsave.world
 sightcottonreply.top
@@ -383,7 +383,6 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
-winnerz.icu
 worldtechguide.net
 zalando-prive.es
 zergnet.net
