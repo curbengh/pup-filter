@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Sat, 01 Jan 2022 00:02:55 +0000
+# Updated: Sat, 01 Jan 2022 12:02:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -52,6 +52,7 @@ champion.rest
 chatverse.net
 chipovysta.pro
 claimrewards.rest
+clickon.buzz
 conndickens.icu
 connecttheupgradingurls.work
 consumerprotectioncybersecurity.org
@@ -199,7 +200,6 @@ nettrafficpartners.net
 news-daluku.cc
 newsinformer.net
 nordvpnhosting.com
-octonew.me
 offerpage.link
 offersearch.info
 pandaautumna.xyz
@@ -207,7 +207,6 @@ pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
-pandaspringa.xyz
 pandaspringb.xyz
 pandaspringc.xyz
 pandaspringd.xyz
@@ -260,7 +259,6 @@ premium-news-for.me
 premium-shops-around.me
 press-news-for.me
 producthunter.club
-profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -386,4 +384,3 @@ wildermanrolfson.icu
 worldtechguide.net
 zalando-prive.es
 zergnet.net
-zeusmedia.info
