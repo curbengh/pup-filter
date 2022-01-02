@@ -33,6 +33,8 @@ Import the following URL into uBO to subscribe:
 
 - https://curben.gitlab.io/malware-filter/pup-filter.txt
 
+_included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/releases/tag/1.39.0); to enable, head to "Filter lists" tab, expand "Malware domains" section and tick "PUP URL Blocklist"._
+
 <details>
 <summary>Mirrors</summary>
 
