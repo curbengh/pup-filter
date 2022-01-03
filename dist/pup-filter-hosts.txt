@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 Jan 2022 00:02:39 +0000
+# Updated: Mon, 03 Jan 2022 12:02:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
-0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -75,7 +74,6 @@
 0.0.0.0 dutycalls.shop
 0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-coast.xyz
-0.0.0.0 enjoy-sea.xyz
 0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
@@ -258,6 +256,7 @@
 0.0.0.0 premium-news-for.me
 0.0.0.0 press-news-for.me
 0.0.0.0 producthunter.club
+0.0.0.0 profitablesurvey.site
 0.0.0.0 promotionclaim.rest
 0.0.0.0 protect-ios.com
 0.0.0.0 qfind.net
@@ -269,7 +268,6 @@
 0.0.0.0 restorerefinedsuperthefile.vip
 0.0.0.0 restoresuperspeedythefile.vip
 0.0.0.0 rewardgivingrealspecialoffer.cyou
-0.0.0.0 richsurvey.live
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
@@ -316,8 +314,8 @@
 0.0.0.0 syncrecentintenselythefile.vip
 0.0.0.0 syssysupdate.top
 0.0.0.0 taboo.news
-0.0.0.0 taboola.blog
 0.0.0.0 techandgadgets.net
+0.0.0.0 test.test
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz

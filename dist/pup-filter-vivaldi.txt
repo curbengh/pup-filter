@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Mon, 03 Jan 2022 00:02:39 +0000
+! Updated: Mon, 03 Jan 2022 12:02:22 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 ||aphicus.xyz$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
-||arre.work$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
 ||axisradio.ca$document
@@ -75,7 +74,6 @@
 ||dutycalls.shop$document
 ||enjoy-asteroid.xyz$document
 ||enjoy-coast.xyz$document
-||enjoy-sea.xyz$document
 ||enjoy-star.xyz$document
 ||enjoy1mountain.xyz$document
 ||enjoy1ocean.xyz$document
@@ -258,6 +256,7 @@
 ||premium-news-for.me$document
 ||press-news-for.me$document
 ||producthunter.club$document
+||profitablesurvey.site$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
@@ -269,7 +268,6 @@
 ||restorerefinedsuperthefile.vip$document
 ||restoresuperspeedythefile.vip$document
 ||rewardgivingrealspecialoffer.cyou$document
-||richsurvey.live$document
 ||robogarden.io$document
 ||runadvanced-bestgreatlyfile.best$document
 ||rungreatly-bestadvancedfile.best$document
@@ -316,8 +314,8 @@
 ||syncrecentintenselythefile.vip$document
 ||syssysupdate.top$document
 ||taboo.news$document
-||taboola.blog$document
 ||techandgadgets.net$document
+||test.test$document
 ||thanksyoursupport.club$document
 ||the-crater.xyz$document
 ||the-sky.xyz$document

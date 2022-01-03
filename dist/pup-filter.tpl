@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 Jan 2022 00:02:39 +0000
+# Updated: Mon, 03 Jan 2022 12:02:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,7 +18,6 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
--d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -78,7 +77,6 @@ msFilterList
 -d dutycalls.shop
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
--d enjoy-sea.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -261,6 +259,7 @@ msFilterList
 -d premium-news-for.me
 -d press-news-for.me
 -d producthunter.club
+-d profitablesurvey.site
 -d promotionclaim.rest
 -d protect-ios.com
 -d qfind.net
@@ -272,7 +271,6 @@ msFilterList
 -d restorerefinedsuperthefile.vip
 -d restoresuperspeedythefile.vip
 -d rewardgivingrealspecialoffer.cyou
--d richsurvey.live
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
@@ -319,8 +317,8 @@ msFilterList
 -d syncrecentintenselythefile.vip
 -d syssysupdate.top
 -d taboo.news
--d taboola.blog
 -d techandgadgets.net
+-d test.test
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz

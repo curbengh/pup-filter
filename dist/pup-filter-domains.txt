@@ -1,6 +1,6 @@
 # Title: PUP Domains Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 Jan 2022 00:02:39 +0000
+# Updated: Mon, 03 Jan 2022 12:02:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
-arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -75,7 +74,6 @@ dpakweoz.info
 dutycalls.shop
 enjoy-asteroid.xyz
 enjoy-coast.xyz
-enjoy-sea.xyz
 enjoy-star.xyz
 enjoy1mountain.xyz
 enjoy1ocean.xyz
@@ -258,6 +256,7 @@ playwinterf.xyz
 premium-news-for.me
 press-news-for.me
 producthunter.club
+profitablesurvey.site
 promotionclaim.rest
 protect-ios.com
 qfind.net
@@ -269,7 +268,6 @@ rehab-centers-here-now.site
 restorerefinedsuperthefile.vip
 restoresuperspeedythefile.vip
 rewardgivingrealspecialoffer.cyou
-richsurvey.live
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
@@ -316,8 +314,8 @@ syncnewestmostthefile.vip
 syncrecentintenselythefile.vip
 syssysupdate.top
 taboo.news
-taboola.blog
 techandgadgets.net
+test.test
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
