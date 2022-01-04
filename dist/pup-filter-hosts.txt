@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Mon, 03 Jan 2022 12:02:22 +0000
+# Updated: Tue, 04 Jan 2022 00:03:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -307,6 +307,7 @@
 0.0.0.0 streampreciseintenselythefile.vip
 0.0.0.0 streamspeedyintenselythefile.vip
 0.0.0.0 subeamy.pw
+0.0.0.0 surprisinglysimple.co
 0.0.0.0 sweetalt.ru
 0.0.0.0 sweetgirls.buzz
 0.0.0.0 synccurrentmostthefile.vip
