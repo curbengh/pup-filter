@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Tue, 04 Jan 2022 00:03:06 +0000
+! Updated: Tue, 04 Jan 2022 12:03:47 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 ||aphicus.xyz$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
+||arre.work$all
 ||auto-car-search.site$all
 ||auto-insurance-search.site$all
 ||axisradio.ca$all
@@ -74,6 +75,7 @@
 ||dutycalls.shop$all
 ||enjoy-asteroid.xyz$all
 ||enjoy-coast.xyz$all
+||enjoy-sea.xyz$all
 ||enjoy-star.xyz$all
 ||enjoy1mountain.xyz$all
 ||enjoy1ocean.xyz$all
@@ -205,6 +207,7 @@
 ||pandaautumnc.xyz$all
 ||pandaautumnd.xyz$all
 ||pandaautumnf.xyz$all
+||pandaspringa.xyz$all
 ||pandaspringb.xyz$all
 ||pandaspringc.xyz$all
 ||pandaspringd.xyz$all
@@ -254,6 +257,7 @@
 ||playwintere.xyz$all
 ||playwinterf.xyz$all
 ||premium-news-for.me$all
+||premium-shops-around.me$all
 ||press-news-for.me$all
 ||producthunter.club$all
 ||profitablesurvey.site$all
@@ -268,6 +272,7 @@
 ||restorerefinedsuperthefile.vip$all
 ||restoresuperspeedythefile.vip$all
 ||rewardgivingrealspecialoffer.cyou$all
+||richsurvey.live$all
 ||robogarden.io$all
 ||runadvanced-bestgreatlyfile.best$all
 ||rungreatly-bestadvancedfile.best$all
@@ -316,7 +321,6 @@
 ||syssysupdate.top$all
 ||taboo.news$all
 ||techandgadgets.net$all
-||test.test$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
 ||the-sky.xyz$all
@@ -348,7 +352,6 @@
 ||updatephoneoffice.club$all
 ||updateview.tech$all
 ||upplaysite.xyz$all
-||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
 ||videochanelace.ru$all
@@ -380,6 +383,7 @@
 ||westasea.xyz$all
 ||westastar.xyz$all
 ||wildermanrolfson.icu$all
+||winnerz.icu$all
 ||worldtechguide.net$all
 ||zalando-prive.es$all
 ||zergnet.net$all

@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 04 Jan 2022 00:03:06 +0000
+# Updated: Tue, 04 Jan 2022 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@
 0.0.0.0 aphicus.xyz
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
+0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -74,6 +75,7 @@
 0.0.0.0 dutycalls.shop
 0.0.0.0 enjoy-asteroid.xyz
 0.0.0.0 enjoy-coast.xyz
+0.0.0.0 enjoy-sea.xyz
 0.0.0.0 enjoy-star.xyz
 0.0.0.0 enjoy1mountain.xyz
 0.0.0.0 enjoy1ocean.xyz
@@ -205,6 +207,7 @@
 0.0.0.0 pandaautumnc.xyz
 0.0.0.0 pandaautumnd.xyz
 0.0.0.0 pandaautumnf.xyz
+0.0.0.0 pandaspringa.xyz
 0.0.0.0 pandaspringb.xyz
 0.0.0.0 pandaspringc.xyz
 0.0.0.0 pandaspringd.xyz
@@ -254,6 +257,7 @@
 0.0.0.0 playwintere.xyz
 0.0.0.0 playwinterf.xyz
 0.0.0.0 premium-news-for.me
+0.0.0.0 premium-shops-around.me
 0.0.0.0 press-news-for.me
 0.0.0.0 producthunter.club
 0.0.0.0 profitablesurvey.site
@@ -268,6 +272,7 @@
 0.0.0.0 restorerefinedsuperthefile.vip
 0.0.0.0 restoresuperspeedythefile.vip
 0.0.0.0 rewardgivingrealspecialoffer.cyou
+0.0.0.0 richsurvey.live
 0.0.0.0 robogarden.io
 0.0.0.0 runadvanced-bestgreatlyfile.best
 0.0.0.0 rungreatly-bestadvancedfile.best
@@ -316,7 +321,6 @@
 0.0.0.0 syssysupdate.top
 0.0.0.0 taboo.news
 0.0.0.0 techandgadgets.net
-0.0.0.0 test.test
 0.0.0.0 thanksyoursupport.club
 0.0.0.0 the-crater.xyz
 0.0.0.0 the-sky.xyz
@@ -348,7 +352,6 @@
 0.0.0.0 updatephoneoffice.club
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
-0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
@@ -380,6 +383,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
+0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 zalando-prive.es
 0.0.0.0 zergnet.net

@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 04 Jan 2022 00:03:06 +0000
+# Updated: Tue, 04 Jan 2022 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -18,6 +18,7 @@ msFilterList
 -d aphicus.xyz
 -d appsto.cloud
 -d appzfirer.biz
+-d arre.work
 -d auto-car-search.site
 -d auto-insurance-search.site
 -d axisradio.ca
@@ -77,6 +78,7 @@ msFilterList
 -d dutycalls.shop
 -d enjoy-asteroid.xyz
 -d enjoy-coast.xyz
+-d enjoy-sea.xyz
 -d enjoy-star.xyz
 -d enjoy1mountain.xyz
 -d enjoy1ocean.xyz
@@ -208,6 +210,7 @@ msFilterList
 -d pandaautumnc.xyz
 -d pandaautumnd.xyz
 -d pandaautumnf.xyz
+-d pandaspringa.xyz
 -d pandaspringb.xyz
 -d pandaspringc.xyz
 -d pandaspringd.xyz
@@ -257,6 +260,7 @@ msFilterList
 -d playwintere.xyz
 -d playwinterf.xyz
 -d premium-news-for.me
+-d premium-shops-around.me
 -d press-news-for.me
 -d producthunter.club
 -d profitablesurvey.site
@@ -271,6 +275,7 @@ msFilterList
 -d restorerefinedsuperthefile.vip
 -d restoresuperspeedythefile.vip
 -d rewardgivingrealspecialoffer.cyou
+-d richsurvey.live
 -d robogarden.io
 -d runadvanced-bestgreatlyfile.best
 -d rungreatly-bestadvancedfile.best
@@ -319,7 +324,6 @@ msFilterList
 -d syssysupdate.top
 -d taboo.news
 -d techandgadgets.net
--d test.test
 -d thanksyoursupport.club
 -d the-crater.xyz
 -d the-sky.xyz
@@ -351,7 +355,6 @@ msFilterList
 -d updatephoneoffice.club
 -d updateview.tech
 -d upplaysite.xyz
--d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
 -d videochanelace.ru
@@ -383,6 +386,7 @@ msFilterList
 -d westasea.xyz
 -d westastar.xyz
 -d wildermanrolfson.icu
+-d winnerz.icu
 -d worldtechguide.net
 -d zalando-prive.es
 -d zergnet.net

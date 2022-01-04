@@ -1,6 +1,6 @@
 # Title: PUP Names Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Tue, 04 Jan 2022 00:03:06 +0000
+# Updated: Tue, 04 Jan 2022 12:03:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -15,6 +15,7 @@ android-web.live
 aphicus.xyz
 appsto.cloud
 appzfirer.biz
+arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -74,6 +75,7 @@ dpakweoz.info
 dutycalls.shop
 enjoy-asteroid.xyz
 enjoy-coast.xyz
+enjoy-sea.xyz
 enjoy-star.xyz
 enjoy1mountain.xyz
 enjoy1ocean.xyz
@@ -205,6 +207,7 @@ pandaautumnb.xyz
 pandaautumnc.xyz
 pandaautumnd.xyz
 pandaautumnf.xyz
+pandaspringa.xyz
 pandaspringb.xyz
 pandaspringc.xyz
 pandaspringd.xyz
@@ -254,6 +257,7 @@ playwinterd.xyz
 playwintere.xyz
 playwinterf.xyz
 premium-news-for.me
+premium-shops-around.me
 press-news-for.me
 producthunter.club
 profitablesurvey.site
@@ -268,6 +272,7 @@ rehab-centers-here-now.site
 restorerefinedsuperthefile.vip
 restoresuperspeedythefile.vip
 rewardgivingrealspecialoffer.cyou
+richsurvey.live
 robogarden.io
 runadvanced-bestgreatlyfile.best
 rungreatly-bestadvancedfile.best
@@ -316,7 +321,6 @@ syncrecentintenselythefile.vip
 syssysupdate.top
 taboo.news
 techandgadgets.net
-test.test
 thanksyoursupport.club
 the-crater.xyz
 the-sky.xyz
@@ -348,7 +352,6 @@ truecompassion.net
 updatephoneoffice.club
 updateview.tech
 upplaysite.xyz
-usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru
@@ -380,6 +383,7 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
+winnerz.icu
 worldtechguide.net
 zalando-prive.es
 zergnet.net
