@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (Vivaldi)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Wed, 05 Jan 2022 00:04:00 +0000
+! Updated: Wed, 05 Jan 2022 12:02:50 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -15,7 +15,6 @@
 ||aphicus.xyz$document
 ||appsto.cloud$document
 ||appzfirer.biz$document
-||arre.work$document
 ||auto-car-search.site$document
 ||auto-insurance-search.site$document
 ||axisradio.ca$document
@@ -52,7 +51,6 @@
 ||chatverse.net$document
 ||chipovysta.pro$document
 ||claimrewards.rest$document
-||clickon.buzz$document
 ||conndickens.icu$document
 ||connecttheupgradingurls.work$document
 ||consumerprotectioncybersecurity.org$document
@@ -202,6 +200,7 @@
 ||nordvpnhosting.com$document
 ||offerpage.link$document
 ||offersearch.info$document
+||paint-lion-history-loud.xyz$document
 ||pandaautumna.xyz$document
 ||pandaautumnb.xyz$document
 ||pandaautumnc.xyz$document
@@ -261,6 +260,7 @@
 ||press-news-for.me$document
 ||producthunter.club$document
 ||profitablesurvey.site$document
+||profitsurvey.live$document
 ||promotionclaim.rest$document
 ||protect-ios.com$document
 ||qfind.net$document
