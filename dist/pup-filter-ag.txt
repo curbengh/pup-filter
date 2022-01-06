@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Thu, 06 Jan 2022 00:02:58 +0000
+! Updated: Thu, 06 Jan 2022 12:02:57 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -13,6 +13,7 @@
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
+||app-track.club$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||auto-car-search.site$all
@@ -198,6 +199,7 @@
 ||news-daluku.cc$all
 ||newsinformer.net$all
 ||nordvpnhosting.com$all
+||octonew.me$all
 ||offerpage.link$all
 ||offersearch.info$all
 ||paint-lion-history-loud.xyz$all
@@ -320,6 +322,7 @@
 ||syncrecentintenselythefile.vip$all
 ||syssysupdate.top$all
 ||taboo.news$all
+||taboola.blog$all
 ||techandgadgets.net$all
 ||thanksyoursupport.club$all
 ||the-crater.xyz$all
@@ -383,7 +386,7 @@
 ||westasea.xyz$all
 ||westastar.xyz$all
 ||wildermanrolfson.icu$all
-||winnerz.icu$all
 ||worldtechguide.net$all
 ||zalando-prive.es$all
 ||zergnet.net$all
+||zeusmedia.info$all
