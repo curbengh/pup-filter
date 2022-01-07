@@ -1,6 +1,6 @@
 # Title: PUP Hosts Blocklist
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 07 Jan 2022 00:03:15 +0000
+# Updated: Fri, 07 Jan 2022 12:02:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@
 0.0.0.0 app-track.club
 0.0.0.0 appsto.cloud
 0.0.0.0 appzfirer.biz
+0.0.0.0 arre.work
 0.0.0.0 auto-car-search.site
 0.0.0.0 auto-insurance-search.site
 0.0.0.0 axisradio.ca
@@ -138,7 +139,6 @@
 0.0.0.0 installrecentoverlythefile.vip
 0.0.0.0 installstronghighlythefile.vip
 0.0.0.0 intelectaction.ru
-0.0.0.0 investinfo.net
 0.0.0.0 ipaint.us
 0.0.0.0 ironprovpn.me
 0.0.0.0 it-is.cool
@@ -355,6 +355,7 @@
 0.0.0.0 updatephoneoffice.club
 0.0.0.0 updateview.tech
 0.0.0.0 upplaysite.xyz
+0.0.0.0 usforeclosure.net
 0.0.0.0 videoau.ru
 0.0.0.0 videoauthor.ru
 0.0.0.0 videochanelace.ru
@@ -386,6 +387,7 @@
 0.0.0.0 westasea.xyz
 0.0.0.0 westastar.xyz
 0.0.0.0 wildermanrolfson.icu
+0.0.0.0 winnerz.icu
 0.0.0.0 worldtechguide.net
 0.0.0.0 zalando-prive.es
 0.0.0.0 zergnet.net

@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 Jan 2022 00:03:15 +0000
+! Updated: Fri, 07 Jan 2022 12:02:42 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -16,6 +16,7 @@ aphicus.xyz
 app-track.club
 appsto.cloud
 appzfirer.biz
+arre.work
 auto-car-search.site
 auto-insurance-search.site
 axisradio.ca
@@ -138,7 +139,6 @@ installprogressiveintenselythefile.vip
 installrecentoverlythefile.vip
 installstronghighlythefile.vip
 intelectaction.ru
-investinfo.net
 ipaint.us
 ironprovpn.me
 it-is.cool
@@ -355,6 +355,7 @@ truecompassion.net
 updatephoneoffice.club
 updateview.tech
 upplaysite.xyz
+usforeclosure.net
 videoau.ru
 videoauthor.ru
 videochanelace.ru
@@ -386,6 +387,7 @@ westaplanet.xyz
 westasea.xyz
 westastar.xyz
 wildermanrolfson.icu
+winnerz.icu
 worldtechguide.net
 zalando-prive.es
 zergnet.net
