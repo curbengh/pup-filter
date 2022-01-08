@@ -1,5 +1,7 @@
 # PUP Domains Blocklist
 
+> Edit 2021/01/08: All mirrors' links have been updated. The main download link "curben.gitlab.io/malware-filter/" _is not affected_.
+
 A blocklist of domains that host potentially unwanted programs (PUP), based on the [malware-discoverer](https://github.com/zhouhanc/malware-discoverer). Blocklist is updated twice a day.
 
 There are multiple formats available, refer to the appropriate section according to the program used:
@@ -38,12 +40,7 @@ _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/release
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/phishing-filter/master/dist/pup-filter.txt
-- https://glcdn.githack.com/curben/phishing-filter/raw/master/dist/pup-filter.txt
-- https://raw.githubusercontent.com/curbengh/phishing-filter/master/dist/pup-filter.txt
-- https://cdn.statically.io/gh/curbengh/phishing-filter/master/dist/pup-filter.txt
-- https://gitcdn.xyz/repo/curbengh/phishing-filter/master/dist/pup-filter.txt
-- https://cdn.jsdelivr.net/gh/curbengh/phishing-filter/dist/pup-filter.txt
+- https://curben.gitlab.io/pup-filter/pup-filter.txt
 
 </details>
 
@@ -56,12 +53,7 @@ Import the following URL into AdGuard browser extension to subscribe:
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/phishing-filter/master/dist/pup-filter-ag.txt
-- https://glcdn.githack.com/curben/phishing-filter/raw/master/dist/pup-filter-ag.txt
-- https://raw.githubusercontent.com/curbengh/phishing-filter/master/dist/pup-filter-ag.txt
-- https://cdn.statically.io/gh/curbengh/phishing-filter/master/dist/pup-filter-ag.txt
-- https://gitcdn.xyz/repo/curbengh/phishing-filter/master/dist/pup-filter-ag.txt
-- https://cdn.jsdelivr.net/gh/curbengh/phishing-filter/dist/pup-filter-ag.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-ag.txt
 
 </details>
 
@@ -76,12 +68,7 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-vivaldi.txt
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-vivaldi.txt
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-vivaldi.txt
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-vivaldi.txt
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-vivaldi.txt
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-vivaldi.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-vivaldi.txt
 
 </details>
 
@@ -94,12 +81,7 @@ This blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-domains.txt
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-domains.txt
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-domains.txt
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-domains.txt
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-domains.txt
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-domains.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-domains.txt
 
 </details>
 
@@ -112,12 +94,7 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-agh.txt
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-agh.txt
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-agh.txt
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-agh.txt
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-agh.txt
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/pup-filter-agh.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-agh.txt
 
 </details>
 
@@ -130,12 +107,7 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-hosts.txt
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-hosts.txt
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-hosts.txt
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-hosts.txt
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-hosts.txt
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-hosts.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-hosts.txt
 
 </details>
 
@@ -164,12 +136,7 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf\n" >> /etc/dn
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-dnsmasq.conf
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-dnsmasq.conf
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-dnsmasq.conf
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-dnsmasq.conf
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-dnsmasq.conf
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-dnsmasq.conf
+- https://curben.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
 
 </details>
 
@@ -216,12 +183,7 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-bind.conf
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-bind.conf
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-bind.conf
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-bind.conf
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-bind.conf
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-bind.conf
+- https://curben.gitlab.io/pup-filter/pup-filter-bind.conf
 
 </details>
 
@@ -234,12 +196,7 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-rpz.conf
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-rpz.conf
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-rpz.conf
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-rpz.conf
+- https://curben.gitlab.io/pup-filter/pup-filter-rpz.conf
 
 </details>
 
@@ -268,12 +225,7 @@ printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-unbound.conf
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-unbound.conf
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-unbound.conf
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-unbound.conf
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-unbound.conf
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-unbound.conf
+- https://curben.gitlab.io/pup-filter/pup-filter-unbound.conf
 
 </details>
 
@@ -304,12 +256,8 @@ Configure dnscrypt-proxy to use the blocklist:
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-dnscrypt-blocked-names.txt
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-dnscrypt-blocked-names.txt
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-dnscrypt-blocked-names.txt
+- https://curben.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
+
 </details>
 
 ## Tracking Protection List (IE)
@@ -321,12 +269,7 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter.tpl
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter.tpl
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter.tpl
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter.tpl
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter.tpl
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter.tpl
+- https://curben.gitlab.io/pup-filter/pup-filter.tpl
 
 </details>
 
@@ -355,12 +298,7 @@ printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.con
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-snort2.rules
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-snort2.rules
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-snort2.rules
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-snort2.rules
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-snort2.rules
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-snort2.rules
+- https://curben.gitlab.io/pup-filter/pup-filter-snort2.rules
 
 </details>
 
@@ -397,12 +335,7 @@ ips =
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-snort3.rules
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-snort3.rules
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-snort3.rules
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-snort3.rules
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-snort3.rules
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-snort3.rules
+- https://curben.gitlab.io/pup-filter/pup-filter-snort3.rules
 
 </details>
 
@@ -437,12 +370,7 @@ rule-files:
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/pup-filter/master/dist/pup-filter-suricata.rules
-- https://glcdn.githack.com/curben/pup-filter/raw/master/dist/pup-filter-suricata.rules
-- https://raw.githubusercontent.com/curbengh/pup-filter/master/dist/pup-filter-suricata.rules
-- https://cdn.statically.io/gh/curbengh/pup-filter/master/dist/pup-filter-suricata.rules
-- https://gitcdn.xyz/repo/curbengh/pup-filter/master/dist/pup-filter-suricata.rules
-- https://cdn.jsdelivr.net/gh/curbengh/pup-filter/dist/pup-filter-suricata.rules
+- https://curben.gitlab.io/pup-filter/pup-filter-suricata.rules
 
 </details>
 
@@ -468,11 +396,9 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 [src/](src/): [CC0](LICENSE.md)
 
-[dist/](dist/): Derived from [malware-discoverer](https://github.com/zhouhanc/malware-discoverer) with [Zhouhan Chen](https://zhouhanc.com/)'s permission
+filters: Derived from [malware-discoverer](https://github.com/zhouhanc/malware-discoverer) with [Zhouhan Chen](https://zhouhanc.com/)'s permission
 
 [malware-discoverer](https://github.com/zhouhanc/malware-discoverer): All rights reserved by [Zhouhan Chen](https://zhouhanc.com/)
-
-[badge.sh](src/badge.sh) & [.gitlab/](.gitlab/) contain badges that are licensed by [Shields.io](https://shields.io) under [CC0 1.0](LICENSE.md)
 
 [Tranco List](https://tranco-list.eu/): MIT License
 

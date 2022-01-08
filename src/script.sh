@@ -74,10 +74,11 @@ FIFTH_LINE="! License: https://gitlab.com/curben/pup-filter#license"
 SIXTH_LINE="! Source: https://github.com/zhouhanc/malware-discoverer"
 COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
+mkdir -p "../public/"
 
 cat "pup-notop-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_UBO"'' > "../dist/pup-filter.txt"
+sed '1 i\'"$COMMENT_UBO"'' > "../public/pup-filter.txt"
 
 
 # Adguard Home
@@ -85,7 +86,7 @@ cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/^/g" | \
 sed '1 i\'"$COMMENT_UBO"'' | \
-sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../dist/pup-filter-agh.txt"
+sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../public/pup-filter-agh.txt"
 
 
 # Adguard browser extension
@@ -93,7 +94,7 @@ cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/\$all/g" | \
 sed '1 i\'"$COMMENT_UBO"'' | \
-sed "1s/Blocklist/Blocklist (AdGuard)/" > "../dist/pup-filter-ag.txt"
+sed "1s/Blocklist/Blocklist (AdGuard)/" > "../public/pup-filter-ag.txt"
 
 
 # Vivaldi
@@ -101,7 +102,7 @@ cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/\$document/g" | \
 sed '1 i\'"$COMMENT_UBO"'' | \
-sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../dist/pup-filter-vivaldi.txt"
+sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../public/pup-filter-vivaldi.txt"
 
 
 ## Hash comment
@@ -110,14 +111,14 @@ COMMENT=$(printf "$COMMENT_UBO" | sed "s/^!/#/g" | awk '{printf "%s\\n", $0}' | 
 
 cat "pup-notop-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' > "../dist/pup-filter-domains.txt"
+sed '1 i\'"$COMMENT"'' > "../public/pup-filter-domains.txt"
 
 
 ## Hosts file blocklist
 cat "pup-notop-domains.txt" | \
 sed "s/^/0.0.0.0 /g" | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Domains/Hosts/" > "../dist/pup-filter-hosts.txt"
+sed "1s/Domains/Hosts/" > "../public/pup-filter-hosts.txt"
 
 
 ## Dnsmasq-compatible blocklist
@@ -125,7 +126,7 @@ cat "pup-notop-domains.txt" | \
 sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Blocklist/dnsmasq Blocklist/" > "../dist/pup-filter-dnsmasq.conf"
+sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/pup-filter-dnsmasq.conf"
 
 
 ## BIND-compatible blocklist
@@ -133,7 +134,7 @@ cat "pup-notop-domains.txt" | \
 sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Blocklist/BIND Blocklist/" > "../dist/pup-filter-bind.conf"
+sed "1s/Blocklist/BIND Blocklist/" > "../public/pup-filter-bind.conf"
 
 
 ## DNS Response Policy Zone (RPZ)
@@ -145,7 +146,7 @@ sed "s/$/ CNAME ./g" | \
 sed '1 i\'"$RPZ_SYNTAX"'' | \
 sed '1 i\'"$COMMENT"'' | \
 sed "s/^#/;/g" | \
-sed "1s/Blocklist/RPZ Blocklist/" > "../dist/pup-filter-rpz.conf"
+sed "1s/Blocklist/RPZ Blocklist/" > "../public/pup-filter-rpz.conf"
 
 
 ## Unbound-compatible blocklist
@@ -153,14 +154,14 @@ cat "pup-notop-domains.txt" | \
 sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Blocklist/Unbound Blocklist/" > "../dist/pup-filter-unbound.conf"
+sed "1s/Blocklist/Unbound Blocklist/" > "../public/pup-filter-unbound.conf"
 
 
 ## dnscrypt-proxy blocklists
 # name-based
 cat "pup-notop-domains.txt" | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Domains/Names/" > "../dist/pup-filter-dnscrypt-blocked-names.txt"
+sed "1s/Domains/Names/" > "../public/pup-filter-dnscrypt-blocked-names.txt"
 
 ## Currently there are no IP entries
 # # IPv4-based
@@ -168,7 +169,7 @@ sed "1s/Domains/Names/" > "../dist/pup-filter-dnscrypt-blocked-names.txt"
 # sort | \
 # grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
 # sed '1 i\'"$COMMENT"'' | \
-# sed "1s/Domains/IPs/" > "../dist/phishing-filter-dnscrypt-blocked-ips.txt"
+# sed "1s/Domains/IPs/" > "../public/phishing-filter-dnscrypt-blocked-ips.txt"
 
 
 ## IE blocklist
@@ -177,15 +178,15 @@ COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 cat "pup-notop-domains.txt" | \
 sed "s/^/-d /g" | \
 sed '1 i\'"$COMMENT_IE"'' | \
-sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../dist/pup-filter.tpl"
+sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/pup-filter.tpl"
 
 
 set +x
 
 ## Snort & Suricata rulesets
-rm -f "../dist/pup-filter-snort2.rules" \
-  "../dist/pup-filter-snort3.rules" \
-  "../dist/pup-filter-suricata.rules"
+rm -f "../public/pup-filter-snort2.rules" \
+  "../public/pup-filter-snort3.rules" \
+  "../public/pup-filter-suricata.rules"
 
 SID="300000001"
 while read DOMAIN; do
@@ -195,9 +196,9 @@ while read DOMAIN; do
 
   SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"pup-filter PUP website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.host; content:\"$DOMAIN\"; classtype:web-application-activity; sid:$SID; rev:1;)"
 
-  echo "$SN_RULE" >> "../dist/pup-filter-snort2.rules"
-  echo "$SN3_RULE" >> "../dist/pup-filter-snort3.rules"
-  echo "$SR_RULE" >> "../dist/pup-filter-suricata.rules"
+  echo "$SN_RULE" >> "../public/pup-filter-snort2.rules"
+  echo "$SN3_RULE" >> "../public/pup-filter-snort3.rules"
+  echo "$SR_RULE" >> "../public/pup-filter-suricata.rules"
 
   SID=$(( $SID + 1 ))
 done < "pup-notop-domains.txt"
@@ -205,14 +206,14 @@ done < "pup-notop-domains.txt"
 
 set -x
 
-sed -i '1 i\'"$COMMENT"'' "../dist/pup-filter-snort2.rules"
-sed -i "1s/Blocklist/Snort2 Ruleset/" "../dist/pup-filter-snort2.rules"
+sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-snort2.rules"
+sed -i "1s/Blocklist/Snort2 Ruleset/" "../public/pup-filter-snort2.rules"
 
-sed -i '1 i\'"$COMMENT"'' "../dist/pup-filter-snort3.rules"
-sed -i "1s/Blocklist/Snort3 Ruleset/" "../dist/pup-filter-snort3.rules"
+sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-snort3.rules"
+sed -i "1s/Blocklist/Snort3 Ruleset/" "../public/pup-filter-snort3.rules"
 
-sed -i '1 i\'"$COMMENT"'' "../dist/pup-filter-suricata.rules"
-sed -i "1s/Blocklist/Suricata Ruleset/" "../dist/pup-filter-suricata.rules"
+sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-suricata.rules"
+sed -i "1s/Blocklist/Suricata Ruleset/" "../public/pup-filter-suricata.rules"
 
 
 ## Clean up artifacts
