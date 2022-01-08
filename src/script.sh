@@ -72,7 +72,9 @@ THIRD_LINE="! Expires: 1 day (update frequency)"
 FOURTH_LINE="! Homepage: https://gitlab.com/curben/pup-filter"
 FIFTH_LINE="! License: https://gitlab.com/curben/pup-filter#license"
 SIXTH_LINE="! Source: https://github.com/zhouhanc/malware-discoverer"
-COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
+ANNOUNCEMENT_1="\n! 2021/01/08: There has been a major change to the mirrors, check the repo for the new mirrors."
+ANNOUNCEMENT_2="! The main download link \"curben.gitlab.io/malware-filter/\" _is not affected_."
+COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE\n$ANNOUNCEMENT_1\n$ANNOUNCEMENT_2"
 
 mkdir -p "../public/"
 
