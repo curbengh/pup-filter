@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 Jan 2022 12:02:42 +0000
+! Updated: Sat, 08 Jan 2022 00:02:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,10 +10,10 @@
 ||adverify.me$all
 ||aikoo.club$all
 ||am-harder-stock-corn.xyz$all
+||amobil.online$all
 ||android-browser.live$all
 ||android-web.live$all
 ||aphicus.xyz$all
-||app-track.club$all
 ||appsto.cloud$all
 ||appzfirer.biz$all
 ||arre.work$all
@@ -53,12 +53,10 @@
 ||chatverse.net$all
 ||chipovysta.pro$all
 ||claimrewards.rest$all
+||coatofarms.nyc$all
 ||conndickens.icu$all
 ||connecttheupgradingurls.work$all
 ||consumerprotectioncybersecurity.org$all
-||contentamigo.ru$all
-||contentarea.ru$all
-||cooltech.blog$all
 ||country-news.live$all
 ||craftstash.us$all
 ||crazyprize.buzz$all
@@ -105,7 +103,6 @@
 ||foundnow.net$all
 ||funspine.xyz$all
 ||galaxywin.xyz$all
-||gamerdigest.org$all
 ||getbitly.pro$all
 ||getvideoabc.ru$all
 ||getvideoall.ru$all
@@ -138,9 +135,7 @@
 ||installprogressiveintenselythefile.vip$all
 ||installrecentoverlythefile.vip$all
 ||installstronghighlythefile.vip$all
-||intelectaction.ru$all
 ||ipaint.us$all
-||ironprovpn.me$all
 ||it-is.cool$all
 ||joyspotmap.xyz$all
 ||juicydataadvance.ru$all
@@ -169,9 +164,7 @@
 ||koalawinterc.xyz$all
 ||koalawinterd.xyz$all
 ||koalawintere.xyz$all
-||lackystack.net$all
 ||link4updatingcentral.work$all
-||listenthisso.top$all
 ||lltrsknoob.click$all
 ||louisvillegigs.net$all
 ||lubbockeda.org$all
@@ -180,7 +173,6 @@
 ||makingbettermoney.co$all
 ||marketloans.net$all
 ||mazestation.games$all
-||mindmatch.ai$all
 ||mistvideo.ru$all
 ||mobi1crater.xyz$all
 ||mobi1mountain.xyz$all
@@ -291,7 +283,6 @@
 ||shopin.nyc$all
 ||shopnsave.world$all
 ||sightcottonreply.top$all
-||smartideas.pro$all
 ||smartuv.shop$all
 ||software-dealz.de$all
 ||sonic-ocean.xyz$all
@@ -343,18 +334,16 @@
 ||theavolcano.xyz$all
 ||theconnectvpn.com$all
 ||thedealexpert.net$all
-||theirproviderock.top$all
 ||thelastpicture.show$all
 ||timefornews.online$all
 ||to-an-us-dental-implants-well.live$all
 ||to-us-dental-implants-wiki.live$all
-||top-offers2.club$all
 ||topdating.online$all
 ||trotineo.fr$all
 ||truecompassion.net$all
+||truly-diet.store$all
 ||updatephoneoffice.club$all
 ||updateview.tech$all
-||upplaysite.xyz$all
 ||usforeclosure.net$all
 ||videoau.ru$all
 ||videoauthor.ru$all
@@ -389,6 +378,8 @@
 ||wildermanrolfson.icu$all
 ||winnerz.icu$all
 ||worldtechguide.net$all
+||your-magazine.me$all
 ||zalando-prive.es$all
 ||zergnet.net$all
+||zerovideo.ru$all
 ||zeusmedia.info$all

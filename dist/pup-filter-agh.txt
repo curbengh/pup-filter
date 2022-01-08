@@ -1,6 +1,6 @@
 ! Title: PUP Domains Blocklist (AdGuard Home)
 ! Description: Block domains that host potentially unwanted programs (PUP)
-! Updated: Fri, 07 Jan 2022 12:02:42 +0000
+! Updated: Sat, 08 Jan 2022 00:02:28 +0000
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/curben/pup-filter
 ! License: https://gitlab.com/curben/pup-filter#license
@@ -10,10 +10,10 @@
 ||adverify.me^
 ||aikoo.club^
 ||am-harder-stock-corn.xyz^
+||amobil.online^
 ||android-browser.live^
 ||android-web.live^
 ||aphicus.xyz^
-||app-track.club^
 ||appsto.cloud^
 ||appzfirer.biz^
 ||arre.work^
@@ -53,12 +53,10 @@
 ||chatverse.net^
 ||chipovysta.pro^
 ||claimrewards.rest^
+||coatofarms.nyc^
 ||conndickens.icu^
 ||connecttheupgradingurls.work^
 ||consumerprotectioncybersecurity.org^
-||contentamigo.ru^
-||contentarea.ru^
-||cooltech.blog^
 ||country-news.live^
 ||craftstash.us^
 ||crazyprize.buzz^
@@ -105,7 +103,6 @@
 ||foundnow.net^
 ||funspine.xyz^
 ||galaxywin.xyz^
-||gamerdigest.org^
 ||getbitly.pro^
 ||getvideoabc.ru^
 ||getvideoall.ru^
@@ -138,9 +135,7 @@
 ||installprogressiveintenselythefile.vip^
 ||installrecentoverlythefile.vip^
 ||installstronghighlythefile.vip^
-||intelectaction.ru^
 ||ipaint.us^
-||ironprovpn.me^
 ||it-is.cool^
 ||joyspotmap.xyz^
 ||juicydataadvance.ru^
@@ -169,9 +164,7 @@
 ||koalawinterc.xyz^
 ||koalawinterd.xyz^
 ||koalawintere.xyz^
-||lackystack.net^
 ||link4updatingcentral.work^
-||listenthisso.top^
 ||lltrsknoob.click^
 ||louisvillegigs.net^
 ||lubbockeda.org^
@@ -180,7 +173,6 @@
 ||makingbettermoney.co^
 ||marketloans.net^
 ||mazestation.games^
-||mindmatch.ai^
 ||mistvideo.ru^
 ||mobi1crater.xyz^
 ||mobi1mountain.xyz^
@@ -291,7 +283,6 @@
 ||shopin.nyc^
 ||shopnsave.world^
 ||sightcottonreply.top^
-||smartideas.pro^
 ||smartuv.shop^
 ||software-dealz.de^
 ||sonic-ocean.xyz^
@@ -343,18 +334,16 @@
 ||theavolcano.xyz^
 ||theconnectvpn.com^
 ||thedealexpert.net^
-||theirproviderock.top^
 ||thelastpicture.show^
 ||timefornews.online^
 ||to-an-us-dental-implants-well.live^
 ||to-us-dental-implants-wiki.live^
-||top-offers2.club^
 ||topdating.online^
 ||trotineo.fr^
 ||truecompassion.net^
+||truly-diet.store^
 ||updatephoneoffice.club^
 ||updateview.tech^
-||upplaysite.xyz^
 ||usforeclosure.net^
 ||videoau.ru^
 ||videoauthor.ru^
@@ -389,6 +378,8 @@
 ||wildermanrolfson.icu^
 ||winnerz.icu^
 ||worldtechguide.net^
+||your-magazine.me^
 ||zalando-prive.es^
 ||zergnet.net^
+||zerovideo.ru^
 ||zeusmedia.info^

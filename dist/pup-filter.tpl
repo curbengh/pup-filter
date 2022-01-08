@@ -1,7 +1,7 @@
 msFilterList
 # Title: PUP Hosts Blocklist (IE)
 # Description: Block domains that host potentially unwanted programs (PUP)
-# Updated: Fri, 07 Jan 2022 12:02:42 +0000
+# Updated: Sat, 08 Jan 2022 00:02:28 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/pup-filter
 # License: https://gitlab.com/curben/pup-filter#license
@@ -13,10 +13,10 @@ msFilterList
 -d adverify.me
 -d aikoo.club
 -d am-harder-stock-corn.xyz
+-d amobil.online
 -d android-browser.live
 -d android-web.live
 -d aphicus.xyz
--d app-track.club
 -d appsto.cloud
 -d appzfirer.biz
 -d arre.work
@@ -56,12 +56,10 @@ msFilterList
 -d chatverse.net
 -d chipovysta.pro
 -d claimrewards.rest
+-d coatofarms.nyc
 -d conndickens.icu
 -d connecttheupgradingurls.work
 -d consumerprotectioncybersecurity.org
--d contentamigo.ru
--d contentarea.ru
--d cooltech.blog
 -d country-news.live
 -d craftstash.us
 -d crazyprize.buzz
@@ -108,7 +106,6 @@ msFilterList
 -d foundnow.net
 -d funspine.xyz
 -d galaxywin.xyz
--d gamerdigest.org
 -d getbitly.pro
 -d getvideoabc.ru
 -d getvideoall.ru
@@ -141,9 +138,7 @@ msFilterList
 -d installprogressiveintenselythefile.vip
 -d installrecentoverlythefile.vip
 -d installstronghighlythefile.vip
--d intelectaction.ru
 -d ipaint.us
--d ironprovpn.me
 -d it-is.cool
 -d joyspotmap.xyz
 -d juicydataadvance.ru
@@ -172,9 +167,7 @@ msFilterList
 -d koalawinterc.xyz
 -d koalawinterd.xyz
 -d koalawintere.xyz
--d lackystack.net
 -d link4updatingcentral.work
--d listenthisso.top
 -d lltrsknoob.click
 -d louisvillegigs.net
 -d lubbockeda.org
@@ -183,7 +176,6 @@ msFilterList
 -d makingbettermoney.co
 -d marketloans.net
 -d mazestation.games
--d mindmatch.ai
 -d mistvideo.ru
 -d mobi1crater.xyz
 -d mobi1mountain.xyz
@@ -294,7 +286,6 @@ msFilterList
 -d shopin.nyc
 -d shopnsave.world
 -d sightcottonreply.top
--d smartideas.pro
 -d smartuv.shop
 -d software-dealz.de
 -d sonic-ocean.xyz
@@ -346,18 +337,16 @@ msFilterList
 -d theavolcano.xyz
 -d theconnectvpn.com
 -d thedealexpert.net
--d theirproviderock.top
 -d thelastpicture.show
 -d timefornews.online
 -d to-an-us-dental-implants-well.live
 -d to-us-dental-implants-wiki.live
--d top-offers2.club
 -d topdating.online
 -d trotineo.fr
 -d truecompassion.net
+-d truly-diet.store
 -d updatephoneoffice.club
 -d updateview.tech
--d upplaysite.xyz
 -d usforeclosure.net
 -d videoau.ru
 -d videoauthor.ru
@@ -392,6 +381,8 @@ msFilterList
 -d wildermanrolfson.icu
 -d winnerz.icu
 -d worldtechguide.net
+-d your-magazine.me
 -d zalando-prive.es
 -d zergnet.net
+-d zerovideo.ru
 -d zeusmedia.info
