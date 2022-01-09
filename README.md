@@ -40,7 +40,13 @@ _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/release
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter.txt
+- https://curbengh.github.io/pup-filter/pup-filter.txt
 - https://curben.gitlab.io/pup-filter/pup-filter.txt
+- https://malware-filter.pages.dev/pup-filter.txt
+- https://pup-filter.pages.dev/pup-filter.txt
+- https://malware-filter.netlify.app/pup-filter.txt
+- https://pup-filter.netlify.app/pup-filter.txt
 
 </details>
 
@@ -53,7 +59,13 @@ Import the following URL into AdGuard browser extension to subscribe:
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-ag.txt
+- https://curbengh.github.io/pup-filter/pup-filter-ag.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-ag.txt
+- https://malware-filter.pages.dev/pup-filter-ag.txt
+- https://pup-filter.pages.dev/pup-filter-ag.txt
+- https://malware-filter.netlify.app/pup-filter-ag.txt
+- https://pup-filter.netlify.app/pup-filter-ag.txt
 
 </details>
 
@@ -68,7 +80,13 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-vivaldi.txt
+- https://curbengh.github.io/pup-filter/pup-filter-vivaldi.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-vivaldi.txt
+- https://malware-filter.pages.dev/pup-filter-vivaldi.txt
+- https://pup-filter.pages.dev/pup-filter-vivaldi.txt
+- https://malware-filter.netlify.app/pup-filter-vivaldi.txt
+- https://pup-filter.netlify.app/pup-filter-vivaldi.txt
 
 </details>
 
@@ -81,7 +99,13 @@ This blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-domains.txt
+- https://curbengh.github.io/pup-filter/pup-filter-domains.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-domains.txt
+- https://malware-filter.pages.dev/pup-filter-domains.txt
+- https://pup-filter.pages.dev/pup-filter-domains.txt
+- https://malware-filter.netlify.app/pup-filter-domains.txt
+- https://pup-filter.netlify.app/pup-filter-domains.txt
 
 </details>
 
@@ -94,7 +118,13 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-agh.txt
+- https://curbengh.github.io/pup-filter/pup-filter-agh.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-agh.txt
+- https://malware-filter.pages.dev/pup-filter-agh.txt
+- https://pup-filter.pages.dev/pup-filter-agh.txt
+- https://malware-filter.netlify.app/pup-filter-agh.txt
+- https://pup-filter.netlify.app/pup-filter-agh.txt
 
 </details>
 
@@ -107,7 +137,13 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-hosts.txt
+- https://curbengh.github.io/pup-filter/pup-filter-hosts.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-hosts.txt
+- https://malware-filter.pages.dev/pup-filter-hosts.txt
+- https://pup-filter.pages.dev/pup-filter-hosts.txt
+- https://malware-filter.netlify.app/pup-filter-hosts.txt
+- https://pup-filter.netlify.app/pup-filter-hosts.txt
 
 </details>
 
@@ -136,7 +172,13 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf\n" >> /etc/dn
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-dnsmasq.conf
+- https://curbengh.github.io/pup-filter/pup-filter-dnsmasq.conf
 - https://curben.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
+- https://malware-filter.pages.dev/pup-filter-dnsmasq.conf
+- https://pup-filter.pages.dev/pup-filter-dnsmasq.conf
+- https://malware-filter.netlify.app/pup-filter-dnsmasq.conf
+- https://pup-filter.netlify.app/pup-filter-dnsmasq.conf
 
 </details>
 
@@ -183,7 +225,13 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-bind.conf
+- https://curbengh.github.io/pup-filter/pup-filter-bind.conf
 - https://curben.gitlab.io/pup-filter/pup-filter-bind.conf
+- https://malware-filter.pages.dev/pup-filter-bind.conf
+- https://pup-filter.pages.dev/pup-filter-bind.conf
+- https://malware-filter.netlify.app/pup-filter-bind.conf
+- https://pup-filter.netlify.app/pup-filter-bind.conf
 
 </details>
 
@@ -196,7 +244,13 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-rpz.conf
+- https://curbengh.github.io/pup-filter/pup-filter-rpz.conf
 - https://curben.gitlab.io/pup-filter/pup-filter-rpz.conf
+- https://malware-filter.pages.dev/pup-filter-rpz.conf
+- https://pup-filter.pages.dev/pup-filter-rpz.conf
+- https://malware-filter.netlify.app/pup-filter-rpz.conf
+- https://pup-filter.netlify.app/pup-filter-rpz.conf
 
 </details>
 
@@ -225,7 +279,13 @@ printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-unbound.conf
+- https://curbengh.github.io/pup-filter/pup-filter-unbound.conf
 - https://curben.gitlab.io/pup-filter/pup-filter-unbound.conf
+- https://malware-filter.pages.dev/pup-filter-unbound.conf
+- https://pup-filter.pages.dev/pup-filter-unbound.conf
+- https://malware-filter.netlify.app/pup-filter-unbound.conf
+- https://pup-filter.netlify.app/pup-filter-unbound.conf
 
 </details>
 
@@ -256,7 +316,13 @@ Configure dnscrypt-proxy to use the blocklist:
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
+- https://curbengh.github.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
 - https://curben.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
+- https://pup-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.netlify.app/pup-filter-dnscrypt-blocked-names.txt
+- https://pup-filter.netlify.app/pup-filter-dnscrypt-blocked-names.txt
 
 </details>
 
@@ -269,7 +335,13 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter.tpl
+- https://curbengh.github.io/pup-filter/pup-filter.tpl
 - https://curben.gitlab.io/pup-filter/pup-filter.tpl
+- https://malware-filter.pages.dev/pup-filter.tpl
+- https://pup-filter.pages.dev/pup-filter.tpl
+- https://malware-filter.netlify.app/pup-filter.tpl
+- https://pup-filter.netlify.app/pup-filter.tpl
 
 </details>
 
@@ -298,7 +370,13 @@ printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.con
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-snort2.rules
+- https://curbengh.github.io/pup-filter/pup-filter-snort2.rules
 - https://curben.gitlab.io/pup-filter/pup-filter-snort2.rules
+- https://malware-filter.pages.dev/pup-filter-snort2.rules
+- https://pup-filter.pages.dev/pup-filter-snort2.rules
+- https://malware-filter.netlify.app/pup-filter-snort2.rules
+- https://pup-filter.netlify.app/pup-filter-snort2.rules
 
 </details>
 
@@ -335,7 +413,13 @@ ips =
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-snort3.rules
+- https://curbengh.github.io/pup-filter/pup-filter-snort3.rules
 - https://curben.gitlab.io/pup-filter/pup-filter-snort3.rules
+- https://malware-filter.pages.dev/pup-filter-snort3.rules
+- https://pup-filter.pages.dev/pup-filter-snort3.rules
+- https://malware-filter.netlify.app/pup-filter-snort3.rules
+- https://pup-filter.netlify.app/pup-filter-snort3.rules
 
 </details>
 
@@ -370,7 +454,13 @@ rule-files:
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/pup-filter-suricata.rules
+- https://curbengh.github.io/pup-filter/pup-filter-suricata.rules
 - https://curben.gitlab.io/pup-filter/pup-filter-suricata.rules
+- https://malware-filter.pages.dev/pup-filter-suricata.rules
+- https://pup-filter.pages.dev/pup-filter-suricata.rules
+- https://malware-filter.netlify.app/pup-filter-suricata.rules
+- https://pup-filter.netlify.app/pup-filter-suricata.rules
 
 </details>
 
