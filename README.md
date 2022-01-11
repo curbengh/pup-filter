@@ -474,6 +474,10 @@ If you wish to exclude certain website(s) that you believe is sufficiently well-
 
 This blocklist **only** accepts new malicious URLs from [malware-discoverer](https://github.com/zhouhanc/malware-discoverer).
 
+## FAQ and Guides
+
+See [wiki](https://gitlab.com/curben/malware-filter/-/wikis/home)
+
 ## Cloning
 
 Since the filter is updated frequently, cloning the repo would become slower over time as the revision grows.
