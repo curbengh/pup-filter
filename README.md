@@ -45,8 +45,6 @@ _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/release
 - https://curben.gitlab.io/pup-filter/pup-filter.txt
 - https://malware-filter.pages.dev/pup-filter.txt
 - https://pup-filter.pages.dev/pup-filter.txt
-- https://malware-filter.netlify.app/pup-filter.txt
-- https://pup-filter.netlify.app/pup-filter.txt
 
 </details>
 
@@ -64,8 +62,6 @@ Import the following URL into AdGuard browser extension to subscribe:
 - https://curben.gitlab.io/pup-filter/pup-filter-ag.txt
 - https://malware-filter.pages.dev/pup-filter-ag.txt
 - https://pup-filter.pages.dev/pup-filter-ag.txt
-- https://malware-filter.netlify.app/pup-filter-ag.txt
-- https://pup-filter.netlify.app/pup-filter-ag.txt
 
 </details>
 
@@ -85,8 +81,6 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 - https://curben.gitlab.io/pup-filter/pup-filter-vivaldi.txt
 - https://malware-filter.pages.dev/pup-filter-vivaldi.txt
 - https://pup-filter.pages.dev/pup-filter-vivaldi.txt
-- https://malware-filter.netlify.app/pup-filter-vivaldi.txt
-- https://pup-filter.netlify.app/pup-filter-vivaldi.txt
 
 </details>
 
@@ -104,8 +98,6 @@ This blocklist includes domains and IP addresses.
 - https://curben.gitlab.io/pup-filter/pup-filter-domains.txt
 - https://malware-filter.pages.dev/pup-filter-domains.txt
 - https://pup-filter.pages.dev/pup-filter-domains.txt
-- https://malware-filter.netlify.app/pup-filter-domains.txt
-- https://pup-filter.netlify.app/pup-filter-domains.txt
 
 </details>
 
@@ -123,8 +115,6 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 - https://curben.gitlab.io/pup-filter/pup-filter-agh.txt
 - https://malware-filter.pages.dev/pup-filter-agh.txt
 - https://pup-filter.pages.dev/pup-filter-agh.txt
-- https://malware-filter.netlify.app/pup-filter-agh.txt
-- https://pup-filter.netlify.app/pup-filter-agh.txt
 
 </details>
 
@@ -142,8 +132,6 @@ This blocklist includes domains only.
 - https://curben.gitlab.io/pup-filter/pup-filter-hosts.txt
 - https://malware-filter.pages.dev/pup-filter-hosts.txt
 - https://pup-filter.pages.dev/pup-filter-hosts.txt
-- https://malware-filter.netlify.app/pup-filter-hosts.txt
-- https://pup-filter.netlify.app/pup-filter-hosts.txt
 
 </details>
 
@@ -177,8 +165,6 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf\n" >> /etc/dn
 - https://curben.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
 - https://malware-filter.pages.dev/pup-filter-dnsmasq.conf
 - https://pup-filter.pages.dev/pup-filter-dnsmasq.conf
-- https://malware-filter.netlify.app/pup-filter-dnsmasq.conf
-- https://pup-filter.netlify.app/pup-filter-dnsmasq.conf
 
 </details>
 
@@ -230,8 +216,6 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 - https://curben.gitlab.io/pup-filter/pup-filter-bind.conf
 - https://malware-filter.pages.dev/pup-filter-bind.conf
 - https://pup-filter.pages.dev/pup-filter-bind.conf
-- https://malware-filter.netlify.app/pup-filter-bind.conf
-- https://pup-filter.netlify.app/pup-filter-bind.conf
 
 </details>
 
@@ -249,8 +233,6 @@ This blocklist includes domains only.
 - https://curben.gitlab.io/pup-filter/pup-filter-rpz.conf
 - https://malware-filter.pages.dev/pup-filter-rpz.conf
 - https://pup-filter.pages.dev/pup-filter-rpz.conf
-- https://malware-filter.netlify.app/pup-filter-rpz.conf
-- https://pup-filter.netlify.app/pup-filter-rpz.conf
 
 </details>
 
@@ -284,8 +266,6 @@ printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc
 - https://curben.gitlab.io/pup-filter/pup-filter-unbound.conf
 - https://malware-filter.pages.dev/pup-filter-unbound.conf
 - https://pup-filter.pages.dev/pup-filter-unbound.conf
-- https://malware-filter.netlify.app/pup-filter-unbound.conf
-- https://pup-filter.netlify.app/pup-filter-unbound.conf
 
 </details>
 
@@ -321,8 +301,6 @@ Configure dnscrypt-proxy to use the blocklist:
 - https://curben.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
 - https://malware-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
 - https://pup-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.netlify.app/pup-filter-dnscrypt-blocked-names.txt
-- https://pup-filter.netlify.app/pup-filter-dnscrypt-blocked-names.txt
 
 </details>
 
@@ -340,8 +318,6 @@ This blocklist includes domains only.
 - https://curben.gitlab.io/pup-filter/pup-filter.tpl
 - https://malware-filter.pages.dev/pup-filter.tpl
 - https://pup-filter.pages.dev/pup-filter.tpl
-- https://malware-filter.netlify.app/pup-filter.tpl
-- https://pup-filter.netlify.app/pup-filter.tpl
 
 </details>
 
@@ -375,8 +351,6 @@ printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.con
 - https://curben.gitlab.io/pup-filter/pup-filter-snort2.rules
 - https://malware-filter.pages.dev/pup-filter-snort2.rules
 - https://pup-filter.pages.dev/pup-filter-snort2.rules
-- https://malware-filter.netlify.app/pup-filter-snort2.rules
-- https://pup-filter.netlify.app/pup-filter-snort2.rules
 
 </details>
 
@@ -418,8 +392,6 @@ ips =
 - https://curben.gitlab.io/pup-filter/pup-filter-snort3.rules
 - https://malware-filter.pages.dev/pup-filter-snort3.rules
 - https://pup-filter.pages.dev/pup-filter-snort3.rules
-- https://malware-filter.netlify.app/pup-filter-snort3.rules
-- https://pup-filter.netlify.app/pup-filter-snort3.rules
 
 </details>
 
@@ -459,8 +431,6 @@ rule-files:
 - https://curben.gitlab.io/pup-filter/pup-filter-suricata.rules
 - https://malware-filter.pages.dev/pup-filter-suricata.rules
 - https://pup-filter.pages.dev/pup-filter-suricata.rules
-- https://malware-filter.netlify.app/pup-filter-suricata.rules
-- https://pup-filter.netlify.app/pup-filter-suricata.rules
 
 </details>
 
