@@ -1,6 +1,6 @@
 # PUP Domains Blocklist
 
-> Edit 2021/01/08: All mirrors' links have been updated. The main download link "curben.gitlab.io/malware-filter/" _is not affected_.
+> Announcement: curben.gitlab.io will be migrated to malware-filter.gitlab.io on 2022/05/21
 
 A blocklist of domains that host potentially unwanted programs (PUP), based on the [malware-discoverer](https://github.com/zhouhanc/malware-discoverer). Blocklist is updated twice a day.
 
