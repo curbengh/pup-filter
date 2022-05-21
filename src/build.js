@@ -14,8 +14,8 @@ const rootPath = join(__dirname, '..')
 const tmpPath = join(rootPath, 'tmp')
 const publicPath = join(rootPath, 'public')
 const zipPath = join(tmpPath, 'artifacts.zip')
-const artifactsUrl = 'https://gitlab.com/curben/pup-filter/-/jobs/artifacts/main/download?job=pages'
-const pipelineUrl = 'https://gitlab.com/curben/pup-filter/badges/main/pipeline.svg'
+const artifactsUrl = 'https://gitlab.com/malware-filter/pup-filter/-/jobs/artifacts/main/download?job=pages'
+const pipelineUrl = 'https://gitlab.com/malware-filter/pup-filter/badges/main/pipeline.svg'
 const ghMirror = 'https://nightly.link/curbengh/pup-filter/workflows/pages/main/public.zip'
 
 const pipelineStatus = async (url) => {
