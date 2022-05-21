@@ -33,7 +33,7 @@ Check out my other filters:
 
 Import the following URL into uBO to subscribe:
 
-- https://curben.gitlab.io/malware-filter/pup-filter.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
 
 _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/releases/tag/1.39.0); to enable, head to "Filter lists" tab, expand "Malware domains" section and tick "PUP URL Blocklist"._
 
@@ -42,7 +42,7 @@ _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/release
 
 - https://curbengh.github.io/malware-filter/pup-filter.txt
 - https://curbengh.github.io/pup-filter/pup-filter.txt
-- https://curben.gitlab.io/pup-filter/pup-filter.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 - https://malware-filter.pages.dev/pup-filter.txt
 - https://pup-filter.pages.dev/pup-filter.txt
 
@@ -52,14 +52,14 @@ _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/release
 
 Import the following URL into AdGuard browser extension to subscribe:
 
-- https://curben.gitlab.io/malware-filter/pup-filter-ag.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-ag.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-ag.txt
 - https://curbengh.github.io/pup-filter/pup-filter-ag.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-ag.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-ag.txt
 - https://malware-filter.pages.dev/pup-filter-ag.txt
 - https://pup-filter.pages.dev/pup-filter-ag.txt
 
@@ -71,14 +71,14 @@ _Requires Vivaldi Desktop/Android 3.3+, blocking level must be at least "Block T
 
 Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscribe:
 
-- https://curben.gitlab.io/malware-filter/pup-filter-vivaldi.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-vivaldi.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-vivaldi.txt
 - https://curbengh.github.io/pup-filter/pup-filter-vivaldi.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-vivaldi.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-vivaldi.txt
 - https://malware-filter.pages.dev/pup-filter-vivaldi.txt
 - https://pup-filter.pages.dev/pup-filter-vivaldi.txt
 
@@ -88,14 +88,14 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 
 This blocklist includes domains and IP addresses.
 
-- https://curben.gitlab.io/malware-filter/pup-filter-domains.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-domains.txt
 - https://curbengh.github.io/pup-filter/pup-filter-domains.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-domains.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-domains.txt
 - https://malware-filter.pages.dev/pup-filter-domains.txt
 - https://pup-filter.pages.dev/pup-filter-domains.txt
 
@@ -105,14 +105,14 @@ This blocklist includes domains and IP addresses.
 
 This AdGuard Home-compatible blocklist includes domains and IP addresses.
 
-- https://curben.gitlab.io/malware-filter/pup-filter-agh.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-agh.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-agh.txt
 - https://curbengh.github.io/pup-filter/pup-filter-agh.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-agh.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-agh.txt
 - https://malware-filter.pages.dev/pup-filter-agh.txt
 - https://pup-filter.pages.dev/pup-filter-agh.txt
 
@@ -122,14 +122,14 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 
 This blocklist includes domains only.
 
-- https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-hosts.txt
 - https://curbengh.github.io/pup-filter/pup-filter-hosts.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-hosts.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-hosts.txt
 - https://malware-filter.pages.dev/pup-filter-hosts.txt
 - https://pup-filter.pages.dev/pup-filter-hosts.txt
 
@@ -146,7 +146,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/dnsmasq/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-dnsmasq.conf" -o "/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-dnsmasq.conf" -o "/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -155,14 +155,14 @@ chmod 755 /etc/cron.daily/pup-filter
 printf "\nconf-file=/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-dnsmasq.conf
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-dnsmasq.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-dnsmasq.conf
 - https://curbengh.github.io/pup-filter/pup-filter-dnsmasq.conf
-- https://curben.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
 - https://malware-filter.pages.dev/pup-filter-dnsmasq.conf
 - https://pup-filter.pages.dev/pup-filter-dnsmasq.conf
 
@@ -179,7 +179,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/bind/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-bind.conf" -o "/usr/local/etc/bind/pup-filter-bind.conf"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-bind.conf" -o "/usr/local/etc/bind/pup-filter-bind.conf"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -206,14 +206,14 @@ $TTL    86400   ; one day
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
 
-- https://curben.gitlab.io/malware-filter/pup-filter-bind.conf
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-bind.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-bind.conf
 - https://curbengh.github.io/pup-filter/pup-filter-bind.conf
-- https://curben.gitlab.io/pup-filter/pup-filter-bind.conf
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-bind.conf
 - https://malware-filter.pages.dev/pup-filter-bind.conf
 - https://pup-filter.pages.dev/pup-filter-bind.conf
 
@@ -223,14 +223,14 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 
 This blocklist includes domains only.
 
-- https://curben.gitlab.io/malware-filter/pup-filter-rpz.conf
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-rpz.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-rpz.conf
 - https://curbengh.github.io/pup-filter/pup-filter-rpz.conf
-- https://curben.gitlab.io/pup-filter/pup-filter-rpz.conf
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-rpz.conf
 - https://malware-filter.pages.dev/pup-filter-rpz.conf
 - https://pup-filter.pages.dev/pup-filter-rpz.conf
 
@@ -247,7 +247,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/unbound/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-unbound.conf" -o "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-unbound.conf" -o "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -256,14 +256,14 @@ chmod 755 /etc/cron.daily/pup-filter
 printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-unbound.conf
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-unbound.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-unbound.conf
 - https://curbengh.github.io/pup-filter/pup-filter-unbound.conf
-- https://curben.gitlab.io/pup-filter/pup-filter-unbound.conf
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-unbound.conf
 - https://malware-filter.pages.dev/pup-filter-unbound.conf
 - https://pup-filter.pages.dev/pup-filter-unbound.conf
 
@@ -278,7 +278,7 @@ printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc
 mkdir -p /etc/dnscrypt-proxy/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -291,14 +291,14 @@ Configure dnscrypt-proxy to use the blocklist:
 +  blocked_names_file = '/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt'
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
 - https://curbengh.github.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
-- https://curben.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
 - https://malware-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
 - https://pup-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
 
@@ -308,14 +308,14 @@ Configure dnscrypt-proxy to use the blocklist:
 
 This blocklist includes domains only.
 
-- https://curben.gitlab.io/malware-filter/pup-filter.tpl
+- https://malware-filter.gitlab.io/malware-filter/pup-filter.tpl
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter.tpl
 - https://curbengh.github.io/pup-filter/pup-filter.tpl
-- https://curben.gitlab.io/pup-filter/pup-filter.tpl
+- https://malware-filter.gitlab.io/pup-filter/pup-filter.tpl
 - https://malware-filter.pages.dev/pup-filter.tpl
 - https://pup-filter.pages.dev/pup-filter.tpl
 
@@ -329,10 +329,10 @@ This ruleset includes online URLs only. Not compatible with [Snort3](#snort3).
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/pup-filter-snort2.rules" -o "/etc/snort/rules/pup-filter-snort2.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-snort2.rules" -o "/etc/snort/rules/pup-filter-snort2.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-snort2.rules" -o "/etc/snort/rules/pup-filter-snort2.rules"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-snort2.rules" -o "/etc/snort/rules/pup-filter-snort2.rules"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -341,14 +341,14 @@ chmod 755 /etc/cron.daily/pup-filter
 printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-snort2.rules
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-snort2.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-snort2.rules
 - https://curbengh.github.io/pup-filter/pup-filter-snort2.rules
-- https://curben.gitlab.io/pup-filter/pup-filter-snort2.rules
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-snort2.rules
 - https://malware-filter.pages.dev/pup-filter-snort2.rules
 - https://pup-filter.pages.dev/pup-filter-snort2.rules
 
@@ -362,10 +362,10 @@ This ruleset includes online URLs only. Not compatible with [Snort2](#snort2).
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/pup-filter-snort3.rules" -o "/etc/snort/rules/pup-filter-snort3.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-snort3.rules" -o "/etc/snort/rules/pup-filter-snort3.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-snort3.rules" -o "/etc/snort/rules/pup-filter-snort3.rules"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-snort3.rules" -o "/etc/snort/rules/pup-filter-snort3.rules"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -382,14 +382,14 @@ ips =
 }
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-snort3.rules
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-snort3.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-snort3.rules
 - https://curbengh.github.io/pup-filter/pup-filter-snort3.rules
-- https://curben.gitlab.io/pup-filter/pup-filter-snort3.rules
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-snort3.rules
 - https://malware-filter.pages.dev/pup-filter-snort3.rules
 - https://pup-filter.pages.dev/pup-filter-snort3.rules
 
@@ -403,10 +403,10 @@ This ruleset includes online URLs only.
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/pup-filter-suricata.rules" -o "/etc/suricata/rules/pup-filter-suricata.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-suricata.rules" -o "/etc/suricata/rules/pup-filter-suricata.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/pup-filter-suricata.rules" -o "/etc/suricata/rules/pup-filter-suricata.rules"\n' > /etc/cron.daily/pup-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/pup-filter-suricata.rules" -o "/etc/suricata/rules/pup-filter-suricata.rules"\n' > /etc/cron.daily/pup-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/pup-filter
@@ -421,14 +421,14 @@ rule-files:
 +  - pup-filter-suricata.rules
 ```
 
-- https://curben.gitlab.io/malware-filter/pup-filter-suricata.rules
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-suricata.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/pup-filter-suricata.rules
 - https://curbengh.github.io/pup-filter/pup-filter-suricata.rules
-- https://curben.gitlab.io/pup-filter/pup-filter-suricata.rules
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-suricata.rules
 - https://malware-filter.pages.dev/pup-filter-suricata.rules
 - https://pup-filter.pages.dev/pup-filter-suricata.rules
 
