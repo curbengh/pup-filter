@@ -1,10 +1,10 @@
 #!/bin/sh
 
-# works best on busybox sh
+# works best on busybox ash
 
 set -efux -o pipefail
 
-alias rm="rm -f"
+alias rm="rm -rf"
 
 ## Use GNU grep, busybox grep is too slow
 . "/etc/os-release"
@@ -20,8 +20,7 @@ fi
 
 
 ## Fallback to busybox dos2unix
-if ! command -v dos2unix &> /dev/null
-then
+if ! command -v dos2unix &> /dev/null; then
   alias dos2unix="busybox dos2unix"
 fi
 
@@ -34,6 +33,34 @@ cd "tmp/"
 curl -L "https://zhouhanc.github.io/malware-discoverer/blocklist.csv.zip" -o "source.zip"
 curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
 curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+
+## Cloudflare Radar
+if [ -n "$CF_API" ]; then
+  mkdir -p "cf/"
+  # Get the latest domain ranking buckets
+  curl -X GET "https://api.cloudflare.com/client/v4/radar/datasets?limit=5&offset=0&datasetType=RANKING_BUCKET&format=json" \
+    -H "Authorization: Bearer $CF_API" -o "cf/datasets.json"
+  # Get the top 1m bucket's dataset ID
+  DATASET_ID=$(jq ".result.datasets[] | select(.meta.top==1000000) | .id" "cf/datasets.json")
+  # Get the dataset download url
+  curl --request POST \
+    --url "https://api.cloudflare.com/client/v4/radar/datasets/download" \
+    --header "Content-Type: application/json" \
+    --header "Authorization: Bearer $CF_API" \
+    --data "{ \"datasetId\": $DATASET_ID }" \
+    -o "cf/dataset-url.json"
+  DATASET_URL=$(jq ".result.dataset.url" "cf/dataset-url.json" | sed 's/"//g')
+  curl -L "$DATASET_URL" -o "cf/top-1m-radar.zip"
+
+  ## Parse the Radar 1 Million
+  unzip -p "cf/top-1m-radar.zip" | \
+  dos2unix | \
+  tr "[:upper:]" "[:lower:]" | \
+  grep -F "." | \
+  sed "s/^www\.//g" | \
+  sort -u > "top-1m-radar.txt"
+fi
+
 
 ## Parse URLs
 unzip -p "source.zip" | \
@@ -58,10 +85,8 @@ sort -u > "top-1m-umbrella.txt"
 unzip -p "top-1m-tranco.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
-# Parse domains only
 cut -f 2 -d "," | \
 grep -F "." | \
-# Remove www.
 sed "s/^www\.//g" | \
 sort -u > "top-1m-tranco.txt"
 
@@ -75,9 +100,15 @@ cp "../src/exclude.txt" "."
 # ## Append new line https://unix.stackexchange.com/a/31955
 # sed '$a\' > "oisd-exclude.txt"
 
-# Merge Umbrella, Traco and self-maintained top domains
+# Merge Umbrella, Tranco, Radar and self-maintained top domains
 cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" | \
 sort -u > "top-1m-well-known.txt"
+
+if [ -n "$CF_API" ] && [ -f "top-1m-radar.txt" ]; then
+  cat "top-1m-radar.txt" >> "top-1m-well-known.txt"
+  # sort in-place
+  sort "top-1m-well-known.txt" -u -o "top-1m-well-known.txt"
+fi
 
 
 ## Exclude popular domains
@@ -239,7 +270,7 @@ sed -i "1s/Blocklist/Suricata Ruleset/" "../public/pup-filter-suricata.rules"
 
 
 ## Clean up artifacts
-rm "source.zip" "source-domains.txt" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
+rm "source.zip" "source-domains.txt" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt" "cf/" "top-1m-radar.txt"
 
 
 cd ../

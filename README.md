@@ -1,21 +1,21 @@
 # PUP Domains Blocklist
 
 - Formats
-  * [URL-based](#url-based)
-  * [Domain-based](#domain-based)
-  * [Hosts-based](#hosts-based)
-  * [Domain-based (AdGuard Home)](#domain-based-adguard-home)
-  * [URL-based (AdGuard)](#url-based-adguard)
-  * [URL-based (Vivaldi)](#url-based-vivaldi)
-  * [Dnsmasq](#dnsmasq)
-  * [BIND zone](#bind)
-  * [RPZ](#response-policy-zone)
-  * [Unbound](#unbound)
-  * [dnscrypt-proxy](#dnscrypt-proxy)
-  * [Tracking Protection List (IE)](#tracking-protection-list-ie)
-  * [Snort2](#snort2)
-  * [Snort3](#snort3)
-  * [Suricata](#suricata)
+  - [URL-based](#url-based)
+  - [Domain-based](#domain-based)
+  - [Hosts-based](#hosts-based)
+  - [Domain-based (AdGuard Home)](#domain-based-adguard-home)
+  - [URL-based (AdGuard)](#url-based-adguard)
+  - [URL-based (Vivaldi)](#url-based-vivaldi)
+  - [Dnsmasq](#dnsmasq)
+  - [BIND zone](#bind)
+  - [RPZ](#response-policy-zone)
+  - [Unbound](#unbound)
+  - [dnscrypt-proxy](#dnscrypt-proxy)
+  - [Tracking Protection List (IE)](#tracking-protection-list-ie)
+  - [Snort2](#snort2)
+  - [Snort3](#snort3)
+  - [Suricata](#suricata)
 - [Compressed version](#compressed-version)
 - [Reporting issues](#issues)
 - [FAQ and Guides](#faq-and-guides)
@@ -306,7 +306,7 @@ chmod 755 /etc/cron.daily/pup-filter
 
 Configure dnscrypt-proxy to use the blocklist:
 
-``` diff
+```diff
 [blocked_names]
 +  blocked_names_file = '/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt'
 ```
@@ -393,7 +393,7 @@ chmod 755 /etc/cron.daily/pup-filter
 
 Configure Snort to use the ruleset:
 
-``` diff
+```diff
 # /etc/snort/snort.lua
 ips =
 {
@@ -434,7 +434,7 @@ chmod 755 /etc/cron.daily/pup-filter
 
 Configure Suricata to use the ruleset:
 
-``` diff
+```diff
 # /etc/suricata/suricata.yaml
 rule-files:
   - local.rules
@@ -465,7 +465,7 @@ All filters are also available as gzip- and brotli-compressed.
 
 This blocklist operates by blocking the **whole** website, popular websites are excluded from the filters.
 
-*Popular* websites are as listed in the [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html) (top 1M domains + subdomains), [Tranco List](https://tranco-list.eu/) (top 1M domains) and this [custom list](src/exclude.txt).
+_Popular_ websites are as listed in the [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html) (top 1M domains + subdomains), [Tranco List](https://tranco-list.eu/) (top 1M domains), [Cloudflare Radar](https://developers.cloudflare.com/radar/investigate/domain-ranking-datasets/) (top 1M domains) and this [custom list](src/exclude.txt).
 
 If you wish to exclude certain website(s) that you believe is sufficiently well-known, please create an [issue](https://gitlab.com/malware-filter/pup-filter/issues) or [merge request](https://gitlab.com/malware-filter/pup-filter/merge_requests).
 
@@ -481,6 +481,7 @@ Optional variables:
 
 - `CLOUDFLARE_BUILD_HOOK`: Deploy to Cloudflare Pages.
 - `NETLIFY_SITE_ID`: Deploy to Netlify.
+- `CF_API`: Include Cloudflare Radar [domains ranking](https://developers.cloudflare.com/radar/investigate/domain-ranking-datasets/). [Guide](https://developers.cloudflare.com/radar/get-started/first-request/) to create an API token.
 
 ## License
 
@@ -493,3 +494,5 @@ filters: Derived from [malware-discoverer](https://github.com/zhouhanc/malware-d
 [Tranco List](https://tranco-list.eu/): MIT License
 
 [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html): Available free of charge by Cisco Umbrella
+
+[Cloudflare Radar](https://developers.cloudflare.com/radar/investigate/domain-ranking-datasets/): Available to free Cloudflare account
