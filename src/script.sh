@@ -4,6 +4,7 @@
 
 set -efux -o pipefail
 
+alias curl="curl -L"
 alias rm="rm -rf"
 
 ## Use GNU grep, busybox grep is too slow
@@ -30,9 +31,9 @@ mkdir -p "tmp/"
 cd "tmp/"
 
 ## Prepare datasets
-curl -L "https://zhouhanc.github.io/malware-discoverer/blocklist.csv.zip" -o "source.zip"
-curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
-curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+curl "https://zhouhanc.github.io/malware-discoverer/blocklist.csv.zip" -o "source.zip"
+curl "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
+curl "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 ## Cloudflare Radar
 if [ -n "$CF_API" ]; then
@@ -50,7 +51,7 @@ if [ -n "$CF_API" ]; then
     --data "{ \"datasetId\": $DATASET_ID }" \
     -o "cf/dataset-url.json"
   DATASET_URL=$(jq ".result.dataset.url" "cf/dataset-url.json" | sed 's/"//g')
-  curl -L "$DATASET_URL" -o "cf/top-1m-radar.zip"
+  curl "$DATASET_URL" -o "cf/top-1m-radar.zip"
 
   ## Parse the Radar 1 Million
   unzip -p "cf/top-1m-radar.zip" | \
