@@ -2,7 +2,7 @@
 
 # works best on busybox ash
 
-set -efux -o pipefail
+set -efx -o pipefail
 
 alias curl="curl -L"
 alias rm="rm -rf"
