@@ -5,6 +5,7 @@
 set -efx -o pipefail
 
 alias curl="curl -L"
+alias mkdir="mkdir -p"
 alias rm="rm -rf"
 
 ## Use GNU grep, busybox grep is too slow
@@ -27,7 +28,7 @@ fi
 
 
 ## Create a temporary working folder
-mkdir -p "tmp/"
+mkdir "tmp/"
 cd "tmp/"
 
 ## Prepare datasets
@@ -37,7 +38,7 @@ curl "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 ## Cloudflare Radar
 if [ -n "$CF_API" ]; then
-  mkdir -p "cf/"
+  mkdir "cf/"
   # Get the latest domain ranking buckets
   curl -X GET "https://api.cloudflare.com/client/v4/radar/datasets?limit=5&offset=0&datasetType=RANKING_BUCKET&format=json" \
     -H "Authorization: Bearer $CF_API" -o "cf/datasets.json"
@@ -128,7 +129,7 @@ FIFTH_LINE="! License: https://gitlab.com/malware-filter/pup-filter#license"
 SIXTH_LINE="! Source: https://github.com/zhouhanc/malware-discoverer"
 COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
-mkdir -p "../public/"
+mkdir "../public/"
 
 cat "pup-notop-domains.txt" | \
 sort | \
