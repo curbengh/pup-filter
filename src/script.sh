@@ -132,14 +132,14 @@ mkdir -p "../public/"
 
 cat "pup-notop-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_UBO"'' > "../public/pup-filter.txt"
+sed "1i $COMMENT_UBO" > "../public/pup-filter.txt"
 
 
 # Adguard Home
 cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/^/g" | \
-sed '1 i\'"$COMMENT_UBO"'' | \
+sed "1i $COMMENT_UBO" | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../public/pup-filter-agh.txt"
 
 
@@ -147,7 +147,7 @@ sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../public/pup-filter-agh.txt"
 cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/\$all/g" | \
-sed '1 i\'"$COMMENT_UBO"'' | \
+sed "1i $COMMENT_UBO" | \
 sed "1s/Blocklist/Blocklist (AdGuard)/" > "../public/pup-filter-ag.txt"
 
 
@@ -155,7 +155,7 @@ sed "1s/Blocklist/Blocklist (AdGuard)/" > "../public/pup-filter-ag.txt"
 cat "pup-notop-domains.txt" | \
 sort | \
 sed -e "s/^/||/g" -e "s/$/\$document/g" | \
-sed '1 i\'"$COMMENT_UBO"'' | \
+sed "1i $COMMENT_UBO" | \
 sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../public/pup-filter-vivaldi.txt"
 
 
@@ -165,13 +165,13 @@ COMMENT=$(printf "$COMMENT_UBO" | sed "s/^!/#/g" | awk '{printf "%s\\n", $0}' | 
 
 cat "pup-notop-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' > "../public/pup-filter-domains.txt"
+sed "1i $COMMENT" > "../public/pup-filter-domains.txt"
 
 
 ## Hosts file blocklist
 cat "pup-notop-domains.txt" | \
 sed "s/^/0.0.0.0 /g" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Domains/Hosts/" > "../public/pup-filter-hosts.txt"
 
 
@@ -179,7 +179,7 @@ sed "1s/Domains/Hosts/" > "../public/pup-filter-hosts.txt"
 cat "pup-notop-domains.txt" | \
 sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/pup-filter-dnsmasq.conf"
 
 
@@ -187,7 +187,7 @@ sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/pup-filter-dnsmasq.conf"
 cat "pup-notop-domains.txt" | \
 sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/BIND Blocklist/" > "../public/pup-filter-bind.conf"
 
 
@@ -198,7 +198,7 @@ RPZ_SYNTAX="\n\$TTL 30\n@ IN SOA rpz.curben.gitlab.io. hostmaster.rpz.curben.git
 cat "pup-notop-domains.txt" | \
 sed "s/$/ CNAME ./g" | \
 sed '1 i\'"$RPZ_SYNTAX"'' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "s/^#/;/g" | \
 sed "1s/Blocklist/RPZ Blocklist/" > "../public/pup-filter-rpz.conf"
 
@@ -207,14 +207,14 @@ sed "1s/Blocklist/RPZ Blocklist/" > "../public/pup-filter-rpz.conf"
 cat "pup-notop-domains.txt" | \
 sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../public/pup-filter-unbound.conf"
 
 
 ## dnscrypt-proxy blocklists
 # name-based
 cat "pup-notop-domains.txt" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Domains/Names/" > "../public/pup-filter-dnscrypt-blocked-names.txt"
 
 ## Currently there are no IP entries
@@ -222,7 +222,7 @@ sed "1s/Domains/Names/" > "../public/pup-filter-dnscrypt-blocked-names.txt"
 # cat "phishing-notop-domains.txt" | \
 # sort | \
 # grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
-# sed '1 i\'"$COMMENT"'' | \
+# sed "1i $COMMENT" | \
 # sed "1s/Domains/IPs/" > "../public/phishing-filter-dnscrypt-blocked-ips.txt"
 
 
@@ -231,7 +231,7 @@ COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 
 cat "pup-notop-domains.txt" | \
 sed "s/^/-d /g" | \
-sed '1 i\'"$COMMENT_IE"'' | \
+sed "1i $COMMENT_IE" | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/pup-filter.tpl"
 
 
@@ -260,13 +260,13 @@ done < "pup-notop-domains.txt"
 
 set -x
 
-sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-snort2.rules"
+sed -i "1i $COMMENT" "../public/pup-filter-snort2.rules"
 sed -i "1s/Blocklist/Snort2 Ruleset/" "../public/pup-filter-snort2.rules"
 
-sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-snort3.rules"
+sed -i "1i $COMMENT" "../public/pup-filter-snort3.rules"
 sed -i "1s/Blocklist/Snort3 Ruleset/" "../public/pup-filter-snort3.rules"
 
-sed -i '1 i\'"$COMMENT"'' "../public/pup-filter-suricata.rules"
+sed -i "1i $COMMENT" "../public/pup-filter-suricata.rules"
 sed -i "1s/Blocklist/Suricata Ruleset/" "../public/pup-filter-suricata.rules"
 
 
