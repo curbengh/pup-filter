@@ -16,6 +16,7 @@
   - [Snort2](#snort2)
   - [Snort3](#snort3)
   - [Suricata](#suricata)
+  - [Splunk](#splunk)
 - [Compressed version](#compressed-version)
 - [Reporting issues](#issues)
 - [FAQ and Guides](#faq-and-guides)
@@ -40,6 +41,7 @@ There are multiple formats available, refer to the appropriate section according
 - [Snort2](#snort2)
 - [Snort3](#snort3)
 - [Suricata](#suricata)
+- [Splunk](#splunk)
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/malware-filter/urlhaus-filter/wikis/compatibility) page.
 
@@ -343,7 +345,7 @@ This blocklist includes domains only.
 
 ## Snort2
 
-This ruleset includes online URLs only. Not compatible with [Snort3](#snort3).
+Not compatible with [Snort3](#snort3).
 
 ### Install
 
@@ -376,7 +378,7 @@ printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.con
 
 ## Snort3
 
-This ruleset includes online URLs only. Not compatible with [Snort2](#snort2).
+Not compatible with [Snort2](#snort2).
 
 ### Install
 
@@ -417,8 +419,6 @@ ips =
 
 ## Suricata
 
-This ruleset includes online URLs only.
-
 ### Install
 
 ```
@@ -451,6 +451,23 @@ rule-files:
 - https://malware-filter.gitlab.io/pup-filter/pup-filter-suricata.rules
 - https://malware-filter.pages.dev/pup-filter-suricata.rules
 - https://pup-filter.pages.dev/pup-filter-suricata.rules
+
+</details>
+
+## Splunk
+
+A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/9.0.2/Knowledge/Aboutlookupsandfieldactions).
+
+- https://malware-filter.gitlab.io/malware-filter/pup-filter-splunk.csv
+
+<details>
+<summary>Mirrors</summary>
+
+- https://curbengh.github.io/malware-filter/pup-filter-splunk.csv
+- https://curbengh.github.io/pup-filter/pup-filter-splunk.csv
+- https://malware-filter.gitlab.io/pup-filter/pup-filter-splunk.csv
+- https://malware-filter.pages.dev/pup-filter-splunk.csv
+- https://pup-filter.pages.dev/pup-filter-splunk.csv
 
 </details>
 

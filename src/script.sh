@@ -241,7 +241,8 @@ set +x
 ## Snort & Suricata rulesets
 rm "../public/pup-filter-snort2.rules" \
   "../public/pup-filter-snort3.rules" \
-  "../public/pup-filter-suricata.rules"
+  "../public/pup-filter-suricata.rules" \
+  "../public/pup-filter-splunk.csv"
 
 SID="300000001"
 while read DOMAIN; do
@@ -251,9 +252,12 @@ while read DOMAIN; do
 
   SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"pup-filter PUP website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.host; content:\"$DOMAIN\"; classtype:web-application-activity; sid:$SID; rev:1;)"
 
+  SP_RULE="\"$DOMAIN\",\"\",\"pup-filter PUP website detected\",\"$CURRENT_TIME\""
+
   echo "$SN_RULE" >> "../public/pup-filter-snort2.rules"
   echo "$SN3_RULE" >> "../public/pup-filter-snort3.rules"
   echo "$SR_RULE" >> "../public/pup-filter-suricata.rules"
+  echo "$SP_RULE" >> "../public/pup-filter-splunk.csv"
 
   SID=$(( $SID + 1 ))
 done < "pup-notop-domains.txt"
@@ -269,6 +273,9 @@ sed -i "1s/Blocklist/Snort3 Ruleset/" "../public/pup-filter-snort3.rules"
 
 sed -i "1i $COMMENT" "../public/pup-filter-suricata.rules"
 sed -i "1s/Blocklist/Suricata Ruleset/" "../public/pup-filter-suricata.rules"
+
+sed -i -e "1i $COMMENT" -e '1i "host","path","message","updated"' "../public/pup-filter-splunk.csv"
+sed -i "1s/Blocklist/Splunk Lookup/" "../public/pup-filter-splunk.csv"
 
 
 ## Clean up artifacts
