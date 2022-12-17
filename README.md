@@ -43,13 +43,14 @@ There are multiple formats available, refer to the appropriate section according
 - [Suricata](#suricata)
 - [Splunk](#splunk)
 
-Not sure which format to choose? See [Compatibility](https://gitlab.com/malware-filter/urlhaus-filter/wikis/compatibility) page.
+For other programs, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
 Check out my other filters:
 
 - [urlhaus-filter](https://gitlab.com/malware-filter/urlhaus-filter)
 - [phishing-filter](https://gitlab.com/malware-filter/phishing-filter)
 - [tracking-filter](https://gitlab.com/malware-filter/tracking-filter)
+- [vn-badsite-filter](https://gitlab.com/malware-filter/vn-badsite-filter)
 
 ## URL-based
 
