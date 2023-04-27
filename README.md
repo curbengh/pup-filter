@@ -439,7 +439,7 @@ Optional variables:
 
 ## License
 
-[src/](src/): [CC0](LICENSE.md)
+[src/](src/): [Creative Commons Zero v1.0 Universal](LICENSE-CC0.md) and [MIT License](LICENSE)
 
 filters: Derived from [malware-discoverer](https://github.com/zhouhanc/malware-discoverer) with [Zhouhan Chen](https://zhouhanc.com/)'s permission
 
