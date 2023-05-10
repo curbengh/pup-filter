@@ -1,5 +1,7 @@
 # PUP Domains Blocklist
 
+Update (2023/05/10): The update of this blocklist is paused at the moment while waiting for the upstream maintainer to complete migrating https://github.com/zhouhanc/malware-discoverer to https://malwarediscoverer.com. No ETC is given.
+
 - Formats
   - [URL-based](#url-based)
   - [Domain-based](#domain-based)
