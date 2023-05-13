@@ -1,6 +1,6 @@
 # PUP Domains Blocklist
 
-Update (2023/05/10): The update of this blocklist is paused at the moment while waiting for the upstream maintainer to complete migrating https://github.com/zhouhanc/malware-discoverer to https://malwarediscoverer.com. No ETC is given.
+Update (2023-05-10): Daily update of this blocklist has been paused while waiting for the upstream maintainer to complete migrating https://github.com/zhouhanc/malware-discoverer to https://malwarediscoverer.com. No ETC is given. See [issue #2](https://gitlab.com/malware-filter/pup-filter/-/issues/2). Other malware-filter blocklists are not affected.
 
 - Formats
   - [URL-based](#url-based)

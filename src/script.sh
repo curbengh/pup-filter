@@ -127,7 +127,8 @@ THIRD_LINE="! Expires: 1 day (update frequency)"
 FOURTH_LINE="! Homepage: https://gitlab.com/malware-filter/pup-filter"
 FIFTH_LINE="! License: https://gitlab.com/malware-filter/pup-filter#license"
 SIXTH_LINE="! Source: https://github.com/zhouhanc/malware-discoverer"
-COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
+NOTICE="! Update (2023-05-10): Daily update has been paused. gitlab.com/malware-filter/pup-filter/-/issues/2"
+COMMENT_UBO="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE\n$NOTICE"
 
 mkdir "../public/"
 
