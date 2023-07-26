@@ -27,23 +27,23 @@ Update (2023-05-10): Daily update of this blocklist has been paused while waitin
 
 A blocklist of domains that host potentially unwanted programs (PUP), based on the [malware-discoverer](https://github.com/zhouhanc/malware-discoverer). Blocklist is updated twice a day.
 
-There are multiple formats available, refer to the appropriate section according to the program used:
-
-- uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
-- Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
-- AdGuard Home -> [Domain-based (AdGuard Home)](#domain-based-adguard-home) or [Hosts-based](#hosts-based) section
-- AdGuard browser extension -> [URL-based (AdGuard)](#url-based-adguard)
-- Vivaldi -> [URL-based (Vivaldi)](#url-based-vivaldi)
-- [Hosts](#hosts-based)
-- [Dnsmasq](#dnsmasq)
-- BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
-- [Unbound](#unbound)
-- [dnscrypt-proxy](#dnscrypt-proxy)
-- Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
-- [Snort2](#snort2)
-- [Snort3](#snort3)
-- [Suricata](#suricata)
-- [Splunk](#splunk)
+| Client                                            | mirror 1                                                                                           | mirror 2                                                                                     | mirror 3                                                                                 | mirror 4                                                                                       | mirror 5                                                                            | mirror 6                                                                        |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| uBlock Origin, [IP-based](#ip-based)              | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter.txt)                             | [link](https://curbengh.github.io/malware-filter/pup-filter.txt)                             | [link](https://curbengh.github.io/pup-filter/pup-filter.txt)                             | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter.txt)                             | [link](https://malware-filter.pages.dev/pup-filter.txt)                             | [link](https://pup-filter.pages.dev/pup-filter.txt)                             |
+| [Pi-hole](#domain-based)                          | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt)                     | [link](https://curbengh.github.io/malware-filter/pup-filter-domains.txt)                     | [link](https://curbengh.github.io/pup-filter/pup-filter-domains.txt)                     | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-domains.txt)                     | [link](https://malware-filter.pages.dev/pup-filter-domains.txt)                     | [link](https://pup-filter.pages.dev/pup-filter-domains.txt)                     |
+| [AdGuard Home](#domain-based-adguard-home)        | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-agh.txt)                         | [link](https://curbengh.github.io/malware-filter/pup-filter-agh.txt)                         | [link](https://curbengh.github.io/pup-filter/pup-filter-agh.txt)                         | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-agh.txt)                         | [link](https://malware-filter.pages.dev/pup-filter-agh.txt)                         | [link](https://pup-filter.pages.dev/pup-filter-agh.txt)                         |
+| [AdGuard (browser extension)](#ip-based-adguard)  | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-ag.txt)                          | [link](https://curbengh.github.io/malware-filter/pup-filter-ag.txt)                          | [link](https://curbengh.github.io/pup-filter/pup-filter-ag.txt)                          | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-ag.txt)                          | [link](https://malware-filter.pages.dev/pup-filter-ag.txt)                          | [link](https://pup-filter.pages.dev/pup-filter-ag.txt)                          |
+| [Vivaldi](#ip-based-vivaldi)                      | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-vivaldi.txt)                     | [link](https://curbengh.github.io/malware-filter/pup-filter-vivaldi.txt)                     | [link](https://curbengh.github.io/pup-filter/pup-filter-vivaldi.txt)                     | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-vivaldi.txt)                     | [link](https://malware-filter.pages.dev/pup-filter-vivaldi.txt)                     | [link](https://pup-filter.pages.dev/pup-filter-vivaldi.txt)                     |
+| [Hosts](#hosts-based)                             | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt)                       | [link](https://curbengh.github.io/malware-filter/pup-filter-hosts.txt)                       | [link](https://curbengh.github.io/pup-filter/pup-filter-hosts.txt)                       | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-hosts.txt)                       | [link](https://malware-filter.pages.dev/pup-filter-hosts.txt)                       | [link](https://pup-filter.pages.dev/pup-filter-hosts.txt)                       |
+| [Dnsmasq](#dnsmasq)                               | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-dnsmasq.conf)                    | [link](https://curbengh.github.io/malware-filter/pup-filter-dnsmasq.conf)                    | [link](https://curbengh.github.io/pup-filter/pup-filter-dnsmasq.conf)                    | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-dnsmasq.conf)                    | [link](https://malware-filter.pages.dev/pup-filter-dnsmasq.conf)                    | [link](https://pup-filter.pages.dev/pup-filter-dnsmasq.conf)                    |
+| BIND [zone](#bind)                                | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-bind.conf)                       | [link](https://curbengh.github.io/malware-filter/pup-filter-bind.conf)                       | [link](https://curbengh.github.io/pup-filter/pup-filter-bind.conf)                       | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-bind.conf)                       | [link](https://malware-filter.pages.dev/pup-filter-bind.conf)                       | [link](https://pup-filter.pages.dev/pup-filter-bind.conf)                       |
+| BIND [RPZ](#response-policy-zone)                 | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-rpz.conf)                        | [link](https://curbengh.github.io/malware-filter/pup-filter-rpz.conf)                        | [link](https://curbengh.github.io/pup-filter/pup-filter-rpz.conf)                        | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-rpz.conf)                        | [link](https://malware-filter.pages.dev/pup-filter-rpz.conf)                        | [link](https://pup-filter.pages.dev/pup-filter-rpz.conf)                        |
+| [dnscrypt-proxy](#dnscrypt-proxy)                 | [names.txt](https://malware-filter.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt) | [names.txt](https://curbengh.github.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt) | [names.txt](https://curbengh.github.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt) | [names.txt](https://malware-filter.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt) | [names.txt](https://malware-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt) | [names.txt](https://pup-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt) |
+| [Internet Explorer](#tracking-protection-list-ie) | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter.tpl)                             | [link](https://curbengh.github.io/malware-filter/pup-filter.tpl)                             | [link](https://curbengh.github.io/pup-filter/pup-filter.tpl)                             | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter.tpl)                             | [link](https://malware-filter.pages.dev/pup-filter.tpl)                             | [link](https://pup-filter.pages.dev/pup-filter.tpl)                             |
+| [Snort2](#snort2)                                 | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-snort2.rules)                    | [link](https://curbengh.github.io/malware-filter/pup-filter-snort2.rules)                    | [link](https://curbengh.github.io/pup-filter/pup-filter-snort2.rules)                    | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-snort2.rules)                    | [link](https://malware-filter.pages.dev/pup-filter-snort2.rules)                    | [link](https://pup-filter.pages.dev/pup-filter-snort2.rules)                    |
+| [Snort3](#snort3)                                 | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-snort3.rules)                    | [link](https://curbengh.github.io/malware-filter/pup-filter-snort3.rules)                    | [link](https://curbengh.github.io/pup-filter/pup-filter-snort3.rules)                    | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-snort3.rules)                    | [link](https://malware-filter.pages.dev/pup-filter-snort3.rules)                    | [link](https://pup-filter.pages.dev/pup-filter-snort3.rules)                    |
+| [Suricata](#suricata)                             | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-suricata.rules)                  | [link](https://curbengh.github.io/malware-filter/pup-filter-suricata.rules)                  | [link](https://curbengh.github.io/pup-filter/pup-filter-suricata.rules)                  | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-suricata.rules)                  | [link](https://malware-filter.pages.dev/pup-filter-suricata.rules)                  | [link](https://pup-filter.pages.dev/pup-filter-suricata.rules)                  |
+| [Splunk](#splunk)                                 | [link](https://malware-filter.gitlab.io/malware-filter/pup-filter-splunk.csv)                      | [link](https://curbengh.github.io/malware-filter/pup-filter-splunk.csv)                      | [link](https://curbengh.github.io/pup-filter/pup-filter-splunk.csv)                      | [link](https://malware-filter.gitlab.io/pup-filter/pup-filter-splunk.csv)                      | [link](https://malware-filter.pages.dev/pup-filter-splunk.csv)                      | [link](https://pup-filter.pages.dev/pup-filter-splunk.csv)                      |
 
 For other programs, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
@@ -56,109 +56,31 @@ Check out my other filters:
 
 ## URL-based
 
-Import the following URL into uBO to subscribe:
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
+Import the link into uBO's filter list to subscribe.
 
 _included by default in uBO >=[1.39.0](https://github.com/gorhill/uBlock/releases/tag/1.39.0); to enable, head to "Filter lists" tab, expand "Malware domains" section and tick "PUP URL Blocklist"._
 
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter.txt
-- https://curbengh.github.io/pup-filter/pup-filter.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
-- https://malware-filter.pages.dev/pup-filter.txt
-- https://pup-filter.pages.dev/pup-filter.txt
-
-</details>
-
 ## URL-based (AdGuard)
 
-Import the following URL into AdGuard browser extension to subscribe:
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-ag.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-ag.txt
-- https://curbengh.github.io/pup-filter/pup-filter-ag.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-ag.txt
-- https://malware-filter.pages.dev/pup-filter-ag.txt
-- https://pup-filter.pages.dev/pup-filter-ag.txt
-
-</details>
+Import the link into AdGuard browser extension to subscribe.
 
 ## URL-based (Vivaldi)
 
 _Requires Vivaldi Desktop/Android 3.3+, blocking level must be at least "Block Trackers"_
 
-Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscribe:
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-vivaldi.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-vivaldi.txt
-- https://curbengh.github.io/pup-filter/pup-filter-vivaldi.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-vivaldi.txt
-- https://malware-filter.pages.dev/pup-filter-vivaldi.txt
-- https://pup-filter.pages.dev/pup-filter-vivaldi.txt
-
-</details>
+Import the link into Vivaldi's **Tracker Blocking Sources** to subscribe.
 
 ## Domain-based
 
 This blocklist includes domains and IP addresses.
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-domains.txt
-- https://curbengh.github.io/pup-filter/pup-filter-domains.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-domains.txt
-- https://malware-filter.pages.dev/pup-filter-domains.txt
-- https://pup-filter.pages.dev/pup-filter-domains.txt
-
-</details>
-
 ## Domain-based (AdGuard Home)
 
 This AdGuard Home-compatible blocklist includes domains and IP addresses.
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-agh.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-agh.txt
-- https://curbengh.github.io/pup-filter/pup-filter-agh.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-agh.txt
-- https://malware-filter.pages.dev/pup-filter-agh.txt
-- https://pup-filter.pages.dev/pup-filter-agh.txt
-
-</details>
-
 ## Hosts-based
 
 This blocklist includes domains only.
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-hosts.txt
-- https://curbengh.github.io/pup-filter/pup-filter-hosts.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-hosts.txt
-- https://malware-filter.pages.dev/pup-filter-hosts.txt
-- https://pup-filter.pages.dev/pup-filter-hosts.txt
-
-</details>
 
 ## Dnsmasq
 
@@ -169,19 +91,6 @@ Save the ruleset to "/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf". Refer to t
 Configure dnsmasq to use the blocklist:
 
 `printf "\nconf-file=/usr/local/etc/dnsmasq/pup-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf`
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-dnsmasq.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-dnsmasq.conf
-- https://curbengh.github.io/pup-filter/pup-filter-dnsmasq.conf
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-dnsmasq.conf
-- https://malware-filter.pages.dev/pup-filter-dnsmasq.conf
-- https://pup-filter.pages.dev/pup-filter-dnsmasq.conf
-
-</details>
 
 ## BIND
 
@@ -211,35 +120,9 @@ $TTL    86400   ; one day
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-bind.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-bind.conf
-- https://curbengh.github.io/pup-filter/pup-filter-bind.conf
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-bind.conf
-- https://malware-filter.pages.dev/pup-filter-bind.conf
-- https://pup-filter.pages.dev/pup-filter-bind.conf
-
-</details>
-
 ## Response Policy Zone
 
 This blocklist includes domains only.
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-rpz.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-rpz.conf
-- https://curbengh.github.io/pup-filter/pup-filter-rpz.conf
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-rpz.conf
-- https://malware-filter.pages.dev/pup-filter-rpz.conf
-- https://pup-filter.pages.dev/pup-filter-rpz.conf
-
-</details>
 
 ## Unbound
 
@@ -250,19 +133,6 @@ Save the rulesets to "/usr/local/etc/unbound/pup-filter-unbound.conf". Refer to 
 Configure Unbound to use the blocklist:
 
 `printf '\n  include: "/usr/local/etc/unbound/pup-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf`
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-unbound.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-unbound.conf
-- https://curbengh.github.io/pup-filter/pup-filter-unbound.conf
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-unbound.conf
-- https://malware-filter.pages.dev/pup-filter-unbound.conf
-- https://pup-filter.pages.dev/pup-filter-unbound.conf
-
-</details>
 
 ## dnscrypt-proxy
 
@@ -275,35 +145,9 @@ Configure dnscrypt-proxy to use the blocklist:
 +  blocked_names_file = '/etc/dnscrypt-proxy/pup-filter-dnscrypt-blocked-names.txt'
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-dnscrypt-blocked-names.txt
-- https://curbengh.github.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
-- https://pup-filter.pages.dev/pup-filter-dnscrypt-blocked-names.txt
-
-</details>
-
 ## Tracking Protection List (IE)
 
 This blocklist includes domains only.
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter.tpl
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter.tpl
-- https://curbengh.github.io/pup-filter/pup-filter.tpl
-- https://malware-filter.gitlab.io/pup-filter/pup-filter.tpl
-- https://malware-filter.pages.dev/pup-filter.tpl
-- https://pup-filter.pages.dev/pup-filter.tpl
-
-</details>
 
 ## Snort2
 
@@ -314,19 +158,6 @@ Save the ruleset to "/etc/snort/rules/pup-filter-snort2.rules". Refer to this [g
 Configure Snort to use the ruleset:
 
 `printf "\ninclude \$RULE_PATH/pup-filter-snort2.rules\n" >> /etc/snort/snort.conf`
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-snort2.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-snort2.rules
-- https://curbengh.github.io/pup-filter/pup-filter-snort2.rules
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-snort2.rules
-- https://malware-filter.pages.dev/pup-filter-snort2.rules
-- https://pup-filter.pages.dev/pup-filter-snort2.rules
-
-</details>
 
 ## Snort3
 
@@ -345,19 +176,6 @@ ips =
 }
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-snort3.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-snort3.rules
-- https://curbengh.github.io/pup-filter/pup-filter-snort3.rules
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-snort3.rules
-- https://malware-filter.pages.dev/pup-filter-snort3.rules
-- https://pup-filter.pages.dev/pup-filter-snort3.rules
-
-</details>
-
 ## Suricata
 
 Save the ruleset to "/etc/suricata/rules/pup-filter-suricata.rules". Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) for auto-update.
@@ -371,24 +189,13 @@ rule-files:
 +  - pup-filter-suricata.rules
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-suricata.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-suricata.rules
-- https://curbengh.github.io/pup-filter/pup-filter-suricata.rules
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-suricata.rules
-- https://malware-filter.pages.dev/pup-filter-suricata.rules
-- https://pup-filter.pages.dev/pup-filter-suricata.rules
-
-</details>
-
 ## Splunk
 
-A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/9.0.2/Knowledge/Aboutlookupsandfieldactions).
+A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Aboutlookupsandfieldactions).
 
-Either upload the file via GUI or save the file in `$SPLUNK_HOME/Splunk/etc/system/lookups` or app-specific `$SPLUNK_HOME/etc/YourApp/apps/search/lookups`. Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) or [Getwatchlist](https://splunkbase.splunk.com/app/635) app for auto-update.
+Either upload the file via GUI or save the file in `$SPLUNK_HOME/Splunk/etc/system/lookups` or app-specific `$SPLUNK_HOME/etc/YourApp/apps/search/lookups`.
+
+Or use [malware-filter add-on](https://splunkbase.splunk.com/app/6970) to install this lookup and optionally auto-update it.
 
 Columns:
 
@@ -396,19 +203,6 @@ Columns:
 | ------------ | ---------- | ------------------------------- | -------------------- |
 | example.com  |            | pup-filter PUP website detected | 2022-12-21T12:34:56Z |
 | example2.com | /some-path | pup-filter PUP website detected | 2022-12-21T12:34:56Z |
-
-- https://malware-filter.gitlab.io/malware-filter/pup-filter-splunk.csv
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/pup-filter-splunk.csv
-- https://curbengh.github.io/pup-filter/pup-filter-splunk.csv
-- https://malware-filter.gitlab.io/pup-filter/pup-filter-splunk.csv
-- https://malware-filter.pages.dev/pup-filter-splunk.csv
-- https://pup-filter.pages.dev/pup-filter-splunk.csv
-
-</details>
 
 ## Compressed version
 
