@@ -40,8 +40,6 @@ check_grep() {
 }
 check_grep
 
-
-## Fallback to busybox's dos2unix if installed
 if ! command -v dos2unix &> /dev/null
 then
   if command -v busybox &> /dev/null
@@ -53,6 +51,19 @@ then
   fi
 fi
 
+if command -v unzip &> /dev/null
+then
+  alias unzip="unzip -p"
+elif command -v busybox &> /dev/null
+then
+  alias unzip="busybox unzip -p"
+elif command -v bsdunzip &> /dev/null
+then
+  alias unzip="bsdunzip -p"
+else
+  echo "unzip not found"
+  exit 1
+fi
 
 ## Create a temporary working folder
 mkdir "tmp/"
@@ -92,7 +103,7 @@ fi
 
 
 ## Parse URLs
-unzip -p "source.zip" | \
+unzip "source.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
 sed "/^domain,/d" | \
@@ -100,7 +111,7 @@ cut -f 1 -d ',' > "source-domains.txt"
 
 
 ## Parse the Umbrella 1 Million
-unzip -p "top-1m-umbrella.zip" | \
+unzip "top-1m-umbrella.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
 # Parse domains only
@@ -111,7 +122,7 @@ sed "s/^www\.//g" | \
 sort -u > "top-1m-umbrella.txt"
 
 ## Parse the Tranco 1 Million
-unzip -p "top-1m-tranco.zip" | \
+unzip "top-1m-tranco.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
 cut -f 2 -d "," | \
